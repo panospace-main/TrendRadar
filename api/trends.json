@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T14:21:02.920279+08:00",
-  "total_titles_processed": 1362,
+  "generated_at": "2026-01-23T15:18:54.443381+08:00",
+  "total_titles_processed": 1483,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 94,
+      "match_count": 96,
       "titles": [
         {
           "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
@@ -50,11 +50,12 @@
           "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时58分 ~ 14时21分]"
+          "appearance_count": 8,
+          "time_info": "[08时58分 ~ 15时18分]"
         },
         {
           "title": "特朗普达沃斯演讲，被群嘲了",
@@ -68,17 +69,6 @@
           "time_info": "[00时21分 ~ 13时21分]"
         },
         {
-          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
-          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时58分 ~ 14时21分]"
-        },
-        {
           "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
           "url": "https://news.ifeng.com/c/8q7nDFVG9w6",
           "source": "凤凰网",
@@ -87,8 +77,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时21分 ~ 14时21分]"
+          "appearance_count": 19,
+          "time_info": "[00时21分 ~ 15时18分]"
         },
         {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
@@ -167,8 +157,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时58分 ~ 14时21分]"
+          "appearance_count": 7,
+          "time_info": "[10时58分 ~ 15时18分]"
+        },
+        {
+          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
+          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时58分 ~ 15时18分]"
         },
         {
           "title": "特朗普为啥时隔一天态度变了",
@@ -211,11 +213,12 @@
           "url": "https://news.ifeng.com/c/8q96HMKxd1u",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 14时21分]"
+          "appearance_count": 3,
+          "time_info": "[14时20分 ~ 15时18分]"
         },
         {
           "title": "德国总理默茨：特朗普放弃吞并格陵兰的计划，这让人感到欣慰。",
@@ -238,6 +241,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "达沃斯后，特朗普狂发80条帖子…",
+          "url": "https://news.ifeng.com/c/8q9DLsy9hjV",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "美国总统特朗普声称：我并不热衷于401K计划 。",
@@ -568,6 +582,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "可“全面进入”格陵兰岛？特朗普透露协议细节，又被“光速打脸”！",
+          "url": "https://www.cls.cn/detail/2267216",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "美国总统特朗普：意大利需获得立法部门批准才能加入“和平委员会”。",
@@ -1102,8 +1127,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时13分 ~ 14时21分]"
+          "appearance_count": 9,
+          "time_info": "[07时13分 ~ 15时18分]"
         },
         {
           "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
@@ -1300,7 +1325,7 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
           "title": "【早报】潘功胜发声！事关货币政策、降准降息；商业航天，密集消息来袭",
@@ -1310,8 +1335,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时58分 ~ 14时21分]"
+          "appearance_count": 8,
+          "time_info": "[08时58分 ~ 15时18分]"
         },
         {
           "title": "蓝箭航天IPO审核状态变更为“已问询”",
@@ -1347,7 +1372,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -1399,6 +1424,28 @@
           "time_info": "08时58分"
         },
         {
+          "title": "《酒泉市商业航天产业发展规划》正式发布 建设国家商业航天发射基地",
+          "url": "https://www.cls.cn/detail/2267558",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "穿越者商业载人航天预售船票300万元/张，黄景瑜将成太空游客",
+          "url": "https://tech.ifeng.com/c/8q96ClVLNbA",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
           "title": "黄景瑜官宣成为中国首批商业航天太空旅客",
           "url": "https://wallstreetcn.com/livenews/3042322",
           "source": "华尔街见闻-快讯",
@@ -1410,6 +1457,17 @@
           "time_info": "06时14分"
         },
         {
+          "title": "券商晨会精华：商业航天产业正迈入需求侧与供给侧双向发力的黄金时代",
+          "url": "https://www.cls.cn/detail/2267205",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
           "title": "中证报：政策引导资本赋能，商业航天迈向新阶段",
           "url": "https://wallstreetcn.com/livenews/3042346",
           "source": "华尔街见闻-快讯",
@@ -1419,12 +1477,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "东北第一个航天IPO要来了",
+          "url": "https://www.toutiao.com/trending/7597447514182254634/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "科研团队成功研制航天级封装单晶金刚石辐射探测器 推动金刚石探测器空间载荷应用",
+          "url": "https://wallstreetcn.com/livenews/3042647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         }
       ]
     },
     {
       "keyword_group": "A股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "A股三大股指午后集体上涨，商业航天再掀涨停潮，港股震荡回升，泡泡玛特大涨6%，黄金、白银反弹",
@@ -1433,11 +1513,12 @@
           "ranks": [
             10,
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[05时15分 ~ 14时21分]"
+          "appearance_count": 11,
+          "time_info": "[05时15分 ~ 15时18分]"
         },
         {
           "title": "A股无人驾驶概念股震荡走高，四维图新触及涨停，经纬恒润、ST赛为涨超15%，浙江世宝、汉鑫科技纷纷拉升。",
@@ -1446,7 +1527,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -1475,13 +1556,24 @@
           "time_info": "[10时58分 ~ 12时04分]"
         },
         {
+          "title": "A股收盘：创业板指放量涨0.63%，光伏、商业航天概念集体爆发",
+          "url": "https://wallstreetcn.com/livenews/3042672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
           "title": "A股有色金属板块持续上扬，盛达资源午后涨停，豫光金铅、白银有色此前封板，兴业银锡、驰宏锌锗、国城矿业跟涨。",
           "url": "https://wallstreetcn.com/livenews/3042589",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -1511,7 +1603,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -1558,6 +1650,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
+        },
+        {
+          "title": "北欧养老基金加速离场：丹麦清仓美债，瑞典跟卖，格陵兰考虑抛售美国股票",
+          "url": "https://wallstreetcn.com/articles/3763920",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "印度持有的美债规模已降至五年低位",
@@ -1951,8 +2054,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时58分 ~ 14时21分]"
+          "appearance_count": 7,
+          "time_info": "[10时58分 ~ 15时18分]"
         },
         {
           "title": "金十图示：2026年01月23日（周五）今日黄金饰品价格对比",
