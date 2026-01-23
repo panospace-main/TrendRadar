@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T03:18:58.525989+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-01-24T04:15:41.202089+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普称将于4月访问中国，外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 04时15分]"
         },
         {
           "title": "外交部回应特朗普称将于4月访华",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 04时15分]"
         },
         {
           "title": "特朗普政府解雇2个涉华关键官员，负责应对所谓“中国技术威胁”",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 04时15分]"
         },
         {
           "title": "特朗普炫耀谈妥了，北约放话“把中俄踢出去”",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 04时15分]"
         },
         {
           "title": "中方回应特朗普称将于4月访华",
@@ -58,11 +58,12 @@
           "ranks": [
             5,
             6,
-            3
+            3,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 04时15分]"
         },
         {
           "title": "4人争夺美联储主席，谁能讨好特朗普又不毁美元信用？专家解读",
@@ -72,8 +73,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 04时15分]"
         },
         {
           "title": "中方回应特朗普称将于4月访华",
@@ -84,8 +85,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 04时15分]"
         },
         {
           "title": "加州州长怒批特朗普的腐败和贪污",
@@ -96,8 +97,20 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 04时15分]"
+        },
+        {
+          "title": "加州司法部长将就Sable Offshore输油管道重启一事起诉特朗普政府。",
+          "url": "https://flash.jin10.com/detail/20260124023137303800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 04时15分]"
         },
         {
           "title": "瑞士财长：瑞士政府目前尚未能够就特朗普的“和平委员会”事宜展开讨论，不过可能会出现一些法律和政治方面的障碍。",
@@ -124,15 +137,90 @@
           "time_info": "[02时20分 ~ 03时18分]"
         },
         {
-          "title": "加州司法部长将就Sable Offshore输油管道重启一事起诉特朗普政府。",
-          "url": "https://flash.jin10.com/detail/20260124023137303800",
+          "title": "美媒：特朗普政府考虑对古巴石油进口实施海上封锁",
+          "url": "https://flash.jin10.com/detail/20260124031952416800",
           "source": "金十数据",
           "ranks": [
-            8
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时18分"
+          "time_info": "04时15分"
+        },
+        {
+          "title": "据Politico：特朗普政府考虑实施海上封锁以阻止古巴进口石油。",
+          "url": "https://flash.jin10.com/detail/20260124031642233800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "航天 航空",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "AH股震荡走高，商业航天、光伏大爆发，碳酸锂突破18万大关，沪银站上25000创历史新高",
+          "url": "https://wallstreetcn.com/articles/3763990",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 04时15分]"
+        },
+        {
+          "title": "航天电子：股票存在短期大幅下跌风险",
+          "url": "https://www.toutiao.com/trending/7598148996133027849/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 04时15分]"
+        },
+        {
+          "title": "黄景瑜签约航天公司仅4项发明专利",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E7%AD%BE%E7%BA%A6%E8%88%AA%E5%A4%A9%E5%85%AC%E5%8F%B8%E4%BB%854%E9%A1%B9%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 04时15分]"
+        },
+        {
+          "title": "达美航空：美国冬季暴风雪天期恐怕将带来进一步的航班取消。",
+          "url": "https://wallstreetcn.com/livenews/3043103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "达美航空：预计俄亥俄河谷、田纳西河谷、纳什维尔以及罗利-达勒姆地区航班将取消。预计明天上午将对亚特兰大和东北地区航班时刻表进行进一步调整。",
+          "url": "https://flash.jin10.com/detail/20260124032124917800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
         }
       ]
     },
@@ -148,19 +236,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 04时15分]"
         },
         {
           "title": "Sable Offshore（SOC）美股下跌13%。",
           "url": "https://flash.jin10.com/detail/20260124023319046800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 04时15分]"
         },
         {
           "title": "金十图示：2026年01月23日（周五）美股热门股票行情一览（美股盘中）",
@@ -200,72 +289,43 @@
       ]
     },
     {
-      "keyword_group": "航天 航空",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "AH股震荡走高，商业航天、光伏大爆发，碳酸锂突破18万大关，沪银站上25000创历史新高",
-          "url": "https://wallstreetcn.com/articles/3763990",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 03时18分]"
-        },
-        {
-          "title": "航天电子：股票存在短期大幅下跌风险",
-          "url": "https://www.toutiao.com/trending/7598148996133027849/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 03时18分]"
-        },
-        {
-          "title": "黄景瑜签约航天公司仅4项发明专利",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E7%AD%BE%E7%BA%A6%E8%88%AA%E5%A4%A9%E5%85%AC%E5%8F%B8%E4%BB%854%E9%A1%B9%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 03时18分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "人民币",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "上期所原油期货2503合约夜盘收涨2.37%，报449.80元人民币/桶。 沪金夜盘收涨1.66%，沪银收涨6.32%。",
           "url": "https://wallstreetcn.com/livenews/3043094",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 04时15分]"
         },
         {
           "title": "人民币兑美元中间价升破7释放何信号",
           "url": "https://www.toutiao.com/trending/7598498216115441206/",
           "source": "今日头条",
           "ranks": [
-            30
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 04时15分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9630元，较周四夜盘收盘涨42点。成交量431.54亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3043096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
         },
         {
           "title": "纽约期银涨穿100美元整数位心理关口，创盘中历史新高，涨幅大约3.7%。 沪银夜盘涨超5%，目前报25377元人民币/千克。",
@@ -354,11 +414,42 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 03时18分]"
+          "appearance_count": 3,
+          "time_info": "[02时20分 ~ 04时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
+          "url": "https://www.zhihu.com/question/1997802145714569913",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 04时15分]"
+        },
+        {
+          "title": "美国考虑用海军实施海上封锁，从而阻挠谷歌进口石油。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3043102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
         }
       ]
     },
@@ -374,8 +465,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 04时15分]"
         }
       ]
     },
@@ -391,26 +482,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 03时18分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
-          "url": "https://www.zhihu.com/question/1997802145714569913",
-          "source": "知乎",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 04时15分]"
         }
       ]
     }
