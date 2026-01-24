@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T02:18:10.035431+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-01-25T03:10:42.321215+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 02时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 03时10分]"
         },
         {
           "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 02时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 03时10分]"
         },
         {
           "title": "美国财政部：特朗普将出席特朗普账户峰会",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时10分]"
         },
         {
           "title": "丹麦首相表示无法接受特朗普对盟国的质疑",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时10分]"
         },
         {
           "title": "特朗普承认使用“秘密”武器",
@@ -59,8 +59,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 02时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 03时10分]"
         },
         {
           "title": "据AXIOS：特朗普将于当地时间下周三出席有关“特朗普账户”的峰会。",
@@ -70,8 +70,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时10分]"
         },
         {
           "title": "美国总统特朗普：美国已从被扣押的委内瑞拉油轮上获取了石油。委内瑞拉石油将运往休斯顿炼油厂。",
@@ -81,8 +81,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时10分]"
         },
         {
           "title": "特朗普告诉《纽约邮报》，委内瑞拉石油将运往休斯敦炼油厂。",
@@ -92,8 +92,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时10分]"
         },
         {
           "title": "美国总统特朗普：委内瑞拉临时领导人罗德里格兹表现极为出色。他与罗德里格兹关系非常好。”Discombobulator”（心智困惑器）武器在马杜罗抓捕行动中被使用。（纽约邮报）",
@@ -103,8 +103,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时10分]"
+        },
+        {
+          "title": "美国总统特朗普：委内瑞拉临时领导人罗德里格斯表现非常出色。",
+          "url": "https://flash.jin10.com/detail/20260124211543155800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时10分]"
         },
         {
           "title": "大外交｜格陵兰岛、和平委员会与摇摆盟友：特朗普的达沃斯“个人秀”",
@@ -117,17 +128,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时14分 ~ 01时11分]"
-        },
-        {
-          "title": "美国总统特朗普：委内瑞拉临时领导人罗德里格斯表现非常出色。",
-          "url": "https://flash.jin10.com/detail/20260124211543155800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时18分]"
         },
         {
           "title": "深度解析特朗普365天赢学",
@@ -147,28 +147,30 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "“商业航天+3D打印”受追捧！产业链公司透露最新进展 专家：多环节尚在小批量试制阶段",
-          "url": "https://www.cls.cn/detail/2268567",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 02时18分]"
-        },
-        {
           "title": "独家｜300万元太空船票预售牵出学历风波，载人商业航天公司90后创始人回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_32453724",
           "source": "澎湃新闻",
           "ranks": [
             12,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 02时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 03时10分]"
+        },
+        {
+          "title": "“商业航天+3D打印”受追捧！产业链公司透露最新进展 专家：多环节尚在小批量试制阶段",
+          "url": "https://www.cls.cn/detail/2268567",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 03时10分]"
         },
         {
           "title": "银河航天徐鸣：手机直连卫星将引领6G通信革命",
@@ -178,8 +180,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时10分]"
         },
         {
           "title": "美国交通部长达菲：联邦航空管理局正与我们的航空合作伙伴携手，为航空公司和机场的准备工作提供支持。",
@@ -189,8 +191,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时10分]"
         }
       ]
     },
@@ -207,8 +209,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 02时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 03时10分]"
         },
         {
           "title": "多股应声涨停！本周披露并购重组进展的A股名单一览",
@@ -219,8 +221,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 02时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 03时10分]"
         },
         {
           "title": "应声20CM涨停！A股年报行情纵深推进，14家上市公司净利最高同比预增超400%",
@@ -231,8 +233,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 02时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 03时10分]"
         }
       ]
     },
@@ -248,8 +250,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 02时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 03时10分]"
         },
         {
           "title": "欧洲投资者对美股胃口缩减，长期脱钩或拉开序幕",
@@ -259,8 +261,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时10分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -270,8 +272,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 02时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 03时10分]"
         }
       ]
     },
@@ -288,8 +290,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 02时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 03时10分]"
         },
         {
           "title": "金价疯涨的底层逻辑",
@@ -316,8 +318,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时10分]"
         }
       ]
     }
