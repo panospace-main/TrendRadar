@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T20:23:18.733354+08:00",
-  "total_titles_processed": 1191,
+  "generated_at": "2026-01-25T21:27:33.479045+08:00",
+  "total_titles_processed": 1269,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,21 @@
           "time_info": "[00时14分 ~ 09时03分]"
         },
         {
+          "title": "历史学大佬：特朗普“明抢格陵兰”，是为了“暗度伊朗和乌克兰”",
+          "url": "https://wallstreetcn.com/articles/3764090",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时45分 ~ 21时27分]"
+        },
+        {
           "title": "特朗普威胁对加拿大征收100%关税，加总理回应",
           "url": "https://news.ifeng.com/c/8qBty1JuFMx",
           "source": "凤凰网",
@@ -57,23 +72,27 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时03分 ~ 20时23分]"
+          "appearance_count": 12,
+          "time_info": "[09时03分 ~ 21时27分]"
         },
         {
-          "title": "历史学大佬：特朗普“明抢格陵兰”，是为了“暗度伊朗和乌克兰”",
-          "url": "https://wallstreetcn.com/articles/3764090",
-          "source": "华尔街见闻",
+          "title": "美国州检察官起诉特朗普政府，指控其阻碍枪击案调查",
+          "url": "https://wallstreetcn.com/livenews/3043350",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
             5,
-            4,
-            3,
-            2
+            6,
+            7,
+            9,
+            12,
+            13,
+            19,
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时45分 ~ 20时23分]"
+          "appearance_count": 10,
+          "time_info": "[12时45分 ~ 21时27分]"
         },
         {
           "title": "美国财政部：特朗普将出席特朗普账户峰会",
@@ -99,8 +118,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时46分 ~ 20时23分]"
+          "appearance_count": 11,
+          "time_info": "[11时46分 ~ 21时27分]"
         },
         {
           "title": "丹麦首相表示无法接受特朗普对盟国的质疑",
@@ -125,26 +144,21 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时14分 ~ 20时23分]"
+          "appearance_count": 24,
+          "time_info": "[00时14分 ~ 21时27分]"
         },
         {
-          "title": "美国州检察官起诉特朗普政府，指控其阻碍枪击案调查",
-          "url": "https://wallstreetcn.com/livenews/3043350",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普嫌盟友在阿富汗没出力，英、澳等国“接受不了”",
+          "url": "https://news.ifeng.com/c/8qCeJxu5emm",
+          "source": "凤凰网",
           "ranks": [
-            5,
-            6,
-            7,
-            9,
-            12,
-            13,
-            19,
-            24
+            4,
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时45分 ~ 20时23分]"
+          "appearance_count": 5,
+          "time_info": "[17时13分 ~ 21时27分]"
         },
         {
           "title": "据AXIOS：特朗普将于当地时间下周三出席有关“特朗普账户”的峰会。",
@@ -201,17 +215,17 @@
           "time_info": "[00时14分 ~ 09时03分]"
         },
         {
-          "title": "特朗普嫌盟友在阿富汗没出力，英、澳等国“接受不了”",
-          "url": "https://news.ifeng.com/c/8qCeJxu5emm",
-          "source": "凤凰网",
+          "title": "特朗普威胁“100%关税”，加拿大总理卡尼号召民众“购买国货”",
+          "url": "https://wallstreetcn.com/articles/3764088",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            3,
-            2
+            10,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时13分 ~ 20时23分]"
+          "appearance_count": 8,
+          "time_info": "[14时19分 ~ 21时27分]"
         },
         {
           "title": "特朗普告诉《纽约邮报》，委内瑞拉石油将运往休斯敦炼油厂。",
@@ -271,19 +285,6 @@
           "time_info": "[07时12分 ~ 15时15分]"
         },
         {
-          "title": "特朗普威胁“100%关税”，加拿大总理卡尼号召民众“购买国货”",
-          "url": "https://wallstreetcn.com/articles/3764088",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时19分 ~ 20时23分]"
-        },
-        {
           "title": "美国州检察官起诉特朗普政府 指控其阻碍枪击案调查",
           "url": "https://flash.jin10.com/detail/20260125113356104800",
           "source": "金十数据",
@@ -297,28 +298,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时45分 ~ 17时13分]"
-        },
-        {
-          "title": "俄总统新闻秘书：欧洲政坛“弱势一代”无法抵挡特朗普的强势",
-          "url": "https://flash.jin10.com/detail/20260125194457069800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "意总理：特朗普有关北约盟友“脱离前线”言论“不可接受”",
-          "url": "https://wallstreetcn.com/livenews/3043386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
         },
         {
           "title": "特朗普起诉美国最大银行摩根大通，索赔至少 50 亿美元，具体是怎么回事？他能胜诉吗？",
@@ -386,6 +365,40 @@
           "time_info": "[18时13分 ~ 20时23分]"
         },
         {
+          "title": "白宫发布特朗普和企鹅漫步格陵兰岛图，遭群嘲",
+          "url": "https://news.ifeng.com/c/8qClugB0Wf0",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时13分 ~ 21时27分]"
+        },
+        {
+          "title": "意总理：特朗普有关北约盟友“脱离前线”言论“不可接受”",
+          "url": "https://wallstreetcn.com/livenews/3043386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 21时27分]"
+        },
+        {
+          "title": "10亿美元一席！特朗普任“主席”",
+          "url": "https://news.ifeng.com/c/8qCp5coUR2t",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时13分 ~ 21时27分]"
+        },
+        {
           "title": "特朗普称美国将取得格陵兰岛美军基地所在区域“主权”",
           "url": "https://flash.jin10.com/detail/20260125081127653800",
           "source": "金十数据",
@@ -396,6 +409,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时03分 ~ 11时46分]"
+        },
+        {
+          "title": "俄总统新闻秘书：欧洲政坛“弱势一代”无法抵挡特朗普的强势",
+          "url": "https://flash.jin10.com/detail/20260125194457069800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 21时27分]"
         },
         {
           "title": "特朗普承认美军在委使用秘密武器，目击者：被袭者头痛吐血",
@@ -409,26 +434,17 @@
           "time_info": "[14时19分 ~ 17时13分]"
         },
         {
-          "title": "白宫发布特朗普和企鹅漫步格陵兰岛图，遭群嘲",
-          "url": "https://news.ifeng.com/c/8qClugB0Wf0",
-          "source": "凤凰网",
+          "title": "克里姆林宫：特朗普的做法与俄罗斯构建多极世界的方针不符。",
+          "url": "https://flash.jin10.com/detail/20260125181854471800",
+          "source": "金十数据",
           "ranks": [
-            6
+            6,
+            20,
+            30
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时13分 ~ 20时23分]"
-        },
-        {
-          "title": "10亿美元一席！特朗普任“主席”",
-          "url": "https://news.ifeng.com/c/8qCp5coUR2t",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时13分 ~ 20时23分]"
+          "time_info": "[19时10分 ~ 21时27分]"
         },
         {
           "title": "挪威首相批评特朗普北约言论“有失尊重”",
@@ -464,18 +480,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时14分 ~ 01时11分]"
-        },
-        {
-          "title": "克里姆林宫：特朗普的做法与俄罗斯构建多极世界的方针不符。",
-          "url": "https://flash.jin10.com/detail/20260125181854471800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时10分 ~ 20时23分]"
         },
         {
           "title": "特朗普上任一年为何引起各方不满",
@@ -552,7 +556,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -685,6 +689,18 @@
           "time_info": "[00时14分 ~ 07时12分]"
         },
         {
+          "title": "靛蓝航空：鉴于伊朗近期局势发展，原定于1月25日从德里飞往第比利斯以及从孟买飞往阿拉木图并返程的航班已取消。",
+          "url": "https://flash.jin10.com/detail/20260125185722956800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 21时27分]"
+        },
+        {
           "title": "中国商业航天的豪赌与真相",
           "url": "https://www.toutiao.com/trending/7598879993002724870/",
           "source": "今日头条",
@@ -696,24 +712,13 @@
           "time_info": "[04时12分 ~ 04时13分]"
         },
         {
-          "title": "靛蓝航空：鉴于伊朗近期局势发展，原定于1月25日从德里飞往第比利斯以及从孟买飞往阿拉木图并返程的航班已取消。",
-          "url": "https://flash.jin10.com/detail/20260125185722956800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
           "title": "银河航天徐鸣：太空新基建迎万亿市场",
           "url": "https://www.toutiao.com/trending/7598446616018026502/",
           "source": "今日头条",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         }
@@ -729,11 +734,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时14分 ~ 20时23分]"
+          "appearance_count": 24,
+          "time_info": "[00时14分 ~ 21时27分]"
         },
         {
           "title": "AI应用龙头月内涨超100% 梳理AI应用收入及占比居前A股名单",
@@ -745,8 +751,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时14分 ~ 20时23分]"
+          "appearance_count": 24,
+          "time_info": "[00时14分 ~ 21时27分]"
         },
         {
           "title": "应声20CM涨停！A股年报行情纵深推进，14家上市公司净利最高同比预增超400%",
@@ -766,11 +772,12 @@
           "url": "https://www.cls.cn/detail/2268588",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 21时27分]"
         }
       ]
     },
@@ -800,11 +807,12 @@
             11,
             15,
             14,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时19分 ~ 20时23分]"
+          "appearance_count": 8,
+          "time_info": "[14时19分 ~ 21时27分]"
         },
         {
           "title": "金价疯涨的底层逻辑",
@@ -921,11 +929,12 @@
             5,
             6,
             12,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时16分 ~ 20时23分]"
+          "appearance_count": 6,
+          "time_info": "[16时16分 ~ 21时27分]"
         },
         {
           "title": "白银价格跟随黄金狂飙",
@@ -950,11 +959,12 @@
           "source": "今日头条",
           "ranks": [
             18,
-            6
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时10分 ~ 20时23分]"
+          "appearance_count": 3,
+          "time_info": "[19时10分 ~ 21时27分]"
         }
       ]
     }
