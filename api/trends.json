@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T17:25:49.336909+08:00",
-  "total_titles_processed": 1313,
+  "generated_at": "2026-01-26T18:18:04.682007+08:00",
+  "total_titles_processed": 1391,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时49分 ~ 17时25分]"
+          "appearance_count": 11,
+          "time_info": "[11时49分 ~ 18时18分]"
         },
         {
           "title": "白宫发布特朗普和企鹅漫步格陵兰岛图，遭群嘲",
@@ -80,8 +80,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时14分 ~ 17时25分]"
+          "appearance_count": 22,
+          "time_info": "[00时14分 ~ 18时18分]"
         },
         {
           "title": "10亿美元一席！特朗普任“主席”",
@@ -186,6 +186,17 @@
           "time_info": "[00时14分 ~ 06时13分]"
         },
         {
+          "title": "特朗普就加中贸易协定发出威胁，中方回应",
+          "url": "https://news.ifeng.com/c/8qEKozGmbDH",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 18时18分]"
+        },
+        {
           "title": "美国总统特使威特科夫：美国总统特朗普与以色列总理内塔尼亚胡就加沙举行的会谈富有建设性且积极。",
           "url": "https://flash.jin10.com/detail/20260125220223986800",
           "source": "金十数据",
@@ -200,15 +211,17 @@
           "time_info": "[00时14分 ~ 06时13分]"
         },
         {
-          "title": "特朗普就加中贸易协定发出威胁，中方回应",
-          "url": "https://news.ifeng.com/c/8qEKozGmbDH",
-          "source": "凤凰网",
+          "title": "特朗普承认使用“秘密”武器",
+          "url": "https://wallstreetcn.com/articles/3764105",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            10,
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时21分 ~ 18时18分]"
         },
         {
           "title": "意总理：特朗普有关北约盟友“脱离前线”言论“不可接受”",
@@ -268,18 +281,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时12分]"
-        },
-        {
-          "title": "特朗普承认使用“秘密”武器",
-          "url": "https://wallstreetcn.com/articles/3764105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时21分 ~ 17时25分]"
         },
         {
           "title": "俄外交部证实俄方曾向特朗普发出访俄邀请",
@@ -492,17 +493,6 @@
           "time_info": "[11时49分 ~ 13时27分]"
         },
         {
-          "title": "【智谱港股飙升13%，冲刺A股IPO】1月26日港股智谱股价再度走强，截至收盘报217港元/股，股价飙升13%。继H股上市后，智谱还将继续在A股“吸金”。近日，中国证监会官网更新了智谱公司的IPO辅导进展信息。根据公告，其辅导机构中金公司已递交了智谱的第三期IPO辅导工作进展情况报告，落款日期为2026年1月15日。这意味着，“大模型第一股”智谱在2026年1月8日完成港股上市后，仍在继续推进其A股上市计划。（21财经）",
-          "url": "https://wallstreetcn.com/livenews/3043872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
           "title": "多家A股公司预计2025年业绩大增",
           "url": "https://www.toutiao.com/trending/7598929065479962643/",
           "source": "今日头条",
@@ -540,6 +530,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时23分 ~ 16时20分]"
+        },
+        {
+          "title": "【智谱港股飙升13%，冲刺A股IPO】1月26日港股智谱股价再度走强，截至收盘报217港元/股，股价飙升13%。继H股上市后，智谱还将继续在A股“吸金”。近日，中国证监会官网更新了智谱公司的IPO辅导进展信息。根据公告，其辅导机构中金公司已递交了智谱的第三期IPO辅导工作进展情况报告，落款日期为2026年1月15日。这意味着，“大模型第一股”智谱在2026年1月8日完成港股上市后，仍在继续推进其A股上市计划。（21财经）",
+          "url": "https://wallstreetcn.com/livenews/3043872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 18时18分]"
         },
         {
           "title": "A股商业航天板块午后持续走低，海格通信、航天动力、润贝航科、沃格光电、江顺科技等股跌停。",
@@ -602,7 +604,7 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "太火爆！商业航天投资人不够用了",
@@ -646,6 +648,17 @@
           "time_info": "[11时49分 ~ 15时21分]"
         },
         {
+          "title": "瑞华泰：2025年航天领域营收占比不足1%",
+          "url": "https://wallstreetcn.com/livenews/3043896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
           "title": "太火爆！商业航天投资人不够用了",
           "url": "https://www.baidu.com/s?wd=%E5%A4%AA%E7%81%AB%E7%88%86%EF%BC%81%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E6%8A%95%E8%B5%84%E4%BA%BA%E4%B8%8D%E5%A4%9F%E7%94%A8%E4%BA%86",
           "source": "百度热搜",
@@ -660,6 +673,30 @@
           "time_info": "[09时02分 ~ 13时27分]"
         },
         {
+          "title": "【每日收评】三大指数集体收跌，两市成交额连续2日突破3万亿，商业航天再陷整理",
+          "url": "https://www.cls.cn/detail/2269793",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 18时18分]"
+        },
+        {
+          "title": "创业板跌近1%，金银板块狂飙，商业航天集体调整，恒科指跌超1%，紫金矿业创历史新高，沪银飙涨13%",
+          "url": "https://wallstreetcn.com/articles/3764130",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 18时18分]"
+        },
+        {
           "title": "航天环宇：预计2025年净利润同比减少59.63%",
           "url": "https://wallstreetcn.com/livenews/3043810",
           "source": "华尔街见闻-快讯",
@@ -669,28 +706,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
-        },
-        {
-          "title": "创业板跌近1%，金银板块狂飙，商业航天集体调整，恒科指跌超1%，紫金矿业创历史新高，沪银飙涨13%",
-          "url": "https://wallstreetcn.com/articles/3764130",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
-          "title": "【每日收评】三大指数集体收跌，两市成交额连续2日突破3万亿，商业航天再陷整理",
-          "url": "https://www.cls.cn/detail/2269793",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
         },
         {
           "title": "今天，美国航空公司共取消了近12000个航班，超过20个机场完全关闭。",
@@ -718,7 +733,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
@@ -727,11 +742,12 @@
           "ranks": [
             6,
             13,
-            16
+            16,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时49分 ~ 17时25分]"
+          "appearance_count": 11,
+          "time_info": "[11时49分 ~ 18时18分]"
         },
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -746,8 +762,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时49分 ~ 17时25分]"
+          "appearance_count": 11,
+          "time_info": "[11时49分 ~ 18时18分]"
         },
         {
           "title": "杨德龙：国际金价下一目标价1万美元",
@@ -787,6 +803,17 @@
           "time_info": "[09时02分 ~ 13时27分]"
         },
         {
+          "title": "全球领先独立飞机租赁公司AerCap CEO：黄金价格反映了主要货币的贬值。目前“完全看不到”对美元计价投资兴趣减弱的任何迹象。",
+          "url": "https://flash.jin10.com/detail/20260126173425177800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
           "title": "分析师：金价或继续受益于美元走弱",
           "url": "https://flash.jin10.com/detail/20260126114640038800",
           "source": "金十数据",
@@ -815,7 +842,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         }
@@ -823,7 +850,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美日干预叠加政府关门预期，金银新高、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
@@ -836,6 +863,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时49分 ~ 15时21分]"
+        },
+        {
+          "title": "美日干预叠加政府关门预期，黄金站上5100、白银突破110，日元强势反弹，美股汇齐跌",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 18时18分]"
         },
         {
           "title": "从“七巨头信仰”到“用表现说话” 下周美股面临财报生死局",
@@ -852,37 +890,39 @@
           "time_info": "[00时14分 ~ 06时13分]"
         },
         {
-          "title": "美日干预叠加政府关门预期，黄金站上5100、白银突破110，日元强势反弹，美股汇齐跌",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
           "title": "USA Rare Earth美股盘前涨超58%，报道称特朗普政府计划向美国稀土公司（USA Rare Earth）注资16亿美元，以加强关键矿产资源的供应保障。美国政府将获得美国稀土公司10%的股份。",
           "url": "https://wallstreetcn.com/livenews/3043857",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 18时18分]"
         },
         {
           "title": "美股盘前，黄金股普涨，泛美白银涨近6%，科尔黛伦矿业涨超4%，哈莫尼黄金涨近3%。",
           "url": "https://wallstreetcn.com/livenews/3043852",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 18时18分]"
+        },
+        {
+          "title": "贝克休斯美股盘前涨超3%，此前公司报告第四季度调整后利润高于预期。",
+          "url": "https://flash.jin10.com/detail/20260126172109775800",
+          "source": "金十数据",
+          "ranks": [
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时25分"
+          "time_info": "18时18分"
         }
       ]
     },
@@ -899,11 +939,12 @@
             8,
             9,
             5,
-            17
+            17,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时49分 ~ 17时25分]"
+          "appearance_count": 11,
+          "time_info": "[11时49分 ~ 18时18分]"
         },
         {
           "title": "我国将全面开展农业气候资源普查和区划",
