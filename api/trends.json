@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T17:24:13.900111+08:00",
-  "total_titles_processed": 1576,
+  "generated_at": "2026-01-27T18:18:09.253063+08:00",
+  "total_titles_processed": 1660,
   "failed_sources": [],
   "trends": [
     {
@@ -75,8 +75,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时14分 ~ 17时24分]"
+          "appearance_count": 12,
+          "time_info": "[07时14分 ~ 18时18分]"
         },
         {
           "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
@@ -127,6 +127,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时21分 ~ 05时15分]"
+        },
+        {
+          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时20分 ~ 18时18分]"
         },
         {
           "title": "特朗普为何对韩国加征关税",
@@ -235,6 +249,17 @@
           "time_info": "[04时15分 ~ 05时15分]"
         },
         {
+          "title": "美媒：特朗普一周内两次妥协",
+          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 18时18分]"
+        },
+        {
           "title": "美国白宫：总统特朗普并未承诺允许进行地方调查。",
           "url": "https://flash.jin10.com/detail/20260127024457827800",
           "source": "金十数据",
@@ -245,19 +270,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时18分 ~ 04时15分]"
-        },
-        {
-          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时20分 ~ 17时24分]"
         },
         {
           "title": "美国白宫：总统特朗普将于周二前往艾奥瓦州就经济发表演讲。",
@@ -282,17 +294,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时14分]"
-        },
-        {
-          "title": "美媒：特朗普一周内两次妥协",
-          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时24分]"
         },
         {
           "title": "美国总统特朗普：哈马斯帮助找到最后一具以色列人质的遗体，他们现在必须解除武装。（Axios）",
@@ -763,7 +764,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -793,8 +794,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时14分 ~ 17时24分]"
+          "appearance_count": 12,
+          "time_info": "[07时14分 ~ 18时18分]"
         },
         {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
@@ -840,7 +841,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -851,7 +852,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -996,7 +997,7 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "【每日收评】三大指数集体收跌，两市成交额连续2日突破3万亿，商业航天再陷整理",
@@ -1096,6 +1097,17 @@
           "time_info": "07时14分"
         },
         {
+          "title": "航天科技：预计2025年净利润6000万元-9000万元，同比增长388.74%-633.11%",
+          "url": "https://wallstreetcn.com/livenews/3044653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
           "title": "人民日报刊文：中国商业航天第10年，何时能够实现火箭可重复使用？",
           "url": "https://wallstreetcn.com/livenews/3044280",
           "source": "华尔街见闻-快讯",
@@ -1129,6 +1141,17 @@
           "time_info": "14时21分"
         },
         {
+          "title": "航天发展：股东航天系统工程公司已减持0.40%",
+          "url": "https://wallstreetcn.com/livenews/3044643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
           "title": "据CNN报道，美国联邦航空管理局表示，缅因州班戈机场一架飞机坠毁，造成7人死亡、1人重伤。",
           "url": "https://flash.jin10.com/detail/20260127001524607800",
           "source": "金十数据",
@@ -1143,7 +1166,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -1237,9 +1260,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
+        },
+        {
+          "title": "随着金价持续上涨，美国金矿股盘前走高，纽曼矿业(NEM.N)涨1.1%，Sibanye-Stillwater(SBSW.N)涨1.6%，巴里克黄金(GOLD.N)涨1.7%。SPDR黄金份额ETF涨0.7%。",
+          "url": "https://flash.jin10.com/detail/20260127174707942800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "金十图示：2026年01月27日（周二）上海金早盘价为1138.22元/克，较国际金价(1132.46元/克)，高5.76元/克",
@@ -1259,7 +1293,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -1418,8 +1452,20 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "中国央行：2025年四季度末，人民币房地产贷款余额51.95万亿元，同比下降1.6%",
+          "url": "https://wallstreetcn.com/livenews/3044631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 18时18分]"
+        },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9540元，较上周五夜盘收盘涨90点。成交量511.21亿美元。",
           "url": "https://wallstreetcn.com/livenews/3044161",
@@ -1433,37 +1479,28 @@
           "time_info": "[04时15分 ~ 05时15分]"
         },
         {
-          "title": "中国央行：2025年四季度末，人民币房地产贷款余额51.95万亿元，同比下降1.6%",
-          "url": "https://wallstreetcn.com/livenews/3044631",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
           "title": "黄金主题LOF：1月28日起A类人民币份额暂停申购及定期定额投资业务。",
           "url": "https://wallstreetcn.com/livenews/3044628",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 18时18分]"
         },
         {
           "title": "中国央行：2025年四季度末，金融机构人民币各项贷款余额同比增长6.4%。",
           "url": "https://wallstreetcn.com/livenews/3044627",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 18时18分]"
         },
         {
           "title": "周一（1月26日）纽约尾盘（周二北京时间05:59），离岸人民币（CNH）兑美元报6.9488元，较上周五纽约尾盘涨6点，日内整体交投于6.9565-6.9441元区间。",
@@ -1475,6 +1512,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "印尼央行行长：央行也在扩大货币操作工具，以纳入日元、人民币等货币。",
+          "url": "https://flash.jin10.com/detail/20260127173857668800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "彪马股价在Tradegate上涨，相对于在Xetra收盘价高出19.7%。此前安踏体育在港交所公告称，收购PUMA SE的29.06%股权，对价为每股普通股35欧元，合共1,505,516,600欧元（不含税）（相当于约人民币12,277,638,425元）。",
@@ -1505,7 +1553,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -1523,9 +1571,126 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 5,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 9,
       "titles": [
+        {
+          "title": "微软云计算与人工智能业务主管斯科特·古特里（Scott Guthrie）：首批Maia 200芯片单位将分配给微软的“超级智能（superintelligence）”团队，用于生成数据以改进下一代人工智能（AI）模型。 这些芯片还将用于驱动面向企业的Copilot助手，以及微软向云客户租用的各种AI模型（包括OpenAI的最新模型）。 第二代AI芯片Maia 200在某些AI任务上的性能优于谷歌和亚马逊的同类半导体。 Maia 200也是微软部署过的效率最高的推理（Inference）系统。 目前已在设计该芯片的继任者Maia 300。",
+          "url": "https://wallstreetcn.com/livenews/3044110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时23分]"
+        },
+        {
+          "title": "欧盟依据数字市场法案对谷歌的在线搜索和数据共享展开调查。",
+          "url": "https://wallstreetcn.com/livenews/3044662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "谷歌法律顾问：然而，我们担心，那些往往由竞争对手投诉驱动而非以消费者利益为导向的进一步规则，将损害用户隐私、安全和创新。",
+          "url": "https://flash.jin10.com/detail/20260127175049223800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "拳打亚马逊、脚踢谷歌TPU 微软发布新一代AI加速器Maia 200",
+          "url": "https://www.cls.cn/detail/2270429",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时06分"
+        },
+        {
+          "title": "谷歌法律顾问：Android从设计上就是开放的，我们已经在根据《数字市场法》向竞争对手发放搜索数据获取许可。",
+          "url": "https://flash.jin10.com/detail/20260127175037291800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "欧盟：第二项程序涉及谷歌在《数字市场法案》（DMA）项下的义务，即在公平条件下，向第三方在线搜索引擎提供对Google搜索所持有的匿名化排名及相关数据的访问权限。",
+          "url": "https://flash.jin10.com/detail/20260127175012447800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "欧盟：首项程序涉及谷歌在《数字市场法案》（DMA）项下的义务，即向第三方开发者提供对谷歌 Android 系统所控制的硬件和软件功能的免费且有效的互操作性。",
+          "url": "https://flash.jin10.com/detail/20260127174940980800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "欧盟根据《数字市场法》对谷歌启动规范程序",
+          "url": "https://flash.jin10.com/detail/20260127174618886800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "阿里千问最强模型亮相，性能媲美GPT-5.2、Gemini 3 Pro",
+          "url": "https://wallstreetcn.com/livenews/3044091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美元指数短线下挫 非美货币走高",
+          "url": "https://wallstreetcn.com/livenews/3044664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
         {
           "title": "美元指数26日下跌",
           "url": "https://flash.jin10.com/detail/20260127044040593800",
@@ -1537,6 +1702,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时13分]"
+        },
+        {
+          "title": "美元指数DXY短线下挫 非美货币走高",
+          "url": "https://flash.jin10.com/detail/20260127175649548800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "非洲股市收盘播报｜周一（1月26日），南非富时/JSE非洲领先40可交易指数收涨2.06%，刷新收盘历史高位至11.65万点上方，2026年迄今累计上涨8.09%、同期本币南非兰特兑美元涨3.65%、现货黄金涨17.99%。",
@@ -1577,46 +1753,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "微软云计算与人工智能业务主管斯科特·古特里（Scott Guthrie）：首批Maia 200芯片单位将分配给微软的“超级智能（superintelligence）”团队，用于生成数据以改进下一代人工智能（AI）模型。 这些芯片还将用于驱动面向企业的Copilot助手，以及微软向云客户租用的各种AI模型（包括OpenAI的最新模型）。 第二代AI芯片Maia 200在某些AI任务上的性能优于谷歌和亚马逊的同类半导体。 Maia 200也是微软部署过的效率最高的推理（Inference）系统。 目前已在设计该芯片的继任者Maia 300。",
-          "url": "https://wallstreetcn.com/livenews/3044110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时23分]"
-        },
-        {
-          "title": "拳打亚马逊、脚踢谷歌TPU 微软发布新一代AI加速器Maia 200",
-          "url": "https://www.cls.cn/detail/2270429",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时06分"
-        },
-        {
-          "title": "阿里千问最强模型亮相，性能媲美GPT-5.2、Gemini 3 Pro",
-          "url": "https://wallstreetcn.com/livenews/3044091",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1736,7 +1872,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         }
