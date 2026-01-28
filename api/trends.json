@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T17:26:31.063148+08:00",
-  "total_titles_processed": 1602,
+  "generated_at": "2026-01-28T18:19:16.465592+08:00",
+  "total_titles_processed": 1687,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 70,
       "titles": [
         {
           "title": "特朗普：将很快宣布新的美联储主席人选",
@@ -18,6 +18,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[08时57分 ~ 17时26分]"
+        },
+        {
+          "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
+          "url": "https://wallstreetcn.com/articles/3764299",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时01分 ~ 18时19分]"
         },
         {
           "title": "美国公民遭执法人员当街枪杀，拜登怒批特朗普",
@@ -43,20 +57,6 @@
           "time_info": "[00时19分 ~ 07时13分]"
         },
         {
-          "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
-          "url": "https://wallstreetcn.com/articles/3764299",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时01分 ~ 17时26分]"
-        },
-        {
           "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
           "url": "https://www.cls.cn/detail/2271977",
           "source": "财联社热门",
@@ -71,6 +71,29 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时03分 ~ 17时26分]"
+        },
+        {
+          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
+          "url": "https://wallstreetcn.com/articles/3764257",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时21分 ~ 18时19分]"
+        },
+        {
+          "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
+          "url": "https://news.ifeng.com/c/8qHmjbQngoK",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 18时19分]"
         },
         {
           "title": "特朗普，两天内动手？",
@@ -184,18 +207,6 @@
           "time_info": "07时13分"
         },
         {
-          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
-          "url": "https://wallstreetcn.com/articles/3764257",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时21分 ~ 17时26分]"
-        },
-        {
           "title": "特朗普称国土安全部部长诺姆不会辞职",
           "url": "https://wallstreetcn.com/livenews/3044932",
           "source": "华尔街见闻-快讯",
@@ -306,6 +317,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时11分 ~ 06时14分]"
+        },
+        {
+          "title": "特朗普乐见贬值，美元跌至四年低位，亚洲货币走强，现货黄金站上5300，银、铜、铝集体上涨",
+          "url": "https://wallstreetcn.com/articles/3764338",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 18时19分]"
         },
         {
           "title": "美国总统特朗普：如果最高法院否决关税政策，将找到其他方式来处理贸易问题。",
@@ -592,7 +614,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -787,7 +809,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -853,7 +875,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -927,6 +949,29 @@
           "time_info": "[02时24分 ~ 03时21分]"
         },
         {
+          "title": "美股盘前：阿斯麦涨约5%，希捷科技涨约10%",
+          "url": "https://wallstreetcn.com/livenews/3045460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 18时19分]"
+        },
+        {
+          "title": "C3.ai(AI.N)美股盘前涨10.9%，此前有报道称该公司正与Automation Anywhere就合并事宜进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260128173854928800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "美股七巨头收盘播报｜亚马逊涨超2.6%，该公司拟将生鲜超市及无人便利店改造为全食超市门店",
           "url": "https://wallstreetcn.com/livenews/3044996",
           "source": "华尔街见闻-快讯",
@@ -938,15 +983,15 @@
           "time_info": "06时14分"
         },
         {
-          "title": "美股盘前：阿斯麦涨约5%，希捷科技涨约10%",
-          "url": "https://wallstreetcn.com/livenews/3045460",
-          "source": "华尔街见闻-快讯",
+          "title": "康宁(GLW.N)美股盘前涨5.3%，即将公布业绩；摩根大通此前上调该公司的目标价。",
+          "url": "https://flash.jin10.com/detail/20260128173357657800",
+          "source": "金十数据",
           "ranks": [
-            18
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时26分"
+          "time_info": "18时19分"
         },
         {
           "title": "德州仪器四季度营收44.2亿美元，分析师预期44.3亿美元。 预计一季度营收43.2亿-46.8亿美元，分析师预期44.2亿美元。 德州仪器（TXN）美股盘后涨5%。",
@@ -1150,9 +1195,150 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "航天 航空",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "2025年净利同比预增超500%！450亿商业航天概念股发布业绩预告|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2271671",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时57分 ~ 11时03分]"
+        },
+        {
+          "title": "商业航天抢滩2026|商业航天爆发赋能 航天育种或迎来发展新“窗口期”",
+          "url": "https://www.cls.cn/detail/2271653",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 08时57分]"
+        },
+        {
+          "title": "波音：印航空网络高度集中于德里孟买",
+          "url": "https://www.toutiao.com/trending/7599434836771602474/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 18时19分]"
+        },
+        {
+          "title": "达美航空(DAL.N)：由于积雪导致的停机位限制和地面延误计划，波士顿和肯尼迪机场的航班时刻表可能进行调整。",
+          "url": "https://flash.jin10.com/detail/20260127232656602800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        },
+        {
+          "title": "瑞安航空CEO奥利里：随着技术进步，预计在四到五年内，所有飞机都将提供免费Wi-Fi。",
+          "url": "https://flash.jin10.com/detail/20260128173448489800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "达美航空(DAL.N)：（就冬季风暴“弗恩”）正稳步恢复运营。",
+          "url": "https://flash.jin10.com/detail/20260127232636145800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        },
+        {
+          "title": "美国航空航天局科研飞机发生故障机腹着陆",
+          "url": "https://flash.jin10.com/detail/20260128101941525800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时03分"
+        },
+        {
+          "title": "瑞安航空CEO奥利里：三年来，我们一直在与Wi-Fi供应商星链、亚马逊云服务和沃达丰接洽，但相关技术尚未完全成熟。",
+          "url": "https://flash.jin10.com/detail/20260128173158485800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "瑞安航空CEO奥利里：星链系统非常稳定，与隆·马斯克唯一存在争议的地方在于，我们认为乘客在短期内不会为此付费。",
+          "url": "https://flash.jin10.com/detail/20260128173136295800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "印度机场管理局局长：政府正制定新政策以提升区域航空连通性。",
+          "url": "https://flash.jin10.com/detail/20260128133449792800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
+          "title": "波音(BA.N)首席执行官：特朗普政府理解商业航空航天产业对美国经济的重要性。",
+          "url": "https://flash.jin10.com/detail/20260128002342619800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "中信建投：商业航天产业发展为卫星通信市场带来增量需求",
+          "url": "https://wallstreetcn.com/livenews/3045054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时57分"
         }
       ]
     },
@@ -1181,8 +1367,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 17时26分]"
+          "appearance_count": 19,
+          "time_info": "[00时19分 ~ 18时19分]"
         },
         {
           "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
@@ -1195,8 +1381,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[02时24分 ~ 17时26分]"
+          "appearance_count": 17,
+          "time_info": "[02时24分 ~ 18时19分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -1207,8 +1393,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时22分 ~ 17时26分]"
+          "appearance_count": 6,
+          "time_info": "[14时22分 ~ 18时19分]"
+        },
+        {
+          "title": "黄金价格为何一路猛涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 18时19分]"
         },
         {
           "title": "黄金价格暴涨暴跌 是走还是留",
@@ -1223,17 +1421,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时08分 ~ 17时26分]"
-        },
-        {
-          "title": "黄金价格为何一路猛涨",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时26分"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -1312,8 +1499,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时01分 ~ 17时26分]"
+          "appearance_count": 10,
+          "time_info": "[11时01分 ~ 18时19分]"
         },
         {
           "title": "OpenAI首发免费工具Prism，用于帮助科学家们更容易地应用ChatGPT来草拟研究论文。",
@@ -1404,103 +1591,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "航天 航空",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "2025年净利同比预增超500%！450亿商业航天概念股发布业绩预告|盘后公告集锦",
-          "url": "https://www.cls.cn/detail/2271671",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时57分 ~ 11时03分]"
-        },
-        {
-          "title": "商业航天抢滩2026|商业航天爆发赋能 航天育种或迎来发展新“窗口期”",
-          "url": "https://www.cls.cn/detail/2271653",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时13分 ~ 08时57分]"
-        },
-        {
-          "title": "达美航空(DAL.N)：由于积雪导致的停机位限制和地面延误计划，波士顿和肯尼迪机场的航班时刻表可能进行调整。",
-          "url": "https://flash.jin10.com/detail/20260127232656602800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "达美航空(DAL.N)：（就冬季风暴“弗恩”）正稳步恢复运营。",
-          "url": "https://flash.jin10.com/detail/20260127232636145800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "美国航空航天局科研飞机发生故障机腹着陆",
-          "url": "https://flash.jin10.com/detail/20260128101941525800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时03分"
-        },
-        {
-          "title": "印度机场管理局局长：政府正制定新政策以提升区域航空连通性。",
-          "url": "https://flash.jin10.com/detail/20260128133449792800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "波音(BA.N)首席执行官：特朗普政府理解商业航空航天产业对美国经济的重要性。",
-          "url": "https://flash.jin10.com/detail/20260128002342619800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "中信建投：商业航天产业发展为卫星通信市场带来增量需求",
-          "url": "https://wallstreetcn.com/livenews/3045054",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
         }
       ]
     },
@@ -1606,8 +1696,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时57分 ~ 17时26分]"
+          "appearance_count": 10,
+          "time_info": "[08时57分 ~ 18时19分]"
+        },
+        {
+          "title": "谷歌、亚马逊宣布云服务涨价！打破20年来行业惯例 第一块多米诺骨牌已推倒？",
+          "url": "https://www.cls.cn/detail/2272037",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时08分 ~ 18时19分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
@@ -1633,17 +1735,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时24分 ~ 04时15分]"
-        },
-        {
-          "title": "谷歌、亚马逊宣布云服务涨价！打破20年来行业惯例 第一块多米诺骨牌已推倒？",
-          "url": "https://www.cls.cn/detail/2272037",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 17时26分]"
         },
         {
           "title": "谷歌：Gemini 3现已成为全球AI概览的默认模型。",
@@ -1730,7 +1821,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         }
@@ -1738,8 +1829,19 @@
     },
     {
       "keyword_group": "农业 机械",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "据中央纪委国家监委网站，中国农业银行原首席专家兼浙江省分行原党委书记、行长冯建龙被开除党籍。",
+          "url": "https://wallstreetcn.com/livenews/3045500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
         {
           "title": "美国农业部（USDA）更新政策，加速联邦石油与天然气（土地/水域）的租赁（审批）。",
           "url": "https://wallstreetcn.com/livenews/3044878",
