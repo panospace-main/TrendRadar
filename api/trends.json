@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T18:19:16.465592+08:00",
-  "total_titles_processed": 1687,
+  "generated_at": "2026-01-28T19:17:07.159393+08:00",
+  "total_titles_processed": 1785,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 71,
       "titles": [
         {
           "title": "特朗普：将很快宣布新的美联储主席人选",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时01分 ~ 18时19分]"
+          "appearance_count": 11,
+          "time_info": "[11时01分 ~ 19时17分]"
         },
         {
           "title": "美国公民遭执法人员当街枪杀，拜登怒批特朗普",
@@ -57,6 +57,30 @@
           "time_info": "[00时19分 ~ 07时13分]"
         },
         {
+          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
+          "url": "https://wallstreetcn.com/articles/3764257",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时21分 ~ 19时17分]"
+        },
+        {
+          "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
+          "url": "https://news.ifeng.com/c/8qHmjbQngoK",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时18分 ~ 19时17分]"
+        },
+        {
           "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
           "url": "https://www.cls.cn/detail/2271977",
           "source": "财联社热门",
@@ -71,29 +95,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时03分 ~ 17时26分]"
-        },
-        {
-          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
-          "url": "https://wallstreetcn.com/articles/3764257",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时21分 ~ 18时19分]"
-        },
-        {
-          "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
-          "url": "https://news.ifeng.com/c/8qHmjbQngoK",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 18时19分]"
         },
         {
           "title": "特朗普，两天内动手？",
@@ -586,6 +587,17 @@
           "time_info": "13时21分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-28）",
+          "url": "https://flash.jin10.com/detail/20260128183238468800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "特朗普称国土安全部部长诺姆不会辞职",
           "url": "https://flash.jin10.com/detail/20260128021631396800",
           "source": "金十数据",
@@ -809,7 +821,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -925,6 +937,17 @@
           "time_info": "[06时14分 ~ 07时13分]"
         },
         {
+          "title": "特朗普乐见贬值，美元跌至四年低位，美股盘前芯片股集体上涨，现货黄金站上5300，银、铜、铝集体上涨",
+          "url": "https://wallstreetcn.com/articles/3764338",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 19时17分]"
+        },
+        {
           "title": "半导体ETF收涨2.1%，领跑美股行业ETF，标普保健板块跌超1.6%",
           "url": "https://wallstreetcn.com/livenews/3045000",
           "source": "华尔街见闻-快讯",
@@ -967,7 +990,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -989,7 +1012,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -1203,8 +1226,19 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "誓保主力箭首飞和回收成功！中国商火年度会议亮目标 可复用成2026航天关键词",
+          "url": "https://www.cls.cn/detail/2272800",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 19时17分]"
+        },
         {
           "title": "2025年净利同比预增超500%！450亿商业航天概念股发布业绩预告|盘后公告集锦",
           "url": "https://www.cls.cn/detail/2271671",
@@ -1259,7 +1293,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -1292,7 +1326,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -1303,7 +1337,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -1344,7 +1378,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
@@ -1367,8 +1401,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时19分 ~ 18时19分]"
+          "appearance_count": 21,
+          "time_info": "[00时19分 ~ 19时17分]"
         },
         {
           "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
@@ -1393,8 +1427,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时22分 ~ 18时19分]"
+          "appearance_count": 8,
+          "time_info": "[14时22分 ~ 19时17分]"
         },
         {
           "title": "黄金价格为何一路猛涨",
@@ -1402,11 +1436,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时26分 ~ 18时19分]"
+          "appearance_count": 5,
+          "time_info": "[17时26分 ~ 19时17分]"
         },
         {
           "title": "黄金价格暴涨暴跌 是走还是留",
@@ -1421,6 +1456,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时08分 ~ 17时26分]"
+        },
+        {
+          "title": "四川黄金：若未来黄金价格大幅波动，将给经营业绩带来较大影响",
+          "url": "https://wallstreetcn.com/livenews/3045543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -1460,6 +1506,17 @@
           "time_info": "[11时03分 ~ 12时08分]"
         },
         {
+          "title": "专家谈国际金价加速上涨的背后逻辑",
+          "url": "https://www.toutiao.com/trending/7600335568035122738/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 19时17分]"
+        },
+        {
           "title": "德意志银行表示，如果美元持续疲软，投资者将增加对非美元资产和实体资产的配置，那么2026年黄金价格可能会达到每盎司6000美元。",
           "url": "https://wallstreetcn.com/livenews/3045069",
           "source": "华尔街见闻-快讯",
@@ -1496,11 +1553,12 @@
             4,
             3,
             2,
-            1
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时01分 ~ 18时19分]"
+          "appearance_count": 12,
+          "time_info": "[11时01分 ~ 19时17分]"
         },
         {
           "title": "OpenAI首发免费工具Prism，用于帮助科学家们更容易地应用ChatGPT来草拟研究论文。",
@@ -1684,6 +1742,82 @@
       ]
     },
     {
+      "keyword_group": "人民币",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9545元，较周一夜盘收盘跌5点。成交量378.21亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3044949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时21分 ~ 05时11分]"
+        },
+        {
+          "title": "【但斌91亿元的美股持仓出炉 谷歌取代英伟达成第一重仓股】据私募排排网，美国证券交易委员会(SEC)官网披露了但斌掌舵的东方港湾旗下海外基金2025年四季度的美股持仓数据。数据显示，2025年末东方港湾共持有10只美股标的，持股市值合计13.16亿美元，折合人民币超91亿元，相比2025年三季度末约12.92亿美元的持股市值略有增长。四季度，东方港湾清仓了Coinbase、奈飞、AsteraLabs、BitMineImmersionTechnologies、博通、台积电等美股标的。此外，变化较大的是，谷歌取代英伟达，跃升为东方港湾的第一大重仓股。",
+          "url": "https://wallstreetcn.com/livenews/3045359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 16时19分]"
+        },
+        {
+          "title": "上期所原油期货2503合约夜盘收涨1.54%，报456元人民币/桶。 沪金夜盘收跌0.28%，沪银收跌2.42%。",
+          "url": "https://wallstreetcn.com/livenews/3044936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 04时15分]"
+        },
+        {
+          "title": "深圳：加大各重点领域数字人民币推广运用工作 推行全量预付资金监管",
+          "url": "https://wallstreetcn.com/livenews/3045529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
+          "title": "离岸人民币涨向6.93元",
+          "url": "https://wallstreetcn.com/livenews/3045012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        },
+        {
+          "title": "中谷物流：公司或其子公司拟与恒力造船（大连）有限公司签订4+2艘6,000TEU集装箱船舶建造合同，合同总金额不超过34.8亿人民币或等值美元。",
+          "url": "https://wallstreetcn.com/livenews/3045440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 6,
       "titles": [
@@ -1696,8 +1830,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时57分 ~ 18时19分]"
+          "appearance_count": 12,
+          "time_info": "[08时57分 ~ 19时17分]"
         },
         {
           "title": "谷歌、亚马逊宣布云服务涨价！打破20年来行业惯例 第一块多米诺骨牌已推倒？",
@@ -1763,71 +1897,6 @@
       ]
     },
     {
-      "keyword_group": "人民币",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9545元，较周一夜盘收盘跌5点。成交量378.21亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3044949",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时21分 ~ 05时11分]"
-        },
-        {
-          "title": "【但斌91亿元的美股持仓出炉 谷歌取代英伟达成第一重仓股】据私募排排网，美国证券交易委员会(SEC)官网披露了但斌掌舵的东方港湾旗下海外基金2025年四季度的美股持仓数据。数据显示，2025年末东方港湾共持有10只美股标的，持股市值合计13.16亿美元，折合人民币超91亿元，相比2025年三季度末约12.92亿美元的持股市值略有增长。四季度，东方港湾清仓了Coinbase、奈飞、AsteraLabs、BitMineImmersionTechnologies、博通、台积电等美股标的。此外，变化较大的是，谷歌取代英伟达，跃升为东方港湾的第一大重仓股。",
-          "url": "https://wallstreetcn.com/livenews/3045359",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 16时19分]"
-        },
-        {
-          "title": "上期所原油期货2503合约夜盘收涨1.54%，报456元人民币/桶。 沪金夜盘收跌0.28%，沪银收跌2.42%。",
-          "url": "https://wallstreetcn.com/livenews/3044936",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 04时15分]"
-        },
-        {
-          "title": "离岸人民币涨向6.93元",
-          "url": "https://wallstreetcn.com/livenews/3045012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "中谷物流：公司或其子公司拟与恒力造船（大连）有限公司签订4+2艘6,000TEU集装箱船舶建造合同，合同总金额不超过34.8亿人民币或等值美元。",
-          "url": "https://wallstreetcn.com/livenews/3045440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时26分"
-        }
-      ]
-    },
-    {
       "keyword_group": "农业 机械",
       "match_count": 4,
       "titles": [
@@ -1838,7 +1907,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
