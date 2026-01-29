@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T19:24:41.946836+08:00",
-  "total_titles_processed": 1869,
+  "generated_at": "2026-01-29T20:32:11.709802+08:00",
+  "total_titles_processed": 1970,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -139,8 +139,34 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时06分 ~ 19时24分]"
+          "appearance_count": 13,
+          "time_info": "[13时06分 ~ 20时32分]"
+        },
+        {
+          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时32分 ~ 20时32分]"
+        },
+        {
+          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，美元持续下挫",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时26分 ~ 20时32分]"
         },
         {
           "title": "欧盟高官：特朗普的威胁“敲响警钟”，欧洲应审视对美国的能源依赖",
@@ -163,19 +189,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
-        },
-        {
-          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时32分 ~ 19时24分]"
         },
         {
           "title": "美国总统特朗普结束在“特朗普账号”活动上的发言。",
@@ -248,18 +261,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时26分 ~ 02时25分]"
-        },
-        {
-          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，美元持续下挫",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 19时24分]"
         },
         {
           "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
@@ -620,6 +621,17 @@
           "time_info": "00时25分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-29）",
+          "url": "https://flash.jin10.com/detail/20260129200059103800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "特朗普再次暗示不会提名哈塞特执掌美联储",
           "url": "https://flash.jin10.com/detail/20260129010926070800",
           "source": "金十数据",
@@ -678,7 +690,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -729,6 +741,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "黑石集团(BX.N)美股盘前涨1.1%，四季度利润和收入超出预期。",
+          "url": "https://flash.jin10.com/detail/20260129201634269800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "微软(MSFT.O)美股盘前跌5.6%，此前该公司报告第二季度资本支出大幅跃升近66%，但云收入表现不及预期。",
@@ -919,6 +942,17 @@
           "time_info": "18时27分"
         },
         {
+          "title": "陶氏化学第四季度净销售额94.6亿美元，预期95亿美元。 第四季度调整后运营每股亏损0.34美元，去年同期为盈亏平衡。 第四季度调整后运营EBITDA为7.41亿美元，预期6.644亿美元。 陶氏化学美股盘前涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3046431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "彭博数据显示，阿斯麦控股（荷兰阿姆斯特丹股价）转跌，此前一度涨7.5%。 阿斯麦ADR也转跌，美股盘初也一度涨超2.67%。",
           "url": "https://wallstreetcn.com/livenews/3045661",
           "source": "华尔街见闻-快讯",
@@ -933,7 +967,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "渣打：金价出现任何回调都是买入机会",
@@ -1014,8 +1048,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时24分 ~ 19时24分]"
+          "appearance_count": 28,
+          "time_info": "[00时24分 ~ 20时32分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -1066,6 +1100,17 @@
           "time_info": "[18时26分 ~ 19时24分]"
         },
         {
+          "title": "金价上涨的第一批受害者出现了",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 20时32分]"
+        },
+        {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -1095,18 +1140,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
-          "title": "金价上涨的第一批受害者出现了",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -1142,6 +1176,151 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
+        },
+        {
+          "title": "【四川黄金：预计2025年净利润同比增长69.23%-93.40%】四川黄金公告，预计2025年度净利润为4.2亿元—4.8亿元，同比增长69.23%—93.40%。预计归属于上市公司股东的净利润同比上升主要系金精矿销售量同比有所增加及黄金价格上涨所致。",
+          "url": "https://wallstreetcn.com/livenews/3046433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "航天 航空",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "誓保主力箭首飞和回收成功！中国商火年度会议亮目标 可复用成2026航天关键词",
+          "url": "https://www.cls.cn/detail/2272800",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 07时18分]"
+        },
+        {
+          "title": "明确“五个一流”新目标 我国商业航天迎“关键十年”",
+          "url": "https://www.cls.cn/detail/2273685",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5,
+            3,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[12时01分 ~ 20时32分]"
+        },
+        {
+          "title": "航天国家队谋划“十五五”：更多赛道将涌现 旅游、采矿有望向太空进发",
+          "url": "https://www.cls.cn/detail/2273765",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时34分 ~ 20时32分]"
+        },
+        {
+          "title": "上海市商业航天“火箭星城”建设方案发布",
+          "url": "https://wallstreetcn.com/livenews/3046172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
+          "title": "千亿航天再获天使+++轮融资",
+          "url": "https://wallstreetcn.com/livenews/3046456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "哥伦比亚航空公司萨特纳确认，一架载有15人的商用喷气式客机在哥伦比亚-委内瑞拉边境附近失踪，正与当局合作搜寻失联飞机。",
+          "url": "https://flash.jin10.com/detail/20260129041805084800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "航天电子：2025年净利同比预减55%-65%",
+          "url": "https://wallstreetcn.com/livenews/3046363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "中国商业航天火箭卫星将加速升级 开发更多应用场景",
+          "url": "https://wallstreetcn.com/livenews/3046049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        },
+        {
+          "title": "商业航天公司为何集体冲刺IPO",
+          "url": "https://www.toutiao.com/trending/7600342653867134500/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "市场消息：挪威向韩国的韩华航空航天公司订购价值190亿挪威克朗的火炮系统。",
+          "url": "https://flash.jin10.com/detail/20260129175345585800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "央视新闻：明确“五个一流”新目标 我国商业航天迎“关键十年”",
+          "url": "https://wallstreetcn.com/livenews/3046038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时01分"
         }
       ]
     },
@@ -1154,11 +1333,12 @@
           "url": "https://wallstreetcn.com/livenews/3046424",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时24分 ~ 20时32分]"
         },
         {
           "title": "A股三大股指涨跌互现",
@@ -1177,11 +1357,12 @@
           "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E7%99%BD%E9%85%92%E9%A3%9E%E5%A4%A9%E5%8E%9F%E5%9B%A0%E4%B8%BA%E4%BD%95",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 20时32分]"
         },
         {
           "title": "A股收盘：上证50指数涨1.65%，20余只白酒股涨停",
@@ -1263,129 +1444,6 @@
       ]
     },
     {
-      "keyword_group": "航天 航空",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "誓保主力箭首飞和回收成功！中国商火年度会议亮目标 可复用成2026航天关键词",
-          "url": "https://www.cls.cn/detail/2272800",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 07时18分]"
-        },
-        {
-          "title": "明确“五个一流”新目标 我国商业航天迎“关键十年”",
-          "url": "https://www.cls.cn/detail/2273685",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            5,
-            3,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时01分 ~ 19时24分]"
-        },
-        {
-          "title": "航天国家队谋划“十五五”：更多赛道将涌现 旅游、采矿有望向太空进发",
-          "url": "https://www.cls.cn/detail/2273765",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时34分 ~ 19时24分]"
-        },
-        {
-          "title": "上海市商业航天“火箭星城”建设方案发布",
-          "url": "https://wallstreetcn.com/livenews/3046172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
-          "title": "哥伦比亚航空公司萨特纳确认，一架载有15人的商用喷气式客机在哥伦比亚-委内瑞拉边境附近失踪，正与当局合作搜寻失联飞机。",
-          "url": "https://flash.jin10.com/detail/20260129041805084800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "航天电子：2025年净利同比预减55%-65%",
-          "url": "https://wallstreetcn.com/livenews/3046363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
-          "title": "中国商业航天火箭卫星将加速升级 开发更多应用场景",
-          "url": "https://wallstreetcn.com/livenews/3046049",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时01分"
-        },
-        {
-          "title": "商业航天公司为何集体冲刺IPO",
-          "url": "https://www.toutiao.com/trending/7600342653867134500/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "市场消息：挪威向韩国的韩华航空航天公司订购价值190亿挪威克朗的火炮系统。",
-          "url": "https://flash.jin10.com/detail/20260129175345585800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
-          "title": "央视新闻：明确“五个一流”新目标 我国商业航天迎“关键十年”",
-          "url": "https://wallstreetcn.com/livenews/3046038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人民币",
       "match_count": 5,
       "titles": [
@@ -1418,7 +1476,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -1429,7 +1487,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -1479,7 +1537,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -1520,11 +1578,12 @@
           "ranks": [
             27,
             12,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时32分 ~ 19时24分]"
+          "appearance_count": 7,
+          "time_info": "[17时32分 ~ 20时32分]"
         },
         {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
@@ -1548,11 +1607,12 @@
           "url": "https://www.zhihu.com/question/1994095464539255007",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 20时32分]"
         },
         {
           "title": "英伟达、微软和亚马逊正在商谈向OpenAI投资约600亿美元。亚马逊或将扩大与OpenAI的云服务器租赁协议。（The Information）",
@@ -1643,6 +1703,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "农业 机械",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "卡特彼勒公司第四季度营收191.3亿美元，预估179.1亿美元。 第四季度调整后每股收益5.16美元，预估4.69美元。 第四季度每股收益5.12美元，上年同期5.78美元。 第四季度调整后运营收益29.8亿美元，预估27.6亿美元。 第四季度机械、能源与交通业务营收182.0亿美元。 卡特彼勒美股盘前涨近5%。",
+          "url": "https://wallstreetcn.com/livenews/3046443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         }
       ]
     }
