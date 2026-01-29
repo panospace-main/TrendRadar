@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T18:27:07.821594+08:00",
-  "total_titles_processed": 1762,
+  "generated_at": "2026-01-29T19:24:41.946836+08:00",
+  "total_titles_processed": 1869,
   "failed_sources": [],
   "trends": [
     {
@@ -139,8 +139,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时06分 ~ 18时27分]"
+          "appearance_count": 11,
+          "time_info": "[13时06分 ~ 19时24分]"
         },
         {
           "title": "欧盟高官：特朗普的威胁“敲响警钟”，欧洲应审视对美国的能源依赖",
@@ -163,6 +163,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时32分 ~ 19时24分]"
         },
         {
           "title": "美国总统特朗普结束在“特朗普账号”活动上的发言。",
@@ -237,16 +250,16 @@
           "time_info": "[01时26分 ~ 02时25分]"
         },
         {
-          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
-          "source": "澎湃新闻",
+          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，美元持续下挫",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
           "ranks": [
-            15,
-            14
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时32分 ~ 18时27分]"
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 19时24分]"
         },
         {
           "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
@@ -259,17 +272,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时05分 ~ 12时01分]"
-        },
-        {
-          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，美元持续下挫",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 18时27分]"
         },
         {
           "title": "美国总统特朗普在“特朗普账户”活动上感谢Gerstner、优步（Uber）、以及英特尔。",
@@ -448,7 +450,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -470,7 +472,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -503,7 +505,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -746,7 +748,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -912,7 +914,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -931,7 +933,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "渣打：金价出现任何回调都是买入机会",
@@ -1012,8 +1014,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时24分 ~ 18时27分]"
+          "appearance_count": 26,
+          "time_info": "[00时24分 ~ 19时24分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -1041,17 +1043,6 @@
           "time_info": "[02时24分 ~ 07时18分]"
         },
         {
-          "title": "高盛：上调今明两年金价预测",
-          "url": "https://www.toutiao.com/trending/7600254146813558827/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 18时27分]"
-        },
-        {
           "title": "挪威石油基金：2025年基金价值增加1.526万亿挪威克朗。",
           "url": "https://flash.jin10.com/detail/20260129151543362800",
           "source": "金十数据",
@@ -1061,6 +1052,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
+        },
+        {
+          "title": "高盛：上调今明两年金价预测",
+          "url": "https://www.toutiao.com/trending/7600254146813558827/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 19时24分]"
         },
         {
           "title": "金价",
@@ -1084,6 +1087,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时05分 ~ 09时06分]"
+        },
+        {
+          "title": "招金黄金：公司合质金和金精矿产品的价格受黄金价格波动影响较大，若未来黄金价格大幅波动，将给公司经营业绩带来较大影响；公司瓦图科拉金矿所在地为斐济共和国，斐济与国内在政治、法律、经济、税收、文化发展水平方面存在较大差异，存在境外投资项目环境、相关政策变动等风险，目前公司正在对矿山进行全面的技术改造和设备升级。",
+          "url": "https://wallstreetcn.com/livenews/3046415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "金价上涨的第一批受害者出现了",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "金价在鲍威尔新闻发布会结束后刷新历史高位至5340美元上方",
@@ -1121,132 +1146,20 @@
       ]
     },
     {
-      "keyword_group": "航天 航空",
+      "keyword_group": "A股",
       "match_count": 10,
       "titles": [
         {
-          "title": "誓保主力箭首飞和回收成功！中国商火年度会议亮目标 可复用成2026航天关键词",
-          "url": "https://www.cls.cn/detail/2272800",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 07时18分]"
-        },
-        {
-          "title": "明确“五个一流”新目标 我国商业航天迎“关键十年”",
-          "url": "https://www.cls.cn/detail/2273685",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            5,
-            3,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时01分 ~ 18时27分]"
-        },
-        {
-          "title": "航天国家队谋划“十五五”：更多赛道将涌现 旅游、采矿有望向太空进发",
-          "url": "https://www.cls.cn/detail/2273765",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时34分 ~ 18时27分]"
-        },
-        {
-          "title": "上海市商业航天“火箭星城”建设方案发布",
-          "url": "https://wallstreetcn.com/livenews/3046172",
+          "title": "北京利尔：拟向特定对象发行A股募集资金不超过10.34亿元 用于年产3万吨复合氧化锆及新能源与航空航天用锆基材料项目等",
+          "url": "https://wallstreetcn.com/livenews/3046424",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
-          "title": "哥伦比亚航空公司萨特纳确认，一架载有15人的商用喷气式客机在哥伦比亚-委内瑞拉边境附近失踪，正与当局合作搜寻失联飞机。",
-          "url": "https://flash.jin10.com/detail/20260129041805084800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "航天电子：2025年净利同比预减55%-65%",
-          "url": "https://wallstreetcn.com/livenews/3046363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时27分"
+          "time_info": "19时24分"
         },
-        {
-          "title": "中国商业航天火箭卫星将加速升级 开发更多应用场景",
-          "url": "https://wallstreetcn.com/livenews/3046049",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时01分"
-        },
-        {
-          "title": "商业航天公司为何集体冲刺IPO",
-          "url": "https://www.toutiao.com/trending/7600342653867134500/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "市场消息：挪威向韩国的韩华航空航天公司订购价值190亿挪威克朗的火炮系统。",
-          "url": "https://flash.jin10.com/detail/20260129175345585800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
-          "title": "央视新闻：明确“五个一流”新目标 我国商业航天迎“关键十年”",
-          "url": "https://wallstreetcn.com/livenews/3046038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 8,
-      "titles": [
         {
           "title": "A股三大股指涨跌互现",
           "url": "https://www.toutiao.com/trending/7600659485685907497/",
@@ -1258,6 +1171,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时32分 ~ 18时27分]"
+        },
+        {
+          "title": "A股白酒飞天原因为何",
+          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E7%99%BD%E9%85%92%E9%A3%9E%E5%A4%A9%E5%8E%9F%E5%9B%A0%E4%B8%BA%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "A股收盘：上证50指数涨1.65%，20余只白酒股涨停",
@@ -1339,8 +1263,131 @@
       ]
     },
     {
+      "keyword_group": "航天 航空",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "誓保主力箭首飞和回收成功！中国商火年度会议亮目标 可复用成2026航天关键词",
+          "url": "https://www.cls.cn/detail/2272800",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 07时18分]"
+        },
+        {
+          "title": "明确“五个一流”新目标 我国商业航天迎“关键十年”",
+          "url": "https://www.cls.cn/detail/2273685",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5,
+            3,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[12时01分 ~ 19时24分]"
+        },
+        {
+          "title": "航天国家队谋划“十五五”：更多赛道将涌现 旅游、采矿有望向太空进发",
+          "url": "https://www.cls.cn/detail/2273765",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时34分 ~ 19时24分]"
+        },
+        {
+          "title": "上海市商业航天“火箭星城”建设方案发布",
+          "url": "https://wallstreetcn.com/livenews/3046172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
+          "title": "哥伦比亚航空公司萨特纳确认，一架载有15人的商用喷气式客机在哥伦比亚-委内瑞拉边境附近失踪，正与当局合作搜寻失联飞机。",
+          "url": "https://flash.jin10.com/detail/20260129041805084800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "航天电子：2025年净利同比预减55%-65%",
+          "url": "https://wallstreetcn.com/livenews/3046363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "中国商业航天火箭卫星将加速升级 开发更多应用场景",
+          "url": "https://wallstreetcn.com/livenews/3046049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        },
+        {
+          "title": "商业航天公司为何集体冲刺IPO",
+          "url": "https://www.toutiao.com/trending/7600342653867134500/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "市场消息：挪威向韩国的韩华航空航天公司订购价值190亿挪威克朗的火炮系统。",
+          "url": "https://flash.jin10.com/detail/20260129175345585800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "央视新闻：明确“五个一流”新目标 我国商业航天迎“关键十年”",
+          "url": "https://wallstreetcn.com/livenews/3046038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人民币",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "巴西财政部：我们预计将更频繁参与市场，持续发行美元债券，并对欧元和人民币等其他货币保持开放态度，从而拓宽巴西融资战略的覆盖范围。",
@@ -1365,6 +1412,28 @@
           "time_info": "03时20分"
         },
         {
+          "title": "赣锋锂业：1月，公司全资子公司赣锋国际通过二级市场大宗交易出售PLS Group Ltd 3219万股普通股，出售金额（扣除交易费用等后）共计1.6亿澳元，预计本次出售的累计税前收益约为人民币7.09亿元。",
+          "url": "https://wallstreetcn.com/livenews/3046395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "九号公司：预计2025年净利润为人民币16.7亿元到18.5亿元 ，同比增加54.04%到70.64%。",
+          "url": "https://wallstreetcn.com/livenews/3046386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "周三（1月28日）纽约尾盘（周四北京时间05:59），离岸人民币（CNH）兑美元报6.9437元，较周二纽约尾盘跌100点。 日内，离岸人民币整体交投于6.9319-6.9493元区间，整体持续下挫，03:00美联储宣布按兵不动时刷新日低，之后略微收复失地。",
           "url": "https://wallstreetcn.com/livenews/3045860",
           "source": "华尔街见闻-快讯",
@@ -1374,6 +1443,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美元指数DXY日内大涨1.00%，现报96.72。",
+          "url": "https://flash.jin10.com/detail/20260129030154943800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "美元指数涨0.89%，报96.63点。 美元兑日元涨1.12%，美元兑瑞郎涨1.34%。 欧元兑美元跌0.99%，英镑兑美元跌0.55%；澳元跌0.36%，纽元跌0.38%，加元跌0.14%。",
+          "url": "https://wallstreetcn.com/livenews/3045755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "彭博美元即期指数已收复日内0.3%的跌幅。",
+          "url": "https://flash.jin10.com/detail/20260129185347592800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "彭博美元指数刷新日高，贝森特谈及外汇市场。 美元兑日元走高。 国际油价继续回吐涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3045675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
         }
       ]
     },
@@ -1400,11 +1519,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             27,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时32分 ~ 18时27分]"
+          "appearance_count": 5,
+          "time_info": "[17时32分 ~ 19时24分]"
         },
         {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
@@ -1416,6 +1536,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "ChatGPT 流量份额从 86% 降至 65%，这一变化由哪些因素造成？",
+          "url": "https://www.zhihu.com/question/1994095464539255007",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "英伟达、微软和亚马逊正在商谈向OpenAI投资约600亿美元。亚马逊或将扩大与OpenAI的云服务器租赁协议。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3046051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：非常愿意投资OpenAI。",
+          "url": "https://flash.jin10.com/detail/20260129134256119800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         }
       ]
     },
@@ -1453,76 +1612,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美元指数DXY日内大涨1.00%，现报96.72。",
-          "url": "https://flash.jin10.com/detail/20260129030154943800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "美元指数涨0.89%，报96.63点。 美元兑日元涨1.12%，美元兑瑞郎涨1.34%。 欧元兑美元跌0.99%，英镑兑美元跌0.55%；澳元跌0.36%，纽元跌0.38%，加元跌0.14%。",
-          "url": "https://wallstreetcn.com/livenews/3045755",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "彭博美元指数刷新日高，贝森特谈及外汇市场。 美元兑日元走高。 国际油价继续回吐涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3045675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "英伟达、微软和亚马逊正在商谈向OpenAI投资约600亿美元。亚马逊或将扩大与OpenAI的云服务器租赁协议。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3046051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时01分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：非常愿意投资OpenAI。",
-          "url": "https://flash.jin10.com/detail/20260129134256119800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
         }
       ]
     },
