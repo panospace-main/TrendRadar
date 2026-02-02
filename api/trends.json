@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T21:56:06.196837+08:00",
-  "total_titles_processed": 1738,
+  "generated_at": "2026-02-02T22:35:45.476002+08:00",
+  "total_titles_processed": 1788,
   "failed_sources": [],
   "trends": [
     {
@@ -389,7 +389,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
@@ -664,6 +664,17 @@
           "time_info": "12时14分"
         },
         {
+          "title": "杭州大爷在金价低位屯了1公斤",
+          "url": "https://www.toutiao.com/trending/7601449182562254857/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "中金：金价5500是重要分水岭 沃什只是催化剂",
           "url": "https://flash.jin10.com/detail/20260202080328734800",
           "source": "金十数据",
@@ -719,6 +730,20 @@
           "time_info": "[00时16分 ~ 12时14分]"
         },
         {
+          "title": "汇丰中国财富洞察：“十五五”开局政策精准发力，监管稳市有助A股长期健康发展|中国观点",
+          "url": "https://wallstreetcn.com/premium/articles/3764602?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时31分 ~ 22时35分]"
+        },
+        {
           "title": "拟整合6000亿元金矿的黄金股月内股价涨超70% 1月披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2276583",
           "source": "财联社热门",
@@ -730,20 +755,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时16分 ~ 09时09分]"
-        },
-        {
-          "title": "汇丰中国财富洞察：“十五五”开局政策精准发力，监管稳市有助A股长期健康发展|中国观点",
-          "url": "https://wallstreetcn.com/premium/articles/3764602?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时31分 ~ 21时56分]"
         },
         {
           "title": "应声20CM涨停！A股年报行情纵深推进，11家上市公司净利最高同比预增超10倍",
@@ -914,92 +925,8 @@
       ]
     },
     {
-      "keyword_group": "航天 航空",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "荷兰皇家航空公司恢复飞往中东多国航班",
-          "url": "https://flash.jin10.com/detail/20260201192459248800",
-          "source": "金十数据",
-          "ranks": [
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 05时15分]"
-        },
-        {
-          "title": "新加坡国家航天局四月挂牌 抢滩万亿级航天赛道",
-          "url": "https://flash.jin10.com/detail/20260202113808979800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "美国联邦航空局局长布莱恩·贝德福德：“我们并不反对”国家运输安全委员会的调查结果，即联邦航空局的失职导致了去年发生在华盛顿附近的一起致命空中相撞事故。",
-          "url": "https://flash.jin10.com/detail/20260202151108541800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
-          "title": "印度航空表示，已因缺陷报告而停飞波音787-8客机。",
-          "url": "https://flash.jin10.com/detail/20260202213816715800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
-          "title": "新加坡将成立国家航天局",
-          "url": "https://wallstreetcn.com/livenews/3048039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "消息称阿联酋航空拟复航以色列特拉维夫",
-          "url": "https://flash.jin10.com/detail/20260202174714764800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "市场消息：阿联酋航空在停飞两年后准备恢复以色列航线。",
-          "url": "https://flash.jin10.com/detail/20260202174423027800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "金银深V遭沪盘打压，现货黄金跌破4600美元关口、沪银跌17%、沪金跌超10%，美股期货、原油走低",
@@ -1058,6 +985,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "黄金白银剧烈波动 美股三大期指集体下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2278222",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "油价下跌5%，美股能源公司股价盘前大跌，西方石油(OXY.N)下跌3.1%，康菲石油(COP.N)下跌2.6%，哈利伯顿(HAL.N)下跌4.1%，斯伦贝谢(SLB.N)下跌2.9%，埃克森美孚石油(XOM.N)下跌1.5%，雪佛龙(CVX.N)下跌1.7%。",
           "url": "https://flash.jin10.com/detail/20260202171518672800",
           "source": "金十数据",
@@ -1069,6 +1007,17 @@
           "time_info": "17时37分"
         },
         {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3048399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "迪士尼美股盘前转涨，现涨超3%，公司第一季度调整后每股收益超市场预期。",
           "url": "https://wallstreetcn.com/livenews/3048339",
           "source": "华尔街见闻-快讯",
@@ -1078,6 +1027,238 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "航天 航空",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "荷兰皇家航空公司恢复飞往中东多国航班",
+          "url": "https://flash.jin10.com/detail/20260201192459248800",
+          "source": "金十数据",
+          "ranks": [
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 05时15分]"
+        },
+        {
+          "title": "印度航空表示，已因缺陷报告而停飞波音787-8客机。",
+          "url": "https://flash.jin10.com/detail/20260202213816715800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时35分]"
+        },
+        {
+          "title": "新加坡国家航天局四月挂牌 抢滩万亿级航天赛道",
+          "url": "https://flash.jin10.com/detail/20260202113808979800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
+          "title": "美国联邦航空局局长布莱恩·贝德福德：“我们并不反对”国家运输安全委员会的调查结果，即联邦航空局的失职导致了去年发生在华盛顿附近的一起致命空中相撞事故。",
+          "url": "https://flash.jin10.com/detail/20260202151108541800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
+          "title": "新加坡将成立国家航天局",
+          "url": "https://wallstreetcn.com/livenews/3048039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
+          "title": "消息称阿联酋航空拟复航以色列特拉维夫",
+          "url": "https://flash.jin10.com/detail/20260202174714764800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "市场消息：阿联酋航空在停飞两年后准备恢复以色列航线。",
+          "url": "https://flash.jin10.com/detail/20260202174423027800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "黄仁勋澄清：对OpenAI的千亿投资\"从未承诺\"，英伟达将逐步评估",
+          "url": "https://wallstreetcn.com/articles/3764694",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 23,
+          "time_info": "[00时16分 ~ 18时35分]"
+        },
+        {
+          "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
+          "url": "https://wallstreetcn.com/livenews/3047808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 06时14分]"
+        },
+        {
+          "title": "迪士尼首席执行官：仍在“梳理OpenAI交易的所有技术细节”。",
+          "url": "https://flash.jin10.com/detail/20260202221537167800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
+          "title": "迪士尼首席执行官：迪士尼希望与OpenAI的交易能推动其在Disney+上提供短视频的能力。",
+          "url": "https://flash.jin10.com/detail/20260202220631439800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
+          "title": "Snowflake盘前上涨2.6%，此前该公司与OpenAI达成2亿美元的合作伙伴关系。",
+          "url": "https://flash.jin10.com/detail/20260202220614192800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
+          "title": "Snowflake与OpenAI达成2亿美元、持续多年的合作伙伴关系。 双方将共同开发企业级AI解决方案。",
+          "url": "https://wallstreetcn.com/livenews/3048404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "10年期美债期货下跌1个点，30年期期货下跌7个点。",
+          "url": "https://flash.jin10.com/detail/20260202070317059800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "避险需求推升美债 沃什任命引发降息与缩表猜测",
+          "url": "https://flash.jin10.com/detail/20260202215501935800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
+          "title": "盛宝银行：美债收益率回落 沃什提名与避险需求提供支撑",
+          "url": "https://flash.jin10.com/detail/20260202192944243800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
+          "title": "巴克莱：预计美债发行量将连续两年“原地踏步”",
+          "url": "https://flash.jin10.com/detail/20260202143057490800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
+          "title": "美债市场紧盯季度发债安排 警惕美财政部祭出压低收益率的意外动作",
+          "url": "https://wallstreetcn.com/livenews/3048366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
+          "title": "沃什提名震荡余波未平 市场静待再融资公告开启美债新变局",
+          "url": "https://flash.jin10.com/detail/20260202145814081800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         }
       ]
     },
@@ -1210,67 +1391,6 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "10年期美债期货下跌1个点，30年期期货下跌7个点。",
-          "url": "https://flash.jin10.com/detail/20260202070317059800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "盛宝银行：美债收益率回落 沃什提名与避险需求提供支撑",
-          "url": "https://flash.jin10.com/detail/20260202192944243800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时34分"
-        },
-        {
-          "title": "巴克莱：预计美债发行量将连续两年“原地踏步”",
-          "url": "https://flash.jin10.com/detail/20260202143057490800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时57分"
-        },
-        {
-          "title": "美债市场紧盯季度发债安排 警惕美财政部祭出压低收益率的意外动作",
-          "url": "https://wallstreetcn.com/livenews/3048366",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
-          "title": "沃什提名震荡余波未平 市场静待再融资公告开启美债新变局",
-          "url": "https://flash.jin10.com/detail/20260202145814081800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        }
-      ]
-    },
-    {
       "keyword_group": "黄金",
       "match_count": 3,
       "titles": [
@@ -1283,8 +1403,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时34分 ~ 21时56分]"
+          "appearance_count": 4,
+          "time_info": "[20时34分 ~ 22时35分]"
         },
         {
           "title": "土耳其提高部分黄金、白银基金的最低价格限制。",
@@ -1308,37 +1428,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "黄仁勋澄清：对OpenAI的千亿投资\"从未承诺\"，英伟达将逐步评估",
-          "url": "https://wallstreetcn.com/articles/3764694",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时16分 ~ 18时35分]"
-        },
-        {
-          "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
-          "url": "https://wallstreetcn.com/livenews/3047808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时14分]"
         }
       ]
     },
