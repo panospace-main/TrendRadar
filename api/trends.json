@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T20:34:30.281130+08:00",
-  "total_titles_processed": 1619,
+  "generated_at": "2026-02-02T21:56:06.196837+08:00",
+  "total_titles_processed": 1738,
   "failed_sources": [],
   "trends": [
     {
@@ -359,7 +359,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
@@ -626,7 +626,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
@@ -681,7 +681,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
@@ -732,6 +732,20 @@
           "time_info": "[00时16分 ~ 09时09分]"
         },
         {
+          "title": "汇丰中国财富洞察：“十五五”开局政策精准发力，监管稳市有助A股长期健康发展|中国观点",
+          "url": "https://wallstreetcn.com/premium/articles/3764602?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时31分 ~ 21时56分]"
+        },
+        {
           "title": "应声20CM涨停！A股年报行情纵深推进，11家上市公司净利最高同比预增超10倍",
           "url": "https://www.cls.cn/detail/2276497",
           "source": "财联社热门",
@@ -768,20 +782,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时16分 ~ 06时14分]"
-        },
-        {
-          "title": "汇丰中国财富洞察：“十五五”开局政策精准发力，监管稳市有助A股长期健康发展|中国观点",
-          "url": "https://wallstreetcn.com/premium/articles/3764602?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时31分 ~ 20时34分]"
         },
         {
           "title": "A股收评：三大指数跌超2%",
@@ -914,6 +914,90 @@
       ]
     },
     {
+      "keyword_group": "航天 航空",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "荷兰皇家航空公司恢复飞往中东多国航班",
+          "url": "https://flash.jin10.com/detail/20260201192459248800",
+          "source": "金十数据",
+          "ranks": [
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 05时15分]"
+        },
+        {
+          "title": "新加坡国家航天局四月挂牌 抢滩万亿级航天赛道",
+          "url": "https://flash.jin10.com/detail/20260202113808979800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
+          "title": "美国联邦航空局局长布莱恩·贝德福德：“我们并不反对”国家运输安全委员会的调查结果，即联邦航空局的失职导致了去年发生在华盛顿附近的一起致命空中相撞事故。",
+          "url": "https://flash.jin10.com/detail/20260202151108541800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
+          "title": "印度航空表示，已因缺陷报告而停飞波音787-8客机。",
+          "url": "https://flash.jin10.com/detail/20260202213816715800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
+          "title": "新加坡将成立国家航天局",
+          "url": "https://wallstreetcn.com/livenews/3048039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
+          "title": "消息称阿联酋航空拟复航以色列特拉维夫",
+          "url": "https://flash.jin10.com/detail/20260202174714764800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "市场消息：阿联酋航空在停飞两年后准备恢复以色列航线。",
+          "url": "https://flash.jin10.com/detail/20260202174423027800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 7,
       "titles": [
@@ -991,82 +1075,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "航天 航空",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "荷兰皇家航空公司恢复飞往中东多国航班",
-          "url": "https://flash.jin10.com/detail/20260201192459248800",
-          "source": "金十数据",
-          "ranks": [
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 05时15分]"
-        },
-        {
-          "title": "新加坡国家航天局四月挂牌 抢滩万亿级航天赛道",
-          "url": "https://flash.jin10.com/detail/20260202113808979800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "美国联邦航空局局长布莱恩·贝德福德：“我们并不反对”国家运输安全委员会的调查结果，即联邦航空局的失职导致了去年发生在华盛顿附近的一起致命空中相撞事故。",
-          "url": "https://flash.jin10.com/detail/20260202151108541800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
-          "title": "新加坡将成立国家航天局",
-          "url": "https://wallstreetcn.com/livenews/3048039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "消息称阿联酋航空拟复航以色列特拉维夫",
-          "url": "https://flash.jin10.com/detail/20260202174714764800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "市场消息：阿联酋航空在停飞两年后准备恢复以色列航线。",
-          "url": "https://flash.jin10.com/detail/20260202174423027800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时35分"
         }
       ]
     },
@@ -1200,7 +1211,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "10年期美债期货下跌1个点，30年期期货下跌7个点。",
@@ -1220,7 +1231,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
@@ -1234,6 +1245,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
+        },
+        {
+          "title": "美债市场紧盯季度发债安排 警惕美财政部祭出压低收益率的意外动作",
+          "url": "https://wallstreetcn.com/livenews/3048366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "沃什提名震荡余波未平 市场静待再融资公告开启美债新变局",
@@ -1253,6 +1275,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "独家|担忧价格与交割风险，多家黄金供应商暂停春节前银行现货金条供应",
+          "url": "https://www.cls.cn/detail/2278016",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时34分 ~ 21时56分]"
+        },
+        {
           "title": "土耳其提高部分黄金、白银基金的最低价格限制。",
           "url": "https://wallstreetcn.com/livenews/3048241",
           "source": "华尔街见闻-快讯",
@@ -1263,17 +1297,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时37分 ~ 18时35分]"
-        },
-        {
-          "title": "独家|担忧价格与交割风险，多家黄金供应商暂停春节前银行现货金条供应",
-          "url": "https://www.cls.cn/detail/2278016",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时34分"
         },
         {
           "title": "泰国期货交易所：黄金在线期货每日价格波动幅度将扩大至最新结算价的±20%。",
