@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T19:28:11.693776+08:00",
-  "total_titles_processed": 1619,
+  "generated_at": "2026-02-03T20:35:03.053792+08:00",
+  "total_titles_processed": 1733,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 59,
       "titles": [
         {
           "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 19时28分]"
+          "appearance_count": 6,
+          "time_info": "[17时31分 ~ 20时35分]"
         },
         {
           "title": "中方回应特朗普让中国参与军控谈判",
@@ -38,22 +38,24 @@
           "ranks": [
             15,
             5,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时36分 ~ 19时28分]"
+          "appearance_count": 8,
+          "time_info": "[15时36分 ~ 20时35分]"
         },
         {
           "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
           "url": "https://news.ifeng.com/c/8qRnEtgNGZK",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时27分 ~ 19时28分]"
+          "appearance_count": 4,
+          "time_info": "[19时27分 ~ 20时35分]"
         },
         {
           "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
@@ -61,11 +63,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时36分 ~ 19时28分]"
+          "appearance_count": 8,
+          "time_info": "[15时36分 ~ 20时35分]"
         },
         {
           "title": "特朗普称美印达成贸易协议 Waymo估值超千亿美元 | 环球市场",
@@ -199,6 +202,17 @@
           "time_info": "[00时26分 ~ 01时32分]"
         },
         {
+          "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
+          "url": "https://news.ifeng.com/c/8qRsRpYySJZ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时34分 ~ 20时35分]"
+        },
+        {
           "title": "市场消息：美国法官恢复了被特朗普叫停的沃旭能源纽约海上风电项目。",
           "url": "https://flash.jin10.com/detail/20260203021528114800",
           "source": "金十数据",
@@ -265,6 +279,17 @@
           "time_info": "02时29分"
         },
         {
+          "title": "美国联邦住房金融局局长Bill Pulte：认为沃什（美联储主席）提名会获得确认。 若特朗普有意，随时准备推进房利美和房地美的IPO。 房利美和房地美可能会IPO，或采取其他措施。",
+          "url": "https://wallstreetcn.com/livenews/3049122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "美国总统特朗普：从即日起，我们和印度双方同意建立美国与印度之间的贸易协议。根据该协议，美国将降低对印度的对等关税，从25%降至18%。他们也将逐步取消对美国的关税和非关税壁垒，直至完全消除。",
           "url": "https://flash.jin10.com/detail/20260203010223684800",
           "source": "金十数据",
@@ -329,6 +354,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "辉瑞(PFE.N)：2026年指引反映了最惠国药品定价和特朗普处方药政策预计带来的不利影响。",
+          "url": "https://flash.jin10.com/detail/20260203194801799800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "美国驻印度大使：美国总统特朗普刚刚与印度总理莫迪通话。",
@@ -626,13 +662,37 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "俄媒：特朗普称莫迪同意停止购买俄石油，克宫发声",
+          "url": "https://wallstreetcn.com/livenews/3049099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         }
       ]
     },
     {
       "keyword_group": "A股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "融资保证金比例上调至100%后，A股影响有多大？",
+          "url": "https://www.cls.cn/detail/2278910",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时26分 ~ 20时35分]"
+        },
         {
           "title": "券商：A股迎低吸窗口",
           "url": "https://www.toutiao.com/trending/7601767766462726163/",
@@ -645,17 +705,33 @@
           "time_info": "[00时25分 ~ 02时29分]"
         },
         {
-          "title": "融资保证金比例上调至100%后，A股影响有多大？",
-          "url": "https://www.cls.cn/detail/2278910",
+          "title": "华泰证券百亿港元转债融资引跌股价，海外募资A股为何敏感了？",
+          "url": "https://www.cls.cn/detail/2278887",
           "source": "财联社热门",
           "ranks": [
-            4,
-            3,
-            1
+            12,
+            10,
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时26分 ~ 19时28分]"
+          "appearance_count": 7,
+          "time_info": "[16时26分 ~ 20时35分]"
+        },
+        {
+          "title": "A股收评：全市场超4800只个股上涨",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E5%85%A8%E5%B8%82%E5%9C%BA%E8%B6%854800%E5%8F%AA%E4%B8%AA%E8%82%A1%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            27,
+            25,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时26分 ~ 20时35分]"
         },
         {
           "title": "汇丰中国财富洞察：“十五五”开局政策精准发力，监管稳市有助A股长期健康发展|中国观点",
@@ -669,6 +745,19 @@
           "time_info": "[00时25分 ~ 07时19分]"
         },
         {
+          "title": "A股成交额创年内新低！四大板块降温明显，融资余额同步回落，大额增减持股扫描",
+          "url": "https://www.cls.cn/detail/2279219",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 20时35分]"
+        },
+        {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-02-03）",
           "url": "https://flash.jin10.com/detail/20260203090434783800",
           "source": "金十数据",
@@ -678,33 +767,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
-        },
-        {
-          "title": "华泰证券百亿港元转债融资引跌股价，海外募资A股为何敏感了？",
-          "url": "https://www.cls.cn/detail/2278887",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时26分 ~ 19时28分]"
-        },
-        {
-          "title": "A股收评：全市场超4800只个股上涨",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E5%85%A8%E5%B8%82%E5%9C%BA%E8%B6%854800%E5%8F%AA%E4%B8%AA%E8%82%A1%E4%B8%8A%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            27,
-            25,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时26分 ~ 19时28分]"
         },
         {
           "title": "宁德时代：截至2026年1月31日，公司通过深圳证券交易所股票交易系统以集中竞价交易方式累计回购公司A股股份1599.08万股，占公司同日A股总股本的0.3628%，成交总金额为人民币43.86亿元。",
@@ -731,16 +793,15 @@
           "time_info": "[13时43分 ~ 14时38分]"
         },
         {
-          "title": "A股成交额创年内新低！四大板块降温明显，融资余额同步回落，大额增减持股扫描",
-          "url": "https://www.cls.cn/detail/2279219",
+          "title": "2026年首月A股新开492万户，高于2025所有月份，如何看这个数据？",
+          "url": "https://www.cls.cn/detail/2279395",
           "source": "财联社热门",
           "ranks": [
-            10,
-            6
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时31分 ~ 19时28分]"
+          "appearance_count": 2,
+          "time_info": "[20时34分 ~ 20时35分]"
         },
         {
           "title": "A股机器人概念股震荡走强，晋拓股份午后涨停，思看科技、科达制造、丰立智能、长盈精密、联得装备等涨幅居前。",
@@ -836,7 +897,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -847,8 +908,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时10分 ~ 19时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时10分 ~ 20时35分]"
         },
         {
           "title": "商品暴跌震动市场！美股指集体低开，纳指跌0.4%，甲骨文逆势涨4%，现货金银“V”型反转，布油跌5%",
@@ -873,6 +934,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时19分 ~ 15时36分]"
+        },
+        {
+          "title": "大反弹！白银涨11%，黄金涨6%，纳指期货涨超0.5%，存储板块美股盘前走高，欧股集体高开，韩股大涨6%",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时31分 ~ 20时35分]"
         },
         {
           "title": "美股稀土板块盘前走强 据称美国拟启动“金库计划” 复制石油储备模式",
@@ -903,18 +976,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时25分 ~ 12时06分]"
-        },
-        {
-          "title": "大反弹！白银涨11%，黄金涨6%，纳指期货涨超0.5%，存储板块美股盘前走高，欧股集体高开，韩股大涨6%",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 19时28分]"
         },
         {
           "title": "美制造业数据托底风险偏好，美股反弹、美元续涨，黄金跌5%，白银跌至80关口下方",
@@ -950,6 +1011,28 @@
           "time_info": "17时31分"
         },
         {
+          "title": "PayPal任命惠普的Enrique Lores为新任CEO。惠普美股盘前下跌2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3049115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "PayPal第四季度调整后每股收益1.23美元，上年同期1.19美元，市场预估1.28美元。 第四季度净营收86.8亿美元，同比增长3.7%，市场预估87.9亿美元。 第四季度调整后运营收益15.5亿美元，同比增长3.2%，市场预估15.9亿美元。 预计全年自由现金流超过60亿美元。 预计全年资本支出大约10亿美元，市场预估9.978亿美元。 PayPal美股盘前跌超8%。",
+          "url": "https://wallstreetcn.com/livenews/3049117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "美股太空公司股价盘前上涨，此前SpaceX确认与xAI合并。维珍银河上涨1.7%，行星实验室上涨3.1%，直觉机器上涨2.4%，旅行者科技上涨2.7%。",
           "url": "https://flash.jin10.com/detail/20260203175702498800",
           "source": "金十数据",
@@ -972,6 +1055,17 @@
           "time_info": "09时10分"
         },
         {
+          "title": "辉瑞第四季度营收175.6亿美元，市场预估169.4亿美元。 第四季度调整后每股收益0.66美元。 预计2026年调整后每股收益2.80美元至3.00美元。 预计2026年营收595亿美元至625亿美元。 辉瑞美股盘前跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3049108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "（美股）费城金银指数收跌0.40%，报380.81点。 （全球时段）纽约证交所ARCA金矿开采商指数跌1.62%，报2699.52点，美股盘初曾尖锐地冲高回落。 （美股）原材料指数收涨0.58%，（美股）金属与矿业指数收涨1.44%。",
           "url": "https://wallstreetcn.com/livenews/3048560",
           "source": "华尔街见闻-快讯",
@@ -981,6 +1075,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "默沙东第四季度调整后每股收益2.04美元。 第四季度每股收益（EPS）为1.19美元 第四季度销售额为164亿美元，同比增长5%，市场预期为161.7亿美元。 预计全年销售额为655亿至670亿美元，市场预期为675亿美元。 预计全年调整后每股收益（EPS）为5.00至5.15美元。 默沙东美股盘前一度跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3049101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         }
       ]
     },
@@ -1098,11 +1203,12 @@
           "url": "https://www.cls.cn/detail/2279201",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时31分 ~ 19时28分]"
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 20时35分]"
         },
         {
           "title": "【每日收评】三大指数探底回升均涨超1%，全市场超4800股飘红，商业航天概念卷土重来",
@@ -1114,8 +1220,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 19时28分]"
+          "appearance_count": 6,
+          "time_info": "[17时31分 ~ 20时35分]"
         },
         {
           "title": "观察｜中国商业载人航天加速，太空旅游离普通人还有多远？",
@@ -1125,11 +1231,12 @@
             18,
             20,
             19,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时06分 ~ 19时28分]"
+          "appearance_count": 8,
+          "time_info": "[12时06分 ~ 20时35分]"
         },
         {
           "title": "英国航天局负责人将于3月底离任",
@@ -1193,6 +1300,18 @@
           "time_info": "[13时43分 ~ 17时31分]"
         },
         {
+          "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
+          "url": "https://www.zhihu.com/question/1999853061464614005",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 20时35分]"
+        },
+        {
           "title": "金价暴跌后黄金市场挤满顾客",
           "url": "https://www.douyin.com/hot/2386891",
           "source": "抖音",
@@ -1204,17 +1323,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时31分 ~ 07时19分]"
-        },
-        {
-          "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
-          "url": "https://www.zhihu.com/question/1999853061464614005",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时31分 ~ 19时28分]"
         },
         {
           "title": "李大霄解读金价一夜V型反转",
@@ -1253,7 +1361,7 @@
     },
     {
       "keyword_group": "农业 机械",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "中央一号文件：科学有序推进农业转移人口市民化，推行由常住地登记户口提供基本公共服务制度",
@@ -1292,15 +1400,65 @@
           "time_info": "[18时31分 ~ 19时28分]"
         },
         {
+          "title": "印度贸易部长：在与美国的贸易协议中，敏感的农业和乳制品部门得到了保护。",
+          "url": "https://flash.jin10.com/detail/20260203200418801800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "【首提“常态化精准帮扶” 专家解读2026年中央一号文件】今年是5年过渡期结束后进入常态化帮扶的第一年。中央一号文件首次提出“常态化精准帮扶”的概念。中国农业大学副校长林万龙：最大的不同就是三个字，常态化。2020年之前叫攻坚期，2021年到2025年是叫过渡期，从2026年开始，明确提出来叫常态化帮扶，里面的核心就是大稳定，小调整。总体来说，之前的措施是行之有效的，这些措施要稳定下来。当然也有一些具体政策举措，它面临进一步优化的问题，所以叫小调整。（央视）",
           "url": "https://wallstreetcn.com/livenews/3049067",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.9362，较上一交易日官方收盘价涨151点，较上日夜盘收盘涨86点。",
+          "url": "https://wallstreetcn.com/livenews/3048976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "周一（2月2日）纽约尾盘（周二北京时间05:59），离岸人民币（CNH）兑美元报6.9426元，较上周五纽约尾盘涨158点，日内整体交投于6.9630-6.9380元区间。",
+          "url": "https://wallstreetcn.com/livenews/3048564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "智洋创新：正在筹划以发行人民币普通股股票、定向发行可转换公司债券（如有）、支付现金（如有）等方式购买深圳市灵明光子科技有限公司控制权，同时拟募集配套资金，股票停牌。",
+          "url": "https://wallstreetcn.com/livenews/3049103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         }
       ]
     },
@@ -1341,34 +1499,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "在岸人民币兑美元北京时间16:30官方收报6.9362，较上一交易日官方收盘价涨151点，较上日夜盘收盘涨86点。",
-          "url": "https://wallstreetcn.com/livenews/3048976",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "周一（2月2日）纽约尾盘（周二北京时间05:59），离岸人民币（CNH）兑美元报6.9426元，较上周五纽约尾盘涨158点，日内整体交投于6.9630-6.9380元区间。",
-          "url": "https://wallstreetcn.com/livenews/3048564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
         }
       ]
     },
