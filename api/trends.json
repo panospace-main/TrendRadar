@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T19:27:02.063319+08:00",
-  "total_titles_processed": 1767,
+  "generated_at": "2026-02-04T20:35:31.799308+08:00",
+  "total_titles_processed": 1865,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 67,
+      "match_count": 68,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -693,6 +693,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "特朗普回应爱泼斯坦案：我是清白的",
+          "url": "https://www.toutiao.com/trending/7602412254818140203/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "美国总统特朗普签署拨款法案以结束政府部分停摆。",
           "url": "https://flash.jin10.com/detail/20260204054150016800",
           "source": "金十数据",
@@ -773,7 +784,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -784,8 +795,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时20分 ~ 19时27分]"
+          "appearance_count": 14,
+          "time_info": "[07时20分 ~ 20时35分]"
         },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -796,8 +807,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时05分 ~ 19时27分]"
+          "appearance_count": 13,
+          "time_info": "[09时05分 ~ 20时35分]"
         },
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -828,11 +839,12 @@
           "ranks": [
             8,
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时41分 ~ 19时27分]"
+          "appearance_count": 11,
+          "time_info": "[13时41分 ~ 20时35分]"
         },
         {
           "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
@@ -844,8 +856,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时41分 ~ 19时27分]"
+          "appearance_count": 11,
+          "time_info": "[13时41分 ~ 20时35分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -1015,6 +1027,17 @@
           "time_info": "09时05分"
         },
         {
+          "title": "优步第一季度预计调整后EBITDA为23.7亿至24.7亿美元，市场预期为24.5亿美元。 第一季度预计总预订额为520亿至535亿美元，市场预期为513.7亿美元。 第四季度营收为143.7亿美元，同比增长20%，市场预期为142.9亿美元。 第四季度调整后EBITDA为24.9亿美元，同比增长35%，市场预期为24.8亿美元。 第四季度每股收益为0.14美元，去年同期为3.21美元。 第四季度净利润为2.96亿美元，同比下降96%。 优步美股盘前跌近9%。",
+          "url": "https://wallstreetcn.com/livenews/3049864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "美股延续跌势，纳指下跌2.00%。",
           "url": "https://flash.jin10.com/detail/20260204021533895800",
           "source": "金十数据",
@@ -1057,6 +1080,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "礼来第四季度调整后每股收益7.54美元，去年同期为5.32美元。 第四季度营收为192.9亿美元，同比增长43%，市场预期为180.1亿美元。 预计全年营收为800亿至830亿美元，市场预期为777.1亿美元。 预计全球产品价格降幅在10%至15%之间。 礼来美股盘前涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3049858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "网络股指数ETF收跌超3.3%，领跌美股行业ETF，标普能源板块涨约3.3%",
@@ -1381,7 +1415,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -1410,6 +1444,18 @@
           "time_info": "[17时34分 ~ 18时30分]"
         },
         {
+          "title": "上交所对沃格光电及有关责任人予以监管警示：“商业航天”“脑机接口”相关信息发布不准确、不完整，风险提示不充分，可能对投资者决策产生误导。",
+          "url": "https://wallstreetcn.com/livenews/3049841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 20时35分]"
+        },
+        {
           "title": "将37颗卫星送上太空的航天界“拼多多” 要IPO",
           "url": "https://www.cls.cn/detail/2279609",
           "source": "财联社热门",
@@ -1420,17 +1466,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时05分 ~ 12时04分]"
-        },
-        {
-          "title": "上交所对沃格光电及有关责任人予以监管警示：“商业航天”“脑机接口”相关信息发布不准确、不完整，风险提示不充分，可能对投资者决策产生误导。",
-          "url": "https://wallstreetcn.com/livenews/3049841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时27分"
         },
         {
           "title": "商业航天大年来了 广东、山东、浙江等10多个地方争相布局",
@@ -1634,7 +1669,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "中华民国以前的一块大洋相当于现在人民币多少啊？",
@@ -1693,9 +1728,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
+        },
+        {
+          "title": "盛新锂能：全资子公司盛屯锂业拟以现金人民币12.6亿元收购厦门创益持有的惠绒矿业13.93%股权，本次交易完成后，公司将100%控股惠绒矿业。惠绒矿业拥有木绒锂矿的采矿权证，木绒锂矿已查明Li2O资源量98.96万吨，平均品位1.62%，为四川地区锂矿品位最高的矿山之一，生产规模为300万吨/年。",
+          "url": "https://wallstreetcn.com/livenews/3049857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "财政部将于2月在香港发行140亿元人民币国债",
@@ -1784,11 +1830,12 @@
           "ranks": [
             5,
             23,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时34分 ~ 19时27分]"
+          "appearance_count": 6,
+          "time_info": "[17时34分 ~ 20时35分]"
         },
         {
           "title": "金价暴力反弹重上5000美元",
@@ -1962,7 +2009,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "120倍回报、千亿美元浮盈，SpaceX上市的隐藏大赢家——谷歌！",
@@ -1976,8 +2023,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时45分 ~ 19时27分]"
+          "appearance_count": 22,
+          "time_info": "[01时45分 ~ 20时35分]"
         },
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
@@ -1989,6 +2036,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        },
+        {
+          "title": "美国参议院Warren等参议员敦促美国联邦贸易委员会（FTC）审查科技行业的人工智能相关交易，涉及英伟达、Meta和谷歌。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3049876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "谷歌公司探索在印度大幅扩张，目前美国总统特朗普正设法限制签证（申请）。",
