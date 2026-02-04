@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T16:29:13.570382+08:00",
-  "total_titles_processed": 1447,
+  "generated_at": "2026-02-04T17:34:33.536468+08:00",
+  "total_titles_processed": 1566,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 65,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时04分 ~ 16时29分]"
+          "appearance_count": 7,
+          "time_info": "[12时04分 ~ 17时34分]"
         },
         {
           "title": "特朗普：普京遵守了停火承诺，那边真的很冷",
@@ -50,8 +50,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时41分 ~ 16时29分]"
+          "appearance_count": 6,
+          "time_info": "[13时41分 ~ 17时34分]"
+        },
+        {
+          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
+          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时04分 ~ 17时34分]"
         },
         {
           "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
@@ -65,18 +77,6 @@
           "time_info": "[00时41分 ~ 06时21分]"
         },
         {
-          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
-          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时04分 ~ 16时29分]"
-        },
-        {
           "title": "特朗普提名沃什“过于低调”，美联储恐迎来重大转变！一文读懂",
           "url": "https://www.cls.cn/detail/2280009",
           "source": "财联社热门",
@@ -86,8 +86,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时41分 ~ 16时29分]"
+          "appearance_count": 6,
+          "time_info": "[13时41分 ~ 17时34分]"
         },
         {
           "title": "英国政府：英国首相斯塔默、美国总统特朗普承认迪戈加西亚岛的战略重要性。",
@@ -414,6 +414,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "记者问爱泼斯坦案被特朗普怒怼",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%B0%E8%80%85%E9%97%AE%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E6%80%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
           "title": "美国总统特朗普：联邦政府应介入选举事务。",
           "url": "https://flash.jin10.com/detail/20260204054655936800",
           "source": "金十数据",
@@ -656,6 +667,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "特朗普与爱泼斯坦聚会视频曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E8%81%9A%E4%BC%9A%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
           "title": "美国贸易代表格里尔：特朗普签署法案，重新授权《非洲增长与机会法案》。 《非洲增长与机会法案》贸易优惠计划已获授权延长至2026年12月31日，且追溯效力至2025年9月30日。 政府将与国会合作，对非洲贸易优惠计划进行现代化改造。",
           "url": "https://wallstreetcn.com/livenews/3049395",
           "source": "华尔街见闻-快讯",
@@ -700,6 +722,17 @@
           "time_info": "01时45分"
         },
         {
+          "title": "特朗普称同哥伦比亚总统的会晤“非常好” 哥总统：绝不接受胁迫",
+          "url": "https://wallstreetcn.com/livenews/3049732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
           "title": "斯塔默和特朗普通话 讨论乌克兰局势",
           "url": "https://wallstreetcn.com/livenews/3049385",
           "source": "华尔街见闻-快讯",
@@ -714,7 +747,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -722,17 +755,6 @@
           "source": "华尔街见闻",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 06时21分]"
-        },
-        {
-          "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3764730",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -747,8 +769,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时20分 ~ 16时29分]"
+          "appearance_count": 9,
+          "time_info": "[07时20分 ~ 17时34分]"
+        },
+        {
+          "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3764730",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 06时21分]"
         },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -759,8 +792,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时05分 ~ 16时29分]"
+          "appearance_count": 8,
+          "time_info": "[09时05分 ~ 17时34分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -775,6 +808,19 @@
           "time_info": "[00时41分 ~ 09时05分]"
         },
         {
+          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
+          "url": "https://www.zhihu.com/question/2002302871203440223",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时41分 ~ 17时34分]"
+        },
+        {
           "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
           "url": "https://www.cls.cn/detail/2279710",
           "source": "财联社热门",
@@ -787,19 +833,6 @@
           "time_info": "[07时20分 ~ 15时38分]"
         },
         {
-          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
-          "url": "https://www.zhihu.com/question/2002302871203440223",
-          "source": "知乎",
-          "ranks": [
-            8,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时41分 ~ 16时29分]"
-        },
-        {
           "title": "美伊对峙升温：美军击落伊朗无人机 油价走强美股承压",
           "url": "https://www.cls.cn/detail/2279689",
           "source": "财联社热门",
@@ -810,6 +843,32 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时20分 ~ 14时38分]"
+        },
+        {
+          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时38分 ~ 17时34分]"
+        },
+        {
+          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
+          "url": "https://wallstreetcn.com/articles/3764895",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时41分 ~ 17时34分]"
         },
         {
           "title": "堡证券称美股步入季节性偏弱的2月，散户买入潮或显现疲态",
@@ -834,32 +893,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
-        },
-        {
-          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
-          "url": "https://wallstreetcn.com/articles/3764901",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时38分 ~ 16时29分]"
-        },
-        {
-          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
-          "url": "https://wallstreetcn.com/articles/3764895",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时41分 ~ 16时29分]"
         },
         {
           "title": "周二（2月3日）美股尾盘，彭博电动汽车价格回报指数涨1.72%，报3509.86点，全天持续走高。 成分股MP材料目前涨7.77%，Sona Blw Precision Forgings Ltd.收涨6.15%，中创新航科技集团H股收涨4.85%，禾赛科技涨4%，美国雅宝涨超3.7%，Panasonic株式会社收涨3.75%，广州汽车集团H股收涨3.39%表现第七，文远知行则跌超3.1%，MobilEye Global Inc.跌4.1%，安霸股份跌4.8%。",
@@ -920,6 +953,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时40分 ~ 04时26分]"
+        },
+        {
+          "title": "AMD美股盘前跌超7％，消息面上，公司下一季度营收指引不及市场预期。",
+          "url": "https://wallstreetcn.com/livenews/3049757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         },
         {
           "title": "美股AI软件先驱指数收跌5.22%，报101.34点，美股盘初快速下跌，北京时间23:00过后持续低位震荡。 成分股HubSpot收跌10.55%，Snowflake跌9.15%，新思科技跌8.46%、铿腾电子跌7.15%，Elastic跌8.34%，Adobe跌7.31%，Datadog跌7.28%，MongoDB跌7.14%，Salesforce跌6.85%，甲骨文跌3.37%，微软跌2.87%，C3.ai跌1.56%跌幅最小，Palantir涨6.85%，是唯一收涨的成分股。",
@@ -1411,7 +1455,7 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "【数据看盘】超10亿元资金狂买航天发展 “北向+机构+游资”联手抢筹罗博特科",
@@ -1446,6 +1490,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
+        },
+        {
+          "title": "商业航天首个卫星测发技术厂房诞生 未来可将单箭发射效率提升100%",
+          "url": "https://www.cls.cn/detail/2280180",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         },
         {
           "title": "印度航空：事件未报告任何人员受伤。",
@@ -1505,8 +1560,123 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
+          "url": "https://www.zhihu.com/question/1999853061464614005",
+          "source": "知乎",
+          "ranks": [
+            3,
+            4,
+            5,
+            7,
+            6,
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 12时04分]"
+        },
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 05时25分]"
+        },
+        {
+          "title": "金价创2009年以来最大单日涨幅",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%88%9B2009%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%9C%80%E5%A4%A7%E5%8D%95%E6%97%A5%E6%B6%A8%E5%B9%85%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
+          "title": "金价暴力反弹重上5000美元",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E5%8A%9B%E5%8F%8D%E5%BC%B9%E9%87%8D%E4%B8%8A5000%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时38分 ~ 17时34分]"
+        },
+        {
+          "title": "富达国际明星基金经理放话：金价再跌5%-7%将大举抄底",
+          "url": "https://flash.jin10.com/detail/20260204161737425800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
+          "title": "精准逃顶后拟反手做多 富达基金经理看好金价回调买入机会",
+          "url": "https://flash.jin10.com/detail/20260204141709898800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "地缘政治紧张局势再度升温 金价现徘徊在5100美元附近",
+          "url": "https://flash.jin10.com/detail/20260204165932668800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
+          "title": "金十图示：2026年02月04日（周三）上海金早盘价为1134.24元/克，较国际金价(1123.02元/克)，高11.22元/克",
+          "url": "https://flash.jin10.com/detail/20260204110147471800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时04分"
+        },
+        {
+          "title": "高盛称，仍认为其对2026年12月金价在每盎司5,400美元的预测面临明显的上行风险。 高盛称，从时间线来看，1月金价波动更多由西方资金流驱动，而非中国投机所致。",
+          "url": "https://wallstreetcn.com/livenews/3049511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "农业 机械",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "中共中央 国务院关于锚定农业农村现代化 扎实推进乡村全面振兴的意见",
@@ -1570,6 +1740,17 @@
           "time_info": "[03时40分 ~ 04时26分]"
         },
         {
+          "title": "德国机械设备制造业协会重申其预测，即2026年产量将增长1%。",
+          "url": "https://flash.jin10.com/detail/20260204170025766800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
           "title": "法国农业信贷银行第四季度净利润10.3亿欧元，同比下降39%，市场预估11亿欧元。 第四季度营收69.7亿欧元，同比下降1.8%，市场预估67.8亿欧元。 第四季度经营支出41.0亿欧元，同比上涨4.7%，市场预估39亿欧元。 第四季度贷款损失拨备6.29亿欧元，同比上涨5.9%，市场预估5.219亿欧元。",
           "url": "https://wallstreetcn.com/livenews/3049604",
           "source": "华尔街见闻-快讯",
@@ -1594,94 +1775,102 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 7,
+      "keyword_group": "人民币",
+      "match_count": 8,
       "titles": [
         {
-          "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
-          "url": "https://www.zhihu.com/question/1999853061464614005",
+          "title": "中华民国以前的一块大洋相当于现在人民币多少啊？",
+          "url": "https://www.zhihu.com/question/26462128",
           "source": "知乎",
           "ranks": [
-            3,
-            4,
             5,
-            7,
             6,
-            8,
-            15
+            4,
+            3,
+            19
           ],
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时41分 ~ 12时04分]"
         },
         {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=19&Refer=top",
-          "source": "微博",
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9397元，较周一夜盘收盘涨51点。成交量459.06亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3049289",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19,
-            17,
+            7,
+            11,
             25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 05时25分]"
-        },
-        {
-          "title": "金价暴力反弹重上5000美元",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E5%8A%9B%E5%8F%8D%E5%BC%B9%E9%87%8D%E4%B8%8A5000%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            23
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时38分 ~ 16时29分]"
+          "time_info": "[03时40分 ~ 05时25分]"
         },
         {
-          "title": "富达国际明星基金经理放话：金价再跌5%-7%将大举抄底",
-          "url": "https://flash.jin10.com/detail/20260204161737425800",
-          "source": "金十数据",
+          "title": "文件：天齐锂业调整26亿元人民币可转债的转股价",
+          "url": "https://wallstreetcn.com/livenews/3049753",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时29分"
+          "time_info": "17时34分"
         },
         {
-          "title": "精准逃顶后拟反手做多 富达基金经理看好金价回调买入机会",
-          "url": "https://flash.jin10.com/detail/20260204141709898800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
-          "title": "金十图示：2026年02月04日（周三）上海金早盘价为1134.24元/克，较国际金价(1123.02元/克)，高11.22元/克",
-          "url": "https://flash.jin10.com/detail/20260204110147471800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时04分"
-        },
-        {
-          "title": "高盛称，仍认为其对2026年12月金价在每盎司5,400美元的预测面临明显的上行风险。 高盛称，从时间线来看，1月金价波动更多由西方资金流驱动，而非中国投机所致。",
-          "url": "https://wallstreetcn.com/livenews/3049511",
+          "title": "阿布扎比国家石油公司据悉计划发行不超过140亿元人民币点心债。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3049566",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时04分"
+          "time_info": "13时41分"
+        },
+        {
+          "title": "财政部将于2月在香港发行140亿元人民币国债",
+          "url": "https://wallstreetcn.com/livenews/3049744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
+          "title": "周二（2月3日）纽约尾盘（北京时间05:59），离岸人民币（CNH）兑美元报6.9351元，较周一纽约尾盘涨75点，日内整体交投于6.9437-6.9309元区间。",
+          "url": "https://wallstreetcn.com/livenews/3049355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "中通快递：预计2025年收入为人民币485亿元-500亿元，同比增长约9.5%至12.9%",
+          "url": "https://wallstreetcn.com/livenews/3049736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.9376，较上一交易日官方收盘价跌14点，较上日夜盘收盘涨21点。",
+          "url": "https://wallstreetcn.com/livenews/3049731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         }
       ]
     },
@@ -1701,8 +1890,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时45分 ~ 16时29分]"
+          "appearance_count": 17,
+          "time_info": "[01时45分 ~ 17时34分]"
         },
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
@@ -1748,62 +1937,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "中华民国以前的一块大洋相当于现在人民币多少啊？",
-          "url": "https://www.zhihu.com/question/26462128",
-          "source": "知乎",
-          "ranks": [
-            5,
-            6,
-            4,
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时41分 ~ 12时04分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9397元，较周一夜盘收盘涨51点。成交量459.06亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3049289",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时40分 ~ 05时25分]"
-        },
-        {
-          "title": "阿布扎比国家石油公司据悉计划发行不超过140亿元人民币点心债。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3049566",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时41分"
-        },
-        {
-          "title": "周二（2月3日）纽约尾盘（北京时间05:59），离岸人民币（CNH）兑美元报6.9351元，较周一纽约尾盘涨75点，日内整体交投于6.9437-6.9309元区间。",
-          "url": "https://wallstreetcn.com/livenews/3049355",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
         }
       ]
     },
