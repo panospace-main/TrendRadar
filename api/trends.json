@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T20:35:14.533799+08:00",
-  "total_titles_processed": 1857,
+  "generated_at": "2026-02-06T21:55:22.819036+08:00",
+  "total_titles_processed": 1993,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时05分 ~ 20时35分]"
+          "appearance_count": 15,
+          "time_info": "[09时05分 ~ 21时55分]"
+        },
+        {
+          "title": "中方回应特朗普公开支持高市早苗",
+          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时31分 ~ 21时55分]"
         },
         {
           "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
@@ -31,19 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时05分 ~ 20时35分]"
-        },
-        {
-          "title": "中方回应特朗普公开支持高市早苗",
-          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时31分 ~ 20时35分]"
+          "appearance_count": 14,
+          "time_info": "[12时05分 ~ 21时55分]"
         },
         {
           "title": "日本大选前，特朗普发文支持高市",
@@ -585,7 +585,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "疲软就业数据冲击美股，三大股指集体低开，纳指跌1.5%，高通低开11%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
@@ -696,6 +696,17 @@
           "time_info": "[09时05分 ~ 14时41分]"
         },
         {
+          "title": "科技股抛压暂缓，美股期指集体转涨，英伟达结束五连跌，金银V形反弹，比特币止跌",
+          "url": "https://wallstreetcn.com/articles/3765113",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "金十图示：2026年02月05日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260206013143448800",
           "source": "金十数据",
@@ -707,6 +718,19 @@
           "time_info": "01时40分"
         },
         {
+          "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
+          "url": "https://www.cls.cn/detail/2282989",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 21时55分]"
+        },
+        {
           "title": "金十图示：2026年02月05日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260206013123695800",
           "source": "金十数据",
@@ -716,6 +740,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3051463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "美股收盘：纳指连跌3日 周跌幅扩大至近4%",
@@ -766,18 +801,6 @@
           "time_info": "[17时34分 ~ 18时31分]"
         },
         {
-          "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
-          "url": "https://www.cls.cn/detail/2282989",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时26分 ~ 20时35分]"
-        },
-        {
           "title": "（美股）费城金银指数收跌6.25%，报372.66点。 （全球时段）纽约证交所ARCA金矿开采商指数跌6.03%，报2660.11点。 （美股）原材料指数收跌3.87%，金属与矿业指数收跌2.95%。",
           "url": "https://wallstreetcn.com/livenews/3050900",
           "source": "华尔街见闻-快讯",
@@ -788,6 +811,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时16分]"
+        },
+        {
+          "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2283417",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "美股收盘：纳指连续3天均跌超1%",
@@ -892,7 +926,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "A股2026年春节休市安排公布",
@@ -948,6 +982,19 @@
           "time_info": "[00时37分 ~ 07时16分]"
         },
         {
+          "title": "节前最后一周！A股能否迎“红包行情”，近10年数据这样说",
+          "url": "https://www.cls.cn/detail/2283033",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 21时55分]"
+        },
+        {
           "title": "A股光伏设备板块震荡走高，正泰电源涨停，泽润新能涨超10%，协鑫集成、奥特维、亚玛顿、晶科能源、迈为股份、拉普拉斯等个股跟涨。",
           "url": "https://wallstreetcn.com/livenews/3051128",
           "source": "华尔街见闻-快讯",
@@ -957,18 +1004,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
-        },
-        {
-          "title": "节前最后一周！A股能否迎“红包行情”，近10年数据这样说",
-          "url": "https://www.cls.cn/detail/2283033",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时26分 ~ 20时35分]"
         },
         {
           "title": "高盛上调药明康德A股评级至买入（分析师Ziyi Chen之前所给评级为中性），目标价132.70元人民币（即上涨37%）。",
@@ -1000,7 +1035,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
@@ -1027,6 +1062,17 @@
           "time_info": "09时05分"
         },
         {
+          "title": "“大空头”表示他很“开心”，尽管他力挺的保险巨头Molina股价暴跌超30%",
+          "url": "https://wallstreetcn.com/livenews/3051441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "A股低开冲高回落后收跌",
           "url": "https://www.toutiao.com/trending/7603236497952804406/",
           "source": "今日头条",
@@ -1041,7 +1087,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "网信部门对快手平台处警告、1.191亿元人民币罚款处罚",
@@ -1153,15 +1199,26 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
+        },
+        {
+          "title": "高盛将盐湖股份评级上调至买进，目标价42元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3051442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         }
       ]
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "游客称花 200 元独享一架客机从九寨沟飞成都，为啥只有一个乘客航空公司也要飞？会亏本吗？",
@@ -1194,6 +1251,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时37分 ~ 07时16分]"
+        },
+        {
+          "title": "全国首款航天造电动垂直起降飞行器首飞成功",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E9%A6%96%E6%AC%BE%E8%88%AA%E5%A4%A9%E9%80%A0%E7%94%B5%E5%8A%A8%E5%9E%82%E7%9B%B4%E8%B5%B7%E9%99%8D%E9%A3%9E%E8%A1%8C%E5%99%A8%E9%A6%96%E9%A3%9E%E6%88%90%E5%8A%9F%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "商业航天何以“一飞冲天”",
@@ -1269,6 +1337,89 @@
           "source": "金十数据",
           "ranks": [
             17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "农业 机械",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "农业农村部：加快升级可视系统、卫星电话、新型北斗终端、海上宽带等渔船设施设备",
+          "url": "https://wallstreetcn.com/livenews/3051462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "农业农村部：加强国家种业阵型企业梯度培育，深入推进国家育种联合攻关和畜禽遗传改良计划",
+          "url": "https://wallstreetcn.com/livenews/3050982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "农业农村部：深化农村集体产权制度改革，不对集体收入提硬性目标",
+          "url": "https://wallstreetcn.com/livenews/3050981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "农业农村部：全面开展第二轮土地承包到期后再延长30年整省试点",
+          "url": "https://wallstreetcn.com/livenews/3050980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "农业农村部：全面开展第二轮土地承包到期后再延长30年整省试点",
+          "url": "https://flash.jin10.com/detail/20260206082935898800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "农业农村部发布关于落实《中共中央国务院关于锚定农业农村现代化扎实推进乡村全面振兴的意见》的实施意见。",
+          "url": "https://flash.jin10.com/detail/20260206082753406800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "德国工业产出意外大幅跳水 汽车与机械制造拖累大盘",
+          "url": "https://flash.jin10.com/detail/20260206151650624800",
+          "source": "金十数据",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1374,8 +1525,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时05分 ~ 20时35分]"
+          "appearance_count": 14,
+          "time_info": "[12时05分 ~ 21时55分]"
         },
         {
           "title": "AI恐慌蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
@@ -1448,78 +1599,6 @@
       ]
     },
     {
-      "keyword_group": "农业 机械",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "农业农村部：加强国家种业阵型企业梯度培育，深入推进国家育种联合攻关和畜禽遗传改良计划",
-          "url": "https://wallstreetcn.com/livenews/3050982",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "农业农村部：深化农村集体产权制度改革，不对集体收入提硬性目标",
-          "url": "https://wallstreetcn.com/livenews/3050981",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "农业农村部：全面开展第二轮土地承包到期后再延长30年整省试点",
-          "url": "https://wallstreetcn.com/livenews/3050980",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "农业农村部：全面开展第二轮土地承包到期后再延长30年整省试点",
-          "url": "https://flash.jin10.com/detail/20260206082935898800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "农业农村部发布关于落实《中共中央国务院关于锚定农业农村现代化扎实推进乡村全面振兴的意见》的实施意见。",
-          "url": "https://flash.jin10.com/detail/20260206082753406800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "德国工业产出意外大幅跳水 汽车与机械制造拖累大盘",
-          "url": "https://flash.jin10.com/detail/20260206151650624800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时40分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 4,
       "titles": [
@@ -1569,8 +1648,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时05分 ~ 20时35分]"
+          "appearance_count": 14,
+          "time_info": "[12时05分 ~ 21时55分]"
         }
       ]
     },
@@ -1625,7 +1704,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
