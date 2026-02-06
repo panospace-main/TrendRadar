@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T07:16:15.395925+08:00",
-  "total_titles_processed": 685,
+  "generated_at": "2026-02-06T09:05:35.719617+08:00",
+  "total_titles_processed": 850,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
         {
           "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
@@ -17,6 +17,39 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时37分 ~ 07时16分]"
+        },
+        {
+          "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
+          "url": "https://news.ifeng.com/c/8qW59pknpCi",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "特朗普下场支持高市：她将赢得选举，下月来白宫",
+          "url": "https://news.ifeng.com/c/8qW6McngHpX",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "美国总统特朗普：从今晚开始，数十种最常用的处方药将在一个新网站上（TrumpRx）以大幅折扣的价格面向所有消费者供应。",
+          "url": "https://flash.jin10.com/detail/20260206084843211800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
         },
         {
           "title": "美国白宫：（就伊朗问题）特朗普除了外交手段外还有许多其他选择。",
@@ -356,6 +389,17 @@
           "time_info": "00时39分"
         },
         {
+          "title": "特朗普：推出“TRUMPRX”网站，16家制药公司已签署协议。",
+          "url": "https://wallstreetcn.com/livenews/3050963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
           "title": "特朗普：已就迪戈加西亚岛问题与斯塔默交谈 保留军事手段的权利",
           "url": "https://flash.jin10.com/detail/20260206020251009800",
           "source": "金十数据",
@@ -381,7 +425,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "疲软就业数据冲击美股，三大股指集体低开，纳指跌1.5%，高通低开11%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
@@ -463,6 +507,18 @@
           "time_info": "01时40分"
         },
         {
+          "title": "美股收盘：纳指连续三天均跌超1%",
+          "url": "https://www.cls.cn/detail/2282258",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时15分 ~ 09时05分]"
+        },
+        {
           "title": "美股收盘：纳指连跌3日 周跌幅扩大至近4%",
           "url": "https://flash.jin10.com/detail/20260206050117661800",
           "source": "金十数据",
@@ -499,15 +555,15 @@
           "time_info": "[06时18分 ~ 07时16分]"
         },
         {
-          "title": "美股收盘：纳指连续三天均跌超1%",
-          "url": "https://www.cls.cn/detail/2282258",
-          "source": "财联社热门",
+          "title": "美股收盘：纳指连续3天均跌超1%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%BA%B3%E6%8C%87%E8%BF%9E%E7%BB%AD3%E5%A4%A9%E5%9D%87%E8%B7%8C%E8%B6%851%25",
+          "source": "百度热搜",
           "ranks": [
             9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时15分 ~ 07时16分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
         },
         {
           "title": "金十图示：2026年02月05日（周四）美股热门股票行情一览（美股收盘）",
@@ -541,6 +597,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "美股、金银、比特币、石油 全崩了",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E3%80%81%E9%87%91%E9%93%B6%E3%80%81%E6%AF%94%E7%89%B9%E5%B8%81%E3%80%81%E7%9F%B3%E6%B2%B9+%E5%85%A8%E5%B4%A9%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "美股三大股指期货跌幅扩大，标普500指数期货跌1%，纳指期货跌1.6%，道指期货跌近0.6%。",
+          "url": "https://flash.jin10.com/detail/20260206081816714800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "美股期货跌幅扩大，标普500指数期货现跌1%，纳斯达克100指数期货跌1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3050968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
         },
         {
           "title": "可选消费ETF跌1.39%，能源业ETF跌1.15%，网络股指数ETF跌1.05%，科技行业ETF跌0.59%，在美股盘初领跌行业ETF，生物科技指数ETF涨0.63%。",
@@ -632,7 +721,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "A股2026年春节休市安排公布",
@@ -651,11 +740,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 07时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 09时05分]"
         },
         {
           "title": "A股春节休市安排来了",
@@ -681,6 +771,179 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 03时32分]"
+        },
+        {
+          "title": "银河证券：当前A股一些铜矿核心标的2026年估值安全边际高，配置价值凸显",
+          "url": "https://wallstreetcn.com/livenews/3050967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "农业 机械",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "农业农村部：加强国家种业阵型企业梯度培育，深入推进国家育种联合攻关和畜禽遗传改良计划",
+          "url": "https://wallstreetcn.com/livenews/3050982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "农业农村部：深化农村集体产权制度改革，不对集体收入提硬性目标",
+          "url": "https://wallstreetcn.com/livenews/3050981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "农业农村部：全面开展第二轮土地承包到期后再延长30年整省试点",
+          "url": "https://wallstreetcn.com/livenews/3050980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "农业农村部：全面开展第二轮土地承包到期后再延长30年整省试点",
+          "url": "https://flash.jin10.com/detail/20260206082935898800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "农业农村部发布关于落实《中共中央国务院关于锚定农业农村现代化扎实推进乡村全面振兴的意见》的实施意见。",
+          "url": "https://flash.jin10.com/detail/20260206082753406800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "AI恐慌蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
+          "url": "https://wallstreetcn.com/articles/3765023",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "美国财长贝森特：美国国债市场非常有韧性。 外国对于美债拍卖的需求非常旺盛。",
+          "url": "https://wallstreetcn.com/livenews/3050805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 02时36分]"
+        },
+        {
+          "title": "两年期美债收益率跌超8个基点",
+          "url": "https://wallstreetcn.com/livenews/3050874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时18分]"
+        },
+        {
+          "title": "美债价格走高，2年期收益率下跌2.4个基点，10年期收益率下跌3个基点。",
+          "url": "https://flash.jin10.com/detail/20260206081121748800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "航天 航空",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "游客称花 200 元独享一架客机从九寨沟飞成都，为啥只有一个乘客航空公司也要飞？会亏本吗？",
+          "url": "https://www.zhihu.com/question/2002673465304511602",
+          "source": "知乎",
+          "ranks": [
+            6,
+            8,
+            11,
+            13,
+            15,
+            18,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 07时16分]"
+        },
+        {
+          "title": "最远能飞1500公里！峰飞航空上新5吨级eVTOL",
+          "url": "https://www.cls.cn/detail/2281815",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 07时16分]"
+        },
+        {
+          "title": "NASA 宣布阿耳忒弥斯 2 号将搭载 4 名航天员绕月飞行，此次任务有哪些值得关注？",
+          "url": "https://www.zhihu.com/question/1994076629576675918",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
         }
       ]
     },
@@ -748,8 +1011,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 07时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 09时05分]"
         },
         {
           "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
@@ -757,79 +1020,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 07时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "航天 航空",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "游客称花 200 元独享一架客机从九寨沟飞成都，为啥只有一个乘客航空公司也要飞？会亏本吗？",
-          "url": "https://www.zhihu.com/question/2002673465304511602",
-          "source": "知乎",
-          "ranks": [
-            6,
-            8,
-            11,
-            13,
-            15,
-            18,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 07时16分]"
-        },
-        {
-          "title": "最远能飞1500公里！峰飞航空上新5吨级eVTOL",
-          "url": "https://www.cls.cn/detail/2281815",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 07时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国财长贝森特：美国国债市场非常有韧性。 外国对于美债拍卖的需求非常旺盛。",
-          "url": "https://wallstreetcn.com/livenews/3050805",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 02时36分]"
-        },
-        {
-          "title": "两年期美债收益率跌超8个基点",
-          "url": "https://wallstreetcn.com/livenews/3050874",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 06时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 09时05分]"
         }
       ]
     },
@@ -863,6 +1059,23 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价巨震一周 黄金主题ETF缩水427亿",
+          "url": "https://www.toutiao.com/trending/7603200053885255723/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
@@ -871,11 +1084,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32543462",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时15分 ~ 07时16分]"
+          "appearance_count": 3,
+          "time_info": "[07时15分 ~ 09时05分]"
         }
       ]
     }
