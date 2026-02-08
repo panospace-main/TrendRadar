@@ -1,8 +1,129 @@
 {
-  "generated_at": "2026-02-09T06:16:44.435011+08:00",
-  "total_titles_processed": 444,
+  "generated_at": "2026-02-09T07:21:20.262766+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "A股",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "太空光伏概念龙头三连板 P型HJT/钙钛矿叠层技术路线A股名单及相关业务一览",
+          "url": "https://www.cls.cn/detail/2283724",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 07时21分]"
+        },
+        {
+          "title": "一夜之间4家A股公司被立案或处罚",
+          "url": "https://www.toutiao.com/trending/7604445809202957874/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            5,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 07时21分]"
+        },
+        {
+          "title": "年内迄今19家A股上市公司公告终止并购重组 热门商业航天概念股赫然在列",
+          "url": "https://www.cls.cn/detail/2283734",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 07时21分]"
+        },
+        {
+          "title": "龙头20CM三连板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2283877",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 07时21分]"
+        },
+        {
+          "title": "机构：A股市场存在显著的春节“日历效应”，持股过节或是更优选择",
+          "url": "https://wallstreetcn.com/livenews/3051893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "兴业证券：A股前期调整已释放一定风险，持股过节兼具胜率与赔率",
+          "url": "https://wallstreetcn.com/livenews/3051813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 04时15分]"
+        },
+        {
+          "title": "中泰证券：A股短期结构仍由科技主导，中期高股息板块或成为主线之一",
+          "url": "https://wallstreetcn.com/livenews/3051812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 04时15分]"
+        },
+        {
+          "title": "看好A股春节假期前后“红包行情”，机构称“持股过节或为上策”",
+          "url": "https://wallstreetcn.com/livenews/3051877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时21分]"
+        },
+        {
+          "title": "券商开年以来共计“拜访”685家A股公司",
+          "url": "https://wallstreetcn.com/livenews/3051890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "近190亿元“春节红包”来袭，34家A股公司节前排队派息",
+          "url": "https://wallstreetcn.com/livenews/3051885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        }
+      ]
+    },
     {
       "keyword_group": "特朗普",
       "match_count": 8,
@@ -16,11 +137,12 @@
             4,
             5,
             12,
-            16
+            16,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 06时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 07时21分]"
         },
         {
           "title": "美国总统特朗普对美国滑雪运动员亨特·赫斯发出批评，并称他为“彻头彻尾的失败者”。",
@@ -31,11 +153,23 @@
             5,
             6,
             13,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 06时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 07时21分]"
+        },
+        {
+          "title": "特朗普被白头海雕打脸视频再度火了",
+          "url": "https://www.toutiao.com/trending/7603686321965662214/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 07时21分]"
         },
         {
           "title": "美国财长贝森特：日本新首相是“伟大的盟友”，与美国总统特朗普关系良好。",
@@ -47,17 +181,6 @@
             12,
             19,
             23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 06时16分]"
-        },
-        {
-          "title": "特朗普被白头海雕打脸视频再度火了",
-          "url": "https://www.toutiao.com/trending/7603686321965662214/",
-          "source": "今日头条",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -115,91 +238,6 @@
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "太空光伏概念龙头三连板 P型HJT/钙钛矿叠层技术路线A股名单及相关业务一览",
-          "url": "https://www.cls.cn/detail/2283724",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 06时16分]"
-        },
-        {
-          "title": "一夜之间4家A股公司被立案或处罚",
-          "url": "https://www.toutiao.com/trending/7604445809202957874/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 06时16分]"
-        },
-        {
-          "title": "年内迄今19家A股上市公司公告终止并购重组 热门商业航天概念股赫然在列",
-          "url": "https://www.cls.cn/detail/2283734",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 06时16分]"
-        },
-        {
-          "title": "龙头20CM三连板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2283877",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 06时16分]"
-        },
-        {
-          "title": "看好A股春节假期前后“红包行情”，机构称“持股过节或为上策”",
-          "url": "https://wallstreetcn.com/livenews/3051877",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "兴业证券：A股前期调整已释放一定风险，持股过节兼具胜率与赔率",
-          "url": "https://wallstreetcn.com/livenews/3051813",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 04时15分]"
-        },
-        {
-          "title": "中泰证券：A股短期结构仍由科技主导，中期高股息板块或成为主线之一",
-          "url": "https://wallstreetcn.com/livenews/3051812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 04时15分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "航天 航空",
       "match_count": 3,
       "titles": [
@@ -211,8 +249,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 06时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 07时21分]"
         },
         {
           "title": "周末要闻汇总：我国成功发射可重复使用试验航天器；半导体行业有望首次迈入万亿美元时代",
@@ -222,8 +260,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 06时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 07时21分]"
         },
         {
           "title": "【早报】央行连续第15个月增持黄金；我国成功发射可重复使用试验航天器",
@@ -233,8 +271,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 06时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 07时21分]"
         }
       ]
     },
@@ -251,8 +289,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 06时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 07时21分]"
         },
         {
           "title": "高盛交易员警告：美股抛售尚未结束",
@@ -262,11 +300,12 @@
             1,
             2,
             9,
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 06时16分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 07时21分]"
         },
         {
           "title": "高盛交易员警告：随着算法资金抛售，美股将迎来剧烈波动，请“系好安全带”",
@@ -295,8 +334,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 06时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 07时21分]"
         }
       ]
     },
@@ -310,11 +349,12 @@
           "source": "今日头条",
           "ranks": [
             9,
-            30
+            30,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 06时16分]"
+          "appearance_count": 3,
+          "time_info": "[02时22分 ~ 07时21分]"
         }
       ]
     },
