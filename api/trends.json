@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T12:26:10.181570+08:00",
-  "total_titles_processed": 694,
+  "generated_at": "2026-02-08T13:56:37.755450+08:00",
+  "total_titles_processed": 773,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "道指突破5万大关！特朗普自夸：提前三年就完成目标，任期结束将站上10万点",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 12时26分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 13时56分]"
         },
         {
           "title": "特朗普宣布取消对印度商品25%关税",
@@ -52,11 +52,12 @@
           "ranks": [
             1,
             10,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 12时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 13时56分]"
         },
         {
           "title": "特朗普签署行政命令，对与伊朗有贸易往来的国家征收关税",
@@ -64,11 +65,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 12时26分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 13时56分]"
         },
         {
           "title": "特朗普支持媒体公司Nexstar吞并Tegna",
@@ -173,11 +175,12 @@
             1,
             3,
             10,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时17分 ~ 12时26分]"
+          "appearance_count": 6,
+          "time_info": "[05时17分 ~ 13时56分]"
         },
         {
           "title": "特朗普态度“大转变”：支持电视广播巨头Nexstar收购Tegna",
@@ -187,11 +190,12 @@
             4,
             6,
             13,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时17分 ~ 12时26分]"
+          "appearance_count": 6,
+          "time_info": "[05时17分 ~ 13时56分]"
         },
         {
           "title": "美国联邦通信委员会（FCC）官员Carr谈及总统特朗普力挺Nexstar收购Tegna的交易，宣称：让我们搞定这宗交易。",
@@ -209,33 +213,36 @@
           "url": "https://flash.jin10.com/detail/20260208105958137800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 13时56分]"
         },
         {
           "title": "美国总统特朗普：期待洪都拉斯总统阿斯富拉再次访问美国。",
           "url": "https://flash.jin10.com/detail/20260208105726564800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 13时56分]"
         },
         {
           "title": "美国总统特朗普：与我的朋友、洪都拉斯总统举行了一次非常重要的会晤。讨论了许多其他问题，包括我们两国之间的投资和贸易。",
           "url": "https://flash.jin10.com/detail/20260208105717509800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 13时56分]"
         },
         {
           "title": "加拿大央行行长：若失去特朗普的CUSMA准入，加拿大经济将面临衰退",
@@ -243,11 +250,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时27分 ~ 12时26分]"
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 13时56分]"
         },
         {
           "title": "特朗普：需要通过竞争来打击散播虚假新闻的电视网络",
@@ -255,11 +263,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时27分 ~ 12时26分]"
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 13时56分]"
         },
         {
           "title": "特朗普拒为种族主义视频道歉",
@@ -271,6 +280,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时26分 ~ 09时27分]"
+        },
+        {
+          "title": "学者：特朗普羞辱奥巴马引众怒",
+          "url": "https://www.toutiao.com/trending/7604317625304223283/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         }
       ]
     },
@@ -286,8 +306,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 12时26分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 13时56分]"
         },
         {
           "title": "阿尔及利亚拟取消与阿联酋的航空服务协议。",
@@ -318,22 +338,24 @@
           "url": "https://wallstreetcn.com/articles/3765231",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 12时26分]"
+          "appearance_count": 3,
+          "time_info": "[12时25分 ~ 13时56分]"
         },
         {
           "title": "【早报】央行连续第15个月增持黄金；我国成功发射可重复使用试验航天器",
           "url": "https://www.cls.cn/detail/2283820",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 12时26分]"
+          "appearance_count": 3,
+          "time_info": "[12时25分 ~ 13时56分]"
         }
       ]
     },
@@ -349,8 +371,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 12时26分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 13时56分]"
         },
         {
           "title": "A股再添一位“00”后董事长",
@@ -376,11 +398,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时26分 ~ 12时26分]"
+          "appearance_count": 5,
+          "time_info": "[09时26分 ~ 13时56分]"
         }
       ]
     },
@@ -408,8 +431,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 12时26分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 13时56分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -437,8 +460,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时19分 ~ 12时26分]"
+          "appearance_count": 6,
+          "time_info": "[07时19分 ~ 13时56分]"
         },
         {
           "title": "中国农业发展银行党委委员、副行长徐一丁接受中央纪委国家监委审查调查。（新华社）",
@@ -458,26 +481,8 @@
       ]
     },
     {
-      "keyword_group": "人民币",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国银行：持续打造伦敦离岸人民币市场",
-          "url": "https://wallstreetcn.com/livenews/3051763",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时27分 ~ 12时26分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "黄金——资产再配置，金价走向何方？",
@@ -490,6 +495,36 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时19分 ~ 09时27分]"
+        },
+        {
+          "title": "因金价飙升，意大利冬奥会金牌成史上最昂贵金牌，如何评价这一变化？",
+          "url": "https://www.zhihu.com/question/2003305831391785957",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国银行：持续打造伦敦离岸人民币市场",
+          "url": "https://wallstreetcn.com/livenews/3051763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 13时56分]"
         }
       ]
     }
