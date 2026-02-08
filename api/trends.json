@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T20:26:08.815241+08:00",
-  "total_titles_processed": 1170,
+  "generated_at": "2026-02-08T21:39:16.227471+08:00",
+  "total_titles_processed": 1245,
   "failed_sources": [],
   "trends": [
     {
@@ -278,11 +278,12 @@
           "ranks": [
             2,
             12,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 20时26分]"
+          "appearance_count": 4,
+          "time_info": "[18时17分 ~ 21时39分]"
         },
         {
           "title": "特朗普：需要通过竞争来打击散播虚假新闻的电视网络",
@@ -316,11 +317,12 @@
           "source": "金十数据",
           "ranks": [
             10,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时26分]"
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 21时39分]"
         },
         {
           "title": "特朗普拒为种族主义视频道歉",
@@ -347,8 +349,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时17分 ~ 20时26分]"
+          "appearance_count": 24,
+          "time_info": "[00时17分 ~ 21时39分]"
         },
         {
           "title": "我国成功发射一型可重复使用试验航天器，商业航天有望步入高频发射常态化阶段",
@@ -376,8 +378,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时25分 ~ 20时26分]"
+          "appearance_count": 13,
+          "time_info": "[12时25分 ~ 21时39分]"
         },
         {
           "title": "阿尔及利亚拟取消与阿联酋的航空服务协议。",
@@ -412,11 +414,12 @@
             12,
             19,
             24,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时21分 ~ 20时26分]"
+          "appearance_count": 6,
+          "time_info": "[16时21分 ~ 21时39分]"
         },
         {
           "title": "周末要闻汇总：我国成功发射可重复使用试验航天器；半导体行业有望首次迈入万亿美元时代",
@@ -425,11 +428,12 @@
           "ranks": [
             11,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时17分 ~ 20时26分]"
+          "appearance_count": 6,
+          "time_info": "[18时17分 ~ 21时39分]"
         },
         {
           "title": "我国成功发射可复用试验航天器意味啥",
@@ -456,8 +460,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时17分 ~ 20时26分]"
+          "appearance_count": 24,
+          "time_info": "[00时17分 ~ 21时39分]"
         },
         {
           "title": "A股再添一位“00”后董事长",
@@ -487,8 +491,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时26分 ~ 20时26分]"
+          "appearance_count": 15,
+          "time_info": "[09时26分 ~ 21时39分]"
         },
         {
           "title": "兴业证券：A股前期调整已释放一定风险，持股过节兼具胜率与赔率",
@@ -497,11 +501,12 @@
           "ranks": [
             6,
             11,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 20时26分]"
+          "appearance_count": 4,
+          "time_info": "[18时17分 ~ 21时39分]"
         },
         {
           "title": "中泰证券：A股短期结构仍由科技主导，中期高股息板块或成为主线之一",
@@ -510,11 +515,12 @@
           "ranks": [
             7,
             12,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 20时26分]"
+          "appearance_count": 4,
+          "time_info": "[18时17分 ~ 21时39分]"
         },
         {
           "title": "A股风格显著切换 科技板块深度调整",
@@ -545,19 +551,6 @@
           "time_info": "[00时17分 ~ 07时19分]"
         },
         {
-          "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
-          "url": "https://www.cls.cn/detail/2283586",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时17分 ~ 20时26分]"
-        },
-        {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
           "url": "https://wallstreetcn.com/articles/3765246",
           "source": "华尔街见闻",
@@ -568,8 +561,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时33分 ~ 20时26分]"
+          "appearance_count": 9,
+          "time_info": "[15时33分 ~ 21时39分]"
+        },
+        {
+          "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
+          "url": "https://www.cls.cn/detail/2283586",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 24,
+          "time_info": "[00时17分 ~ 21时39分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -697,8 +704,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时21分 ~ 20时26分]"
+          "appearance_count": 8,
+          "time_info": "[16时21分 ~ 21时39分]"
         }
       ]
     },
@@ -715,8 +722,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时17分 ~ 20时26分]"
+          "appearance_count": 6,
+          "time_info": "[18时17分 ~ 21时39分]"
         }
       ]
     },
@@ -731,11 +738,12 @@
           "ranks": [
             2,
             7,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 20时26分]"
+          "appearance_count": 4,
+          "time_info": "[18时17分 ~ 21时39分]"
         }
       ]
     }
