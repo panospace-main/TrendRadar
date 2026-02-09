@@ -1,22 +1,47 @@
 {
-  "generated_at": "2026-02-09T07:21:20.262766+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-02-09T09:12:12.045186+08:00",
+  "total_titles_processed": 634,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "太空光伏概念龙头三连板 P型HJT/钙钛矿叠层技术路线A股名单及相关业务一览",
           "url": "https://www.cls.cn/detail/2283724",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 07时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 09时12分]"
+        },
+        {
+          "title": "年内迄今19家A股上市公司公告终止并购重组 热门商业航天概念股赫然在列",
+          "url": "https://www.cls.cn/detail/2283734",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 09时12分]"
+        },
+        {
+          "title": "龙头20CM三连板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2283877",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 09时12分]"
         },
         {
           "title": "一夜之间4家A股公司被立案或处罚",
@@ -33,27 +58,15 @@
           "time_info": "[00时18分 ~ 07时21分]"
         },
         {
-          "title": "年内迄今19家A股上市公司公告终止并购重组 热门商业航天概念股赫然在列",
-          "url": "https://www.cls.cn/detail/2283734",
-          "source": "财联社热门",
+          "title": "金十数据整理：A股盘前市场要闻速递（2026-02-09）",
+          "url": "https://flash.jin10.com/detail/20260209090234712800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            7
+            1
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 07时21分]"
-        },
-        {
-          "title": "龙头20CM三连板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2283877",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 07时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
         },
         {
           "title": "机构：A股市场存在显著的春节“日历效应”，持股过节或是更优选择",
@@ -62,7 +75,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -101,13 +114,24 @@
           "time_info": "[06时16分 ~ 07时21分]"
         },
         {
+          "title": "摩根士丹利上调中国三大航空公司A股评级至超配",
+          "url": "https://wallstreetcn.com/livenews/3051944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
           "title": "券商开年以来共计“拜访”685家A股公司",
           "url": "https://wallstreetcn.com/livenews/3051890",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -118,15 +142,26 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "华泰证券：A股调整波段或接近尾声 建议逐步提升组合的弹性",
+          "url": "https://wallstreetcn.com/livenews/3051924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "美国总统特朗普：美国的选举充满舞弊和窃取，已成为全世界的笑柄。",
@@ -187,6 +222,17 @@
           "time_info": "[00时18分 ~ 06时16分]"
         },
         {
+          "title": "特朗普为何积极干预俄乌冲突",
+          "url": "https://www.toutiao.com/trending/7604632919629368883/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 09时12分]"
+        },
+        {
           "title": "日本首相高市早苗：将于三月会见特朗普期间，深化与美国的经济安全关系，包括稀土供应问题。",
           "url": "https://flash.jin10.com/detail/20260208215651951800",
           "source": "金十数据",
@@ -234,13 +280,36 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 06时16分]"
+        },
+        {
+          "title": "特朗普被美国国鸟疯狂打脸",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E7%BE%8E%E5%9B%BD%E5%9B%BD%E9%B8%9F%E7%96%AF%E7%8B%82%E6%89%93%E8%84%B8%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 09时12分]"
         }
       ]
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "周末要闻汇总：我国成功发射可重复使用试验航天器；半导体行业有望首次迈入万亿美元时代",
+          "url": "https://www.cls.cn/detail/2283882",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 09时12分]"
+        },
         {
           "title": "我国成功发射可重复使用试验航天器",
           "url": "https://www.cls.cn/detail/2283668",
@@ -253,26 +322,68 @@
           "time_info": "[00时18分 ~ 07时21分]"
         },
         {
-          "title": "周末要闻汇总：我国成功发射可重复使用试验航天器；半导体行业有望首次迈入万亿美元时代",
-          "url": "https://www.cls.cn/detail/2283882",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 07时21分]"
-        },
-        {
           "title": "【早报】央行连续第15个月增持黄金；我国成功发射可重复使用试验航天器",
           "url": "https://www.cls.cn/detail/2283820",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 07时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 09时12分]"
+        },
+        {
+          "title": "【早报】我国成功发射可重复使用试验航天器；央行已连续15个月增持黄金",
+          "url": "https://www.cls.cn/detail/2284056",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 09时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金价巨震下买黄金的人怎么样了",
+          "url": "https://www.toutiao.com/trending/7604465515100114459/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            30,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时22分 ~ 07时21分]"
+        },
+        {
+          "title": "金价重返5000美元",
+          "url": "https://www.douyin.com/hot/2394322",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 09时12分]"
+        },
+        {
+          "title": "机构：金价重返5000美元上方 投资者逢低买入",
+          "url": "https://flash.jin10.com/detail/20260209081725336800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
         }
       ]
     },
@@ -289,8 +400,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 07时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 09时12分]"
         },
         {
           "title": "高盛交易员警告：美股抛售尚未结束",
@@ -322,6 +433,23 @@
       ]
     },
     {
+      "keyword_group": "人民币",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国外汇交易中心（CFETS）：2月6日人民币汇率指数按周涨1.35至98.34。",
+          "url": "https://wallstreetcn.com/livenews/3051942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -331,30 +459,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 07时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价巨震下买黄金的人怎么样了",
-          "url": "https://www.toutiao.com/trending/7604465515100114459/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            30,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时22分 ~ 07时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 09时12分]"
         }
       ]
     },
