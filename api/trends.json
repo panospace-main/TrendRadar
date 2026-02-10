@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T19:43:16.936707+08:00",
-  "total_titles_processed": 1563,
+  "generated_at": "2026-02-10T20:47:11.512150+08:00",
+  "total_titles_processed": 1664,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普再放豪言：我选的美联储掌门沃什 有能力推动美国经济增长15%！",
@@ -29,11 +29,12 @@
             11,
             13,
             14,
-            26
+            26,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时24分 ~ 19时43分]"
+          "appearance_count": 12,
+          "time_info": "[12时24分 ~ 20时47分]"
         },
         {
           "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
@@ -97,6 +98,17 @@
           "time_info": "02时43分"
         },
         {
+          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
+          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时44分 ~ 20时47分]"
+        },
+        {
           "title": "市场消息：一名美国法官暂时中止了一项法院裁定，该裁定此前要求特朗普政府解冻用于纽约市“门户隧道”项目的资金。",
           "url": "https://flash.jin10.com/detail/20260210020706988800",
           "source": "金十数据",
@@ -152,17 +164,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时29分]"
-        },
-        {
-          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
-          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时44分 ~ 19时43分]"
         },
         {
           "title": "再翻一倍？特朗普豪言：我任期结束前 道指将站上10万点！",
@@ -252,6 +253,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "美国贸易代表格里尔：美国与加拿大的谈判主要针对跨国大桥议题。特朗普总统对这一问题存在合理关切。",
+          "url": "https://flash.jin10.com/detail/20260210201654942800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "美媒：特朗普称首个任期内在美联储主席人选决策上“犯了大错”",
@@ -345,7 +357,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -356,8 +368,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时20分 ~ 19时43分]"
+          "appearance_count": 14,
+          "time_info": "[09时20分 ~ 20时47分]"
         },
         {
           "title": "美股收盘：三大指数集体上涨 道指再创新高 纳指涨近1%",
@@ -470,6 +482,17 @@
           "time_info": "[06时27分 ~ 07时29分]"
         },
         {
+          "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2286272",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 20时47分]"
+        },
+        {
           "title": "周一（2月9日）美股尾盘，彭博电动汽车价格回报指数涨2.11%，报3593.84点，整体持续走高。 成分股中，欧股意法半导体收涨9.76%，阿内卡矿业股份涨4.8%，中创新航科技集团H股收涨4.81%，蔚来集团H股则收跌0.51%，雅迪集团H股收跌1.56%，智利化工矿业公司（SQM）跌1.6%。",
           "url": "https://wallstreetcn.com/livenews/3052510",
           "source": "华尔街见闻-快讯",
@@ -514,6 +537,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时42分 ~ 02时43分]"
+        },
+        {
+          "title": "可口可乐第四季度净营收118亿美元，市场预估120.3亿美元。 第四季度可比每股收益0.58美元，市场预估0.57美元。 预计2026年资本支出22亿美元，市场预估23.1亿美元。 可口可乐美股盘前一度跌超2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3053030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "金十图示：2026年02月09日（周一）美股热门股票行情一览（美股盘中）",
@@ -566,7 +600,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
         },
@@ -582,6 +616,17 @@
           "time_info": "01时42分"
         },
         {
+          "title": "法拉利预计2026年调整后EBITDA至少为29.3亿欧元，市场预期为29.1亿欧元。 第四季度EBITDA为7亿欧元，市场预期为6.62亿欧元。 第四季度净利润为3.81亿欧元，市场预期为3.83亿欧元。 第四季度稀释后每股收益为2.14欧元，市场预期为2.13欧元。 第四季度营收为18亿欧元，市场预期为17.7亿欧元。 第四季度交付量为3,152辆，市场预期为3,262辆。 法拉利美股盘前一度涨超9%。",
+          "url": "https://wallstreetcn.com/livenews/3053021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "汇丰策略师未见美股抛压持续，看好周期性板块",
           "url": "https://wallstreetcn.com/livenews/3052431",
           "source": "华尔街见闻-快讯",
@@ -595,8 +640,148 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "美国已通过多个渠道要求韩国批准谷歌将该国高精度地图数据出口至海外；同时，美国贸易代表格里尔对韩国的非关税壁垒表示强烈担忧。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3052699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "谷歌拟发行200亿美元债券 融资加码AI支出",
+          "url": "https://www.cls.cn/detail/2285182",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时20分 ~ 14时07分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet的美元债发行获得超过1000亿美元认购需求。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3052460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
+        {
+          "title": "市场消息：谷歌与Entrust将合作推出基于人工智能的身份验证服务。",
+          "url": "https://flash.jin10.com/detail/20260210010437354800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时42分 ~ 02时43分]"
+        },
+        {
+          "title": "字节“乘胜追击”又发新一代图像模型 称可与谷歌旗舰产品对标",
+          "url": "https://www.cls.cn/detail/2285787",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 20时47分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet的100年期英镑债在各期限券种中获得最高认购。",
+          "url": "https://wallstreetcn.com/livenews/3053034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
+          "title": "谷歌母公司Alphabet的美元债发行获得超过1000亿美元认购需求，势必募集200亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3052460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        },
+        {
+          "title": "谷歌母公司Alphabet将通过发行英镑债券筹集创纪录的45亿英镑资金，其英镑债券发行吸引了创纪录的240亿英镑认购需求。",
+          "url": "https://wallstreetcn.com/livenews/3053029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
+          "title": "谷歌“向天再借一百年”！全球科技界将迎来本世纪首只“百年债券”",
+          "url": "https://www.cls.cn/detail/2285329",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
+          "title": "苹果(AAPL.O)与谷歌(GOOG.O)根据英国数字规则手册向该国竞争监管机构作出承诺。",
+          "url": "https://flash.jin10.com/detail/20260210190249321800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
+          "title": "英国竞争监管机构推进针对苹果(AAPL.O)与谷歌(GOOG.O)移动生态系统规则的审查。",
+          "url": "https://flash.jin10.com/detail/20260210190225693800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
+          "title": "谷歌母公司Alphabet启动首次瑞士法郎债券发行",
+          "url": "https://wallstreetcn.com/livenews/3052843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "A股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "A股大举提升再融资吸引力！哪些公司受益？划定哪些红线？",
@@ -608,6 +793,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时42分 ~ 09时21分]"
+        },
+        {
+          "title": "A股上市公司春节前分红超3700亿元",
+          "url": "https://wallstreetcn.com/livenews/3053041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "外资机构密集调研A股公司，科技赛道成关注重点",
@@ -721,11 +917,12 @@
           "ranks": [
             6,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时50分 ~ 19时43分]"
+          "appearance_count": 6,
+          "time_info": "[17时50分 ~ 20时47分]"
         },
         {
           "title": "【数读IPO】今日3只新股上市，涉及商业航天概念等",
@@ -823,113 +1020,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "美国已通过多个渠道要求韩国批准谷歌将该国高精度地图数据出口至海外；同时，美国贸易代表格里尔对韩国的非关税壁垒表示强烈担忧。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3052699",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "谷歌拟发行200亿美元债券 融资加码AI支出",
-          "url": "https://www.cls.cn/detail/2285182",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时20分 ~ 14时07分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet的美元债发行获得超过1000亿美元认购需求。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3052460",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时42分"
-        },
-        {
-          "title": "市场消息：谷歌与Entrust将合作推出基于人工智能的身份验证服务。",
-          "url": "https://flash.jin10.com/detail/20260210010437354800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 02时43分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet的美元债发行获得超过1000亿美元认购需求，势必募集200亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3052460",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
-        },
-        {
-          "title": "谷歌“向天再借一百年”！全球科技界将迎来本世纪首只“百年债券”",
-          "url": "https://www.cls.cn/detail/2285329",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "苹果(AAPL.O)与谷歌(GOOG.O)根据英国数字规则手册向该国竞争监管机构作出承诺。",
-          "url": "https://flash.jin10.com/detail/20260210190249321800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        },
-        {
-          "title": "英国竞争监管机构推进针对苹果(AAPL.O)与谷歌(GOOG.O)移动生态系统规则的审查。",
-          "url": "https://flash.jin10.com/detail/20260210190225693800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        },
-        {
-          "title": "谷歌母公司Alphabet启动首次瑞士法郎债券发行",
-          "url": "https://wallstreetcn.com/livenews/3052843",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人民币",
       "match_count": 7,
       "titles": [
@@ -943,6 +1033,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "在岸、离岸人民币对美元汇率双双升破6.91",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32573316",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时44分 ~ 20时47分]"
+        },
+        {
+          "title": "全球股市创历史新高，欧股奢侈品大涨，台积电夜盘涨超3%，金银下挫，美元企稳人民币走强",
+          "url": "https://wallstreetcn.com/articles/3765361",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时42分 ~ 20时47分]"
         },
         {
           "title": "在岸人民币兑美元北京时间16:30官方收报6.9129，较上一交易日官方收盘价涨155点，较上日夜盘收盘涨79点。",
@@ -969,36 +1084,13 @@
           "time_info": "[06时27分 ~ 07时29分]"
         },
         {
-          "title": "在岸、离岸人民币对美元汇率双双升破6.91",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32573316",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时44分 ~ 19时43分]"
-        },
-        {
-          "title": "全球股市创历史新高，欧股奢侈品大涨，台积电夜盘涨超3%，金银下挫，美元企稳人民币走强",
-          "url": "https://wallstreetcn.com/articles/3765361",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时42分 ~ 19时43分]"
-        },
-        {
           "title": "【中国央行：继续实施好适度宽松的货币政策】2025年第四季度中国货币政策执行报告：继续实施好适度宽松的货币政策。把促进经济稳定增长、物价合理回升作为货币政策的重要考量，根据国内外经济金融形势和金融市场运行情况，把握好政策实施的力度、节奏和时机。灵活高效运用降准降息等多种政策工具，保持流动性充裕和社会融资条件相对宽松，引导金融总量合理增长、信贷均衡投放，使社会融资规模、货币供应量增长同经济增长、价格总水平预期目标相匹配。进一步完善利率调控框架，强化央行政策利率引导，完善市场化利率形成传导机制，发挥市场利率定价自律机制作用，加强利率政策执行和监督，降低银行负债成本，促进社会综合融资成本低位运行。有序扩大明示企业贷款综合融资成本工作覆盖面。发挥好货币政策工具总量和结构双重功能，有效落实好各类结构性货币政策工具，扎实做好金融“五篇大文章”，加强对扩大内需、科技创新、中小微企业等重点领域的金融支持。坚持以市场供求为基础、参考一篮子货币进行调节、有管理的浮动汇率制度，保持汇率弹性，发挥汇率调节宏观经济和国际收支自动稳定器功能，强化预期引导，防范汇率超调风险，保持人民币汇率在合理均衡水平上的基本稳定。拓展丰富中央银行宏观审慎和金融稳定功能，完善宏观审慎和金融稳定管理工具箱，维护金融市场稳定，坚决守住不发生系统性金融风险的底线。",
           "url": "https://wallstreetcn.com/livenews/3053004",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
         },
@@ -1026,11 +1118,12 @@
           "ranks": [
             20,
             18,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时39分 ~ 19时43分]"
+          "appearance_count": 6,
+          "time_info": "[16时39分 ~ 20时47分]"
         },
         {
           "title": "法巴银行：金价年内有望涨至6000美元 涨势合乎逻辑",
