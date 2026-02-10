@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T15:53:27.468169+08:00",
-  "total_titles_processed": 1167,
+  "generated_at": "2026-02-10T16:39:29.249978+08:00",
+  "total_titles_processed": 1253,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时24分 ~ 15时53分]"
+          "appearance_count": 6,
+          "time_info": "[12时24分 ~ 16时39分]"
         },
         {
           "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
@@ -51,11 +52,25 @@
           "ranks": [
             1,
             11,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时24分 ~ 15时53分]"
+          "appearance_count": 6,
+          "time_info": "[12时24分 ~ 16时39分]"
+        },
+        {
+          "title": "谷爱凌回应特朗普大骂冬奥运动员",
+          "url": "https://www.toutiao.com/trending/7605068464549744178/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时24分 ~ 16时39分]"
         },
         {
           "title": "据华尔街日报：特朗普政府官员最近几周向国会共和党人施压，要求将投资者禁令作为修正案纳入目前正在众议院和参议院审议的两项主要住房法案中。",
@@ -80,17 +95,6 @@
           "time_info": "02时43分"
         },
         {
-          "title": "加拿大谴责特朗普阻挠美加跨国大桥项目",
-          "url": "https://wallstreetcn.com/livenews/3052839",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时53分"
-        },
-        {
           "title": "市场消息：一名美国法官暂时中止了一项法院裁定，该裁定此前要求特朗普政府解冻用于纽约市“门户隧道”项目的资金。",
           "url": "https://flash.jin10.com/detail/20260210020706988800",
           "source": "金十数据",
@@ -113,19 +117,6 @@
           "time_info": "06时27分"
         },
         {
-          "title": "谷爱凌回应特朗普大骂冬奥运动员",
-          "url": "https://www.toutiao.com/trending/7605068464549744178/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时24分 ~ 15时53分]"
-        },
-        {
           "title": "美媒：丹麦另一领地或成特朗普的新目标",
           "url": "https://news.ifeng.com/c/8qcjl7IoRYq",
           "source": "凤凰网",
@@ -135,6 +126,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时24分 ~ 14时07分]"
+        },
+        {
+          "title": "加拿大谴责特朗普阻挠美加跨国大桥项目",
+          "url": "https://wallstreetcn.com/livenews/3052839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 16时39分]"
         },
         {
           "title": "美国总统特朗普：如果沃什能胜任他的工作，美国经济可以增长15%。",
@@ -325,11 +328,12 @@
           "url": "https://wallstreetcn.com/articles/3765262",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时20分 ~ 15时53分]"
+          "appearance_count": 8,
+          "time_info": "[09时20分 ~ 16时39分]"
         },
         {
           "title": "美股收盘：三大指数集体上涨 道指再创新高 纳指涨近1%",
@@ -534,7 +538,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "A股大举提升再融资吸引力！哪些公司受益？划定哪些红线？",
@@ -576,7 +580,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -634,6 +638,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
+        },
+        {
+          "title": "春节前后A股行业轮动规律是怎样的",
+          "url": "https://www.toutiao.com/trending/7605090309474618934/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         }
       ]
     },
@@ -727,7 +742,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "美国已通过多个渠道要求韩国批准谷歌将该国高精度地图数据出口至海外；同时，美国贸易代表格里尔对韩国的非关税壁垒表示强烈担忧。（彭博）",
@@ -785,13 +800,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "谷歌“向天再借一百年”！全球科技界将迎来本世纪首只“百年债券”",
+          "url": "https://www.cls.cn/detail/2285329",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
+          "title": "谷歌母公司Alphabet启动首次瑞士法郎债券发行",
+          "url": "https://wallstreetcn.com/livenews/3052843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         }
       ]
     },
     {
       "keyword_group": "人民币",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.9129，较上一交易日官方收盘价涨155点，较上日夜盘收盘涨79点。",
+          "url": "https://wallstreetcn.com/livenews/3052888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
         {
           "title": "1月份金融数据前瞻：新增人民币贷款、社融环比或多增",
           "url": "https://wallstreetcn.com/livenews/3052551",
@@ -868,6 +916,45 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "亿万富翁投资者托马斯·卡普兰：货币贬值和高全球债务支撑了黄金进一步走强的呼声，预计金价将创下新高。认为黄金是一种货币，而非大宗商品。",
+          "url": "https://flash.jin10.com/detail/20260210015646411800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        },
+        {
+          "title": "金十图示：2026年02月10日（周二）上海金午盘价为1118.1元/克，较国际金价(1115.18元/克)，高2.92元/克",
+          "url": "https://flash.jin10.com/detail/20260210150158914800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
+        {
+          "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32572245",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -906,34 +993,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "亿万富翁投资者托马斯·卡普兰：货币贬值和高全球债务支撑了黄金进一步走强的呼声，预计金价将创下新高。认为黄金是一种货币，而非大宗商品。",
-          "url": "https://flash.jin10.com/detail/20260210015646411800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
-        },
-        {
-          "title": "金十图示：2026年02月10日（周二）上海金午盘价为1118.1元/克，较国际金价(1115.18元/克)，高2.92元/克",
-          "url": "https://flash.jin10.com/detail/20260210150158914800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时53分"
         }
       ]
     },
