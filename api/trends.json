@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T07:32:09.806293+08:00",
-  "total_titles_processed": 660,
+  "generated_at": "2026-02-11T09:18:30.199479+08:00",
+  "total_titles_processed": 798,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
@@ -175,6 +175,30 @@
           "time_info": "[03时55分 ~ 05时34分]"
         },
         {
+          "title": "特朗普承认自己犯了大错",
+          "url": "https://www.toutiao.com/trending/7605365293166362662/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时30分 ~ 09时18分]"
+        },
+        {
+          "title": "特朗普：伊朗不会拥有核武器或导弹",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E4%B8%8D%E4%BC%9A%E6%8B%A5%E6%9C%89%E6%A0%B8%E6%AD%A6%E5%99%A8%E6%88%96%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时30分 ~ 09时18分]"
+        },
+        {
           "title": "美国总统特朗普：我认为2026年将会很棒。",
           "url": "https://flash.jin10.com/detail/20260211050353108800",
           "source": "金十数据",
@@ -319,17 +343,6 @@
           "time_info": "[06时31分 ~ 07时32分]"
         },
         {
-          "title": "特朗普承认自己犯了大错",
-          "url": "https://www.toutiao.com/trending/7605365293166362662/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时30分 ~ 07时32分]"
-        },
-        {
           "title": "美国白宫：特朗普将于周四签署废除气候规则的决议。",
           "url": "https://flash.jin10.com/detail/20260211025108837800",
           "source": "金十数据",
@@ -378,15 +391,48 @@
           "time_info": "[03时55分 ~ 04时35分]"
         },
         {
-          "title": "特朗普：伊朗不会拥有核武器或导弹",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E4%B8%8D%E4%BC%9A%E6%8B%A5%E6%9C%89%E6%A0%B8%E6%AD%A6%E5%99%A8%E6%88%96%E5%AF%BC%E5%BC%B9",
-          "source": "百度热搜",
+          "title": "特朗普又翻脸了，中国再躺枪",
+          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
+          "source": "凤凰网",
           "ranks": [
-            24
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时30分 ~ 07时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "特朗普放话：若美伊谈判无果 或向中东增派航母打击群",
+          "url": "https://www.cls.cn/detail/2286509",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "美军“导弹已上膛”，特朗普再对伊朗发出威胁",
+          "url": "https://news.ifeng.com/c/8qeNbE9tmAI",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
+          "url": "https://news.ifeng.com/c/8qeNWWhXyTI",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "当地时间10日，美国总统特朗普表示，“伊朗不会拥有核武器或者导弹”。",
@@ -409,6 +455,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
+        },
+        {
+          "title": "特朗普对伊朗释放强硬信号 欧洲议会通过2040年减排90%目标 | 环球市场",
+          "url": "https://www.cls.cn/detail/2286531",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "内塔尼亚胡将向特朗普提供有关伊朗军事能力的新情报",
@@ -455,6 +512,17 @@
           "time_info": "00时56分"
         },
         {
+          "title": "特朗普：或向中东再派一支航母打击群",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%88%96%E5%90%91%E4%B8%AD%E4%B8%9C%E5%86%8D%E6%B4%BE%E4%B8%80%E6%94%AF%E8%88%AA%E6%AF%8D%E6%89%93%E5%87%BB%E7%BE%A4",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
           "title": "美国总统特朗普：我认为美联储主席提名人凯文·沃什同意所说的。 我认为2026年将会很棒。 重申股市应该因为好消息而上涨。",
           "url": "https://wallstreetcn.com/livenews/3053247",
           "source": "华尔街见闻-快讯",
@@ -469,7 +537,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -499,11 +567,24 @@
           "url": "https://www.cls.cn/detail/2286272",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 06时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 09时18分]"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 道指续创历史新高",
+          "url": "https://www.cls.cn/detail/2286520",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时30分 ~ 09时18分]"
         },
         {
           "title": "莫德纳宣布，美国食品药品管理局（FDA）拒绝审查其流感疫苗MRNA Flu申请。 FDA称，该公司临床试验（受试样本）不够大，也没有得到很好的控制。 莫德纳美股盘后跌9%。",
@@ -512,7 +593,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -539,17 +620,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时31分]"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 道指续创历史新高",
-          "url": "https://www.cls.cn/detail/2286520",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时30分 ~ 07时32分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 西部数据跌8%",
@@ -600,6 +670,17 @@
           "time_info": "[06时31分 ~ 07时32分]"
         },
         {
+          "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
+          "url": "https://wallstreetcn.com/articles/3765438",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
           "title": "周二（2月10日）美股尾盘，彭博电动汽车价格回报指数涨0.70%，报3616.33点。 亚太盘初至美股开盘持稳于3600点附近——维持微幅上涨状态，之后一度加速走高。",
           "url": "https://wallstreetcn.com/livenews/3053236",
           "source": "华尔街见闻-快讯",
@@ -636,7 +717,7 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "1145亿市值！今年首个商业航天IPO落户科创板",
@@ -674,9 +755,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "中国商业航天估值过万亿背后",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E4%BC%B0%E5%80%BC%E8%BF%87%E4%B8%87%E4%BA%BF%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "美国联邦航空管理局（FAA）局长Bryan Bedford：与加拿大之间的问题已经得到解决。 预计加拿大本周将宣布针对湾流飞机的认证问题。",
@@ -685,7 +777,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -696,7 +788,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         }
@@ -712,22 +804,24 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 07时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时56分 ~ 09时18分]"
         },
         {
           "title": "非农前夜，降息预期难振风险偏好，标普转跌，人民币又创近三年新高，商品震荡横盘",
           "url": "https://wallstreetcn.com/articles/3765361",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时30分 ~ 07时32分]"
+          "appearance_count": 3,
+          "time_info": "[07时30分 ~ 09时18分]"
         },
         {
           "title": "上期所原油期货2604合约夜盘收涨0.21%，报473.60元人民币/桶。 沪金夜盘收跌0.38%，沪银收跌1.54%。",
@@ -760,7 +854,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         }
@@ -923,6 +1017,47 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32572245",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时56分 ~ 09时18分]"
+        },
+        {
+          "title": "从避险到标配 摩根大通勾勒金价8000美元蓝图",
+          "url": "https://flash.jin10.com/detail/20260211064938299800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "零售数据疲软重燃降息预期 金价重回5050美元上方",
+          "url": "https://flash.jin10.com/detail/20260211073639412800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -962,31 +1097,19 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
+      "keyword_group": "A股",
+      "match_count": 1,
       "titles": [
         {
-          "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32572245",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 07时32分]"
-        },
-        {
-          "title": "从避险到标配 摩根大通勾勒金价8000美元蓝图",
-          "url": "https://flash.jin10.com/detail/20260211064938299800",
+          "title": "金十数据整理：A股盘前市场要闻速递（2026-02-11）",
+          "url": "https://flash.jin10.com/detail/20260211090338151800",
           "source": "金十数据",
           "ranks": [
-            7
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时32分"
+          "time_info": "09时18分"
         }
       ]
     }
