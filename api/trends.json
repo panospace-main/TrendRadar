@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T09:10:46.177270+08:00",
-  "total_titles_processed": 849,
+  "generated_at": "2026-02-12T12:14:33.525856+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普：伊朗希望达成协议，不然太蠢了",
@@ -26,11 +26,12 @@
             10,
             9,
             8,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时50分 ~ 09时10分]"
+          "appearance_count": 10,
+          "time_info": "[01时50分 ~ 12时14分]"
         },
         {
           "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
@@ -363,6 +364,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "特朗普称赞1月非农强劲表现 再度呼吁大幅降息",
+          "url": "https://www.cls.cn/detail/2287759",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
           "title": "市场消息：内塔尼亚胡在会见特朗普之前会见了美国国务卿鲁比奥。",
           "url": "https://flash.jin10.com/detail/20260212002408203800",
           "source": "金十数据",
@@ -553,7 +565,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
@@ -604,6 +616,19 @@
           "time_info": "01时51分"
         },
         {
+          "title": "美股收盘：非农提振昙花一现 三大指数集体收跌",
+          "url": "https://www.cls.cn/detail/2287796",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时23分 ~ 12时14分]"
+        },
+        {
           "title": "金十图示：2026年02月11日（周三）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260212013019120800",
           "source": "金十数据",
@@ -650,16 +675,15 @@
           "time_info": "[06时21分 ~ 07时23分]"
         },
         {
-          "title": "美股收盘：非农提振昙花一现 三大指数集体收跌",
-          "url": "https://www.cls.cn/detail/2287796",
+          "title": "开盘即巅峰！华尔街热议：强劲非农下美股缘何虎头蛇尾？",
+          "url": "https://www.cls.cn/detail/2287918",
           "source": "财联社热门",
           "ranks": [
-            13,
-            5
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时23分 ~ 09时10分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
         },
         {
           "title": "生物技术公司Viking Therapeutics股价在美股盘后交易中上涨9.1%。 该公司宣布，计划在今年第三季度将其口服肥胖症治疗药物VK2735推向3期临床试验。 尽管第四季度亏损超预期（主要受研发支出激增驱动），但其口服药物的进度优势抵消了财务压力。",
@@ -676,8 +700,19 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "2月12日投资避雷针：商业航天人气股澄清 没有4.58亿海南项目且25年商业航天订单不足千万",
+          "url": "https://www.cls.cn/detail/2287881",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
         {
           "title": "当地时间11日，俄罗斯国际航空公司发布公告称，该公司旗下的罗西亚航空公司自2月24日起将取消所有往返莫斯科与古巴首都哈瓦那之间的航班，恢复时间将另行通知。",
           "url": "https://flash.jin10.com/detail/20260212031533238800",
@@ -763,8 +798,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时23分 ~ 09时10分]"
+          "appearance_count": 3,
+          "time_info": "[07时23分 ~ 12时14分]"
         },
         {
           "title": "非农就业意外强劲，美股指集体高开，标普500创新高，美元指数短线走高，美债承压，黄金涨幅收窄",
@@ -870,7 +905,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
         },
