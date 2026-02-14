@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T17:21:57.984724+08:00",
-  "total_titles_processed": 1226,
+  "generated_at": "2026-02-14T18:16:25.990642+08:00",
+  "total_titles_processed": 1292,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,18 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[04时26分 ~ 14时33分]"
+        },
+        {
+          "title": "特朗普证实美军将向中东派第二艘航母",
+          "url": "https://news.ifeng.com/c/8qj2ZhXi0EY",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时06分 ~ 18时16分]"
         },
         {
           "title": "报告：特朗普关税政策成本90%由美国消费者和企业买单",
@@ -66,16 +78,30 @@
           "time_info": "[00时33分 ~ 15时28分]"
         },
         {
-          "title": "特朗普证实美军将向中东派第二艘航母",
-          "url": "https://news.ifeng.com/c/8qj2ZhXi0EY",
-          "source": "凤凰网",
+          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
+          "url": "https://www.cls.cn/detail/2290201",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            9
+            13,
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时06分 ~ 17时21分]"
+          "appearance_count": 8,
+          "time_info": "[12时01分 ~ 18时16分]"
+        },
+        {
+          "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
+          "url": "https://www.cls.cn/detail/2290097",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时01分 ~ 18时16分]"
         },
         {
           "title": "文件显示，美国纽约州和新泽西州在特朗普政府尚未解冻“Gateway”项目资金后，已寻求举行法院听证会。",
@@ -117,19 +143,6 @@
           "time_info": "[03时36分 ~ 09时07分]"
         },
         {
-          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
-          "url": "https://www.cls.cn/detail/2290201",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时01分 ~ 17时21分]"
-        },
-        {
           "title": "特朗普诉BBC诽谤案定于2027年2月开审",
           "url": "https://m.thepaper.cn/newsDetail_forward_32596885",
           "source": "澎湃新闻",
@@ -143,19 +156,6 @@
           "time_info": "[00时33分 ~ 02时33分]"
         },
         {
-          "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
-          "url": "https://www.cls.cn/detail/2290097",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时01分 ~ 17时21分]"
-        },
-        {
           "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
           "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
           "source": "凤凰网",
@@ -165,17 +165,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时33分 ~ 03时36分]"
-        },
-        {
-          "title": "美国国务卿鲁比奥：美国特使维特科夫和特朗普女婿库什纳很快就会安排一些会晤。",
-          "url": "https://flash.jin10.com/detail/20260214165909253800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
         },
         {
           "title": "美军将向中东派出第二艘航母 特朗普称将访问委内瑞拉 | 环球市场",
@@ -189,17 +178,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时01分 ~ 16时20分]"
-        },
-        {
-          "title": "美国国务卿鲁比奥：美国总统特朗普表示他更倾向于与伊朗达成协议，但要做到这一点非常困难。",
-          "url": "https://flash.jin10.com/detail/20260214165831489800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
         },
         {
           "title": "【特朗普称将访问委内瑞拉】记者13日获悉，美国总统特朗普在接受媒体采访时被问及是否会访问委内瑞拉，他回应称：“我将访问委内瑞拉。”不过，他未提供任何进一步细节，包括具体时间或行程安排。（总台央视）",
@@ -317,6 +295,54 @@
           "time_info": "[03时36分 ~ 05时26分]"
         },
         {
+          "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
+          "url": "https://news.ifeng.com/c/8qjoPYjzxHm",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时28分 ~ 18时16分]"
+        },
+        {
+          "title": "美国国务卿鲁比奥：美国特使维特科夫和特朗普女婿库什纳很快就会安排一些会晤。",
+          "url": "https://flash.jin10.com/detail/20260214165909253800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时16分]"
+        },
+        {
+          "title": "加州州长慕安会痛批特朗普：让美国倒退回19世纪！",
+          "url": "https://wallstreetcn.com/livenews/3055491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 18时16分]"
+        },
+        {
+          "title": "美国国务卿鲁比奥：美国总统特朗普表示他更倾向于与伊朗达成协议，但要做到这一点非常困难。",
+          "url": "https://flash.jin10.com/detail/20260214165831489800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时16分]"
+        },
+        {
           "title": "特朗普称将访问委内瑞拉",
           "url": "https://flash.jin10.com/detail/20260214021300671800",
           "source": "金十数据",
@@ -327,29 +353,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时33分 ~ 03时36分]"
-        },
-        {
-          "title": "加州州长慕安会痛批特朗普：让美国倒退回19世纪！",
-          "url": "https://wallstreetcn.com/livenews/3055491",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 17时21分]"
-        },
-        {
-          "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
-          "url": "https://news.ifeng.com/c/8qjoPYjzxHm",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时28分 ~ 17时21分]"
         },
         {
           "title": "美国总统特朗普宣扬股市表现和通胀数据。",
@@ -809,8 +812,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时21分 ~ 17时21分]"
+          "appearance_count": 12,
+          "time_info": "[07时21分 ~ 18时16分]"
         },
         {
           "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
@@ -898,6 +901,18 @@
           "time_info": "12时01分"
         },
         {
+          "title": "美股轮动之际：黄仁勋跌出全球十大富翁之列 沃尔玛三兄妹进入排行",
+          "url": "https://www.cls.cn/detail/2290296",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时16分]"
+        },
+        {
           "title": "公用事业ETF收跌超2.7%，领跌美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3055368",
           "source": "华尔街见闻-快讯",
@@ -932,17 +947,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时22分]"
-        },
-        {
-          "title": "美股轮动之际：黄仁勋跌出全球十大富翁之列 沃尔玛三兄妹进入排行",
-          "url": "https://www.cls.cn/detail/2290296",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
         },
         {
           "title": "美股周五收盘，道指收涨0.1%，标普500指数涨0.05%，纳指跌0.22%。大型科技股涨跌不一 ，苹果(AAPL.O)跌2.27%，英伟达(NVDA.O)跌2.21%，闪迪(SNDK.O)跌0.59%，甲骨文(ORCL.N)涨2.34%，高通(QCOM.O)涨1.61%。",
@@ -1006,6 +1010,20 @@
       "match_count": 11,
       "titles": [
         {
+          "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
+          "url": "https://www.cls.cn/detail/2290186",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时11分 ~ 18时16分]"
+        },
+        {
           "title": "谷歌 Gemini 3 Deep Think 深度思考大模型升级，相比前代有哪些提升？",
           "url": "https://www.zhihu.com/question/2005579925827130176",
           "source": "知乎",
@@ -1017,19 +1035,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时35分 ~ 06时23分]"
-        },
-        {
-          "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
-          "url": "https://www.cls.cn/detail/2290186",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时11分 ~ 17时21分]"
         },
         {
           "title": "美国国土安全部（DHS）围绕移民与海关执法局（ICE）追踪问题传唤谷歌、Meta、Reddit、以及Discord。（纽约时报）",
@@ -1044,6 +1049,19 @@
           "time_info": "[06时23分 ~ 07时22分]"
         },
         {
+          "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
+          "url": "https://wallstreetcn.com/livenews/3055478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 18时16分]"
+        },
+        {
           "title": "13F报告显示：Maverick Capital Ltd.四季度建仓做多谷歌C、应用材料、波士顿科学、Visa、以及Camden Property。 增持台积电、英伟达、GFL Environment、Carvana。 清仓Kenvue、美国银行、AMD、Danaher、以及Insmed。 减持Nubank、迪士尼、Merit Medical、Acadia Health、Sherwin-Williams。 重仓英伟达、微软、亚马逊、台积电、谷歌C。",
           "url": "https://wallstreetcn.com/livenews/3055394",
           "source": "华尔街见闻-快讯",
@@ -1054,18 +1072,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时22分 ~ 09时07分]"
-        },
-        {
-          "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
-          "url": "https://wallstreetcn.com/livenews/3055478",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 17时21分]"
         },
         {
           "title": "13F报告显示：巴克莱四季度增持美光科技、谷歌C、吉利德科学、应用材料、Kenvue。 减持英伟达、微软、摩根大通、百事、苹果。 重仓英伟达、微软、苹果、亚马逊、谷歌A。",
@@ -1249,18 +1255,6 @@
           "time_info": "[00时33分 ~ 07时22分]"
         },
         {
-          "title": "央行：1月份人民币存款增加8.09万亿",
-          "url": "https://www.toutiao.com/trending/7606276170493329444/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 12时01分]"
-        },
-        {
           "title": "信贷开门红！中国1月新增社融7.22万亿，新增人民币贷款4.71万亿，M2同比增长9.0%",
           "url": "https://wallstreetcn.com/articles/3765679",
           "source": "华尔街见闻",
@@ -1270,8 +1264,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时06分 ~ 17时21分]"
+          "appearance_count": 10,
+          "time_info": "[09时06分 ~ 18时16分]"
+        },
+        {
+          "title": "央行：1月份人民币存款增加8.09万亿",
+          "url": "https://www.toutiao.com/trending/7606276170493329444/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 18时16分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9032元，较周四夜盘收盘涨1点。成交量305.62亿美元。",
@@ -1325,8 +1331,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时06分 ~ 17时21分]"
+          "appearance_count": 10,
+          "time_info": "[09时06分 ~ 18时16分]"
         },
         {
           "title": "中国持续减持美债意味着什么",
@@ -1365,6 +1371,18 @@
           "time_info": "[07时21分 ~ 07时22分]"
         },
         {
+          "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
+          "url": "https://wallstreetcn.com/articles/3765719",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时16分]"
+        },
+        {
           "title": "全球投资者为何不再“信仰”美债了",
           "url": "https://www.toutiao.com/trending/7606539464474627647/",
           "source": "今日头条",
@@ -1375,17 +1393,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时20分 ~ 17时21分]"
-        },
-        {
-          "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
-          "url": "https://wallstreetcn.com/articles/3765719",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
         }
       ]
     },
@@ -1413,11 +1420,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 17时21分]"
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 18时16分]"
         },
         {
           "title": "OpenAI总裁布罗克曼：我们现在正将我们的模型应用于前沿领域的研究当中。在10个数学研究难题中（这些难题是数学研究者已经解决但从未公布解决方案的难题），在一周内，我们的模型发现了至少6个问题的可能正确解决方案。",
@@ -1509,8 +1517,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时01分 ~ 17时21分]"
+          "appearance_count": 8,
+          "time_info": "[12时01分 ~ 18时16分]"
         },
         {
           "title": "A股蛇年十大牛股盘点：上纬新材以超25倍涨幅夺魁 商业航天龙头赫然在列",
@@ -1521,8 +1529,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时32分 ~ 17时21分]"
+          "appearance_count": 6,
+          "time_info": "[14时32分 ~ 18时16分]"
         }
       ]
     },
