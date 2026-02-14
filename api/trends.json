@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T09:07:10.254562+08:00",
-  "total_titles_processed": 725,
+  "generated_at": "2026-02-14T12:01:41.255425+08:00",
+  "total_titles_processed": 900,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 59,
       "titles": [
         {
           "title": "特朗普：泽连斯基必须行动起来，否则将错失好机会",
@@ -13,11 +13,12 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时26分 ~ 09时07分]"
+          "appearance_count": 9,
+          "time_info": "[04时26分 ~ 12时01分]"
         },
         {
           "title": "报告：特朗普关税政策成本90%由美国消费者和企业买单",
@@ -41,22 +42,24 @@
             20,
             19,
             22,
-            23
+            23,
+            11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 09时07分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 12时01分]"
         },
         {
           "title": "特朗普将访问委内瑞拉",
           "url": "https://news.ifeng.com/c/8qitxi0GRdt",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时26分 ~ 09时07分]"
+          "appearance_count": 9,
+          "time_info": "[04时26分 ~ 12时01分]"
         },
         {
           "title": "文件显示，美国纽约州和新泽西州在特朗普政府尚未解冻“Gateway”项目资金后，已寻求举行法院听证会。",
@@ -139,7 +142,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -249,6 +252,18 @@
           "time_info": "[02时33分 ~ 03时36分]"
         },
         {
+          "title": "特朗普证实美军将向中东派第二艘航母",
+          "url": "https://news.ifeng.com/c/8qj2ZhXi0EY",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时06分 ~ 12时01分]"
+        },
+        {
           "title": "美国总统特朗普宣扬股市表现和通胀数据。",
           "url": "https://wallstreetcn.com/livenews/3055338",
           "source": "华尔街见闻-快讯",
@@ -286,17 +301,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时36分 ~ 05时26分]"
-        },
-        {
-          "title": "特朗普证实美军将向中东派第二艘航母",
-          "url": "https://news.ifeng.com/c/8qj2ZhXi0EY",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时06分 ~ 09时07分]"
         },
         {
           "title": "美国总统特朗普：美国是北约内强大的一部分。",
@@ -416,6 +420,17 @@
           "time_info": "01时34分"
         },
         {
+          "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
+          "url": "https://www.cls.cn/detail/2290097",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        },
+        {
           "title": "美国最高法院将于2月20日就特朗普关税案公布意见",
           "url": "https://flash.jin10.com/detail/20260213235807160800",
           "source": "金十数据",
@@ -449,6 +464,17 @@
           "time_info": "01时34分"
         },
         {
+          "title": "美军将向中东派出第二艘航母 特朗普称将访问委内瑞拉 | 环球市场",
+          "url": "https://www.cls.cn/detail/2290112",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        },
+        {
           "title": "美国总统特朗普：（谈欧洲）我们相处得很好；我们正在谈判。",
           "url": "https://flash.jin10.com/detail/20260214005611106800",
           "source": "金十数据",
@@ -469,6 +495,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
+        },
+        {
+          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
+          "url": "https://www.cls.cn/detail/2290201",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
         },
         {
           "title": "美国总统特朗普称赞今日公布的良好经济数据。",
@@ -532,7 +569,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -636,6 +673,17 @@
           "time_info": "02时33分"
         },
         {
+          "title": "外媒爆料：美军正做准备，一旦特朗普下令攻击伊朗，行动可能持续数周",
+          "url": "https://wallstreetcn.com/livenews/3055429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        },
+        {
           "title": "美国总统特朗普：正在考虑伊拉克总理人选。",
           "url": "https://flash.jin10.com/detail/20260214012401960800",
           "source": "金十数据",
@@ -661,7 +709,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "黄金一度跌超4%、白银暴跌11%，美股大跌引爆算法交易贵金属卖盘？",
@@ -687,6 +735,20 @@
           "time_info": "[00时33分 ~ 07时22分]"
         },
         {
+          "title": "美股脆弱之际，今晚CPI恐现“鹰派意外”",
+          "url": "https://wallstreetcn.com/articles/3765660",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 12时01分]"
+        },
+        {
           "title": "美CPI数据即将公布 美股期指盘前集体走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2289929",
           "source": "财联社热门",
@@ -696,21 +758,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 09时07分]"
-        },
-        {
-          "title": "美股脆弱之际，今晚CPI恐现“鹰派意外”",
-          "url": "https://wallstreetcn.com/articles/3765660",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 09时07分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 12时01分]"
         },
         {
           "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
@@ -753,11 +802,23 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时21分 ~ 09时07分]"
+          "appearance_count": 5,
+          "time_info": "[07时21分 ~ 12时01分]"
+        },
+        {
+          "title": "美股：金银大涨 英伟达蒸发6900亿元",
+          "url": "https://www.toutiao.com/trending/7606270891333091371/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
         },
         {
           "title": "公用事业ETF收跌超2.7%，领跌美股行业ETF",
@@ -802,7 +863,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -954,8 +1015,82 @@
       ]
     },
     {
+      "keyword_group": "农业 机械",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "央行等四部门：要强化重点领域金融资源投入 支持农业综合生产能力和质量效益提升",
+          "url": "https://flash.jin10.com/detail/20260214113736065800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        },
+        {
+          "title": "四部门：推动农业担保机构下沉，提高欠发达地区服务可及度",
+          "url": "https://wallstreetcn.com/livenews/3055461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        },
+        {
+          "title": "四部门：因地制宜打造休闲农业、乡村旅游、民宿经济、电商直播等新产业、新业态金融服务模式",
+          "url": "https://wallstreetcn.com/livenews/3055458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        },
+        {
+          "title": "中国人民银行、金融监管总局、中国证监会、农业农村部印发《关于统筹建立常态化金融支持机制 助力防止返贫致贫和乡村全面振兴的意见》。",
+          "url": "https://flash.jin10.com/detail/20260214113327440800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        },
+        {
+          "title": "欧洲央行：因未遵守欧洲央行关于气候相关及环境风险的决定，对法国农业信贷银行处以总额7,551,050欧元的定期罚款。",
+          "url": "https://flash.jin10.com/detail/20260214010100409800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时34分"
+        },
+        {
+          "title": "欧洲央行：法国农业信贷银行没能有效地确认气候风险。",
+          "url": "https://wallstreetcn.com/livenews/3055312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时34分 ~ 03时36分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "人民币",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -977,8 +1112,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 09时07分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 12时01分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9032元，较周四夜盘收盘涨1点。成交量305.62亿美元。",
@@ -994,6 +1129,18 @@
           "time_info": "[03时36分 ~ 05时26分]"
         },
         {
+          "title": "信贷开门红！中国1月新增社融7.22万亿，新增人民币贷款4.71万亿，M2同比增长9.0%",
+          "url": "https://wallstreetcn.com/articles/3765679",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时06分 ~ 12时01分]"
+        },
+        {
           "title": "周五（2月13日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9012元，较周四纽约尾盘跌31点，日内整体交投于6.8973-6.9109元区间。 本周，离岸人民币累计上涨大约290点，涨幅大约0.4%，2月12日美股盘前曾涨至6.8912元。",
           "url": "https://wallstreetcn.com/livenews/3055388",
           "source": "华尔街见闻-快讯",
@@ -1006,15 +1153,68 @@
           "time_info": "[07时22分 ~ 09时07分]"
         },
         {
-          "title": "信贷开门红！中国1月新增社融7.22万亿，新增人民币贷款4.71万亿，M2同比增长9.0%",
-          "url": "https://wallstreetcn.com/articles/3765679",
+          "title": "人民币存款增加对经济增长是利好吗",
+          "url": "https://www.toutiao.com/trending/7606369699554659882/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
+          "url": "https://wallstreetcn.com/articles/3765664",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时06分 ~ 12时01分]"
+        },
+        {
+          "title": "两年期美债收益率在美国CPI通胀数据发布日创2022年以来新低，中长期收益率本周跌约16个基点",
+          "url": "https://wallstreetcn.com/livenews/3055361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时26分 ~ 07时22分]"
+        },
+        {
+          "title": "美国通胀温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债走强，黄金重回5000关口",
+          "url": "https://wallstreetcn.com/articles/3765664",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时06分 ~ 09时07分]"
+          "time_info": "[07时21分 ~ 07时22分]"
+        },
+        {
+          "title": "中国持续减持美债意味着什么",
+          "url": "https://www.toutiao.com/trending/7606523556855287338/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
         }
       ]
     },
@@ -1102,73 +1302,19 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 3,
+      "keyword_group": "A股",
+      "match_count": 1,
       "titles": [
         {
-          "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
-          "url": "https://wallstreetcn.com/articles/3765664",
-          "source": "华尔街见闻",
+          "title": "本周披露并购重组进展的A股名单一览 1200亿算力概念股在列",
+          "url": "https://www.cls.cn/detail/2289993",
+          "source": "财联社热门",
           "ranks": [
             3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时06分 ~ 09时07分]"
-        },
-        {
-          "title": "两年期美债收益率在美国CPI通胀数据发布日创2022年以来新低，中长期收益率本周跌约16个基点",
-          "url": "https://wallstreetcn.com/livenews/3055361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时26分 ~ 07时22分]"
-        },
-        {
-          "title": "美国通胀温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债走强，黄金重回5000关口",
-          "url": "https://wallstreetcn.com/articles/3765664",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时21分 ~ 07时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农业 机械",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "欧洲央行：因未遵守欧洲央行关于气候相关及环境风险的决定，对法国农业信贷银行处以总额7,551,050欧元的定期罚款。",
-          "url": "https://flash.jin10.com/detail/20260214010100409800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时34分"
-        },
-        {
-          "title": "欧洲央行：法国农业信贷银行没能有效地确认气候风险。",
-          "url": "https://wallstreetcn.com/livenews/3055312",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时34分 ~ 03时36分]"
+          "time_info": "12时01分"
         }
       ]
     },
