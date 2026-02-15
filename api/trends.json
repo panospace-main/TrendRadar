@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T19:15:39.607020+08:00",
-  "total_titles_processed": 1094,
+  "generated_at": "2026-02-15T20:27:04.966912+08:00",
+  "total_titles_processed": 1172,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "王毅：特朗普非常尊重中方，但还有人想打压中国",
@@ -33,6 +33,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时17分 ~ 12时12分]"
+        },
+        {
+          "title": "民主党轮番安抚欧洲：再忍忍，特朗普3年后就会离开",
+          "url": "https://news.ifeng.com/c/8qlaP330gp4",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时17分 ~ 20时27分]"
         },
         {
           "title": "民主党人跳出来指责：绥靖！特朗普上赶着为中国效力",
@@ -92,26 +103,18 @@
           "time_info": "[12时12分 ~ 16时21分]"
         },
         {
-          "title": "民主党轮番安抚欧洲：再忍忍，特朗普3年后就会离开",
-          "url": "https://news.ifeng.com/c/8qlaP330gp4",
-          "source": "凤凰网",
+          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            11,
+            8,
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 19时15分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
-          "url": "https://flash.jin10.com/detail/20260215183847434800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
+          "appearance_count": 6,
+          "time_info": "[16时21分 ~ 20时27分]"
         },
         {
           "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
@@ -144,6 +147,18 @@
           "time_info": "[15时32分 ~ 19时15分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
+          "url": "https://flash.jin10.com/detail/20260215183847434800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 20时27分]"
+        },
+        {
           "title": "特朗普：北约看在我的份上付了5%国防支出",
           "url": "https://news.ifeng.com/c/8qk233NwWlu",
           "source": "凤凰网",
@@ -166,19 +181,6 @@
           "time_info": "[00时17分 ~ 03时17分]"
         },
         {
-          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时21分 ~ 19时15分]"
-        },
-        {
           "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
           "url": "https://www.toutiao.com/trending/7606703474663063593/",
           "source": "今日头条",
@@ -189,6 +191,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时22分 ~ 18时17分]"
+        },
+        {
+          "title": "2026慕安会｜王毅：特朗普非常尊重中方，但还有人想打压中国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32610423",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 20时27分]"
         },
         {
           "title": "曝特朗普发涉种族主义视频被批后发怒",
@@ -240,8 +253,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时13分 ~ 19时15分]"
+          "appearance_count": 11,
+          "time_info": "[09时13分 ~ 20时27分]"
         },
         {
           "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
@@ -423,11 +436,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 19时15分]"
+          "appearance_count": 4,
+          "time_info": "[18时17分 ~ 20时27分]"
         }
       ]
     },
@@ -487,8 +501,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时17分 ~ 19时15分]"
+          "appearance_count": 19,
+          "time_info": "[00时17分 ~ 20时27分]"
         }
       ]
     }
