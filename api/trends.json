@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T14:45:37.057375+08:00",
-  "total_titles_processed": 985,
+  "generated_at": "2026-02-17T15:43:50.625052+08:00",
+  "total_titles_processed": 1084,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时09分 ~ 14时45分]"
+          "appearance_count": 6,
+          "time_info": "[09时09分 ~ 15时43分]"
         },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -460,7 +460,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -506,8 +506,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 14时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 15时43分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -521,8 +521,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 14时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 15时43分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
@@ -563,8 +563,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 14时45分]"
+          "appearance_count": 4,
+          "time_info": "[12时09分 ~ 15时43分]"
         }
       ]
     },
