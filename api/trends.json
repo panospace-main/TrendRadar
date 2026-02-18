@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T15:44:34.490657+08:00",
-  "total_titles_processed": 1191,
+  "generated_at": "2026-02-18T16:34:34.102290+08:00",
+  "total_titles_processed": 1272,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "哈梅内伊回应特朗普威胁",
@@ -53,8 +53,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时11分 ~ 15时44分]"
+          "appearance_count": 9,
+          "time_info": "[09时11分 ~ 16时34分]"
+        },
+        {
+          "title": "特朗普女儿伊万卡中文拜年：新年快乐",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%EF%BC%9A%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            14,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时11分 ~ 16时34分]"
         },
         {
           "title": "特朗普涉台最新表态，台当局和日本都慌了",
@@ -101,30 +115,6 @@
           "time_info": "12时12分"
         },
         {
-          "title": "美空军确认“空军一号”新涂装将采用特朗普偏爱的配色：红、白、金、深蓝",
-          "url": "https://flash.jin10.com/detail/20260218152713560800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        },
-        {
-          "title": "特朗普女儿伊万卡中文拜年：新年快乐",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%EF%BC%9A%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时11分 ~ 15时44分]"
-        },
-        {
           "title": "市场消息：特朗普内阁与顾问开会讨论中期选举策略。",
           "url": "https://flash.jin10.com/detail/20260218063655343800",
           "source": "金十数据",
@@ -134,6 +124,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
+          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
+          "title": "美空军确认“空军一号”新涂装将采用特朗普偏爱的配色：红、白、金、深蓝",
+          "url": "https://flash.jin10.com/detail/20260218152713560800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时44分 ~ 16时34分]"
         },
         {
           "title": "特朗普关税引发巨额亏损，企业纷纷加大汇率套期保值力度",
@@ -428,8 +441,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时11分 ~ 15时44分]"
+          "appearance_count": 9,
+          "time_info": "[09时11分 ~ 16时34分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -442,8 +455,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时45分 ~ 15时44分]"
+          "appearance_count": 18,
+          "time_info": "[00时45分 ~ 16时34分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -453,8 +466,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时11分 ~ 15时44分]"
+          "appearance_count": 7,
+          "time_info": "[12时11分 ~ 16时34分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，大宗商品普跌，英央行降息预期上升，英镑一度跳水1%",
@@ -864,9 +877,26 @@
           "ranks": [
             7
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时44分 ~ 16时34分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "农业 机械",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "印度外交部发言人：印度总理莫迪今日与塞尔维亚总统在“人工智能影响峰会”的间隙举行了双边会谈。两位领导人探讨了加强双边在贸易与投资、人工智能、金融科技、教育、农业、旅游以及人文交流等方面合作的途径。他们还就双方共同关心的地区及全球性问题交换了意见。",
+          "url": "https://flash.jin10.com/detail/20260218161742110800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时44分"
+          "time_info": "16时34分"
         }
       ]
     }
