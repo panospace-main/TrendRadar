@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T16:32:34.558940+08:00",
-  "total_titles_processed": 1315,
+  "generated_at": "2026-02-19T17:36:09.200760+08:00",
+  "total_titles_processed": 1397,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时10分 ~ 16时32分]"
+          "appearance_count": 7,
+          "time_info": "[12时10分 ~ 17时36分]"
         },
         {
           "title": "特朗普将举行首届“和平委员会”会议，宣布成员国注资",
@@ -26,8 +26,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时10分 ~ 16时32分]"
+          "appearance_count": 7,
+          "time_info": "[12时10分 ~ 17时36分]"
+        },
+        {
+          "title": "唐驳虎：美军12架F-22剑指伊朗，特朗普正在打一场心理战",
+          "url": "https://news.ifeng.com/c/8qrt27zMNrI",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时10分 ~ 17时36分]"
         },
         {
           "title": "特朗普、拜登、奥巴马、克林顿齐发声",
@@ -50,17 +61,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
-        },
-        {
-          "title": "唐驳虎：美军12架F-22剑指伊朗，特朗普正在打一场心理战",
-          "url": "https://news.ifeng.com/c/8qrt27zMNrI",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时10分 ~ 16时32分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将前往佐治亚州，讨论经适性（经济承受能力）问题。",
@@ -103,11 +103,12 @@
           "ranks": [
             2,
             11,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时47分 ~ 16时32分]"
+          "appearance_count": 4,
+          "time_info": "[14时47分 ~ 17时36分]"
         },
         {
           "title": "特朗普援引国防生产法，保障磷与除草剂的国内供应",
@@ -506,8 +507,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
+          "url": "https://wallstreetcn.com/articles/3765834",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时23分 ~ 17时36分]"
+        },
         {
           "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
           "url": "https://wallstreetcn.com/articles/3765834",
@@ -531,17 +543,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时51分 ~ 06时23分]"
-        },
-        {
-          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
-          "url": "https://wallstreetcn.com/articles/3765834",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时23分 ~ 16时32分]"
         },
         {
           "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
@@ -568,8 +569,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时51分 ~ 16时32分]"
+          "appearance_count": 20,
+          "time_info": "[00时51分 ~ 17时36分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -580,8 +581,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时51分 ~ 16时32分]"
+          "appearance_count": 20,
+          "time_info": "[00时51分 ~ 17时36分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -591,11 +592,45 @@
             12,
             11,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时51分 ~ 16时32分]"
+          "appearance_count": 20,
+          "time_info": "[00时51分 ~ 17时36分]"
+        },
+        {
+          "title": "DoorDash美股盘前上涨超13%，公司一季度可销售的GOV的预测优于市场预估。",
+          "url": "https://wallstreetcn.com/livenews/3056610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "美股存储芯片概念股盘前上涨，Sandisk、美光科技均涨超1%。白银概念股走强，泛美白银涨超4%，赫克拉矿业涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/3056607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "美股盘前，白银概念股走强，泛美白银(PAAS.O)涨4.6%、赫克拉矿业(HL.N)涨1.9%、First Majestic(AG.O)涨1.3%。",
+          "url": "https://flash.jin10.com/detail/20260219170301618800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "Doordash美股盘后涨10%。",
@@ -633,6 +668,18 @@
           "time_info": "[05时28分 ~ 06时23分]"
         },
         {
+          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
+          "url": "https://www.cls.cn/detail/2291660",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时43分 ~ 17时36分]"
+        },
+        {
           "title": "能源业ETF收涨1.92%，半导体ETF涨1.24%，网络股指数ETF、全球科技股指数ETF、科技行业ETF至少涨1.03%，领跑美股行业ETF，公用事业ETF跌1.66%。 标普500指数的11个板块中，能源板块收涨2%，可选消费板块涨1%，信息技术/科技板块涨0.97%，房地产板块收跌1.45%，公用事业板块跌1.7%。",
           "url": "https://wallstreetcn.com/livenews/3056498",
           "source": "华尔街见闻-快讯",
@@ -645,6 +692,17 @@
           "time_info": "[06时23分 ~ 07时20分]"
         },
         {
+          "title": "科技股推动美股期指上扬，盘前存储芯片、白银股走高，地缘局势升温推高金银油，黄金站上5000美元",
+          "url": "https://wallstreetcn.com/articles/3765856",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 17时36分]"
+        },
+        {
           "title": "美股高开高走 英伟达收涨1.63%",
           "url": "https://flash.jin10.com/detail/20260219050439356800",
           "source": "金十数据",
@@ -655,18 +713,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时23分]"
-        },
-        {
-          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
-          "url": "https://www.cls.cn/detail/2291660",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时43分 ~ 16时32分]"
         },
         {
           "title": "Figma美股盘后涨15%，该公司认为人工智能（AI）货币化带动增长。 该公司四季度营收3.038亿美元，分析师预期2.931亿美元。 预计2026年营收大约13.7亿美元，分析师预期12.9亿美元。",
@@ -869,7 +915,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -951,6 +997,18 @@
           "time_info": "[02时45分 ~ 04时29分]"
         },
         {
+          "title": "OpenAI CEO Sam Altman：人工智能需要监管和保障措施。",
+          "url": "https://wallstreetcn.com/livenews/3056596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 17时36分]"
+        },
+        {
           "title": "富时罗素正就IPO“快速纳入”规则征求市场意见。富时罗素提及SpaceX、OpenAI、Anthropic可能进行的IPO。",
           "url": "https://wallstreetcn.com/livenews/3056499",
           "source": "华尔街见闻-快讯",
@@ -971,17 +1029,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
-        },
-        {
-          "title": "OpenAI CEO Sam Altman：人工智能需要监管和保障措施。",
-          "url": "https://wallstreetcn.com/livenews/3056596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
         }
       ]
     },
@@ -1123,6 +1170,35 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价涨约2%，白银涨约5%",
+          "url": "https://wallstreetcn.com/livenews/3056504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时20分]"
+        },
+        {
+          "title": "金价迎来新一轮大涨",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E8%BF%8E%E6%9D%A5%E6%96%B0%E4%B8%80%E8%BD%AE%E5%A4%A7%E6%B6%A8&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 17时36分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -1148,24 +1224,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价涨约2%，白银涨约5%",
-          "url": "https://wallstreetcn.com/livenews/3056504",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时20分]"
         }
       ]
     },
