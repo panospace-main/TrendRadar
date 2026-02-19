@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T14:47:52.078022+08:00",
-  "total_titles_processed": 1153,
+  "generated_at": "2026-02-19T15:43:17.633636+08:00",
+  "total_titles_processed": 1240,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时10分 ~ 14时47分]"
+          "appearance_count": 4,
+          "time_info": "[12时10分 ~ 15时43分]"
         },
         {
           "title": "特朗普将举行首届“和平委员会”会议，宣布成员国注资",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时10分 ~ 14时47分]"
+          "appearance_count": 4,
+          "time_info": "[12时10分 ~ 15时43分]"
         },
         {
           "title": "特朗普、拜登、奥巴马、克林顿齐发声",
@@ -42,23 +42,12 @@
         },
         {
           "title": "美多家团体起诉特朗普政府撤销气候危害认定",
-          "url": "https://wallstreetcn.com/livenews/3056582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时47分"
-        },
-        {
-          "title": "美多家团体起诉特朗普政府撤销气候危害认定",
           "url": "https://flash.jin10.com/detail/20260219140818011800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         },
@@ -97,6 +86,29 @@
           "time_info": "09时11分"
         },
         {
+          "title": "唐驳虎：美军12架F-22剑指伊朗，特朗普正在打一场心理战",
+          "url": "https://news.ifeng.com/c/8qrt27zMNrI",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时10分 ~ 15时43分]"
+        },
+        {
+          "title": "美多家团体起诉特朗普政府撤销气候危害认定",
+          "url": "https://wallstreetcn.com/livenews/3056582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时47分 ~ 15时43分]"
+        },
+        {
           "title": "特朗普援引国防生产法，保障磷与除草剂的国内供应",
           "url": "https://wallstreetcn.com/livenews/3056519",
           "source": "华尔街见闻-快讯",
@@ -119,17 +131,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时23分]"
-        },
-        {
-          "title": "唐驳虎：美军12架F-22剑指伊朗，特朗普正在打一场心理战",
-          "url": "https://news.ifeng.com/c/8qrt27zMNrI",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时10分 ~ 14时47分]"
         },
         {
           "title": "白宫新闻秘书Leavitt谈及美国国土安全部（DHS）停摆问题，宣称：美国总统特朗普还没有与民主党沟通。",
@@ -504,7 +505,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
@@ -553,8 +554,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时23分 ~ 14时47分]"
+          "appearance_count": 7,
+          "time_info": "[06时23分 ~ 15时43分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -565,8 +566,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时51分 ~ 14时47分]"
+          "appearance_count": 17,
+          "time_info": "[00时51分 ~ 15时43分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -577,8 +578,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时51分 ~ 14时47分]"
+          "appearance_count": 17,
+          "time_info": "[00时51分 ~ 15时43分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -586,11 +587,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时51分 ~ 14时47分]"
+          "appearance_count": 17,
+          "time_info": "[00时51分 ~ 15时43分]"
         },
         {
           "title": "Doordash美股盘后涨10%。",
@@ -662,6 +664,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时20分]"
+        },
+        {
+          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
+          "url": "https://www.cls.cn/detail/2291660",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         },
         {
           "title": "房利美股价迅速扩大涨幅，上涨4%。",
@@ -916,11 +929,12 @@
           "ranks": [
             4,
             11,
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时10分 ~ 14时47分]"
+          "appearance_count": 4,
+          "time_info": "[12时10分 ~ 15时43分]"
         },
         {
           "title": "据新浪报价，离岸人民币兑美元跌破6.9关口，最低至6.8881。",
@@ -969,11 +983,12 @@
           "ranks": [
             9,
             16,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时10分 ~ 14时47分]"
+          "appearance_count": 4,
+          "time_info": "[12时10分 ~ 15时43分]"
         },
         {
           "title": "OpenAI聘请Instagram高管Charles Porch。 Porch将担任OpenAI的全球创新合作伙伴关系副总裁。（Vanity Fair）",
