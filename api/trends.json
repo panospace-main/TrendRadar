@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T22:04:42.904853+08:00",
-  "total_titles_processed": 1860,
+  "generated_at": "2026-02-24T23:46:50.683131+08:00",
+  "total_titles_processed": 1981,
   "failed_sources": [],
   "trends": [
     {
@@ -52,8 +52,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时41分 ~ 22时04分]"
+          "appearance_count": 8,
+          "time_info": "[17时41分 ~ 23时46分]"
         },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -65,8 +65,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时35分 ~ 22时04分]"
+          "appearance_count": 9,
+          "time_info": "[16时35分 ~ 23时46分]"
         },
         {
           "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
@@ -93,6 +93,34 @@
           "time_info": "[09时08分 ~ 14时47分]"
         },
         {
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            7,
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时41分 ~ 23时46分]"
+        },
+        {
+          "title": "中美就特朗普访华事宜保持着沟通",
+          "url": "https://www.douyin.com/hot/2410424",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时35分 ~ 23时46分]"
+        },
+        {
           "title": "特朗普“换马甲”强征关税！多方抨击：新关税法理依然站不住脚",
           "url": "https://www.cls.cn/detail/2293302",
           "source": "财联社热门",
@@ -107,21 +135,6 @@
           "time_info": "[15时44分 ~ 20时39分]"
         },
         {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时41分 ~ 22时04分]"
-        },
-        {
           "title": "美军最高将领据传告知特朗普：对伊朗动武可能带来重大风险",
           "url": "https://www.cls.cn/detail/2293044",
           "source": "财联社热门",
@@ -133,17 +146,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时08分 ~ 14时47分]"
-        },
-        {
-          "title": "中美就特朗普访华事宜保持着沟通",
-          "url": "https://www.douyin.com/hot/2410424",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时35分 ~ 22时04分]"
         },
         {
           "title": "特朗普接连出招，伤害性不大，侮辱性极强",
@@ -201,7 +203,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -734,7 +736,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -756,7 +758,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -789,7 +791,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -866,7 +868,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -910,7 +912,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -921,7 +923,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         }
@@ -929,7 +931,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -940,8 +942,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时09分 ~ 22时04分]"
+          "appearance_count": 14,
+          "time_info": "[12时09分 ~ 23时46分]"
         },
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -954,8 +956,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时08分 ~ 22时04分]"
+          "appearance_count": 15,
+          "time_info": "[09时08分 ~ 23时46分]"
         },
         {
           "title": "关税政策不确定性笼罩市场，美股低开，现货黄金站上5200美元",
@@ -1053,6 +1055,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
+        },
+        {
+          "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "AMD美股盘前涨超15%，META与AMD签署巨额协议，将购买后者AI设备。",
@@ -1163,6 +1176,18 @@
           "time_info": "[05时35分 ~ 06时31分]"
         },
         {
+          "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2293967",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时04分 ~ 23时46分]"
+        },
+        {
           "title": "家得宝调第四季度整后每股收益2.72美元，上年同期3.13美元，预估2.55美元。 第四季度每股收益2.58美元，上年同期3.02美元。 第四季度销售净额382.0亿美元，同比下降3.8%，预估382.7亿美元。 第四季度同店销售增长0.4％，预估下降0.36％。 家得宝预计全年营收变动大约增长2.5％至4.5％。 家得宝预计全年同店销售大约增长0％至2％，预估增长1.71％。 家得宝美股盘前涨2.5%。",
           "url": "https://wallstreetcn.com/livenews/3058092",
           "source": "华尔街见闻-快讯",
@@ -1181,7 +1206,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -1195,17 +1220,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
-        },
-        {
-          "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2293967",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
         },
         {
           "title": "华纳兄弟探索公司（WBD）美股盘后涨1.6%。",
@@ -1269,7 +1283,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -1280,7 +1294,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         }
@@ -1288,7 +1302,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "春节后A股将会怎么走？以史为鉴这三大板块上涨概率更高，核心受益标的梳理",
@@ -1363,11 +1377,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时41分 ~ 22时04分]"
+          "appearance_count": 8,
+          "time_info": "[17时41分 ~ 23时46分]"
         },
         {
           "title": "春晚人形机器人“大秀肌肉”背后：A股新材料产业链多点突破 这些企业抢占赛道先机",
@@ -1421,11 +1436,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时33分 ~ 22时04分]"
+          "appearance_count": 4,
+          "time_info": "[19时33分 ~ 23时46分]"
         },
         {
           "title": "A股电网设备板块午后持续走强，白云电器涨停，明阳电气触及20cm涨停，此前保变电气、森源电气、汉缆股份涨停，安靠智电、大连电瓷、亿能电力、三变科技涨幅靠前。",
@@ -1452,6 +1468,17 @@
           "time_info": "[15时44分 ~ 16时35分]"
         },
         {
+          "title": "马年A股开门红",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%B9%B4A%E8%82%A1%E5%BC%80%E9%97%A8%E7%BA%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时04分 ~ 23时46分]"
+        },
+        {
           "title": "A股即将开市 外围提前传来积极信号",
           "url": "https://www.toutiao.com/trending/7609518628548018217/",
           "source": "今日头条",
@@ -1472,17 +1499,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
-        },
-        {
-          "title": "马年A股开门红",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%B9%B4A%E8%82%A1%E5%BC%80%E9%97%A8%E7%BA%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
         },
         {
           "title": "积极因素提振A股开市信心，两大主线配置价值获看好",
@@ -1507,6 +1523,17 @@
           "time_info": "15时44分"
         },
         {
+          "title": "A股马年开门红：4003股收涨，油气股掀涨停潮",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32649321",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "A股收盘：马年首个交易日，沪指放量涨0.87%，全市场超百股涨停",
           "url": "https://wallstreetcn.com/livenews/3057936",
           "source": "华尔街见闻-快讯",
@@ -1516,6 +1543,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
+        },
+        {
+          "title": "如何理解A股“春季行情”",
+          "url": "https://www.toutiao.com/trending/7610015143008714779/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "A股三大指数均大幅高开",
@@ -1550,11 +1588,12 @@
           "url": "https://wallstreetcn.com/articles/3766024",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时41分 ~ 22时04分]"
+          "appearance_count": 8,
+          "time_info": "[17时41分 ~ 23时46分]"
         },
         {
           "title": "周一（2月23日）纽约尾盘（周二北京时间05:59），离岸人民币（CNH）兑美元报6.8879元，较上周五纽约尾盘涨99点，日内整体交投于6.9009-6.8823元区间。",
@@ -1581,6 +1620,18 @@
           "time_info": "[16时35分 ~ 17时42分]"
         },
         {
+          "title": "市场静待60万亿人民币资金出笼",
+          "url": "https://www.toutiao.com/trending/7610350568388693558/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时39分 ~ 23时46分]"
+        },
+        {
           "title": "离岸人民币兑美元升破6.88，现报6.8776，日内涨0.14%。",
           "url": "https://wallstreetcn.com/livenews/3058013",
           "source": "华尔街见闻-快讯",
@@ -1605,25 +1656,13 @@
           "time_info": "[17时42分 ~ 18时39分]"
         },
         {
-          "title": "市场静待60万亿人民币资金出笼",
-          "url": "https://www.toutiao.com/trending/7610350568388693558/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时39分 ~ 22时04分]"
-        },
-        {
           "title": "美股盘前芯片板块拉升，AMD拿下大单暴涨15%，金银回落，基本金属拉升，离岸人民币升破6.88",
           "url": "https://wallstreetcn.com/articles/3766041",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -1671,11 +1710,12 @@
           "url": "https://www.zhihu.com/question/2009302738945668703",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时08分 ~ 22时04分]"
+          "appearance_count": 15,
+          "time_info": "[09时08分 ~ 23时46分]"
         },
         {
           "title": "可控核聚变，能否复制商业航天的奇迹？",
@@ -1936,7 +1976,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         }
