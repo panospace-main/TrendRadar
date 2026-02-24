@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T13:53:29.751677+08:00",
-  "total_titles_processed": 1093,
+  "generated_at": "2026-02-24T14:47:09.919143+08:00",
+  "total_titles_processed": 1178,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 58,
       "titles": [
         {
           "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
@@ -64,8 +64,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 13时53分]"
+          "appearance_count": 5,
+          "time_info": "[09时08分 ~ 14时47分]"
+        },
+        {
+          "title": "美军最高将领据传告知特朗普：对伊朗动武可能带来重大风险",
+          "url": "https://www.cls.cn/detail/2293044",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时08分 ~ 14时47分]"
         },
         {
           "title": "特朗普否认美军将领“反对与伊朗开战”",
@@ -81,26 +94,13 @@
           "time_info": "[07时39分 ~ 12时09分]"
         },
         {
-          "title": "美军最高将领据传告知特朗普：对伊朗动武可能带来重大风险",
-          "url": "https://www.cls.cn/detail/2293044",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 13时53分]"
-        },
-        {
           "title": "特朗普10%全球关税生效",
           "url": "https://flash.jin10.com/detail/20260224130914633800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -122,7 +122,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -136,6 +136,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "特朗普接连出招，伤害性不大，侮辱性极强",
+          "url": "https://news.ifeng.com/c/8qzr8hme4jH",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时08分 ~ 14时47分]"
         },
         {
           "title": "美国参议院民主党披露一份立法草案，寻求特朗普政府就已经实施的关税政策退款。",
@@ -259,16 +271,15 @@
           "time_info": "[06时31分 ~ 07时40分]"
         },
         {
-          "title": "特朗普接连出招，伤害性不大，侮辱性极强",
-          "url": "https://news.ifeng.com/c/8qzr8hme4jH",
+          "title": "特朗普发出邀请，美国女子冰球队：婉拒了哈",
+          "url": "https://news.ifeng.com/c/8r0DvNIO9e9",
           "source": "凤凰网",
           "ranks": [
-            7,
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时08分 ~ 13时53分]"
+          "time_info": "[13时53分 ~ 14时47分]"
         },
         {
           "title": "美国参议院民主党成员Warren：总统特朗普的政府考虑出售联邦学生贷款债务组合。",
@@ -344,6 +355,18 @@
           "time_info": "[05时35分 ~ 06时31分]"
         },
         {
+          "title": "特朗普10%全球关税正式生效，实施15%关税的时间表尚未确定。",
+          "url": "https://wallstreetcn.com/livenews/3057877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时53分 ~ 14时47分]"
+        },
+        {
           "title": "美国总统特朗普正在考虑新的退休储蓄计划。 特朗普料将在国情咨文中谈及退休计划。（Semafor）",
           "url": "https://wallstreetcn.com/livenews/3057647",
           "source": "华尔街见闻-快讯",
@@ -354,6 +377,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时35分 ~ 06时31分]"
+        },
+        {
+          "title": "特朗普：很多人想置我于死地",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%BE%88%E5%A4%9A%E4%BA%BA%E6%83%B3%E7%BD%AE%E6%88%91%E4%BA%8E%E6%AD%BB%E5%9C%B0",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时46分 ~ 14时47分]"
         },
         {
           "title": "美国参议院少数党领袖舒默：参议院民主党将阻止特朗普关税延期。",
@@ -391,15 +425,15 @@
           "time_info": "07时40分"
         },
         {
-          "title": "特朗普发出邀请，美国女子冰球队：婉拒了哈",
-          "url": "https://news.ifeng.com/c/8r0DvNIO9e9",
-          "source": "凤凰网",
+          "title": "电价攀升惹民怨，特朗普要求美国科技公司承诺自掏腰包建设AI数据中心",
+          "url": "https://wallstreetcn.com/livenews/3057913",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时53分"
+          "time_info": "14时47分"
         },
         {
           "title": "美最高法院裁定美政府大规模关税违法，特朗普发出最新威胁",
@@ -468,17 +502,6 @@
           "time_info": "07时40分"
         },
         {
-          "title": "特朗普10%全球关税正式生效，实施15%关税的时间表尚未确定。",
-          "url": "https://wallstreetcn.com/livenews/3057877",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
           "title": "据华尔街日报：特朗普政府正在考虑对六种行业征收新的“国家安全关税”。",
           "url": "https://flash.jin10.com/detail/20260224064535357800",
           "source": "金十数据",
@@ -496,7 +519,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -565,6 +588,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
+        },
+        {
+          "title": "美国国防部长赫格塞思：伊朗应该达成协议。伊朗有机会达成协议。这是特朗普所希望的结果。如果伊朗决定不达成协议，我们将为特朗普准备选项。",
+          "url": "https://flash.jin10.com/detail/20260224134038685800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "美众议院议长：国会不太可能就特朗普关税的立法层面达成共识",
@@ -684,8 +718,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时39分 ~ 13时53分]"
+          "appearance_count": 7,
+          "time_info": "[07时39分 ~ 14时47分]"
+        },
+        {
+          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时09分 ~ 14时47分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
@@ -699,15 +744,16 @@
           "time_info": "[06时31分 ~ 07时40分]"
         },
         {
-          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
-          "url": "https://wallstreetcn.com/articles/3765966",
+          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
+          "url": "https://wallstreetcn.com/articles/3766006",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 13时53分]"
+          "appearance_count": 5,
+          "time_info": "[09时08分 ~ 14时47分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金五连涨，期银一度涨近8%",
@@ -719,18 +765,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
-        },
-        {
-          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
-          "url": "https://wallstreetcn.com/articles/3766006",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 13时53分]"
         },
         {
           "title": "金十图示：2026年02月23日（周一）热门中概股行情一览（美股盘中）",
@@ -818,6 +852,17 @@
           "time_info": "[04时48分 ~ 05时35分]"
         },
         {
+          "title": "美股看跌保护需求创四年新高，高盛交易员：专业投资者正在为\"某种突破\"做准备",
+          "url": "https://wallstreetcn.com/articles/3765995",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时09分 ~ 14时47分]"
+        },
+        {
           "title": "区域银行ETF和银行业ETF收跌超4.3%，领跌美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3057657",
           "source": "华尔街见闻-快讯",
@@ -828,17 +873,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时35分 ~ 06时31分]"
-        },
-        {
-          "title": "美股看跌保护需求创四年新高，高盛交易员：专业投资者正在为\"某种突破\"做准备",
-          "url": "https://wallstreetcn.com/articles/3765995",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 13时53分]"
         },
         {
           "title": "华纳兄弟探索公司（WBD）美股盘后涨1.6%。",
@@ -929,6 +963,18 @@
           "time_info": "[00时43分 ~ 09时08分]"
         },
         {
+          "title": "春节长假四大变量共振，哪些是A股的正向催化剂？",
+          "url": "https://www.cls.cn/detail/2293126",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时09分 ~ 14时47分]"
+        },
+        {
           "title": "A股开市在即 哪些板块将领涨",
           "url": "https://www.toutiao.com/trending/7610049830315888147/",
           "source": "今日头条",
@@ -956,18 +1002,6 @@
           "time_info": "[00时43分 ~ 00时44分]"
         },
         {
-          "title": "春节长假四大变量共振，哪些是A股的正向催化剂？",
-          "url": "https://www.cls.cn/detail/2293126",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 13时53分]"
-        },
-        {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-02-24）",
           "url": "https://flash.jin10.com/detail/20260224090645310800",
           "source": "金十数据",
@@ -977,17 +1011,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
-        },
-        {
-          "title": "A股化工板块持续走强，湖北宜化午后涨停，澄星股份、川发龙蟒、赤天化、金正大此前封板，云天化、川金诺、扬农化工涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3057888",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时53分"
         },
         {
           "title": "科技亮点频出，资金流入格局不改，机构看好A股马年开局行情",
@@ -1002,6 +1025,30 @@
           "time_info": "[06时31分 ~ 07时40分]"
         },
         {
+          "title": "A股化工板块持续走强，湖北宜化午后涨停，澄星股份、川发龙蟒、赤天化、金正大此前封板，云天化、川金诺、扬农化工涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3057888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时53分 ~ 14时47分]"
+        },
+        {
+          "title": "A股电网设备板块午后持续走强，白云电器涨停，明阳电气触及20cm涨停，此前保变电气、森源电气、汉缆股份涨停，安靠智电、大连电瓷、亿能电力、三变科技涨幅靠前。",
+          "url": "https://wallstreetcn.com/livenews/3057886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时53分 ~ 14时47分]"
+        },
+        {
           "title": "A股即将开市 外围提前传来积极信号",
           "url": "https://www.toutiao.com/trending/7609518628548018217/",
           "source": "今日头条",
@@ -1011,17 +1058,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 00时44分]"
-        },
-        {
-          "title": "A股电网设备板块午后持续走强，白云电器涨停，明阳电气触及20cm涨停，此前保变电气、森源电气、汉缆股份涨停，安靠智电、大连电瓷、亿能电力、三变科技涨幅靠前。",
-          "url": "https://wallstreetcn.com/livenews/3057886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时53分"
         },
         {
           "title": "积极因素提振A股开市信心，两大主线配置价值获看好",
@@ -1041,7 +1077,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -1099,8 +1135,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 13时53分]"
+          "appearance_count": 5,
+          "time_info": "[09时08分 ~ 14时47分]"
         },
         {
           "title": "商业航天单笔融资金额走高背后：投资人开始抢额度，多家企业推进IPO",
