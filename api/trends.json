@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T20:38:50.500777+08:00",
-  "total_titles_processed": 1640,
+  "generated_at": "2026-02-25T22:05:33.212617+08:00",
+  "total_titles_processed": 1762,
   "failed_sources": [],
   "trends": [
     {
@@ -56,6 +56,18 @@
           "time_info": "[01时51分 ~ 07时23分]"
         },
         {
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时42分 ~ 22时05分]"
+        },
+        {
           "title": "特朗普：100%错误",
           "url": "https://news.ifeng.com/c/8r1UTBsOox0",
           "source": "凤凰网",
@@ -68,18 +80,6 @@
           "time_info": "[12时15分 ~ 16时43分]"
         },
         {
-          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
-          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时42分 ~ 20时38分]"
-        },
-        {
           "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
           "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
           "source": "凤凰网",
@@ -87,8 +87,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时42分 ~ 20时38分]"
+          "appearance_count": 6,
+          "time_info": "[17时42分 ~ 22时05分]"
         },
         {
           "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”",
@@ -122,6 +122,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时45分 ~ 16时43分]"
+        },
+        {
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时42分 ~ 22时05分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -272,19 +286,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
-        },
-        {
-          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
-          "url": "https://wallstreetcn.com/articles/3766126",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时42分 ~ 20时38分]"
         },
         {
           "title": "中方回应特朗普3月31日将访问中国",
@@ -583,7 +584,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         },
@@ -715,7 +716,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         },
@@ -844,7 +845,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -904,6 +905,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时23分 ~ 15时45分]"
+        },
+        {
+          "title": "美股期货短线波动不大，美国贸易代表格里尔：正在研究如何实施15%的关税",
+          "url": "https://wallstreetcn.com/livenews/3058905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
         },
         {
           "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
@@ -1085,6 +1097,17 @@
           "time_info": "01时52分"
         },
         {
+          "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2295156",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
           "title": "惠普（HPQ）美股盘后跌幅扩大至将近7%，存储芯片打压其业绩展望。",
           "url": "https://wallstreetcn.com/livenews/3058381",
           "source": "华尔街见闻-快讯",
@@ -1102,15 +1125,26 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
+        },
+        {
+          "title": "美股期货维持涨势，美国贸易代表：部分国家关税将升至15% 其他或更高",
+          "url": "https://wallstreetcn.com/livenews/3058887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
         }
       ]
     },
     {
       "keyword_group": "A股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "港股IPO开年募资大增10倍，110家A股公司排队港股上市",
@@ -1211,6 +1245,17 @@
           "time_info": "[15时45分 ~ 16时43分]"
         },
         {
+          "title": "6家外资齐声唱多中国资产：A股步入“慢牛”新阶段，驱动逻辑转向盈利增长",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32651637",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时38分 ~ 22时05分]"
+        },
+        {
           "title": "A股半导体设备板块午后走高，拓荆科技、富创精密涨超10%，长川科技、中科飞测、芯源微、华海清科、恒运昌等跟涨。",
           "url": "https://wallstreetcn.com/livenews/3058612",
           "source": "华尔街见闻-快讯",
@@ -1255,15 +1300,15 @@
           "time_info": "14时51分"
         },
         {
-          "title": "6家外资齐声唱多中国资产：A股步入“慢牛”新阶段，驱动逻辑转向盈利增长",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32651637",
-          "source": "澎湃新闻",
+          "title": "A股IPO年内整体过会率超9成",
+          "url": "https://wallstreetcn.com/livenews/3058875",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时38分"
+          "time_info": "22时05分"
         },
         {
           "title": "A股三大指数均涨超1%，钢铁、化工、稀土永磁、港口航运等方向涨幅居前，沪深京三市上涨个股近4000只。",
@@ -1280,7 +1325,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -1290,8 +1335,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时14分 ~ 20时38分]"
+          "appearance_count": 13,
+          "time_info": "[09时14分 ~ 22时05分]"
         },
         {
           "title": "马年开门红！沪指放量上涨0.9%，资源股集体爆发，人民币升破6.89，恒科指跌超2%，智谱大涨12%",
@@ -1401,6 +1446,17 @@
           "time_info": "07时23分"
         },
         {
+          "title": "人民币会升破6.8吗",
+          "url": "https://www.toutiao.com/trending/7610764738741407286/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
           "title": "中国央行在香港发行300亿元人民币3个月期央票，中标利率1.53%；发行200亿元人民币1年期央票，中标利率1.47%。",
           "url": "https://wallstreetcn.com/livenews/3058595",
           "source": "华尔街见闻-快讯",
@@ -1498,6 +1554,67 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "金价暴涨下的众生相",
+          "url": "https://www.toutiao.com/trending/7610085865549905966/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
+          "title": "摩根大通：将长期黄金价格预测上调至每盎司4500美元。",
+          "url": "https://flash.jin10.com/detail/20260225150843874800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
+          "title": "金价高的已经推出红绳戒指了",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%AB%98%E7%9A%84%E5%B7%B2%E7%BB%8F%E6%8E%A8%E5%87%BA%E7%BA%A2%E7%BB%B3%E6%88%92%E6%8C%87%E4%BA%86&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
+          "title": "摩根大通：预计2026年底黄金价格将达到每盎司6300美元。",
+          "url": "https://flash.jin10.com/detail/20260225150719104800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
+          "title": "金十图示：2026年02月25日（周三）上海金午盘价为1147.47元/克，较国际金价(1146.29元/克)，高1.18元/克",
+          "url": "https://flash.jin10.com/detail/20260225150243003800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 4,
       "titles": [
@@ -1546,56 +1663,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "金价暴涨下的众生相",
-          "url": "https://www.toutiao.com/trending/7610085865549905966/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
-          "title": "摩根大通：将长期黄金价格预测上调至每盎司4500美元。",
-          "url": "https://flash.jin10.com/detail/20260225150843874800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
-          "title": "摩根大通：预计2026年底黄金价格将达到每盎司6300美元。",
-          "url": "https://flash.jin10.com/detail/20260225150719104800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
-          "title": "金十图示：2026年02月25日（周三）上海金午盘价为1147.47元/克，较国际金价(1146.29元/克)，高1.18元/克",
-          "url": "https://flash.jin10.com/detail/20260225150243003800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时45分"
         }
       ]
     },
@@ -1675,7 +1742,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         }
@@ -1706,6 +1773,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "农业 机械",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "印度总理莫迪：与以色列总理内塔尼亚胡进行了非常好的会晤。我们讨论了旨在促进双边关系的广泛议题。技术、水资源管理、农业、人才合作等领域都有巨大的合作潜力。我们还讨论了该地区的关键发展。",
+          "url": "https://flash.jin10.com/detail/20260225211221156800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
         }
       ]
     }
