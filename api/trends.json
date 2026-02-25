@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T15:45:39.760275+08:00",
-  "total_titles_processed": 1211,
+  "generated_at": "2026-02-25T16:43:00.935296+08:00",
+  "total_titles_processed": 1286,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 65,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时51分 ~ 15时45分]"
+          "appearance_count": 14,
+          "time_info": "[01时51分 ~ 16时43分]"
         },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -64,8 +64,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时15分 ~ 16时43分]"
+        },
+        {
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时15分 ~ 15时45分]"
+          "time_info": "[14时51分 ~ 16时43分]"
         },
         {
           "title": "特朗普发表国情咨文演讲，民主党议员举横幅被带离",
@@ -77,6 +88,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时15分 ~ 14时51分]"
+        },
+        {
+          "title": "特朗普发表国情咨文演讲，一议员举横幅被带离(图)",
+          "url": "https://news.ifeng.com/c/8r1qCIUuhrr",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时45分 ~ 16时43分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -101,28 +123,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时55分 ~ 14时51分]"
-        },
-        {
-          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”",
-          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时51分 ~ 15时45分]"
-        },
-        {
-          "title": "特朗普发表国情咨文演讲，一议员举横幅被带离(图)",
-          "url": "https://news.ifeng.com/c/8r1qCIUuhrr",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时45分"
         },
         {
           "title": "据福克斯新闻：特朗普表示，伊朗尚未同意放弃核武器。",
@@ -202,6 +202,17 @@
           "time_info": "12时15分"
         },
         {
+          "title": "金十整理：什么是真的？CNN打假特朗普国情咨文",
+          "url": "https://flash.jin10.com/detail/20260225160730290800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
           "title": "中方回应特朗普3月31日将访问中国",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%8831%E6%97%A5%E5%B0%86%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -226,6 +237,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时14分 ~ 13时55分]"
+        },
+        {
+          "title": "特朗普：伊朗正研制能打到美国的导弹",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时55分 ~ 16时43分]"
         },
         {
           "title": "美国众议长称，最高法院关税裁决对特朗普是“一记重击”",
@@ -302,16 +326,15 @@
           "time_info": "[05时57分 ~ 07时23分]"
         },
         {
-          "title": "特朗普：伊朗正研制能打到美国的导弹",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
-          "source": "百度热搜",
+          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
+          "url": "https://www.cls.cn/detail/2294552",
+          "source": "财联社热门",
           "ranks": [
-            21,
-            20
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时55分 ~ 15时45分]"
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 16时43分]"
         },
         {
           "title": "美国进口商请求法院执行特朗普关税败诉裁决、索要退款。",
@@ -598,7 +621,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         },
@@ -837,6 +860,18 @@
           "time_info": "[05时57分 ~ 06时23分]"
         },
         {
+          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
+          "url": "https://www.cls.cn/detail/2294269",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时45分 ~ 16时43分]"
+        },
+        {
           "title": "新兴市场ETF收涨将近1.6%，领跑美股大类资产类ETF，黄金ETF跌约1.4%",
           "url": "https://wallstreetcn.com/livenews/3058353",
           "source": "华尔街见闻-快讯",
@@ -929,17 +964,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
-          "url": "https://www.cls.cn/detail/2294269",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时45分"
         }
       ]
     },
@@ -947,6 +971,19 @@
       "keyword_group": "A股",
       "match_count": 12,
       "titles": [
+        {
+          "title": "港股IPO开年募资大增10倍，110家A股公司排队港股上市",
+          "url": "https://www.cls.cn/detail/2294203",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时15分 ~ 16时43分]"
+        },
         {
           "title": "【焦点复盘】A股马年开市现放量普涨，涨价概念全线爆发，影视等消费股现逆势调整",
           "url": "https://www.cls.cn/detail/2293730",
@@ -978,22 +1015,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
-        },
-        {
-          "title": "港股IPO开年募资大增10倍，110家A股公司排队港股上市",
-          "url": "https://www.cls.cn/detail/2294203",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时15分 ~ 15时45分]"
         },
         {
           "title": "马年A股开门红",
@@ -1008,6 +1032,29 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时41分 ~ 09时14分]"
+        },
+        {
+          "title": "春节热闹的题材怎么没火？美国关税调整如何影响A股？基金公司一线解读",
+          "url": "https://www.cls.cn/detail/2294205",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时45分 ~ 16时43分]"
+        },
+        {
+          "title": "A股收盘：沪指冲高回落涨0.72%，涨价题材集体爆发",
+          "url": "https://wallstreetcn.com/livenews/3058685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时45分 ~ 16时43分]"
         },
         {
           "title": "A股半导体设备板块午后走高，拓荆科技、富创精密涨超10%，长川科技、中科飞测、芯源微、华海清科、恒运昌等跟涨。",
@@ -1030,28 +1077,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "春节热闹的题材怎么没火？美国关税调整如何影响A股？基金公司一线解读",
-          "url": "https://www.cls.cn/detail/2294205",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
-          "title": "A股收盘：沪指冲高回落涨0.72%，涨价题材集体爆发",
-          "url": "https://wallstreetcn.com/livenews/3058685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时45分"
         },
         {
           "title": "多数保险机构今年计划小幅增配A股",
@@ -1093,6 +1118,17 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 16时43分]"
+        },
+        {
           "title": "马年开门红！沪指放量上涨0.9%，资源股集体爆发，人民币升破6.89，恒科指跌超2%，智谱大涨12%",
           "url": "https://wallstreetcn.com/articles/3766024",
           "source": "华尔街见闻",
@@ -1103,19 +1139,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时51分 ~ 15时45分]"
-        },
-        {
-          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
-          "url": "https://wallstreetcn.com/articles/3766041",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时14分 ~ 15时45分]"
+          "appearance_count": 14,
+          "time_info": "[01时51分 ~ 16时43分]"
         },
         {
           "title": "陈茂波：香港将推动人民币国际化。 香港将积极与内地研究加快落实在港推出国债期货。 香港将吸引高质量发行人增加在港发行人民币债券。 香港联同业界积极拓展离岸人民币利率曲线的构建。",
@@ -1145,11 +1170,12 @@
           "url": "https://wallstreetcn.com/livenews/3058695",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时45分 ~ 16时43分]"
         },
         {
           "title": "人民币汇率开年走强，专家提醒切勿盲目“赌”方向",
@@ -1311,7 +1337,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         },
@@ -1322,7 +1348,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         },
@@ -1333,7 +1359,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         },
@@ -1344,7 +1370,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         }
