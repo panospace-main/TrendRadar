@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T16:34:41.497074+08:00",
-  "total_titles_processed": 1409,
+  "generated_at": "2026-02-26T17:39:06.522065+08:00",
+  "total_titles_processed": 1508,
   "failed_sources": [],
   "trends": [
     {
@@ -43,23 +43,24 @@
           "time_info": "[00时04分 ~ 09时08分]"
         },
         {
-          "title": "胡锡进：一个惊悚质疑指向特朗普，希望它不是真的",
-          "url": "https://news.ifeng.com/c/8r2eU3KJRpW",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时07分 ~ 16时34分]"
-        },
-        {
           "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
           "url": "https://www.cls.cn/detail/2295374",
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时07分 ~ 17时39分]"
+        },
+        {
+          "title": "胡锡进：一个惊悚质疑指向特朗普，希望它不是真的",
+          "url": "https://news.ifeng.com/c/8r2eU3KJRpW",
+          "source": "凤凰网",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -86,8 +87,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时46分 ~ 16时34分]"
+          "appearance_count": 6,
+          "time_info": "[14时46分 ~ 17时39分]"
         },
         {
           "title": "乌克兰总统顾问：泽连斯基与特朗普举行电话会谈，会谈已结束。",
@@ -114,6 +115,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时30分 ~ 05时27分]"
+        },
+        {
+          "title": "梳理｜特朗普吹、民主党骂，回看美国史上最长国情咨文",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32655137",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 17时39分]"
         },
         {
           "title": "特朗普试戴冬奥金牌不还",
@@ -206,17 +219,6 @@
           "time_info": "12时07分"
         },
         {
-          "title": "梳理｜特朗普吹、民主党骂，回看美国史上最长国情咨文",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32655137",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
           "title": "特朗普把国情咨文演讲开成吹牛大会",
           "url": "https://www.toutiao.com/trending/7611003629566168602/",
           "source": "今日头条",
@@ -234,7 +236,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -264,7 +266,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -275,8 +277,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时20分 ~ 16时34分]"
+          "appearance_count": 12,
+          "time_info": "[07时20分 ~ 17时39分]"
         },
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -330,13 +332,35 @@
           "time_info": "[03时30分 ~ 05时27分]"
         },
         {
+          "title": "人民币为何持续升值",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E6%B0%91%E5%B8%81%E4%B8%BA%E4%BD%95%E6%8C%81%E7%BB%AD%E5%8D%87%E5%80%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时38分 ~ 17时39分]"
+        },
+        {
+          "title": "人民币快速升值的动力是什么",
+          "url": "https://www.toutiao.com/trending/7611065525459750441/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时38分 ~ 17时39分]"
+        },
+        {
           "title": "澳新银行：上调人民币兑美元年底预测至6.75（此前为6.85）。",
           "url": "https://wallstreetcn.com/livenews/3059411",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -363,6 +387,28 @@
           "time_info": "15时44分"
         },
         {
+          "title": "百度集团：2025年第四季度，智能云基础设施收入为人民币58亿元，AI高性能计算设施收入的订阅收入同比增长143%。2025年全年，智能云基础设施收入为约人民币200亿元，同比增长34%。",
+          "url": "https://wallstreetcn.com/livenews/3059463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
+          "title": "百度集团第四季度营收327.4亿元人民币，预估326.6亿元人民币。 第四季度经调整每ADS利润10.62元人民币，预估9.40元人民币。 第四季度调整后营业利润29.7亿元人民币，预估26.6亿元人民币。 第四季度调整后息税折旧及摊销前利润47.3亿元人民币，预估46.7亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3059455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
           "title": "周三（2月25日）纽约尾盘（周四北京时间05:59），离岸人民币（CNH）兑美元报6.8538元，较周二纽约尾盘涨255点，日内整体交投于6.8821-6.8511元区间。",
           "url": "https://wallstreetcn.com/livenews/3059080",
           "source": "华尔街见闻-快讯",
@@ -383,6 +429,137 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.8397，较上一交易日官方收盘价涨275点，较上日夜盘收盘涨195点。",
+          "url": "https://wallstreetcn.com/livenews/3059436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
+          "url": "https://wallstreetcn.com/articles/3766102",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 06时22分]"
+        },
+        {
+          "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
+          "url": "https://www.cls.cn/detail/2295296",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时20分 ~ 16时34分]"
+        },
+        {
+          "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2295156",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时04分 ~ 13时51分]"
+        },
+        {
+          "title": "网络股指数ETF收涨约2.3%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3059060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周三（2月25日），美国科技股七巨头（Magnificent 7）指数涨1.43%，报200.75点，美股盘初走高，日内绝大部分时间持续微幅震荡上行。 “超大”市值科技股指数涨1.53%，报374.60点。",
+          "url": "https://wallstreetcn.com/livenews/3059059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "百度美股盘前跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3059459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
+          "title": "C3.ai美股盘后跌24%，该公司第三财季营收逊色于市场预期。",
+          "url": "https://wallstreetcn.com/livenews/3059057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "英伟达美股盘后涨幅收窄至0.4%，该公司CEO黄仁勋与CFO正在讲话。",
+          "url": "https://wallstreetcn.com/livenews/3059092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "英伟达(NVDA.O)美股盘后涨2.5%，其营收及业绩展望均超预期。",
+          "url": "https://flash.jin10.com/detail/20260226053342414800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "半导体ETF涨1.63%，全球科技股指数ETF涨1.07%，科技行业ETF涨0.88%，在美股盘初领跑行业ETF。",
+          "url": "https://wallstreetcn.com/livenews/3058936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时05分"
         }
       ]
     },
@@ -492,115 +669,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
-          "url": "https://wallstreetcn.com/articles/3766102",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时04分 ~ 06时22分]"
-        },
-        {
-          "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
-          "url": "https://www.cls.cn/detail/2295296",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时20分 ~ 16时34分]"
-        },
-        {
-          "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2295156",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时04分 ~ 13时51分]"
-        },
-        {
-          "title": "网络股指数ETF收涨约2.3%，领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3059060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周三（2月25日），美国科技股七巨头（Magnificent 7）指数涨1.43%，报200.75点，美股盘初走高，日内绝大部分时间持续微幅震荡上行。 “超大”市值科技股指数涨1.53%，报374.60点。",
-          "url": "https://wallstreetcn.com/livenews/3059059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "C3.ai美股盘后跌24%，该公司第三财季营收逊色于市场预期。",
-          "url": "https://wallstreetcn.com/livenews/3059057",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "英伟达美股盘后涨幅收窄至0.4%，该公司CEO黄仁勋与CFO正在讲话。",
-          "url": "https://wallstreetcn.com/livenews/3059092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "英伟达(NVDA.O)美股盘后涨2.5%，其营收及业绩展望均超预期。",
-          "url": "https://flash.jin10.com/detail/20260226053342414800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "半导体ETF涨1.63%，全球科技股指数ETF涨1.07%，科技行业ETF涨0.88%，在美股盘初领跑行业ETF。",
-          "url": "https://wallstreetcn.com/livenews/3058936",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
         }
       ]
     },
@@ -805,6 +873,18 @@
           "time_info": "[03时30分 ~ 05时27分]"
         },
         {
+          "title": "SpaceX 猎鹰 9 号完成第 33 次飞行回收，刷新复用纪录，这对航天领域意味着什么？",
+          "url": "https://www.zhihu.com/question/2008965593232064868",
+          "source": "知乎",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 17时39分]"
+        },
+        {
           "title": "美国参议院民主党人坎特威尔敦促美国众议院就航空安全法案再次进行表决。",
           "url": "https://flash.jin10.com/detail/20260226010314323800",
           "source": "金十数据",
@@ -814,17 +894,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
-        },
-        {
-          "title": "SpaceX 猎鹰 9 号完成第 33 次飞行回收，刷新复用纪录，这对航天领域意味着什么？",
-          "url": "https://www.zhihu.com/question/2008965593232064868",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
         },
         {
           "title": "消息人士：美国航空航天和芯片行业稀土短缺问题日益加剧",
