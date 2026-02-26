@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-27T00:47:35.094258+08:00",
-  "total_titles_processed": 319,
+  "generated_at": "2026-02-27T01:52:30.260439+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "美国纽约州长Hochul写信给总统特朗普的财政部长贝森特，要求立即实施关税退款。",
+          "url": "https://wallstreetcn.com/livenews/3059705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
           "url": "https://news.ifeng.com/c/8r3yuvat2ge",
@@ -15,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 01时52分]"
         },
         {
           "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
@@ -26,8 +37,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 01时52分]"
         },
         {
           "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
@@ -37,8 +48,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 01时52分]"
+        },
+        {
+          "title": "市场消息：美国一名联邦法官目前拒绝叫停特朗普提出的白宫宴会厅项目。",
+          "url": "https://flash.jin10.com/detail/20260227012041500800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
         },
         {
           "title": "市场消息：希拉里·克林顿将告诉监督委员会成员，应当要求特朗普就爱泼斯坦档案在宣誓情况下作出说明。",
@@ -47,7 +69,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
         },
@@ -58,9 +80,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "美国参议院民主党成员Warren发函货币监理署（OCC）、联邦存款保险公司（FDID）、以及EREBOR Bank。 Warren向亚马逊询问，总统特朗普的关税是否造成（该公司）涨价。",
+          "url": "https://wallstreetcn.com/livenews/3059695",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
         },
         {
           "title": "美媒披露：特朗普与美军方就对伊朗军事行动分歧明显",
@@ -69,9 +102,42 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "据纽约时报：美国总统特朗普将于当地时间周四在华盛顿会见纽约市市长马姆达尼。",
+          "url": "https://flash.jin10.com/detail/20260227011054267800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "美媒：特朗普政府加紧制定策略 谋划保留关税收入",
+          "url": "https://flash.jin10.com/detail/20260227010102008800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "据Politico：五位知情人士透露，在特朗普关税诉讼在最高法院败诉后，政府官员正在制定法律策略，以使政府能够保留最高法院裁定非法征收的数十亿美元关税收入。",
+          "url": "https://flash.jin10.com/detail/20260227005722066800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
         }
       ]
     },
@@ -87,8 +153,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 01时52分]"
         },
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -98,8 +164,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 01时52分]"
         },
         {
           "title": "究竟是谁在“狂买”人民币",
@@ -110,30 +176,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 01时52分]"
         },
         {
           "title": "人民币对美元即期汇率升破6.85，马年已累计升值近1%",
           "url": "https://m.thepaper.cn/newsDetail_forward_32658379",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 01时52分]"
         },
         {
           "title": "人民币稳步升值到底是好是坏",
           "url": "https://www.toutiao.com/trending/7611157549974294066/",
           "source": "今日头条",
           "ranks": [
-            28
+            28,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 01时52分]"
         }
       ]
     },
@@ -148,7 +216,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
         },
@@ -157,11 +225,12 @@
           "url": "https://wallstreetcn.com/livenews/3059680",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 01时52分]"
         },
         {
           "title": "谷歌：推出Nano Banana 2，为新款Flash模型带来高保真图像生成与更快速、更先进的编辑功能。",
@@ -170,7 +239,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
         },
@@ -181,7 +250,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
         },
@@ -192,7 +261,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
         }
@@ -209,7 +278,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
         },
@@ -220,7 +289,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
         }
@@ -238,8 +307,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 01时52分]"
         }
       ]
     },
@@ -254,7 +323,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
         }
@@ -272,8 +341,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 01时52分]"
         }
       ]
     }
