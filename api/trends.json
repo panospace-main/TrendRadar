@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T22:03:54.997179+08:00",
-  "total_titles_processed": 1945,
+  "generated_at": "2026-02-26T23:43:49.561468+08:00",
+  "total_titles_processed": 2064,
   "failed_sources": [],
   "trends": [
     {
@@ -74,8 +74,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时46分 ~ 22时03分]"
+          "appearance_count": 13,
+          "time_info": "[14时46分 ~ 23时43分]"
         },
         {
           "title": "阿斯顿马丁将裁员至多20%，来应对美国总统特朗普挑起的关税所造成的复杂形势。",
@@ -100,8 +100,19 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时36分 ~ 23时43分]"
+        },
+        {
+          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
+          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[18时36分 ~ 22时03分]"
+          "time_info": "[19时32分 ~ 23时43分]"
         },
         {
           "title": "梳理｜特朗普吹、民主党骂，回看美国史上最长国情咨文",
@@ -117,24 +128,13 @@
           "time_info": "[16时34分 ~ 19时33分]"
         },
         {
-          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
-          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时32分 ~ 22时03分]"
-        },
-        {
           "title": "特朗普政府劳工部提出有利于零工经济的工人身份认定规则。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3059618",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -305,7 +305,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -324,7 +324,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -335,8 +335,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时20分 ~ 22时03分]"
+          "appearance_count": 19,
+          "time_info": "[07时20分 ~ 23时43分]"
         },
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -369,11 +369,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时38分 ~ 22时03分]"
+          "appearance_count": 4,
+          "time_info": "[20时38分 ~ 23时43分]"
         },
         {
           "title": "瑞幸咖啡第四季度净营收127.8亿元人民币，同比增长33%，预估137.6亿元人民币。 第四季度净利润5.182亿元人民币，同比下降38%。 第四季度经调整每股ADS净收益2.16元人民币。",
@@ -510,7 +511,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -532,7 +533,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -546,6 +547,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
+        },
+        {
+          "title": "人民币对美元即期汇率升破6.85，马年已累计升值近1%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32658379",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "周三（2月25日）纽约尾盘（周四北京时间05:59），离岸人民币（CNH）兑美元报6.8538元，较周二纽约尾盘涨255点，日内整体交投于6.8821-6.8511元区间。",
@@ -584,7 +596,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
@@ -624,13 +636,36 @@
           "time_info": "[00时04分 ~ 13时51分]"
         },
         {
+          "title": "美股延续跌势，标普500指数下跌1.00%。",
+          "url": "https://flash.jin10.com/detail/20260226232112482800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
+          "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2296406",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时03分 ~ 23时43分]"
+        },
+        {
           "title": "周四美股盘前你需要了解的全球要闻",
           "url": "https://wallstreetcn.com/livenews/3059616",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -641,18 +676,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时03分"
-        },
-        {
-          "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2296406",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -674,7 +698,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -751,9 +775,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
+        },
+        {
+          "title": "美股延续跌势，纳指下跌1.00%。",
+          "url": "https://flash.jin10.com/detail/20260226230206087800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
+          "title": "英伟达业绩未能消除AI担忧，美股开盘走低",
+          "url": "https://flash.jin10.com/detail/20260226225900057800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "半导体ETF涨1.63%，全球科技股指数ETF涨1.07%，科技行业ETF涨0.88%，在美股盘初领跑行业ETF。",
@@ -781,8 +827,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时36分 ~ 22时03分]"
+          "appearance_count": 7,
+          "time_info": "[18时36分 ~ 23时43分]"
         },
         {
           "title": "A股有色和化工板块联袂大涨，春季行情主线渐明",
@@ -902,7 +948,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "英伟达仍然在与OpenAI谈判投资事宜，目前尚未敲定协议。",
@@ -991,6 +1037,103 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "OpenAI：ChatGPT目前发生故障。",
+          "url": "https://wallstreetcn.com/livenews/3059629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "航天 航空",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "荷兰皇家航空：自3月1日起临时暂停阿姆斯特丹与特拉维夫之间的航班。",
+          "url": "https://flash.jin10.com/detail/20260226030227088800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时30分 ~ 05时27分]"
+        },
+        {
+          "title": "SpaceX 猎鹰 9 号完成第 33 次飞行回收，刷新复用纪录，这对航天领域意味着什么？",
+          "url": "https://www.zhihu.com/question/2008965593232064868",
+          "source": "知乎",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 17时39分]"
+        },
+        {
+          "title": "印度总理莫迪：印以将在民用核能和航天领域开展合作。",
+          "url": "https://flash.jin10.com/detail/20260226191017432800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
+          "title": "美国参议院民主党人坎特威尔敦促美国众议院就航空安全法案再次进行表决。",
+          "url": "https://flash.jin10.com/detail/20260226010314323800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时55分"
+        },
+        {
+          "title": "消息人士：美国航空航天和芯片行业稀土短缺问题日益加剧",
+          "url": "https://flash.jin10.com/detail/20260226134425006800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "全球航空业ETF涨2.08%，金融业ETF涨1.03%，在美股盘初领跑行业ETF，能源业ETF跌1.03%，半导体指数跌1.22%。",
+          "url": "https://wallstreetcn.com/livenews/3059638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
+          "title": "随着油价下跌，美国航空公司股价上涨，美国航空上涨4.5%，联合航空上涨3.5%，捷蓝航空上涨3%。",
+          "url": "https://flash.jin10.com/detail/20260226225858392800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         }
       ]
     },
@@ -1084,72 +1227,8 @@
       ]
     },
     {
-      "keyword_group": "航天 航空",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "荷兰皇家航空：自3月1日起临时暂停阿姆斯特丹与特拉维夫之间的航班。",
-          "url": "https://flash.jin10.com/detail/20260226030227088800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时30分 ~ 05时27分]"
-        },
-        {
-          "title": "SpaceX 猎鹰 9 号完成第 33 次飞行回收，刷新复用纪录，这对航天领域意味着什么？",
-          "url": "https://www.zhihu.com/question/2008965593232064868",
-          "source": "知乎",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时34分 ~ 17时39分]"
-        },
-        {
-          "title": "印度总理莫迪：印以将在民用核能和航天领域开展合作。",
-          "url": "https://flash.jin10.com/detail/20260226191017432800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时33分"
-        },
-        {
-          "title": "美国参议院民主党人坎特威尔敦促美国众议院就航空安全法案再次进行表决。",
-          "url": "https://flash.jin10.com/detail/20260226010314323800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "消息人士：美国航空航天和芯片行业稀土短缺问题日益加剧",
-          "url": "https://flash.jin10.com/detail/20260226134425006800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时47分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价高的已经推出红绳戒指了",
@@ -1201,6 +1280,69 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时32分 ~ 19时33分]"
+        },
+        {
+          "title": "投资者静待美伊谈判结果，金价保持稳定",
+          "url": "https://flash.jin10.com/detail/20260226225602551800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美元指数DXY短线上扬15点，报97.82。",
+          "url": "https://flash.jin10.com/detail/20260226232533363800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
+          "title": "新兴市场股票指数与外汇指数创历史新高，亚洲科技股飙涨。 明晟公司（MSCI）新兴市场外汇指数涨0.4%，连续第四个交易日走强，大部分货币兑美元升值。 MSCI新兴市场股票指数涨1.5%，连续第六个交易日上涨，2026年迄今累计涨幅达到大约15%。",
+          "url": "https://wallstreetcn.com/livenews/3059073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时21分]"
+        },
+        {
+          "title": "周三（2月25日）纽约尾盘，ICE美元指数跌0.16%，报97.690点，日内交投区间为98.002-97.622点整体呈现出W形走势。 彭博美元指数跌0.20%，报1187.44点，日内交投区间为1190.67-1186.54点。",
+          "url": "https://wallstreetcn.com/livenews/3059041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时22分]"
+        },
+        {
+          "title": "北美科技软件股指数ETF涨约2.7%，刷新日高至83.06美元。",
+          "url": "https://wallstreetcn.com/livenews/3059657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         }
       ]
     },
@@ -1243,36 +1385,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "新兴市场股票指数与外汇指数创历史新高，亚洲科技股飙涨。 明晟公司（MSCI）新兴市场外汇指数涨0.4%，连续第四个交易日走强，大部分货币兑美元升值。 MSCI新兴市场股票指数涨1.5%，连续第六个交易日上涨，2026年迄今累计涨幅达到大约15%。",
-          "url": "https://wallstreetcn.com/livenews/3059073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时22分 ~ 07时21分]"
-        },
-        {
-          "title": "周三（2月25日）纽约尾盘，ICE美元指数跌0.16%，报97.690点，日内交投区间为98.002-97.622点整体呈现出W形走势。 彭博美元指数跌0.20%，报1187.44点，日内交投区间为1190.67-1186.54点。",
-          "url": "https://wallstreetcn.com/livenews/3059041",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 06时22分]"
         }
       ]
     },
