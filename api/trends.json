@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T09:08:24.077818+08:00",
-  "total_titles_processed": 840,
+  "generated_at": "2026-02-26T12:07:54.495330+08:00",
+  "total_titles_processed": 1015,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时04分 ~ 09时08分]"
+          "appearance_count": 16,
+          "time_info": "[00时04分 ~ 12时07分]"
         },
         {
           "title": "伊朗强硬回击特朗普国情咨文：弥天大谎",
@@ -54,6 +54,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时30分 ~ 05时27分]"
+        },
+        {
+          "title": "胡锡进：一个惊悚质疑指向特朗普，希望它不是真的",
+          "url": "https://news.ifeng.com/c/8r2eU3KJRpW",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
+          "url": "https://www.cls.cn/detail/2295374",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         },
         {
           "title": "乌克兰总统顾问：泽连斯基与特朗普举行电话会谈，会谈已结束。",
@@ -150,6 +172,28 @@
           "time_info": "[03时30分 ~ 03时51分]"
         },
         {
+          "title": "美国多州政府和企业：特朗普，退钱！",
+          "url": "https://news.ifeng.com/c/8r3Sel2aFh4",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "美媒：特朗普告诉泽连斯基让冲突一个月内结束",
+          "url": "https://wallstreetcn.com/livenews/3059242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
           "title": "IMF总裁格奥尔基耶娃：我们未对最高法院推翻特朗普部分关税政策的裁决发表意见。",
           "url": "https://flash.jin10.com/detail/20260226062305910800",
           "source": "金十数据",
@@ -198,8 +242,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时04分 ~ 09时08分]"
+          "appearance_count": 16,
+          "time_info": "[00时04分 ~ 12时07分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
@@ -210,8 +254,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时20分 ~ 09时08分]"
+          "appearance_count": 5,
+          "time_info": "[07时20分 ~ 12时07分]"
         },
         {
           "title": "网络股指数ETF收涨约2.3%，领跑美股行业ETF",
@@ -412,8 +456,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时20分 ~ 09时08分]"
+          "appearance_count": 5,
+          "time_info": "[07时20分 ~ 12时07分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8592元，较周二夜盘收盘涨220点。成交量525.09亿美元。",
@@ -520,6 +564,34 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "A股有色和化工板块联袂大涨，春季行情主线渐明",
+          "url": "https://wallstreetcn.com/livenews/3059104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "航天 航空",
       "match_count": 2,
       "titles": [
@@ -580,23 +652,6 @@
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股有色和化工板块联袂大涨，春季行情主线渐明",
-          "url": "https://wallstreetcn.com/livenews/3059104",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -627,11 +682,12 @@
           "url": "https://www.cls.cn/detail/2295242",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 09时08分]"
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 12时07分]"
         }
       ]
     },
