@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T07:21:05.742609+08:00",
-  "total_titles_processed": 691,
+  "generated_at": "2026-02-26T09:08:24.077818+08:00",
+  "total_titles_processed": 840,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
@@ -19,6 +19,19 @@
           "time_info": "[00时04分 ~ 07时21分]"
         },
         {
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时04分 ~ 09时08分]"
+        },
+        {
           "title": "伊朗强硬回击特朗普国情咨文：弥天大谎",
           "url": "https://news.ifeng.com/c/8r2aEG9ywSj",
           "source": "凤凰网",
@@ -26,20 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时04分 ~ 07时21分]"
-        },
-        {
-          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
-          "url": "https://wallstreetcn.com/articles/3766126",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时04分 ~ 07时21分]"
+          "appearance_count": 15,
+          "time_info": "[00时04分 ~ 09时08分]"
         },
         {
           "title": "阿斯顿马丁将裁员至多20%，来应对美国总统特朗普挑起的关税所造成的复杂形势。",
@@ -81,6 +82,28 @@
           "time_info": "[03时30分 ~ 05时27分]"
         },
         {
+          "title": "特朗普试戴冬奥金牌不还",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%95%E6%88%B4%E5%86%AC%E5%A5%A5%E9%87%91%E7%89%8C%E4%B8%8D%E8%BF%98%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
+        },
+        {
+          "title": "被批“脱离群众”，特朗普演讲后民调出炉",
+          "url": "https://news.ifeng.com/c/8r3H0FXQPT8",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：刚刚和美国总统特朗普通了电话。美国总统特使威特科夫和贾里德·库什纳也参加了通话。我们讨论了双方代表明天在日内瓦双边会晤中将要讨论的问题，以及三月初三方谈判团队全体会议的筹备工作。",
           "url": "https://flash.jin10.com/detail/20260226033018187800",
           "source": "金十数据",
@@ -105,6 +128,17 @@
           "time_info": "[00时58分 ~ 01时55分]"
         },
         {
+          "title": "特朗普提议父母未同意禁止青少年变性",
+          "url": "https://www.toutiao.com/trending/7610682153404252169/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
+        },
+        {
           "title": "俄罗斯总统新闻秘书佩斯科夫：目前没有安排普京和特朗普之间的对话。",
           "url": "https://flash.jin10.com/detail/20260226023258257800",
           "source": "金十数据",
@@ -122,7 +156,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -133,7 +167,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         }
@@ -164,19 +198,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时04分 ~ 07时21分]"
+          "appearance_count": 15,
+          "time_info": "[00时04分 ~ 09时08分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
           "url": "https://www.cls.cn/detail/2295296",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
+          "appearance_count": 4,
+          "time_info": "[07时20分 ~ 09时08分]"
         },
         {
           "title": "网络股指数ETF收涨约2.3%，领跑美股行业ETF",
@@ -218,7 +253,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -334,7 +369,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         }
@@ -377,8 +412,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
+          "appearance_count": 4,
+          "time_info": "[07时20分 ~ 09时08分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8592元，较周二夜盘收盘涨220点。成交量525.09亿美元。",
@@ -413,7 +448,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -424,7 +459,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         }
@@ -555,7 +590,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         }
@@ -580,6 +615,23 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时04分 ~ 07时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "摩根大通上调黄金长期价格预期至4500美元，维持2026年底目标价6300美元不变",
+          "url": "https://www.cls.cn/detail/2295242",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
         }
       ]
     },
