@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T21:31:57.602134+08:00",
-  "total_titles_processed": 1976,
+  "generated_at": "2026-02-28T22:14:03.486418+08:00",
+  "total_titles_processed": 2060,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 140,
+      "match_count": 142,
       "titles": [
         {
           "title": "专访｜打击伊核设施“刺激”特朗普军事冒进，以色列欲再推美国动武",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时01分 ~ 21时31分]"
+          "appearance_count": 16,
+          "time_info": "[09时01分 ~ 22时14分]"
         },
         {
           "title": "【早报】证监会召开重磅会议，吴清发声；特朗普警告伊朗“有时候不得不打”",
@@ -44,8 +44,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时01分 ~ 21时31分]"
+          "appearance_count": 16,
+          "time_info": "[09时01分 ~ 22时14分]"
         },
         {
           "title": "特朗普扬言：美国或“友好接管”古巴",
@@ -69,11 +69,12 @@
             13,
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时01分 ~ 21时31分]"
+          "appearance_count": 16,
+          "time_info": "[09时01分 ~ 22时14分]"
         },
         {
           "title": "美军中东最高指挥官向特朗普汇报",
@@ -137,6 +138,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[16时17分 ~ 21时31分]"
+        },
+        {
+          "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
+          "url": "https://wallstreetcn.com/articles/3766399",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时24分 ~ 22时14分]"
         },
         {
           "title": "特朗普对伊核谈判不满",
@@ -260,17 +273,6 @@
           "time_info": "14时25分"
         },
         {
-          "title": "特朗普今日预计将不会发表全国讲话。（AXIOS）",
-          "url": "https://wallstreetcn.com/livenews/3060874",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
-        },
-        {
           "title": "特朗普宣布打击伊朗",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97",
           "source": "bilibili 热搜",
@@ -297,18 +299,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时10分 ~ 14时25分]"
-        },
-        {
-          "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
-          "url": "https://wallstreetcn.com/articles/3766399",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时24分 ~ 21时31分]"
         },
         {
           "title": "美国总统特朗普：我们看看伊朗局势将如何发展，一切都会有好的结果。",
@@ -493,6 +483,18 @@
           "time_info": "[07时16分 ~ 09时01分]"
         },
         {
+          "title": "特朗普今日预计将不会发表全国讲话。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/3060874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 22时14分]"
+        },
+        {
           "title": "特朗普呼吁伊朗政权更迭，他在打什么主意？能如愿吗？",
           "url": "https://www.zhihu.com/question/2011106976499724764",
           "source": "知乎",
@@ -530,6 +532,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时24分 ~ 16时17分]"
+        },
+        {
+          "title": "梅德韦杰夫称特朗普露出真面目",
+          "url": "https://www.baidu.com/s?wd=%E6%A2%85%E5%BE%B7%E9%9F%A6%E6%9D%B0%E5%A4%AB%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E9%9C%B2%E5%87%BA%E7%9C%9F%E9%9D%A2%E7%9B%AE",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时23分 ~ 22时14分]"
         },
         {
           "title": "克林顿闭门作证爱泼斯坦案，特朗普表态",
@@ -581,6 +595,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时28分 ~ 04时19分]"
+        },
+        {
+          "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32671945",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 22时14分]"
         },
         {
           "title": "特朗普就伊朗问题释放最新信号",
@@ -882,17 +907,6 @@
           "time_info": "[17时17分 ~ 18时14分]"
         },
         {
-          "title": "梅德韦杰夫称特朗普露出真面目",
-          "url": "https://www.baidu.com/s?wd=%E6%A2%85%E5%BE%B7%E9%9F%A6%E6%9D%B0%E5%A4%AB%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E9%9C%B2%E5%87%BA%E7%9C%9F%E9%9D%A2%E7%9B%AE",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时23分 ~ 20时24分]"
-        },
-        {
           "title": "特朗普就袭击伊朗发声",
           "url": "https://news.ifeng.com/c/8r77KSKCykg",
           "source": "凤凰网",
@@ -1058,6 +1072,17 @@
           "time_info": "02时28分"
         },
         {
+          "title": "美国众议院议长约翰逊：今天，伊朗正为其恶行面临严重后果。特朗普总统和政府已尽一切努力，寻求和平和外交解决方案，以应对伊朗政权持续的核野心与发展、恐怖主义。",
+          "url": "https://flash.jin10.com/detail/20260228214635492800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
           "title": "美国总统特朗普：事实证明，能源部长Wright表现不错。",
           "url": "https://wallstreetcn.com/livenews/3060534",
           "source": "华尔街见闻-快讯",
@@ -1141,7 +1166,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -1177,6 +1202,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
+        },
+        {
+          "title": "美国财长贝森特：财政部致力于特朗普对伊朗的极限施压。",
+          "url": "https://flash.jin10.com/detail/20260228214521633800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "美国总统特朗普：就赚钱而言，相比众多人工智能（AI）工厂、我更喜欢石油。 就打压美国价格而言，降低能源成本是最重要的事情之一。",
@@ -1240,18 +1276,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
-        },
-        {
-          "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32671945",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -1537,7 +1562,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -1633,7 +1658,7 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "靛蓝航空：我们正密切关注有关伊朗及其空域的地区动态。",
@@ -1696,6 +1721,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时01分 ~ 11时10分]"
+        },
+        {
+          "title": "印度航空：鉴于中东地区当前局势，印度航空已取消所有飞往该地区目的地的航班，直至3月1日23时59分。",
+          "url": "https://flash.jin10.com/detail/20260228214740950800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "维珍大西洋航空：作为预防性措施，我们今日也取消了从伦敦希思罗机场飞往迪拜的VS400航班。",
@@ -1936,8 +1972,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[05时19分 ~ 21时31分]"
+          "appearance_count": 20,
+          "time_info": "[05时19分 ~ 22时14分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -1962,11 +1998,12 @@
             16,
             13,
             17,
-            28
+            28,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时24分 ~ 21时31分]"
+          "appearance_count": 12,
+          "time_info": "[14时24分 ~ 22时14分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -2102,6 +2139,18 @@
           "time_info": "[12时48分 ~ 14时25分]"
         },
         {
+          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2011023228328510169",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 22时14分]"
+        },
+        {
           "title": "消息人士称，英伟达正准备推出一款专用芯片，以撼动人工智能计算领域的竞争格局。OpenAI即将成为英伟达新款处理器的最大客户之一。",
           "url": "https://flash.jin10.com/detail/20260228110554688800",
           "source": "金十数据",
@@ -2134,17 +2183,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
-        },
-        {
-          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2011023228328510169",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
         },
         {
           "title": "OpenAI首席执行官：如果收入保持增长 融资交易就不是“循环交易”",
@@ -2319,6 +2357,18 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "伊朗局势演变会如何影响美股、黄金和原油？一文读懂",
+          "url": "https://www.cls.cn/detail/2298093",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时20分 ~ 22时14分]"
+        },
+        {
           "title": "美股收盘：英伟达再度蒸发万亿市值 金融板块全线重挫",
           "url": "https://www.cls.cn/detail/2297908",
           "source": "财联社热门",
@@ -2333,29 +2383,18 @@
           "time_info": "[07时16分 ~ 19时11分]"
         },
         {
-          "title": "伊朗局势演变会如何影响美股、黄金和原油？一文读懂",
-          "url": "https://www.cls.cn/detail/2298093",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时20分 ~ 21时31分]"
-        },
-        {
           "title": "以色列突袭伊朗，正准备 4 天的联合进攻，原油、黄金、美股接下来怎么走？",
           "url": "https://www.zhihu.com/question/2011096140146286806",
           "source": "知乎",
           "ranks": [
             17,
             14,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时14分 ~ 21时31分]"
+          "appearance_count": 7,
+          "time_info": "[18时14分 ~ 22时14分]"
         },
         {
           "title": "2月份，美股降息赢家指数累跌3.23%，报98.28点，2月12日以来持续回撤。 “特朗普关税输家”指数累涨1.39%，报114.47点。 “特朗普金融指数”累跌9.18%，报154.50点。 散户抱团概念股指数/迷因股（meme stock）指数累跌6.11%，报13.26点。",
@@ -2419,8 +2458,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时01分 ~ 21时31分]"
+          "appearance_count": 16,
+          "time_info": "[09时01分 ~ 22时14分]"
         },
         {
           "title": "地缘政治与信贷担忧拖累美股，道指跌1%，10年期美债收益率跌破4%，金银拉升，原油走强",
@@ -2465,7 +2504,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         }
@@ -2487,8 +2526,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时48分 ~ 21时31分]"
+          "appearance_count": 14,
+          "time_info": "[12时48分 ~ 22时14分]"
         },
         {
           "title": "小米展示新一代SU7汽车机械门把手",
@@ -2544,8 +2583,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时20分 ~ 21时31分]"
+          "appearance_count": 10,
+          "time_info": "[15时20分 ~ 22时14分]"
+        },
+        {
+          "title": "“中东火药桶”炸了！美以对伊朗发起袭击，金价油价或继续飙涨",
+          "url": "https://finance.ifeng.com/c/8r7FgvfAN7q",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时23分 ~ 22时14分]"
         },
         {
           "title": "专家：金价极端情况下或到7000美元",
@@ -2559,17 +2609,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时14分 ~ 20时24分]"
-        },
-        {
-          "title": "“中东火药桶”炸了！美以对伊朗发起袭击，金价油价或继续飙涨",
-          "url": "https://finance.ifeng.com/c/8r7FgvfAN7q",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时23分 ~ 21时31分]"
         },
         {
           "title": "以色列伊朗 金价",
