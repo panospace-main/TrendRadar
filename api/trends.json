@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T11:10:58.256049+08:00",
-  "total_titles_processed": 907,
+  "generated_at": "2026-02-28T12:48:23.184486+08:00",
+  "total_titles_processed": 1028,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 90,
+      "match_count": 91,
       "titles": [
         {
           "title": "美军中东最高指挥官向特朗普汇报",
@@ -53,8 +53,44 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 12时48分]"
+        },
+        {
+          "title": "【早报】证监会召开重磅会议，吴清发声；特朗普警告伊朗“有时候不得不打”",
+          "url": "https://www.cls.cn/detail/2297916",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时01分 ~ 11时10分]"
+          "time_info": "[11时10分 ~ 12时48分]"
+        },
+        {
+          "title": "特朗普扬言：美国或“友好接管”古巴",
+          "url": "https://news.ifeng.com/c/8r6XoCrGIH8",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时10分 ~ 12时48分]"
+        },
+        {
+          "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
+          "url": "https://wallstreetcn.com/articles/3766396",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 12时48分]"
         },
         {
           "title": "特朗普对伊核谈判不满",
@@ -90,17 +126,6 @@
           "time_info": "01时27分"
         },
         {
-          "title": "【早报】证监会召开重磅会议，吴清发声；特朗普警告伊朗“有时候不得不打”",
-          "url": "https://www.cls.cn/detail/2297916",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
           "title": "市场消息：特朗普在最高法院败诉后，面临2000起关税诉讼。已有100多家公司提起新的诉讼。",
           "url": "https://flash.jin10.com/detail/20260228001656802800",
           "source": "金十数据",
@@ -121,17 +146,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
-        },
-        {
-          "title": "特朗普扬言：美国或“友好接管”古巴",
-          "url": "https://news.ifeng.com/c/8r6XoCrGIH8",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时10分"
         },
         {
           "title": "美国总统特朗普：我们拭目以待伊朗局势的发展，一切都会好起来的。",
@@ -156,17 +170,6 @@
           "time_info": "06时14分"
         },
         {
-          "title": "特朗普政府表示，关税退款流程将继续进行，退款流程可能需要很长时间。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3060581",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
           "title": "美国总统特朗普：汽油价格正在大幅下降。",
           "url": "https://flash.jin10.com/detail/20260228020904700800",
           "source": "金十数据",
@@ -176,18 +179,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
-        },
-        {
-          "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
-          "url": "https://wallstreetcn.com/articles/3766396",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 11时10分]"
         },
         {
           "title": "美国总统特朗普：我们看看伊朗局势将如何发展，一切都会有好的结果。",
@@ -312,6 +303,18 @@
           "time_info": "[07时16分 ~ 09时01分]"
         },
         {
+          "title": "特朗普政府表示，关税退款流程将继续进行，退款流程可能需要很长时间。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3060581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时10分 ~ 12时48分]"
+        },
+        {
           "title": "美国总统特朗普：委内瑞拉运气不错，现在做得很好。",
           "url": "https://flash.jin10.com/detail/20260228053001600800",
           "source": "金十数据",
@@ -374,6 +377,18 @@
           "time_info": "[02时28分 ~ 04时19分]"
         },
         {
+          "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32669796",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 12时48分]"
+        },
+        {
           "title": "美国总统特朗普：不知为何，我更喜欢通过石油而不是人工智能工厂来赚钱。",
           "url": "https://flash.jin10.com/detail/20260228060327470800",
           "source": "金十数据",
@@ -398,6 +413,18 @@
           "time_info": "[07时16分 ~ 09时01分]"
         },
         {
+          "title": "克林顿闭门作证爱泼斯坦案，特朗普表态",
+          "url": "https://news.ifeng.com/c/8r6bGfY13Ho",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时10分 ~ 12时48分]"
+        },
+        {
           "title": "美国总统特朗普：将在美国提炼委内瑞拉石油，并对部分石油进行出口。",
           "url": "https://flash.jin10.com/detail/20260228055920982800",
           "source": "金十数据",
@@ -410,6 +437,18 @@
           "time_info": "[07时16分 ~ 09时01分]"
         },
         {
+          "title": "特朗普政府正在考虑对Anthropic公司采取更强有力的措施。",
+          "url": "https://flash.jin10.com/detail/20260228105235978800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时10分 ~ 12时48分]"
+        },
+        {
           "title": "美国总统特朗普：感谢委内瑞拉，我们双方目前关系良好。",
           "url": "https://flash.jin10.com/detail/20260228055815726800",
           "source": "金十数据",
@@ -420,6 +459,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时16分 ~ 09时01分]"
+        },
+        {
+          "title": "特朗普政府寻求推迟关税退税诉讼",
+          "url": "https://flash.jin10.com/detail/20260228104012834800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时10分 ~ 12时48分]"
         },
         {
           "title": "美国总统特朗普：36万桶委内瑞拉石油停在油轮里。",
@@ -530,17 +581,6 @@
           "time_info": "[09时01分 ~ 11时10分]"
         },
         {
-          "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32669796",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 11时10分]"
-        },
-        {
           "title": "特朗普喊话购房者：再等等就能获得非常低的利率",
           "url": "https://wallstreetcn.com/livenews/3060453",
           "source": "华尔街见闻-快讯",
@@ -600,15 +640,15 @@
           "time_info": "09时01分"
         },
         {
-          "title": "克林顿闭门作证爱泼斯坦案，特朗普表态",
-          "url": "https://news.ifeng.com/c/8r6bGfY13Ho",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：明尼苏达州自闭症补助金从2017年的1,099,946美元飙升至2024年的343,176,474美元，短短几年内增长了34,000%。这简直就是个天大的骗局。立即调查并逮捕骗子。更多索马里势力介入。加州的情况更糟。要平衡预算。",
+          "url": "https://flash.jin10.com/detail/20260228115311357800",
+          "source": "金十数据",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时10分"
+          "time_info": "12时48分"
         },
         {
           "title": "美国总统特朗普：我们在石油方面运气好极了。",
@@ -620,17 +660,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
-        },
-        {
-          "title": "特朗普政府正在考虑对Anthropic公司采取更强有力的措施。",
-          "url": "https://flash.jin10.com/detail/20260228105235978800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时10分"
         },
         {
           "title": "特朗普透露美伊将继续谈判",
@@ -664,17 +693,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
-        },
-        {
-          "title": "特朗普政府寻求推迟关税退税诉讼",
-          "url": "https://flash.jin10.com/detail/20260228104012834800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时10分"
         },
         {
           "title": "美国总统特朗普：（被问及对伊朗的打击是否可能导致更大规模的冲突）总是存在这种风险。",
@@ -1043,7 +1061,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -1056,8 +1074,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时26分 ~ 11时10分]"
+          "appearance_count": 12,
+          "time_info": "[01时26分 ~ 12时48分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -1080,55 +1098,12 @@
             9,
             8,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时19分 ~ 11时10分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：我们将部署前线工程师来协助我们的模型，为了确保模型的安全，我们将只在云网络上进行部署。",
-          "url": "https://flash.jin10.com/detail/20260228110043453800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：我们强烈希望事态能够缓和，避免诉诸法律和政府行动，并达成合理的协议。",
-          "url": "https://flash.jin10.com/detail/20260228105851301800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：我们要求美国国防部向所有人工智能公司提供这些相同条款，我们认为每个人都应该愿意接受。",
-          "url": "https://flash.jin10.com/detail/20260228105836118800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：我们也会构建技术安全措施，以确保我们的模型按预期运行，美国国防部也希望如此。",
-          "url": "https://flash.jin10.com/detail/20260228105824885800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时10分"
+          "appearance_count": 7,
+          "time_info": "[05时19分 ~ 12时48分]"
         },
         {
           "title": "OpenAI获1100亿美元新投资",
@@ -1137,20 +1112,80 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
         },
         {
-          "title": "OpenAI创始人奥尔特曼：我们与美国国防部达成协议，将我们的模型部署到他们的机密网络中。",
-          "url": "https://flash.jin10.com/detail/20260228105722729800",
+          "title": "和Anthropic闹翻“仅数小时” 美国国防部便和OpenAI签署合作协议",
+          "url": "https://flash.jin10.com/detail/20260228120317791800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时10分"
+          "time_info": "12时48分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：我们将部署前线工程师来协助我们的模型，为了确保模型的安全，我们将只在云网络上进行部署。",
+          "url": "https://flash.jin10.com/detail/20260228110043453800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时10分 ~ 12时48分]"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：我们强烈希望事态能够缓和，避免诉诸法律和政府行动，并达成合理的协议。",
+          "url": "https://flash.jin10.com/detail/20260228105851301800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时10分 ~ 12时48分]"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：我们要求美国国防部向所有人工智能公司提供这些相同条款，我们认为每个人都应该愿意接受。",
+          "url": "https://flash.jin10.com/detail/20260228105836118800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时10分 ~ 12时48分]"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：我们也会构建技术安全措施，以确保我们的模型按预期运行，美国国防部也希望如此。",
+          "url": "https://flash.jin10.com/detail/20260228105824885800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时10分 ~ 12时48分]"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：我们与美国国防部达成协议，将我们的模型部署到他们的机密网络中。",
+          "url": "https://flash.jin10.com/detail/20260228105722729800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时10分 ~ 12时48分]"
         },
         {
           "title": "OpenAI将追加融资100亿美元。（The Information）",
@@ -1165,6 +1200,17 @@
           "time_info": "[03时27分 ~ 04时19分]"
         },
         {
+          "title": "OpenAI创始人奥尔特曼：我们与美国国防部达成协议，将我们的模型部署到他们的机密网络中。",
+          "url": "https://wallstreetcn.com/livenews/3060587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        },
+        {
           "title": "一位消息人士透露，五角大楼已同意OpenAI制定的在保密环境下安全部署其技术的规则，但尚未签署任何合同。",
           "url": "https://flash.jin10.com/detail/20260228080935525800",
           "source": "金十数据",
@@ -1174,6 +1220,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "消息人士称，英伟达正准备推出一款专用芯片，以撼动人工智能计算领域的竞争格局。OpenAI即将成为英伟达新款处理器的最大客户之一。",
+          "url": "https://flash.jin10.com/detail/20260228110554688800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
         },
         {
           "title": "OpenAI首席执行官：如果收入保持增长 融资交易就不是“循环交易”",
@@ -1201,7 +1258,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
@@ -1232,6 +1289,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时29分 ~ 09时01分]"
+        },
+        {
+          "title": "人民币汇率三日急涨600点 央行出手",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87%E4%B8%89%E6%97%A5%E6%80%A5%E6%B6%A8600%E7%82%B9+%E5%A4%AE%E8%A1%8C%E5%87%BA%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8630元，较周四夜盘收盘跌130点。成交量535.90亿美元。",
@@ -1287,18 +1355,42 @@
           "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E5%87%BA%E5%A4%A7%E6%8B%9B+%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
           "source": "百度热搜",
           "ranks": [
-            17
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时10分 ~ 12时48分]"
+        },
+        {
+          "title": "2月人民币对美元即期汇率升值1.3%：央行出手，后续如何走",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32666912",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时10分"
+          "time_info": "12时48分"
         }
       ]
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "国家统计局：2025年完成92次宇航发射，其中商业航天发射50次",
+          "url": "https://wallstreetcn.com/livenews/3060577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时10分 ~ 12时48分]"
+        },
         {
           "title": "土耳其航空公司：飞往伊朗的日间航班正常运营",
           "url": "https://wallstreetcn.com/livenews/3060560",
@@ -1312,15 +1404,15 @@
           "time_info": "[09时01分 ~ 11时10分]"
         },
         {
-          "title": "国家统计局：2025年完成92次宇航发射，其中商业航天发射50次",
-          "url": "https://wallstreetcn.com/livenews/3060577",
-          "source": "华尔街见闻-快讯",
+          "title": "美国航空航天局（NASA）：水星、金星、海王星、土星、天王星和木星将于周六出现罕见的“六星连珠”现象。",
+          "url": "https://flash.jin10.com/detail/20260228113805881800",
+          "source": "金十数据",
           "ranks": [
-            7
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时10分"
+          "time_info": "12时48分"
         },
         {
           "title": "据实时航班追踪网站Flightradar24显示，一架伊朗无人机正在阿拉伯海活动，可能用于收集有关美国航空母舰及其打击群的情报。该无人机似乎由一艘海军舰艇发射，以实现更远的飞行航程。",
@@ -1382,8 +1474,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时16分 ~ 11时10分]"
+          "appearance_count": 4,
+          "time_info": "[07时16分 ~ 12时48分]"
         },
         {
           "title": "2月份，美股降息赢家指数累跌3.23%，报98.28点，2月12日以来持续回撤。 “特朗普关税输家”指数累涨1.39%，报114.47点。 “特朗普金融指数”累跌9.18%，报154.50点。 散户抱团概念股指数/迷因股（meme stock）指数累跌6.11%，报13.26点。",
@@ -1445,8 +1537,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 11时10分]"
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 12时48分]"
         },
         {
           "title": "地缘政治与信贷担忧拖累美股，道指跌1%，10年期美债收益率跌破4%，金银拉升，原油走强",
@@ -1488,7 +1580,7 @@
     },
     {
       "keyword_group": "农业 机械",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "特朗普政府表示，在额外获得2亿美元资金后，对新型农业实践研究的投入将超过10亿美元。",
@@ -1501,6 +1593,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 05时20分]"
+        },
+        {
+          "title": "河南内乡县通报“居民去农业农村局上厕所被骂”：责成处理涉事人员",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32668798",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
         }
       ]
     },
@@ -1514,11 +1617,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 11时10分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 12时48分]"
         }
       ]
     },
