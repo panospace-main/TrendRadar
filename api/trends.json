@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T16:17:40.956259+08:00",
-  "total_titles_processed": 1383,
+  "generated_at": "2026-02-28T17:17:35.138321+08:00",
+  "total_titles_processed": 1515,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 118,
+      "match_count": 126,
       "titles": [
         {
           "title": "专访｜打击伊核设施“刺激”特朗普军事冒进，以色列欲再推美国动武",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 16时17分]"
+          "appearance_count": 9,
+          "time_info": "[09时01分 ~ 17时17分]"
         },
         {
           "title": "【早报】证监会召开重磅会议，吴清发声；特朗普警告伊朗“有时候不得不打”",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时10分 ~ 16时17分]"
+          "appearance_count": 8,
+          "time_info": "[11时10分 ~ 17时17分]"
         },
         {
           "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
@@ -43,8 +43,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 16时17分]"
+          "appearance_count": 9,
+          "time_info": "[09时01分 ~ 17时17分]"
         },
         {
           "title": "特朗普扬言：美国或“友好接管”古巴",
@@ -83,6 +83,20 @@
           "time_info": "[00时29分 ~ 07时16分]"
         },
         {
+          "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32669796",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时01分 ~ 17时17分]"
+        },
+        {
           "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32601815",
           "source": "澎湃新闻",
@@ -95,29 +109,15 @@
           "time_info": "[00时29分 ~ 06时14分]"
         },
         {
-          "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32669796",
-          "source": "澎湃新闻",
+          "title": "特朗普宣布打击伊朗",
+          "url": "https://www.douyin.com/hot/2414412",
+          "source": "抖音",
           "ranks": [
-            16,
-            12,
-            11,
-            13
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 16时17分]"
-        },
-        {
-          "title": "特朗普宣布打击伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时17分"
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 17时17分]"
         },
         {
           "title": "特朗普对伊核谈判不满",
@@ -142,6 +142,18 @@
           "time_info": "00时29分"
         },
         {
+          "title": "特朗普透露美伊将继续谈判 但警告“有时候不得不打”",
+          "url": "https://www.cls.cn/detail/2297953",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时26分 ~ 17时17分]"
+        },
+        {
           "title": "特朗普发布白宫宴会厅完工效果图，称其为“同类建筑中最宏伟的一座”。",
           "url": "https://flash.jin10.com/detail/20260228011403179800",
           "source": "金十数据",
@@ -151,17 +163,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
-        },
-        {
-          "title": "特朗普宣布打击伊朗",
-          "url": "https://www.douyin.com/hot/2414412",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时17分"
         },
         {
           "title": "市场消息：特朗普在最高法院败诉后，面临2000起关税诉讼。已有100多家公司提起新的诉讼。",
@@ -184,6 +185,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "特朗普呼吁伊朗政权更迭",
+          "url": "https://news.ifeng.com/c/8r784Gm9EgQ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "美国总统特朗普：我们拭目以待伊朗局势的发展，一切都会好起来的。",
@@ -244,18 +256,6 @@
           "time_info": "[11时10分 ~ 14时25分]"
         },
         {
-          "title": "特朗普透露美伊将继续谈判 但警告“有时候不得不打”",
-          "url": "https://www.cls.cn/detail/2297953",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时26分 ~ 16时17分]"
-        },
-        {
           "title": "美国总统特朗普：我们看看伊朗局势将如何发展，一切都会有好的结果。",
           "url": "https://wallstreetcn.com/livenews/3060466",
           "source": "华尔街见闻-快讯",
@@ -267,6 +267,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时28分 ~ 04时19分]"
+        },
+        {
+          "title": "特朗普宣布打击伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 17时17分]"
         },
         {
           "title": "美国总统特朗普谈伊朗：得达成有意义的协议才行。",
@@ -584,6 +596,18 @@
           "time_info": "[07时16分 ~ 09时01分]"
         },
         {
+          "title": "特朗普称美军对伊朗进行军事打击",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E8%BF%9B%E8%A1%8C%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 17时17分]"
+        },
+        {
           "title": "特朗普发文呼吁最高法院重审或再审其关税政策案",
           "url": "https://flash.jin10.com/detail/20260228052645165800",
           "source": "金十数据",
@@ -740,6 +764,18 @@
           "time_info": "[02时28分 ~ 03时27分]"
         },
         {
+          "title": "特朗普：不想打 但有时候不得不打",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%83%B3%E6%89%93+%E4%BD%86%E6%9C%89%E6%97%B6%E5%80%99%E4%B8%8D%E5%BE%97%E4%B8%8D%E6%89%93",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 17时17分]"
+        },
+        {
           "title": "特朗普就伊朗问题释放最新信号",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%B1%E4%BC%8A%E6%9C%97%E9%97%AE%E9%A2%98%E9%87%8A%E6%94%BE%E6%9C%80%E6%96%B0%E4%BF%A1%E5%8F%B7",
           "source": "百度热搜",
@@ -757,7 +793,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -817,17 +853,6 @@
           "time_info": "02时28分"
         },
         {
-          "title": "特朗普称美军对伊朗进行军事打击",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E8%BF%9B%E8%A1%8C%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
           "title": "美国总统特朗普：国务卿鲁比奥正“在非常高的层面”处理古巴问题。",
           "url": "https://flash.jin10.com/detail/20260228020403832800",
           "source": "金十数据",
@@ -856,7 +881,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -955,7 +980,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -977,7 +1002,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -1004,6 +1029,17 @@
           "time_info": "04时19分"
         },
         {
+          "title": "以色列总统：祝贺以色列国防军和美国军队在对抗伊朗威胁的联合行动‘狮子咆哮’中展现出的勇气。感谢美国总统特朗普和总理内塔尼亚胡的决定，希望这能为我们和整个中东带来历史性的变化。",
+          "url": "https://flash.jin10.com/detail/20260228165802409800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
           "title": "美国总统特朗普：就赚钱而言，相比众多人工智能（AI）工厂、我更喜欢石油。 就打压美国价格而言，降低能源成本是最重要的事情之一。",
           "url": "https://wallstreetcn.com/livenews/3060531",
           "source": "华尔街见闻-快讯",
@@ -1021,7 +1057,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -1070,6 +1106,17 @@
           "time_info": "02时28分"
         },
         {
+          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：（谈及伊朗袭击）美国总统特朗普“这位和平缔造者”再次暴露了真面目。",
+          "url": "https://flash.jin10.com/detail/20260228165654448800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
           "title": "美国总统特朗普：（谈伊朗）今天将进行额外会谈。",
           "url": "https://flash.jin10.com/detail/20260228015906320800",
           "source": "金十数据",
@@ -1098,7 +1145,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -1142,7 +1189,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -1153,7 +1200,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -1175,7 +1222,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -1197,7 +1244,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -1213,13 +1260,24 @@
           "time_info": "02时28分"
         },
         {
+          "title": "特朗普：将彻底摧毁伊朗海军",
+          "url": "https://www.toutiao.com/trending/7611423404086247467/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
           "title": "美国总统特朗普：我们的目标是通过消除伊朗政权的迫切威胁来保护美国民众。",
           "url": "https://flash.jin10.com/detail/20260228153644862800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -1241,18 +1299,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
-          "title": "特朗普：不想打 但有时候不得不打",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%83%B3%E6%89%93+%E4%BD%86%E6%9C%89%E6%97%B6%E5%80%99%E4%B8%8D%E5%BE%97%E4%B8%8D%E6%89%93",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -1285,9 +1332,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
+        },
+        {
+          "title": "白宫官员：特朗普正在海湖庄园持续监控对伊朗军事行动",
+          "url": "https://wallstreetcn.com/livenews/3060721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "美国总统特朗普：伊朗试图重建其核计划。",
@@ -1296,7 +1354,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -1318,9 +1376,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
+        },
+        {
+          "title": "特朗普谈军事打击伊朗：“等行动结束 接管你们的政府”",
+          "url": "https://wallstreetcn.com/livenews/3060719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "美国总统特朗普：（对购房者）省点钱，再等一等。",
@@ -1340,7 +1409,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -1351,7 +1420,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -1365,6 +1434,250 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "特朗普表示将彻底摧毁伊朗海军",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E7%A4%BA%E5%B0%86%E5%BD%BB%E5%BA%95%E6%91%A7%E6%AF%81%E4%BC%8A%E6%9C%97%E6%B5%B7%E5%86%9B%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "白宫官员：特朗普正在海湖庄园持续监控对伊朗军事行动",
+          "url": "https://flash.jin10.com/detail/20260228164949706800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "航天 航空",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "靛蓝航空：我们正密切关注有关伊朗及其空域的地区动态。",
+          "url": "https://flash.jin10.com/detail/20260228160155573800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "国家统计局：2025年完成92次宇航发射，其中商业航天发射50次",
+          "url": "https://wallstreetcn.com/livenews/3060577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时10分 ~ 14时25分]"
+        },
+        {
+          "title": "美国航空航天局（NASA）：水星、金星、海王星、土星、天王星和木星将于周六出现罕见的“六星连珠”现象。",
+          "url": "https://flash.jin10.com/detail/20260228113805881800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时48分 ~ 14时25分]"
+        },
+        {
+          "title": "日本拟在4月引进新规 限制航空旅客最多携带2个充电宝",
+          "url": "https://flash.jin10.com/detail/20260228125516771800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 14时25分]"
+        },
+        {
+          "title": "土耳其航空公司：飞往伊朗的日间航班正常运营",
+          "url": "https://wallstreetcn.com/livenews/3060560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 11时10分]"
+        },
+        {
+          "title": "维珍大西洋航空：作为预防性措施，我们今日也取消了从伦敦希思罗机场飞往迪拜的VS400航班。",
+          "url": "https://flash.jin10.com/detail/20260228170201760800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "维珍大西洋航空：我们已决定暂时避开伊拉克领空，因此部分原定航班将进行改道。",
+          "url": "https://flash.jin10.com/detail/20260228170153727800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "据实时航班追踪网站Flightradar24显示，一架伊朗无人机正在阿拉伯海活动，可能用于收集有关美国航空母舰及其打击群的情报。该无人机似乎由一艘海军舰艇发射，以实现更远的飞行航程。",
+          "url": "https://flash.jin10.com/detail/20260228033220619800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "伊拉克埃尔比勒机场宣布暂停航空交通。",
+          "url": "https://flash.jin10.com/detail/20260228145826411800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "西班牙伊比利亚快运航空公司取消原定于当地时间周六17时起飞的特拉维夫航班。",
+          "url": "https://flash.jin10.com/detail/20260228170020529800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "迪拜航空发言人：由于伊拉克、伊朗和以色列空域于周六临时关闭，部分飞迪拜航空公司的航班受到影响。",
+          "url": "https://flash.jin10.com/detail/20260228154831544800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "土耳其航空公司：飞往伊朗的日间航班正常运营",
+          "url": "https://flash.jin10.com/detail/20260228072949426800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "据科威特国家通讯社：科威特航空管理局已暂停所有飞往伊朗的航班，直至另行通知。",
+          "url": "https://flash.jin10.com/detail/20260228154154688800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "深圳：鼓励保险机构在人形机器人、量子科技、商业航天、脑机工程等前沿科技方向开展研究，创新保险产品供给及“首研首用”保障",
+          "url": "https://wallstreetcn.com/livenews/3060677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "阿拉伯航空：我们飞往伊朗、伊拉克及该地区其他地区的航班已取消。",
+          "url": "https://flash.jin10.com/detail/20260228165448119800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "法国航空：取消原定于2月28日执飞的往返特拉维夫和贝鲁特的航班。",
+          "url": "https://flash.jin10.com/detail/20260228165445033800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "据N12新闻：印度航空将从周日开始取消所有前往以色列的航班。航班将取消一周，之后将重新评估情况。",
+          "url": "https://flash.jin10.com/detail/20260228041735461800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "日本航空取消2月28日和3月1日羽田-多哈航班。（共同社）",
+          "url": "https://wallstreetcn.com/livenews/3060720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "全球航空业ETF跌3.71%，区域银行ETF跌2.46%，银行业ETF跌2.4%，在美股盘初领跌行业ETF，全球科技股指数ETF、半导体ETF、科技行业ETF至多跌1.73%，能源业ETF涨0.93%。",
+          "url": "https://wallstreetcn.com/livenews/3060373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
         }
       ]
     },
@@ -1385,8 +1698,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[05时19分 ~ 16时17分]"
+          "appearance_count": 13,
+          "time_info": "[05时19分 ~ 17时17分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -1424,6 +1737,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
+        },
+        {
+          "title": "解读OpenAI获千亿美元投资背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            16,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时24分 ~ 17时17分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们将部署前线工程师来协助我们的模型，为了确保模型的安全，我们将只在云网络上进行部署。",
@@ -1511,19 +1838,6 @@
           "time_info": "[03时27分 ~ 04时19分]"
         },
         {
-          "title": "解读OpenAI获千亿美元投资背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时24分 ~ 16时17分]"
-        },
-        {
           "title": "OpenAI创始人奥尔特曼：我们与美国国防部达成协议，将我们的模型部署到他们的机密网络中。",
           "url": "https://wallstreetcn.com/livenews/3060587",
           "source": "华尔街见闻-快讯",
@@ -1595,162 +1909,6 @@
       ]
     },
     {
-      "keyword_group": "航天 航空",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "靛蓝航空：我们正密切关注有关伊朗及其空域的地区动态。",
-          "url": "https://flash.jin10.com/detail/20260228160155573800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
-          "title": "国家统计局：2025年完成92次宇航发射，其中商业航天发射50次",
-          "url": "https://wallstreetcn.com/livenews/3060577",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时10分 ~ 14时25分]"
-        },
-        {
-          "title": "美国航空航天局（NASA）：水星、金星、海王星、土星、天王星和木星将于周六出现罕见的“六星连珠”现象。",
-          "url": "https://flash.jin10.com/detail/20260228113805881800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时48分 ~ 14时25分]"
-        },
-        {
-          "title": "日本拟在4月引进新规 限制航空旅客最多携带2个充电宝",
-          "url": "https://flash.jin10.com/detail/20260228125516771800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 14时25分]"
-        },
-        {
-          "title": "土耳其航空公司：飞往伊朗的日间航班正常运营",
-          "url": "https://wallstreetcn.com/livenews/3060560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 11时10分]"
-        },
-        {
-          "title": "据实时航班追踪网站Flightradar24显示，一架伊朗无人机正在阿拉伯海活动，可能用于收集有关美国航空母舰及其打击群的情报。该无人机似乎由一艘海军舰艇发射，以实现更远的飞行航程。",
-          "url": "https://flash.jin10.com/detail/20260228033220619800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时19分"
-        },
-        {
-          "title": "伊拉克埃尔比勒机场宣布暂停航空交通。",
-          "url": "https://flash.jin10.com/detail/20260228145826411800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        },
-        {
-          "title": "迪拜航空发言人：由于伊拉克、伊朗和以色列空域于周六临时关闭，部分飞迪拜航空公司的航班受到影响。",
-          "url": "https://flash.jin10.com/detail/20260228154831544800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
-          "title": "土耳其航空公司：飞往伊朗的日间航班正常运营",
-          "url": "https://flash.jin10.com/detail/20260228072949426800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "据科威特国家通讯社：科威特航空管理局已暂停所有飞往伊朗的航班，直至另行通知。",
-          "url": "https://flash.jin10.com/detail/20260228154154688800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
-          "title": "深圳：鼓励保险机构在人形机器人、量子科技、商业航天、脑机工程等前沿科技方向开展研究，创新保险产品供给及“首研首用”保障",
-          "url": "https://wallstreetcn.com/livenews/3060677",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
-          "title": "据N12新闻：印度航空将从周日开始取消所有前往以色列的航班。航班将取消一周，之后将重新评估情况。",
-          "url": "https://flash.jin10.com/detail/20260228041735461800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "全球航空业ETF跌3.71%，区域银行ETF跌2.46%，银行业ETF跌2.4%，在美股盘初领跌行业ETF，全球科技股指数ETF、半导体ETF、科技行业ETF至多跌1.73%，能源业ETF涨0.93%。",
-          "url": "https://wallstreetcn.com/livenews/3060373",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人民币",
       "match_count": 11,
       "titles": [
@@ -1804,7 +1962,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -1908,8 +2066,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时16分 ~ 16时17分]"
+          "appearance_count": 10,
+          "time_info": "[07时16分 ~ 17时17分]"
         },
         {
           "title": "伊朗局势演变会如何影响美股、黄金和原油？一文读懂",
@@ -1920,8 +2078,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时20分 ~ 16时17分]"
+          "appearance_count": 3,
+          "time_info": "[15时20分 ~ 17时17分]"
         },
         {
           "title": "2月份，美股降息赢家指数累跌3.23%，报98.28点，2月12日以来持续回撤。 “特朗普关税输家”指数累涨1.39%，报114.47点。 “特朗普金融指数”累跌9.18%，报154.50点。 散户抱团概念股指数/迷因股（meme stock）指数累跌6.11%，报13.26点。",
@@ -1981,11 +2139,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时48分 ~ 16时17分]"
+          "appearance_count": 7,
+          "time_info": "[12时48分 ~ 17时17分]"
         },
         {
           "title": "小米展示新一代SU7汽车机械门把手",
@@ -2039,8 +2198,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 16时17分]"
+          "appearance_count": 9,
+          "time_info": "[09时01分 ~ 17时17分]"
         },
         {
           "title": "地缘政治与信贷担忧拖累美股，道指跌1%，10年期美债收益率跌破4%，金银拉升，原油走强",
@@ -2093,19 +2252,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时20分 ~ 16时17分]"
+          "appearance_count": 3,
+          "time_info": "[15时20分 ~ 17时17分]"
         },
         {
           "title": "以色列伊朗 金价",
           "url": "https://s.weibo.com/weibo?q=%E4%BB%A5%E8%89%B2%E5%88%97%E4%BC%8A%E6%9C%97%20%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
           "source": "微博",
           "ranks": [
-            12
+            12,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 17时17分]"
         }
       ]
     },
@@ -2139,7 +2299,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         }
