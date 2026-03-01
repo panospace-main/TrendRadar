@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T20:26:06.881320+08:00",
-  "total_titles_processed": 1627,
+  "generated_at": "2026-03-01T21:34:07.297364+08:00",
+  "total_titles_processed": 1733,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 82,
+      "match_count": 83,
       "titles": [
         {
           "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时13分 ~ 20时26分]"
+          "appearance_count": 16,
+          "time_info": "[12时13分 ~ 21时34分]"
         },
         {
           "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
@@ -43,8 +43,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时13分 ~ 20时26分]"
+          "appearance_count": 16,
+          "time_info": "[12时13分 ~ 21时34分]"
         },
         {
           "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
@@ -84,8 +84,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时13分 ~ 20时26分]"
+          "appearance_count": 16,
+          "time_info": "[12时13分 ~ 21时34分]"
         },
         {
           "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
@@ -327,6 +327,18 @@
           "time_info": "[13时44分 ~ 15时27分]"
         },
         {
+          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
+          "url": "https://wallstreetcn.com/articles/3766448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时12分 ~ 21时34分]"
+        },
+        {
           "title": "美国加州州长纽森：特朗普对美国人民撒谎。他发动的鲁莽和非法的战争没有关于如何收场的描述，也没有对生存威胁的解释。",
           "url": "https://flash.jin10.com/detail/20260301142743809800",
           "source": "金十数据",
@@ -438,17 +450,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时12分 ~ 03时14分]"
-        },
-        {
-          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
-          "url": "https://wallstreetcn.com/articles/3766448",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时12分 ~ 20时26分]"
         },
         {
           "title": "特朗普说美国开始在伊朗实施重大作战行动，美以发动本次袭击的目的是什么？后续还会有哪些行动​？",
@@ -891,6 +892,17 @@
           "time_info": "14时34分"
         },
         {
+          "title": "据CNN：伊朗副外长赛义德·哈提布扎德表示，特朗普杀死伊朗最高领袖哈梅内伊，已经越过了“一个非常危险的红线”。",
+          "url": "https://flash.jin10.com/detail/20260301201929437800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
           "title": "卡塔尔国家媒体：卡塔尔埃米尔接到美国总统特朗普的电话。",
           "url": "https://flash.jin10.com/detail/20260301050014158800",
           "source": "金十数据",
@@ -908,7 +920,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -963,26 +975,27 @@
       "match_count": 13,
       "titles": [
         {
-          "title": "德国汉莎航空：空域在3月8日之前仍将对以色列、黎巴嫩、约旦、伊拉克、卡塔尔、科威特、巴林、达曼和伊朗保持关闭。",
-          "url": "https://flash.jin10.com/detail/20260301201216580800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时26分"
-        },
-        {
           "title": "德国汉莎航空：鉴于中东当前局势，将暂停飞往特拉维夫、贝鲁特、安曼、埃尔比勒、达曼和德黑兰的航班，直至3月8日。",
           "url": "https://flash.jin10.com/detail/20260301200912165800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
+        },
+        {
+          "title": "德国汉莎航空：空域在3月8日之前仍将对以色列、黎巴嫩、约旦、伊拉克、卡塔尔、科威特、巴林、达曼和伊朗保持关闭。",
+          "url": "https://flash.jin10.com/detail/20260301201216580800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 21时34分]"
         },
         {
           "title": "阿联酋航空：已临时暂停所有往返迪拜的航班运营，直至阿联酋当地时间3月2日星期一15:00。",
@@ -1130,8 +1143,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时15分 ~ 20时26分]"
+          "appearance_count": 27,
+          "time_info": "[00时15分 ~ 21时34分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：不会执行违宪命令",
