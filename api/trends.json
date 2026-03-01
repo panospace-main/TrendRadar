@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T21:34:07.297364+08:00",
-  "total_titles_processed": 1733,
+  "generated_at": "2026-03-01T22:16:15.704381+08:00",
+  "total_titles_processed": 1788,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时13分 ~ 21时34分]"
+          "appearance_count": 18,
+          "time_info": "[12时13分 ~ 22时16分]"
         },
         {
           "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
@@ -43,8 +43,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时13分 ~ 21时34分]"
+          "appearance_count": 18,
+          "time_info": "[12时13分 ~ 22时16分]"
         },
         {
           "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
@@ -81,11 +81,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时13分 ~ 21时34分]"
+          "appearance_count": 18,
+          "time_info": "[12时13分 ~ 22时16分]"
         },
         {
           "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
@@ -98,6 +99,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时15分 ~ 05时13分]"
+        },
+        {
+          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
+          "url": "https://wallstreetcn.com/articles/3766448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时12分 ~ 22时16分]"
         },
         {
           "title": "实时更新丨特朗普宣布哈梅内伊已死",
@@ -325,18 +339,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时44分 ~ 15时27分]"
-        },
-        {
-          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
-          "url": "https://wallstreetcn.com/articles/3766448",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时12分 ~ 21时34分]"
         },
         {
           "title": "美国加州州长纽森：特朗普对美国人民撒谎。他发动的鲁莽和非法的战争没有关于如何收场的描述，也没有对生存威胁的解释。",
@@ -898,7 +900,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
         },
@@ -1140,11 +1142,12 @@
             12,
             14,
             16,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时15分 ~ 21时34分]"
+          "appearance_count": 29,
+          "time_info": "[00时15分 ~ 22时16分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：不会执行违宪命令",
