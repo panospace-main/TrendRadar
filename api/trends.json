@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T22:16:15.704381+08:00",
-  "total_titles_processed": 1788,
+  "generated_at": "2026-03-01T23:14:43.022647+08:00",
+  "total_titles_processed": 1866,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[12时13分 ~ 22时16分]"
+          "appearance_count": 19,
+          "time_info": "[12时13分 ~ 23时14分]"
         },
         {
           "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
@@ -43,8 +43,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[12时13分 ~ 22时16分]"
+          "appearance_count": 19,
+          "time_info": "[12时13分 ~ 23时14分]"
         },
         {
           "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
@@ -85,8 +85,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[12时13分 ~ 22时16分]"
+          "appearance_count": 19,
+          "time_info": "[12时13分 ~ 23时14分]"
         },
         {
           "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
@@ -110,8 +110,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时12分 ~ 22时16分]"
+          "appearance_count": 8,
+          "time_info": "[19时12分 ~ 23时14分]"
         },
         {
           "title": "实时更新丨特朗普宣布哈梅内伊已死",
@@ -1146,8 +1146,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时15分 ~ 22时16分]"
+          "appearance_count": 30,
+          "time_info": "[00时15分 ~ 23时14分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：不会执行违宪命令",
@@ -1286,7 +1286,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价",
@@ -1337,6 +1337,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时26分 ~ 15时27分]"
+        },
+        {
+          "title": "策略师：中东冲突升级 不会对金价创历史新高感到惊讶",
+          "url": "https://flash.jin10.com/detail/20260301222924996800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
+          "title": "美以袭击伊朗金价为何下跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E9%87%91%E4%BB%B7%E4%B8%BA%E4%BD%95%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         }
       ]
     },
