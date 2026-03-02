@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T09:08:41.349535+08:00",
-  "total_titles_processed": 779,
+  "generated_at": "2026-03-02T12:04:52.087548+08:00",
+  "total_titles_processed": 965,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 51,
       "titles": [
         {
           "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
@@ -106,11 +106,23 @@
           "url": "https://news.ifeng.com/c/8r9ZKyKXgpq",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 12时04分]"
+        },
+        {
+          "title": "美以伊战争最新动态｜特朗普与内塔尼亚胡肖像被烧毁",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时08分"
+          "time_info": "12时04分"
         },
         {
           "title": "白宫：特朗普已分别与以色列、巴林及阿联酋领导人通话",
@@ -148,6 +160,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 06时14分]"
+        },
+        {
+          "title": "特朗普：伊朗新领导层希望恢复谈判，我同意了",
+          "url": "https://news.ifeng.com/c/8r9Nda8tUH6",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时14分 ~ 12时04分]"
         },
         {
           "title": "据《大西洋月刊》：美国总统特朗普在谈及与伊朗谈判的时机时表示，我不能告诉你。",
@@ -210,17 +234,6 @@
           "time_info": "[05时14分 ~ 06时14分]"
         },
         {
-          "title": "特朗普：伊朗新领导层希望恢复谈判，我同意了",
-          "url": "https://news.ifeng.com/c/8r9Nda8tUH6",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时14分 ~ 09时08分]"
-        },
-        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普听取了有关得州奥斯汀枪击案的汇报。",
           "url": "https://wallstreetcn.com/livenews/3061257",
           "source": "华尔街见闻-快讯",
@@ -247,6 +260,18 @@
           "time_info": "[05时14分 ~ 07时15分]"
         },
         {
+          "title": "特朗普称对伊朗军事行动或持续约4周，伊朗公布反击“成果”，英法德或采取防御",
+          "url": "https://wallstreetcn.com/articles/3766474",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 12时04分]"
+        },
+        {
           "title": "据《大西洋月刊》：美国总统特朗普表示，伊朗希望对话，他也同意对话。",
           "url": "https://flash.jin10.com/detail/20260302000518361800",
           "source": "金十数据",
@@ -268,6 +293,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
+        },
+        {
+          "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
+          "url": "https://wallstreetcn.com/articles/3766483",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时04分"
         },
         {
           "title": "美国总统特朗普：呼吁伊朗人民抓住这一时机，夺回自己的国家。",
@@ -298,7 +334,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -312,17 +348,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
-        },
-        {
-          "title": "特朗普称对伊朗军事行动或持续约4周，伊朗公布反击“成果”，英法德或采取防御",
-          "url": "https://wallstreetcn.com/articles/3766474",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时08分"
         },
         {
           "title": "美国总统特朗普：美国将为美国士兵的丧生复仇。",
@@ -345,6 +370,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "能源情报集团记者Amena Bakr：如果特朗普的“计划”是让这场冲突在一周内结束，我认为他目前还没有想好如何才能实现这一目标。",
+          "url": "https://flash.jin10.com/detail/20260302114056764800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时04分"
         },
         {
           "title": "据CNBC：美国总统特朗普表示，事情正在以非常积极的方式发展。",
@@ -419,7 +455,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -529,7 +565,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -559,7 +595,7 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "法国军方表示，不会将戴高乐号航空母舰派往地中海东部。",
@@ -603,7 +639,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -619,13 +655,24 @@
           "time_info": "01时14分"
         },
         {
+          "title": "印度航空公司股价大幅下跌，InterGlobe Aviation跌7.5%，SpiceJet跌4.8%。",
+          "url": "https://flash.jin10.com/detail/20260302114735295800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时04分"
+        },
+        {
           "title": "由于卡塔尔领空关闭，卡塔尔航空航班暂时停飞。",
           "url": "https://flash.jin10.com/detail/20260302083315881800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -647,7 +694,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -688,7 +735,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -699,7 +746,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -710,7 +757,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         }
@@ -718,7 +765,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "机构策略师：A股基本面受扰动有限，顺周期主线有望强化",
@@ -740,7 +787,46 @@
           "ranks": [
             8
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "前香港金管局局长提议设“资本通”及港元-人民币双柜台扩容",
+          "url": "https://wallstreetcn.com/livenews/3061487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时04分"
+        },
+        {
+          "title": "中国外汇交易中心（CFETS）：2月27日人民币汇率指数按周涨0.77至98.58。",
+          "url": "https://wallstreetcn.com/livenews/3061368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         }
@@ -775,23 +861,6 @@
       ]
     },
     {
-      "keyword_group": "人民币",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国外汇交易中心（CFETS）：2月27日人民币汇率指数按周涨0.77至98.58。",
-          "url": "https://wallstreetcn.com/livenews/3061368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -803,11 +872,12 @@
             17,
             15,
             16,
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 09时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 12时04分]"
         }
       ]
     },
@@ -845,6 +915,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌0.7%，油价跳涨13%但涨幅显著收窄，黄金回落至5330美元",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时04分"
         }
       ]
     }
