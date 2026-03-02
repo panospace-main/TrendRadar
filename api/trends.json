@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T13:45:16.820409+08:00",
-  "total_titles_processed": 1099,
+  "generated_at": "2026-03-02T14:43:39.752148+08:00",
+  "total_titles_processed": 1205,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时16分 ~ 09时08分]"
+        },
+        {
+          "title": "特朗普：对伊朗的军事行动可能持续四周左右",
+          "url": "https://news.ifeng.com/c/8r9ZKyKXgpq",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时08分 ~ 14时43分]"
         },
         {
           "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
@@ -40,18 +52,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时16分 ~ 09时08分]"
-        },
-        {
-          "title": "特朗普：对伊朗的军事行动可能持续四周左右",
-          "url": "https://news.ifeng.com/c/8r9ZKyKXgpq",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时08分 ~ 13时45分]"
         },
         {
           "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
@@ -88,6 +88,31 @@
           "time_info": "[06时14分 ~ 09时08分]"
         },
         {
+          "title": "“不得不说，特朗普的计划落空了”",
+          "url": "https://news.ifeng.com/c/8rAA4FIm65f",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时44分 ~ 14时43分]"
+        },
+        {
+          "title": "特朗普称对伊朗军事行动或持续约4周，伊朗公布反击“成果”，英法德或采取防御",
+          "url": "https://wallstreetcn.com/articles/3766474",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时08分 ~ 14时43分]"
+        },
+        {
           "title": "特朗普：美军在对伊行动中打死48名伊朗指挥官",
           "url": "https://wallstreetcn.com/livenews/3061241",
           "source": "华尔街见闻-快讯",
@@ -114,17 +139,6 @@
           "time_info": "[00时16分 ~ 03时16分]"
         },
         {
-          "title": "“不得不说，特朗普的计划落空了”",
-          "url": "https://news.ifeng.com/c/8rAA4FIm65f",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时44分 ~ 13时45分]"
-        },
-        {
           "title": "特朗普：伊朗新领导层希望恢复谈判，我同意了",
           "url": "https://news.ifeng.com/c/8r9Nda8tUH6",
           "source": "凤凰网",
@@ -148,17 +162,16 @@
           "time_info": "12时04分"
         },
         {
-          "title": "特朗普称对伊朗军事行动或持续约4周，伊朗公布反击“成果”，英法德或采取防御",
-          "url": "https://wallstreetcn.com/articles/3766474",
+          "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
+          "url": "https://wallstreetcn.com/articles/3766494",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            6,
+            8,
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时08分 ~ 13时45分]"
+          "appearance_count": 3,
+          "time_info": "[13时44分 ~ 14时43分]"
         },
         {
           "title": "白宫：特朗普已分别与以色列、巴林及阿联酋领导人通话",
@@ -172,6 +185,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时16分 ~ 05时14分]"
+        },
+        {
+          "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
+          "url": "https://wallstreetcn.com/articles/3766483",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时04分 ~ 14时43分]"
         },
         {
           "title": "据《大西洋月刊》：特朗普对是否长期介入以支持伊朗“抗议活动”态度模糊。",
@@ -258,15 +282,16 @@
           "time_info": "[05时14分 ~ 06时14分]"
         },
         {
-          "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
-          "url": "https://wallstreetcn.com/articles/3766483",
+          "title": "特朗普没有“速战速决”！全球市场直面“伊朗冲击”，焦点是“持续时间”",
+          "url": "https://wallstreetcn.com/articles/3766482",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时04分 ~ 13时45分]"
+          "time_info": "[13时44分 ~ 14时43分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普听取了有关得州奥斯汀枪击案的汇报。",
@@ -295,15 +320,16 @@
           "time_info": "[05时14分 ~ 07时15分]"
         },
         {
-          "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
-          "url": "https://wallstreetcn.com/articles/3766494",
-          "source": "华尔街见闻",
+          "title": "特朗普称不达目标不停战",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E8%BE%BE%E7%9B%AE%E6%A0%87%E4%B8%8D%E5%81%9C%E6%88%98",
+          "source": "bilibili 热搜",
           "ranks": [
-            8
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时44分 ~ 13时45分]"
+          "appearance_count": 3,
+          "time_info": "[13时44分 ~ 14时43分]"
         },
         {
           "title": "据《大西洋月刊》：美国总统特朗普表示，伊朗希望对话，他也同意对话。",
@@ -316,28 +342,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 01时14分]"
-        },
-        {
-          "title": "特朗普没有“速战速决”！全球市场直面“伊朗冲击”，焦点是“持续时间”",
-          "url": "https://wallstreetcn.com/articles/3766482",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时44分 ~ 13时45分]"
-        },
-        {
-          "title": "特朗普称不达目标不停战",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E8%BE%BE%E7%9B%AE%E6%A0%87%E4%B8%8D%E5%81%9C%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时44分 ~ 13时45分]"
         },
         {
           "title": "据阿联酋国家通讯社：阿联酋总统与美国总统特朗普讨论了伊朗打击事件。",
@@ -599,7 +603,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -772,7 +776,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         }
@@ -780,8 +784,19 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "A股贵金属板块持续走强，招金黄金、赤峰黄金触及涨停，晓程科技、西部黄金、四川黄金、湖南黄金等多股此前封板。",
+          "url": "https://wallstreetcn.com/livenews/3061591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
         {
           "title": "机构策略师：A股基本面受扰动有限，顺周期主线有望强化",
           "url": "https://wallstreetcn.com/livenews/3061271",
@@ -802,7 +817,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -824,7 +839,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -835,7 +850,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -854,7 +869,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美以袭击伊朗金价为何下跌",
@@ -881,6 +896,17 @@
           "time_info": "09时08分"
         },
         {
+          "title": "中东战火“燃爆”避险情绪，国际金价有望再创新高？一文读懂",
+          "url": "https://www.cls.cn/detail/2299381",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -901,6 +927,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美元指数DXY日内涨幅达0.50%，现报98.16。",
+          "url": "https://flash.jin10.com/detail/20260302142315475800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "美元指数站上98.00关口，日内涨超0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3061303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "美元指数涨0.6%，报98.22，创1月23日以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3061585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "美元指数DXY站上98，日内涨0.34%。",
+          "url": "https://flash.jin10.com/detail/20260302061646512800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         }
       ]
     },
@@ -933,30 +1009,30 @@
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "美股",
       "match_count": 2,
       "titles": [
         {
-          "title": "美元指数站上98.00关口，日内涨超0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3061303",
-          "source": "华尔街见闻-快讯",
+          "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌0.7%，油价跳涨13%但涨幅显著收窄，黄金回落至5330美元",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
+          "appearance_count": 3,
+          "time_info": "[12时04分 ~ 13时45分]"
         },
         {
-          "title": "美元指数DXY站上98，日内涨0.34%。",
-          "url": "https://flash.jin10.com/detail/20260302061646512800",
-          "source": "金十数据",
+          "title": "伊朗危机冲击全球市场：美股三大股指期货均跌0.7%，巴基斯坦触发熔断，油价跳涨13%但涨幅显著收窄，黄金回落至5330美元",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
           "ranks": [
-            13
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时15分"
+          "time_info": "14时43分"
         }
       ]
     },
@@ -1015,23 +1091,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌0.7%，油价跳涨13%但涨幅显著收窄，黄金回落至5330美元",
-          "url": "https://wallstreetcn.com/articles/3766477",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时04分 ~ 13时45分]"
         }
       ]
     }
