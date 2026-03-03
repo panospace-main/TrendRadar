@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T18:31:56.941119+08:00",
-  "total_titles_processed": 1688,
+  "generated_at": "2026-03-03T19:25:10.855746+08:00",
+  "total_titles_processed": 1797,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时05分 ~ 18时31分]"
+          "appearance_count": 13,
+          "time_info": "[12时05分 ~ 19时25分]"
         },
         {
           "title": "特朗普批民主党：如果不动手，他们又要叫唤",
@@ -50,8 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时41分 ~ 18时31分]"
+          "appearance_count": 11,
+          "time_info": "[13时41分 ~ 19时25分]"
         },
         {
           "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
@@ -76,8 +76,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时09分 ~ 18时31分]"
+          "appearance_count": 15,
+          "time_info": "[09时09分 ~ 19时25分]"
         },
         {
           "title": "外交部回应特朗普3月访华能否成行",
@@ -139,8 +139,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时05分 ~ 18时31分]"
+          "appearance_count": 13,
+          "time_info": "[12时05分 ~ 19时25分]"
         },
         {
           "title": "特朗普，还有一仗？",
@@ -184,6 +184,17 @@
           "time_info": "[00时32分 ~ 07时17分]"
         },
         {
+          "title": "特朗普放话“不惜一切” ，全球市场遭遇“黑色星期二”，除了原油，一切都在跌！",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时30分 ~ 19时25分]"
+        },
+        {
           "title": "美国会拟限制特朗普继续对伊动武",
           "url": "https://www.toutiao.com/trending/7611738955826462762/",
           "source": "今日头条",
@@ -197,17 +208,6 @@
           "time_info": "[12时05分 ~ 14时37分]"
         },
         {
-          "title": "特朗普放话“不惜一切” ，全球市场遭遇“黑色星期二”，除了原油，一切都在跌！",
-          "url": "https://wallstreetcn.com/articles/3766590",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时30分 ~ 18时31分]"
-        },
-        {
           "title": "美以伊战争最新动态｜特朗普：不排除向伊派地面部队",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -217,6 +217,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 01时37分]"
+        },
+        {
+          "title": "美使馆遭袭，特朗普：将很快采取报复行动",
+          "url": "https://www.cls.cn/detail/2300728",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时36分 ~ 19时25分]"
         },
         {
           "title": "特朗普“不惜一切”誓言加剧恐慌，全球股债遭抛售，油涨金银跌，汇市美元独秀！",
@@ -241,6 +254,18 @@
           "time_info": "[00时32分 ~ 01时37分]"
         },
         {
+          "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
+          "url": "https://wallstreetcn.com/articles/3766606",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时30分 ~ 19时25分]"
+        },
+        {
           "title": "美以伊战争最新动态｜特朗普回应是否怕美国本土遭袭",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -263,6 +288,19 @@
           "time_info": "09时10分"
         },
         {
+          "title": "特朗普：没有必要对伊朗采取地面军事行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32689484",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时31分 ~ 19时25分]"
+        },
+        {
           "title": "特朗普：“不排除派地面部队”",
           "url": "https://wallstreetcn.com/livenews/3062262",
           "source": "华尔街见闻-快讯",
@@ -283,19 +321,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
-        },
-        {
-          "title": "美使馆遭袭，特朗普：将很快采取报复行动",
-          "url": "https://www.cls.cn/detail/2300728",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时36分 ~ 18时31分]"
         },
         {
           "title": "前美联储主席、前美国财政部长耶伦：总统特朗普的行动推高了美国国债的风险溢价。",
@@ -348,18 +373,6 @@
           "time_info": "[03时31分 ~ 04时24分]"
         },
         {
-          "title": "特朗普：没有必要对伊朗采取地面军事行动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32689484",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 18时31分]"
-        },
-        {
           "title": "摩根大通CEO戴蒙：美国总统特朗普有权对“去银行”问题感到愤怒。 但特朗普在这个问题上的诉讼得不到好处。",
           "url": "https://wallstreetcn.com/livenews/3062112",
           "source": "华尔街见闻-快讯",
@@ -382,17 +395,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时09分 ~ 09时10分]"
-        },
-        {
-          "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
-          "url": "https://wallstreetcn.com/articles/3766606",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时30分 ~ 18时31分]"
         },
         {
           "title": "美将领：2月27日15时38分收到特朗普最终对伊军事行动指令",
@@ -721,6 +723,190 @@
       ]
     },
     {
+      "keyword_group": "航天 航空",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "瑞安航空首席执行官奥利里：我们在油价风险上做了充分对冲。",
+          "url": "https://flash.jin10.com/detail/20260303191605855800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
+          "title": "瑞安航空首席执行官奥利里：我们尚不清楚伊朗战争将带来哪些影响。瑞安航空已摆脱航油价格飙升的影响。",
+          "url": "https://flash.jin10.com/detail/20260303191554771800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
+          "title": "据美国联邦航空管理局（FAA）：联合航空一架波音787客机因发动机故障返航洛杉矶机场，已发布地面停飞指令。",
+          "url": "https://flash.jin10.com/detail/20260303035039110800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "加拿大航空公司：自加拿大飞往以色列和迪拜的航班将取消至3月22日，3月23日恢复运营。",
+          "url": "https://flash.jin10.com/detail/20260303020138322800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时33分"
+        },
+        {
+          "title": "券商晨会精华：商业航天用高性能碳纤维迎量价齐升新周期",
+          "url": "https://www.cls.cn/detail/2300524",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时41分 ~ 16时29分]"
+        },
+        {
+          "title": "法国航空：因目的地安全局势，法航已取消往返特拉维夫、贝鲁特、迪拜、利雅得的航班，暂停至2026 年3月5日。",
+          "url": "https://wallstreetcn.com/livenews/3062486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 15时36分]"
+        },
+        {
+          "title": "航空业ETF收跌超2.6%，领跌美股行业ETF，标普能源板块涨超1.9%再创收盘历史新高",
+          "url": "https://wallstreetcn.com/livenews/3062150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时17分]"
+        },
+        {
+          "title": "俄罗斯交通部：国内外航空公司取消了俄罗斯与中东国家之间的216个航班。",
+          "url": "https://flash.jin10.com/detail/20260303010811355800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "大韩航空：在美国对伊朗发动空袭后，已暂停仁川至迪拜航线至3月5日。",
+          "url": "https://flash.jin10.com/detail/20260303083235329800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
+          "title": "法国航空：鉴于目的地的安全形势，法国航空已取消至2026年3月5日（含）的所有往返特拉维夫、贝鲁特、迪拜和利雅得的航班。",
+          "url": "https://flash.jin10.com/detail/20260303142443080800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "大韩航空：将仁川至迪拜航线的航班取消计划延长至3月8日。",
+          "url": "https://wallstreetcn.com/livenews/3062505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "卡塔尔航空：将在有关当局宣布空域安全开放后恢复运营。",
+          "url": "https://flash.jin10.com/detail/20260303141838335800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "卡塔尔航空表示，由于卡塔尔领空关闭，航班运营仍处于暂停状态。",
+          "url": "https://flash.jin10.com/detail/20260303141658076800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "沙特阿拉伯航空将部分航班取消期限延长至3月4日。 卡塔尔航空将航班停飞延长至3月4日。",
+          "url": "https://wallstreetcn.com/livenews/3062447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "阿联酋航空将往返迪拜的航班停飞期限延长至3月4日。",
+          "url": "https://wallstreetcn.com/livenews/3062728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
+          "title": "大韩航空股价跌7.8%。由于美国对伊朗发动袭击，大韩航空已暂停仁川至迪拜航线，停飞将持续至3月5日。",
+          "url": "https://wallstreetcn.com/livenews/3062242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 16,
       "titles": [
@@ -932,6 +1118,20 @@
           "time_info": "[00时32分 ~ 06时19分]"
         },
         {
+          "title": "代表建议A股延至下午4点闭市",
+          "url": "https://www.toutiao.com/trending/7612868591275212843/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            16,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时29分 ~ 19时25分]"
+        },
+        {
           "title": "A股航运板块持续走强，中远海特、凤凰航运拉升封板，中远海发、南京港、招商轮船、锦江航运、中远海能、招商南油等十余只成分股涨停。",
           "url": "https://wallstreetcn.com/livenews/3062442",
           "source": "华尔街见闻-快讯",
@@ -941,19 +1141,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
-        },
-        {
-          "title": "代表建议A股延至下午4点闭市",
-          "url": "https://www.toutiao.com/trending/7612868591275212843/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时29分 ~ 18时31分]"
         },
         {
           "title": "摩根大通证券股份有限公司将中远海能A股评级上调至超配。",
@@ -980,6 +1167,18 @@
           "time_info": "[12时05分 ~ 15时36分]"
         },
         {
+          "title": "建议A股延至下午4点闭市",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AEA%E8%82%A1%E5%BB%B6%E8%87%B3%E4%B8%8B%E5%8D%884%E7%82%B9%E9%97%AD%E5%B8%82%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时30分 ~ 19时25分]"
+        },
+        {
           "title": "中东战云密布，A股波澜不惊？十大基金公司解盘：黄金、原油、AI谁主沉浮",
           "url": "https://www.cls.cn/detail/2300191",
           "source": "财联社热门",
@@ -990,17 +1189,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时17分 ~ 09时10分]"
-        },
-        {
-          "title": "建议A股延至下午4点闭市",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AEA%E8%82%A1%E5%BB%B6%E8%87%B3%E4%B8%8B%E5%8D%884%E7%82%B9%E9%97%AD%E5%B8%82%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时30分 ~ 18时31分]"
         },
         {
           "title": "A股收盘：沪指高开低走跌1.43%，全市场下跌个股超4800只",
@@ -1082,157 +1270,6 @@
       ]
     },
     {
-      "keyword_group": "航天 航空",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "据美国联邦航空管理局（FAA）：联合航空一架波音787客机因发动机故障返航洛杉矶机场，已发布地面停飞指令。",
-          "url": "https://flash.jin10.com/detail/20260303035039110800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
-        },
-        {
-          "title": "加拿大航空公司：自加拿大飞往以色列和迪拜的航班将取消至3月22日，3月23日恢复运营。",
-          "url": "https://flash.jin10.com/detail/20260303020138322800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "券商晨会精华：商业航天用高性能碳纤维迎量价齐升新周期",
-          "url": "https://www.cls.cn/detail/2300524",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时41分 ~ 16时29分]"
-        },
-        {
-          "title": "法国航空：因目的地安全局势，法航已取消往返特拉维夫、贝鲁特、迪拜、利雅得的航班，暂停至2026 年3月5日。",
-          "url": "https://wallstreetcn.com/livenews/3062486",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 15时36分]"
-        },
-        {
-          "title": "航空业ETF收跌超2.6%，领跌美股行业ETF，标普能源板块涨超1.9%再创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/3062150",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时17分]"
-        },
-        {
-          "title": "俄罗斯交通部：国内外航空公司取消了俄罗斯与中东国家之间的216个航班。",
-          "url": "https://flash.jin10.com/detail/20260303010811355800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时37分"
-        },
-        {
-          "title": "大韩航空：在美国对伊朗发动空袭后，已暂停仁川至迪拜航线至3月5日。",
-          "url": "https://flash.jin10.com/detail/20260303083235329800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时10分"
-        },
-        {
-          "title": "法国航空：鉴于目的地的安全形势，法国航空已取消至2026年3月5日（含）的所有往返特拉维夫、贝鲁特、迪拜和利雅得的航班。",
-          "url": "https://flash.jin10.com/detail/20260303142443080800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        },
-        {
-          "title": "大韩航空：将仁川至迪拜航线的航班取消计划延长至3月8日。",
-          "url": "https://wallstreetcn.com/livenews/3062505",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时36分"
-        },
-        {
-          "title": "卡塔尔航空：将在有关当局宣布空域安全开放后恢复运营。",
-          "url": "https://flash.jin10.com/detail/20260303141838335800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        },
-        {
-          "title": "卡塔尔航空表示，由于卡塔尔领空关闭，航班运营仍处于暂停状态。",
-          "url": "https://flash.jin10.com/detail/20260303141658076800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        },
-        {
-          "title": "沙特阿拉伯航空将部分航班取消期限延长至3月4日。 卡塔尔航空将航班停飞延长至3月4日。",
-          "url": "https://wallstreetcn.com/livenews/3062447",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        },
-        {
-          "title": "大韩航空股价跌7.8%。由于美国对伊朗发动袭击，大韩航空已暂停仁川至迪拜航线，停飞将持续至3月5日。",
-          "url": "https://wallstreetcn.com/livenews/3062242",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时10分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 7,
       "titles": [
@@ -1245,8 +1282,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时09分 ~ 18时31分]"
+          "appearance_count": 15,
+          "time_info": "[09时09分 ~ 19时25分]"
         },
         {
           "title": "伊朗危机点燃通胀担忧，美股指惊险走V，原油暴涨重创美债，美元大涨，黄金冲高回落",
@@ -1407,11 +1444,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时29分 ~ 18时31分]"
+          "appearance_count": 6,
+          "time_info": "[16时29分 ~ 19时25分]"
         },
         {
           "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
