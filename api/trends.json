@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T22:37:48.022884+08:00",
-  "total_titles_processed": 2098,
+  "generated_at": "2026-03-03T23:39:03.505099+08:00",
+  "total_titles_processed": 2177,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 65,
       "titles": [
         {
           "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[12时05分 ~ 22时37分]"
+          "appearance_count": 19,
+          "time_info": "[12时05分 ~ 23时39分]"
         },
         {
           "title": "特朗普批民主党：如果不动手，他们又要叫唤",
@@ -52,6 +52,19 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[13时41分 ~ 21时53分]"
+        },
+        {
+          "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
+          "url": "https://wallstreetcn.com/articles/3766606",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时30分 ~ 23时39分]"
         },
         {
           "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
@@ -76,8 +89,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时09分 ~ 22时37分]"
+          "appearance_count": 21,
+          "time_info": "[09时09分 ~ 23时39分]"
         },
         {
           "title": "外交部回应特朗普3月访华能否成行",
@@ -116,19 +129,6 @@
           "time_info": "[00时32分 ~ 05时24分]"
         },
         {
-          "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
-          "url": "https://wallstreetcn.com/articles/3766606",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时30分 ~ 22时37分]"
-        },
-        {
           "title": "特朗普3月访华能否成行？外交部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_32684163",
           "source": "澎湃新闻",
@@ -143,6 +143,18 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[02时32分 ~ 15时36分]"
+        },
+        {
+          "title": "斩首?老外通报特朗普坐标",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351311&amp;topic_name=%E6%96%A9%E9%A6%96%3F%E8%80%81%E5%A4%96%E9%80%9A%E6%8A%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%9D%90%E6%A0%87",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时33分 ~ 23时39分]"
         },
         {
           "title": "特朗普夫人首次主持安理会会议，中方强烈谴责",
@@ -206,18 +218,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时30分 ~ 19时25分]"
-        },
-        {
-          "title": "斩首?老外通报特朗普坐标",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351311&amp;topic_name=%E6%96%A9%E9%A6%96%3F%E8%80%81%E5%A4%96%E9%80%9A%E6%8A%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%9D%90%E6%A0%87",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时33分 ~ 22时37分]"
         },
         {
           "title": "美国会拟限制特朗普继续对伊动武",
@@ -422,6 +422,17 @@
           "time_info": "[09时09分 ~ 09时10分]"
         },
         {
+          "title": "领袖遇刺后的伊朗：有人喊报复，有人跳特朗普舞",
+          "url": "https://news.ifeng.com/c/8rCTN6bsA7p",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时38分 ~ 23时39分]"
+        },
+        {
           "title": "美将领：2月27日15时38分收到特朗普最终对伊军事行动指令",
           "url": "https://m.thepaper.cn/newsDetail_forward_32685888",
           "source": "澎湃新闻",
@@ -432,6 +443,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时36分 ~ 16时29分]"
+        },
+        {
+          "title": "欧洲信用风险指标创去年4月特朗普关税动荡以来最大增幅",
+          "url": "https://wallstreetcn.com/livenews/3062837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时37分 ~ 23时39分]"
         },
         {
           "title": "前美联储主席、前美国财政部长耶伦：对美国经济前景感到乐观，但（面临）“严重风险”。 关注伊朗风险，具体取决于（美国和以色列挑起的）战争持续的时间。 如果油价居高不下、或进一步上涨，恐怕会引发美国通胀担忧。 3%的通胀率中，可能有0.5个百分点来自（总统特朗普挑起的）关税。 如果油价偏高，将伤害到经济增长，并构成通胀风险。 伊朗局势将让美联储“更容易维持”政策利率不变。 特朗普对美联储理事库克的所作所为“只能用无法想象来形容”。 美国司法部的任何刑事指控都将对美联储“构成巨大的威胁”。",
@@ -513,17 +536,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
-        },
-        {
-          "title": "欧洲信用风险指标创去年4月特朗普关税动荡以来最大增幅",
-          "url": "https://wallstreetcn.com/livenews/3062837",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时37分"
         },
         {
           "title": "美媒：特朗普主张对伊朗开战的多项理由不成立",
@@ -870,6 +882,18 @@
           "time_info": "[20时33分 ~ 21时53分]"
         },
         {
+          "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2301690",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时37分 ~ 23时39分]"
+        },
+        {
           "title": "美国社交媒体平台Pinterest美股盘前涨超10%，报道称对冲基金Elliott将向Pinterest投资10亿美元。",
           "url": "https://wallstreetcn.com/livenews/3062785",
           "source": "华尔街见闻-快讯",
@@ -923,7 +947,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时37分"
         },
@@ -934,7 +958,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时37分"
         },
@@ -972,17 +996,6 @@
           "time_info": "09时10分"
         },
         {
-          "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2301690",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时37分"
-        },
-        {
           "title": "美股盘前：明星科技股普跌，英伟达跌3%，英特尔、AMD均跌超3%，美光科技跌超4%；美股油气股普涨，Battalion Oil暴涨超50%，美国能源涨超12%，西方石油涨超2%。",
           "url": "https://wallstreetcn.com/livenews/3062628",
           "source": "华尔街见闻-快讯",
@@ -1011,7 +1024,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时37分"
         },
@@ -1052,7 +1065,7 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "瑞安航空首席执行官奥利里：我们在油价风险上做了充分对冲。",
@@ -1189,6 +1202,17 @@
           "time_info": "14时37分"
         },
         {
+          "title": "全球航空业ETF跌4.22%，半导体ETF跌4.03%，在美股盘初领跌行业ETF，全球科技股指数ETF跌3.24%，科技行业ETF跌2.13%，能源业ETF涨0.90%。 标普500能源指数高开0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3062849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "大韩航空：将仁川至迪拜航线的航班取消计划延长至3月8日。",
           "url": "https://wallstreetcn.com/livenews/3062505",
           "source": "华尔街见闻-快讯",
@@ -1258,8 +1282,20 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "A股半导体公司集体发涨价函",
+          "url": "https://www.toutiao.com/trending/7612660746741104650/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时52分 ~ 23时39分]"
+        },
         {
           "title": "2026年A股驱动逻辑或将发生变化",
           "url": "https://www.toutiao.com/trending/7612666220537450027/",
@@ -1277,17 +1313,6 @@
           "time_info": "[00时32分 ~ 06时19分]"
         },
         {
-          "title": "A股半导体公司集体发涨价函",
-          "url": "https://www.toutiao.com/trending/7612660746741104650/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时52分 ~ 22时37分]"
-        },
-        {
           "title": "代表建议A股延至下午4点闭市",
           "url": "https://www.toutiao.com/trending/7612868591275212843/",
           "source": "今日头条",
@@ -1302,17 +1327,6 @@
           "time_info": "[16时29分 ~ 19时25分]"
         },
         {
-          "title": "A股35股股价不足2元",
-          "url": "https://www.toutiao.com/trending/7611840460751159350/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时37分"
-        },
-        {
           "title": "A股航运板块持续走强，中远海特、凤凰航运拉升封板，中远海发、南京港、招商轮船、锦江航运、中远海能、招商南油等十余只成分股涨停。",
           "url": "https://wallstreetcn.com/livenews/3062442",
           "source": "华尔街见闻-快讯",
@@ -1322,6 +1336,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
+        },
+        {
+          "title": "A股35股股价不足2元",
+          "url": "https://www.toutiao.com/trending/7611840460751159350/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时37分 ~ 23时39分]"
         },
         {
           "title": "摩根大通证券股份有限公司将中远海能A股评级上调至超配。",
@@ -1383,6 +1409,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时17分 ~ 09时10分]"
+        },
+        {
+          "title": "918元！又一股剑指千元大关，复盘A股历只千元股，这些特点或值得关注",
+          "url": "https://www.cls.cn/detail/2301354",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时38分 ~ 23时39分]"
         },
         {
           "title": "A股收盘：沪指高开低走跌1.43%，全市场下跌个股超4800只",
@@ -1486,11 +1523,12 @@
           "url": "https://wallstreetcn.com/livenews/3062845",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时37分 ~ 23时39分]"
         },
         {
           "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
@@ -1511,7 +1549,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时37分"
         },
@@ -1533,7 +1571,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时37分"
         },
@@ -1566,7 +1604,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时37分"
         },
@@ -1596,8 +1634,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时09分 ~ 22时37分]"
+          "appearance_count": 21,
+          "time_info": "[09时09分 ~ 23时39分]"
         },
         {
           "title": "伊朗危机点燃通胀担忧，美股指惊险走V，原油暴涨重创美债，美元大涨，黄金冲高回落",
@@ -1749,9 +1787,82 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 4,
+      "keyword_group": "金价",
+      "match_count": 5,
       "titles": [
+        {
+          "title": "惠誉旗下研究机构：若中东局势持续，金价本周或创历史新高",
+          "url": "https://flash.jin10.com/detail/20260303114847241800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "特朗普“不惜一切”誓言加剧股市抛售，油价三连涨，日韩股市狂泻，三星跌10%，金价回落至5300美元下方",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时36分 ~ 16时29分]"
+        },
+        {
+          "title": "金价银价断崖式跳水",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%96%AD%E5%B4%96%E5%BC%8F%E8%B7%B3%E6%B0%B4&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时38分 ~ 23时39分]"
+        },
+        {
+          "title": "避险情绪难抵通胀预期 金价四连涨后深陷抛售泥潭",
+          "url": "https://flash.jin10.com/detail/20260303231034018800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
+          "title": "金价上涨 但受强势美元限制",
+          "url": "https://flash.jin10.com/detail/20260303155538645800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "特朗普放话“不惜一切” ，美三大股指均跌超2%，黄金跌超5%，白银暴跌11%，布油涨近8%，美元指数涨1%",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时38分 ~ 23时39分]"
+        },
         {
           "title": "美元指数2日大幅上涨",
           "url": "https://flash.jin10.com/detail/20260303061532268800",
@@ -1795,46 +1906,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "惠誉旗下研究机构：若中东局势持续，金价本周或创历史新高",
-          "url": "https://flash.jin10.com/detail/20260303114847241800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "特朗普“不惜一切”誓言加剧股市抛售，油价三连涨，日韩股市狂泻，三星跌10%，金价回落至5300美元下方",
-          "url": "https://wallstreetcn.com/articles/3766590",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时36分 ~ 16时29分]"
-        },
-        {
-          "title": "金价上涨 但受强势美元限制",
-          "url": "https://flash.jin10.com/detail/20260303155538645800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时29分"
         }
       ]
     }
