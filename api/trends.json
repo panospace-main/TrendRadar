@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T14:35:12.481880+08:00",
-  "total_titles_processed": 1289,
+  "generated_at": "2026-03-04T15:32:46.129517+08:00",
+  "total_titles_processed": 1397,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 14时35分]"
+          "appearance_count": 16,
+          "time_info": "[00时35分 ~ 15时32分]"
         },
         {
           "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
@@ -36,11 +36,12 @@
           "ranks": [
             2,
             13,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 14时35分]"
+          "appearance_count": 16,
+          "time_info": "[00时35分 ~ 15时32分]"
         },
         {
           "title": "胡锡进：伊朗希望用新的“中东泥潭”吓退特朗普",
@@ -120,6 +121,18 @@
           "time_info": "05时25分"
         },
         {
+          "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3766660",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时59分 ~ 15时32分]"
+        },
+        {
           "title": "美国总统特朗普：加密货币行业接近取得真正的成功。",
           "url": "https://wallstreetcn.com/livenews/3063034",
           "source": "华尔街见闻-快讯",
@@ -142,27 +155,17 @@
           "time_info": "01时36分"
         },
         {
-          "title": "特朗普“军舰为油轮护航”言论引发质疑",
-          "url": "https://wallstreetcn.com/livenews/3063396",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普威胁：将切断美国和西班牙之间的贸易往来",
+          "url": "https://www.cls.cn/detail/2301855",
+          "source": "财联社热门",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
-          "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3766660",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
+            8,
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 14时35分]"
+          "appearance_count": 5,
+          "time_info": "[11时59分 ~ 15时32分]"
         },
         {
           "title": "西班牙回应特朗普称将切断贸易往来",
@@ -189,18 +192,6 @@
           "time_info": "[06时19分 ~ 07时17分]"
         },
         {
-          "title": "特朗普威胁：将切断美国和西班牙之间的贸易往来",
-          "url": "https://www.cls.cn/detail/2301855",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 14时35分]"
-        },
-        {
           "title": "美国明尼苏达州起诉总统特朗普将医保资金（MediCAid fund）“武器化”。",
           "url": "https://wallstreetcn.com/livenews/3062933",
           "source": "华尔街见闻-快讯",
@@ -213,16 +204,40 @@
           "time_info": "[01时36分 ~ 02时35分]"
         },
         {
+          "title": "特朗普“军舰为油轮护航”言论引发质疑",
+          "url": "https://wallstreetcn.com/livenews/3063396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 15时32分]"
+        },
+        {
           "title": "美伊战火引发能源危机？特朗普出手：将为“霍尔木兹油轮”护航，并提供保险！",
           "url": "https://www.cls.cn/detail/2301976",
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时08分 ~ 15时32分]"
+        },
+        {
+          "title": "“我心中的人选大部分也死了”，特朗普被曝接触地方武装组织",
+          "url": "https://news.ifeng.com/c/8rDb9UBLUA1",
+          "source": "凤凰网",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时08分 ~ 14时35分]"
+          "time_info": "[14时34分 ~ 15时32分]"
         },
         {
           "title": "美国总统特朗普：我们正在对关税进行各种研究。 所有国家都向维持他们已经与美国达成的协议。",
@@ -247,17 +262,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时23分 ~ 05时25分]"
-        },
-        {
-          "title": "“我心中的人选大部分也死了”，特朗普被曝接触地方武装组织",
-          "url": "https://news.ifeng.com/c/8rDb9UBLUA1",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 14时35分]"
         },
         {
           "title": "美国总统特朗普：等一切都结束后，油价将会下跌。 （美国和以色列对伊朗挑起的）战争结束后，油价可能会低于战前的水平。",
@@ -499,7 +503,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -884,6 +888,19 @@
       "match_count": 13,
       "titles": [
         {
+          "title": "美股收盘：中东冲突加剧通胀担忧 三大股指集体收跌",
+          "url": "https://www.cls.cn/detail/2301893",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时17分 ~ 15时32分]"
+        },
+        {
           "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
           "url": "https://www.cls.cn/detail/2301690",
           "source": "财联社热门",
@@ -896,19 +913,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时35分 ~ 11时59分]"
-        },
-        {
-          "title": "美股收盘：中东冲突加剧通胀担忧 三大股指集体收跌",
-          "url": "https://www.cls.cn/detail/2301893",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时17分 ~ 14时35分]"
         },
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，纳指仍跌超1%，原油冲高回落涨5%，美元强势二连涨，金银重挫",
@@ -1041,7 +1045,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "918元！又一股剑指千元大关，复盘A股历只千元股，这些特点或值得关注",
@@ -1071,6 +1075,19 @@
           "time_info": "[00时35分 ~ 05时25分]"
         },
         {
+          "title": "26位“首席”做客澎湃把脉2026：对中国经济有信心，战略看多A股",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32692329",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时59分 ~ 15时32分]"
+        },
+        {
           "title": "A股农业股午后再度拉升，神农种业、秋乐种业涨超15%，农发种业、亚盛集团此前涨停，康农种业、登海种业、荃银高科、隆平高科涨逾7%。",
           "url": "https://wallstreetcn.com/livenews/3063335",
           "source": "华尔街见闻-快讯",
@@ -1082,15 +1099,15 @@
           "time_info": "13时08分"
         },
         {
-          "title": "A股油气股拉升回暖，通源石油涨超15%，潜能恒信、贝肯能源、科力股份、中曼石油、中海油服等纷纷冲高。",
-          "url": "https://wallstreetcn.com/livenews/3063401",
+          "title": "A股收盘：沪指跌近1%失守4100点，电网设备板块逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3063437",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时35分"
+          "time_info": "15时32分"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-03-04）",
@@ -1104,16 +1121,16 @@
           "time_info": "09时07分"
         },
         {
-          "title": "26位“首席”做客澎湃把脉2026：对中国经济有信心，战略看多A股",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32692329",
-          "source": "澎湃新闻",
+          "title": "A股油气股拉升回暖，通源石油涨超15%，潜能恒信、贝肯能源、科力股份、中曼石油、中海油服等纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3063401",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            7
+            2,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 14时35分]"
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 15时32分]"
         },
         {
           "title": "A股福建本地股局部异动，海峡创新涨超14%，平潭发展、永福股份、红相股份涨超8%，路桥信息、漳州发展等涨幅居前。",
@@ -1122,7 +1139,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -1144,7 +1161,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         }
@@ -1246,7 +1263,7 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "中东冲突加剧，印度航空股下跌。InterGlobe Aviation下跌3.6%，SpiceJet下跌3.7%。",
@@ -1283,13 +1300,24 @@
           "time_info": "07时17分"
         },
         {
+          "title": "卡塔尔航空的运营仍暂时中止，周四将更新最新消息。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3063412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
           "title": "日本商业航天公司第三次发射火箭未果",
           "url": "https://wallstreetcn.com/livenews/3063364",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -1319,7 +1347,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
@@ -1340,8 +1368,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时07分 ~ 14时35分]"
+          "appearance_count": 6,
+          "time_info": "[09时07分 ~ 15时32分]"
+        },
+        {
+          "title": "荷兰国际：通胀预期或推升二季度美债收益率至4.3%附近",
+          "url": "https://flash.jin10.com/detail/20260304151932442800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         },
         {
           "title": "美债收益率在亚欧时段走高，美股开盘前后回吐涨幅",
