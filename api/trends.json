@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T19:27:10.769241+08:00",
-  "total_titles_processed": 1754,
+  "generated_at": "2026-03-05T20:36:19.376035+08:00",
+  "total_titles_processed": 1841,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时03分 ~ 19时27分]"
+          "appearance_count": 12,
+          "time_info": "[12时03分 ~ 20时36分]"
         },
         {
           "title": "特朗普正式提名凯文·沃什出任美联储主席 参议院确认战将启",
@@ -75,11 +75,12 @@
           "ranks": [
             16,
             17,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时03分 ~ 19时27分]"
+          "appearance_count": 12,
+          "time_info": "[12时03分 ~ 20时36分]"
         },
         {
           "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
@@ -120,6 +121,17 @@
           "time_info": "[00时31分 ~ 06时22分]"
         },
         {
+          "title": "特朗普：若满分10分，我给美对伊行动打15分",
+          "url": "https://news.ifeng.com/c/8rFQi0S5RcE",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 20时36分]"
+        },
+        {
           "title": "美称打死试图暗杀特朗普的伊朗高官",
           "url": "https://www.toutiao.com/trending/7613391444652330559/",
           "source": "今日头条",
@@ -135,17 +147,6 @@
           "time_info": "[00时31分 ~ 09时08分]"
         },
         {
-          "title": "特朗普：若满分10分，我给美对伊行动打15分",
-          "url": "https://news.ifeng.com/c/8rFQi0S5RcE",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 19时27分]"
-        },
-        {
           "title": "美国弹药库存告急！特朗普本周将召集军工巨头赴白宫，讨论加快武器生产",
           "url": "https://wallstreetcn.com/articles/3766690",
           "source": "华尔街见闻",
@@ -157,6 +158,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时25分 ~ 12时03分]"
+        },
+        {
+          "title": "特朗普“大发战争财”，借打伊朗搞募款",
+          "url": "https://news.ifeng.com/c/8rFJaJq0Rej",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 20时36分]"
         },
         {
           "title": "“拒绝战争！”西班牙首相回击特朗普：不会因报复威胁妥协",
@@ -197,18 +210,6 @@
           "time_info": "[14时37分 ~ 18时29分]"
         },
         {
-          "title": "特朗普“大发战争财”，借打伊朗搞募款",
-          "url": "https://news.ifeng.com/c/8rFJaJq0Rej",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 19时27分]"
-        },
-        {
           "title": "白宫称已向美国参议院提交总统特朗普委任凯文·沃什为美联储主席的提名。",
           "url": "https://wallstreetcn.com/livenews/3063791",
           "source": "华尔街见闻-快讯",
@@ -226,7 +227,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -285,7 +286,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -384,7 +385,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -582,8 +583,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 19时27分]"
+          "appearance_count": 3,
+          "time_info": "[19时26分 ~ 20时36分]"
         },
         {
           "title": "伊朗称未封锁霍尔木兹海峡，美股期指集体拉升，油价再度跳水，韩股暴力反弹近10%，白银跌3%",
@@ -773,7 +774,7 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "【数据看盘】北向资金联手机构扫货通鼎互联，游资与机构激烈博弈航天彩虹",
@@ -795,7 +796,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -822,6 +823,18 @@
           "time_info": "18时29分"
         },
         {
+          "title": "中东战火致全球航空运输大混乱",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%B8%9C%E6%88%98%E7%81%AB%E8%87%B4%E5%85%A8%E7%90%83%E8%88%AA%E7%A9%BA%E8%BF%90%E8%BE%93%E5%A4%A7%E6%B7%B7%E4%B9%B1",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时26分 ~ 20时36分]"
+        },
+        {
           "title": "阿联酋航空：运营时刻表减少航班，直至另行通知。",
           "url": "https://wallstreetcn.com/livenews/3064391",
           "source": "华尔街见闻-快讯",
@@ -834,17 +847,6 @@
           "time_info": "[17时33分 ~ 18时29分]"
         },
         {
-          "title": "中东战火致全球航空运输大混乱",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%B8%9C%E6%88%98%E7%81%AB%E8%87%B4%E5%85%A8%E7%90%83%E8%88%AA%E7%A9%BA%E8%BF%90%E8%BE%93%E5%A4%A7%E6%B7%B7%E4%B9%B1",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 19时27分]"
-        },
-        {
           "title": "阿曼：正与国际航空公司合作组织航班。",
           "url": "https://wallstreetcn.com/livenews/3064216",
           "source": "华尔街见闻-快讯",
@@ -854,6 +856,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
+        },
+        {
+          "title": "阿联酋航空：3月5日至6日将有超过100架次航班从迪拜起飞和返航",
+          "url": "https://wallstreetcn.com/livenews/3064469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "美国联邦航空局将海地首都的飞行限制延长至2026年9月。",
@@ -909,6 +922,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        },
+        {
+          "title": "德国汉莎航空：暂停往返德黑兰的航班，直至4月30日（含当日）。暂停往返贝鲁特的航班，直至3月28日（含当日）。",
+          "url": "https://flash.jin10.com/detail/20260305194335081800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
+          "title": "德国汉莎航空：暂停往返迪拜及阿布扎比的航班，直至3月10日（含当日）。",
+          "url": "https://flash.jin10.com/detail/20260305194121708800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         }
       ]
     },
@@ -1053,8 +1088,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 19时27分]"
+          "appearance_count": 3,
+          "time_info": "[19时26分 ~ 20时36分]"
         },
         {
           "title": "A股化工板块震荡反弹，恒逸石化触及涨停，恒力石化、荣盛石化、华谊集团、桐昆股份、海利得跟涨。",
@@ -1195,7 +1230,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -1300,8 +1335,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时21分 ~ 19时27分]"
+          "appearance_count": 14,
+          "time_info": "[07时21分 ~ 20时36分]"
         },
         {
           "title": "10年期美债收益率涨约2.7个基点，本周已涨约15个基点",
@@ -1398,8 +1433,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时29分"
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 20时36分]"
         }
       ]
     }
