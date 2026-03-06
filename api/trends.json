@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T05:20:52.505263+08:00",
-  "total_titles_processed": 586,
+  "generated_at": "2026-03-07T06:21:15.602586+08:00",
+  "total_titles_processed": 611,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 05时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 06时21分]"
         },
         {
           "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 05时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 06时21分]"
         },
         {
           "title": "“甩锅”特朗普，与下属传婚外情，她被开了",
@@ -38,8 +38,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 05时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 06时21分]"
         },
         {
           "title": "特朗普威胁下一个就是古巴",
@@ -49,8 +49,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 05时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 06时21分]"
         },
         {
           "title": "特朗普：不接受哈梅内伊儿子担任伊朗新领导人，“我必须亲自参与任命”，伊朗外长：这完全是伊朗人民的事，任何人都无权干涉",
@@ -60,8 +60,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时28分 ~ 05时20分]"
+          "appearance_count": 6,
+          "time_info": "[03时28分 ~ 06时21分]"
+        },
+        {
+          "title": "Robert Lighthizer将退出特朗普媒体科技集团董事会。",
+          "url": "https://wallstreetcn.com/livenews/3065491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "据The Verge：任天堂已起诉美国政府，要求退还特朗普时期征收的关税。",
@@ -71,8 +82,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时21分 ~ 05时20分]"
+          "appearance_count": 3,
+          "time_info": "[04时21分 ~ 06时21分]"
         },
         {
           "title": "美国总统特朗普：（谈伊朗）无条件投降可能是（伊朗人）宣布无条件投降，也可能是他们再也无法战斗，没有人或东西可以战斗时。",
@@ -82,8 +93,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时21分 ~ 05时20分]"
+          "appearance_count": 3,
+          "time_info": "[04时21分 ~ 06时21分]"
         },
         {
           "title": "美国总统特朗普将于十分钟后会见美国国防部长赫格塞斯。",
@@ -93,8 +104,31 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时21分 ~ 06时21分]"
+        },
+        {
+          "title": "美国总统特朗普：我们与国防制造公司进行了一次非常好的会谈。 英国宇航系统（BAE Systems）、波音、霍尼韦尔Honeywell Aerospace、雷神等企业的高管们出席了会议。 他们同意，将部分武器的产量提高三倍。",
+          "url": "https://wallstreetcn.com/livenews/3065463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时21分 ~ 05时20分]"
+          "time_info": "[05时20分 ~ 06时21分]"
+        },
+        {
+          "title": "特朗普称美军工企业同意将“精良级”武器产量“翻两番”",
+          "url": "https://wallstreetcn.com/livenews/3065488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "特朗普引用纽约邮报文章表示，根据一项民调，叙利亚人对美国和以色列的态度变暖。",
@@ -119,15 +153,15 @@
           "time_info": "01时27分"
         },
         {
-          "title": "美国总统特朗普：我们与国防制造公司进行了一次非常好的会谈。 英国宇航系统（BAE Systems）、波音、霍尼韦尔Honeywell Aerospace、雷神等企业的高管们出席了会议。 他们同意，将部分武器的产量提高三倍。",
-          "url": "https://wallstreetcn.com/livenews/3065463",
+          "title": "特朗普和美国大军火商开会",
+          "url": "https://wallstreetcn.com/livenews/3065482",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时20分"
+          "time_info": "06时21分"
         },
         {
           "title": "白宫：美国总统特朗普签署行政命令，打击针对美国人的网络犯罪、欺诈和掠夺性骗局。",
@@ -180,17 +214,6 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "标普500指数的11个板块中，可选消费板块收跌1.96%，原材料板块跌1.89%，信息技术/科技板块跌1.84%跌幅第三大，能源板块则收涨0.13%。 标普1500航空指数连续第六个交易日走低，累计下跌18.78%，本周累计下跌13.19%。",
-          "url": "https://wallstreetcn.com/livenews/3065472",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
           "title": "三角洲航天基地有哪些彩蛋",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E6%9C%89%E5%93%AA%E4%BA%9B%E5%BD%A9%E8%9B%8B",
           "source": "bilibili 热搜",
@@ -201,8 +224,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 05时20分]"
+          "appearance_count": 7,
+          "time_info": "[01时27分 ~ 06时21分]"
         },
         {
           "title": "当地时间3月6日，美国官员称，“福特”号航空母舰已离开东地中海，穿越苏伊士运河，目前正在红海执行任务。（央视新闻）",
@@ -217,6 +240,18 @@
           "time_info": "[04时21分 ~ 05时20分]"
         },
         {
+          "title": "标普500指数的11个板块中，可选消费板块收跌1.96%，原材料板块跌1.89%，信息技术/科技板块跌1.84%跌幅第三大，能源板块则收涨0.13%。 标普1500航空指数连续第六个交易日走低，累计下跌18.78%，本周累计下跌13.19%。",
+          "url": "https://wallstreetcn.com/livenews/3065472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时21分]"
+        },
+        {
           "title": "美国军方：美国联邦航空局和美国国防部将于本周末对反无人机防御系统进行高能激光测试。",
           "url": "https://flash.jin10.com/detail/20260307031926827800",
           "source": "金十数据",
@@ -224,8 +259,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时21分 ~ 05时20分]"
+          "appearance_count": 3,
+          "time_info": "[04时21分 ~ 06时21分]"
         },
         {
           "title": "土耳其航空公司与工会签署集体劳动合同。",
@@ -298,9 +333,91 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9060元，较周四夜盘收盘涨65点。成交量477.96亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3065437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时21分]"
+        },
+        {
+          "title": "周五（3月6日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9030元，较周四纽约尾盘涨150点，日内整体交投于6.9198-6.8888元区间。",
+          "url": "https://wallstreetcn.com/livenews/3065487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "呷哺呷哺在港交所公告：预期2025年收入约为人民币38亿元，同比减少约20%；预计净亏损介乎约人民币2.9亿元至3.1亿元之间，亏损较上年同期收窄，减少介乎约22.2%至27.2%之间。",
+          "url": "https://wallstreetcn.com/livenews/3065350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "非农疲软提振降息预期，美债走高，美股指低开，纳指跌超1.4%，WTI原油近两年来首破86美元，现货黄金短线拉升",
+          "url": "https://wallstreetcn.com/articles/3766902",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 06时21分]"
+        },
+        {
+          "title": "非农前夜，油价飙升引发通胀担忧，芯片股领跌美股，美债四连跌，美元走强",
+          "url": "https://wallstreetcn.com/articles/3766762",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 06时21分]"
+        },
+        {
+          "title": "周五（3月6日）纽约尾盘，美国10年期基准国债收益率涨0.19个基点，报4.1383%，北京时间21:30发布美国非农就业报告时跳水至4.1035%刷新日低，随后反弹、在22:38（美股盘初）刷新日高至4.1848%，本周累计上涨20.08个基点，整体持续走高。 两年期美债收益率跌1.59个基点，报3.5605%，本周累涨18.56个基点，整体交投于3.3586%-3.6289%区间。",
+          "url": "https://wallstreetcn.com/livenews/3065494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         }
       ]
     },
@@ -313,11 +430,12 @@
           "url": "https://wallstreetcn.com/livenews/3065473",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时21分]"
         },
         {
           "title": "美股军工股洛克希德·马丁目前涨1.86%，RTX公司涨1.30%，诺斯罗普·格鲁曼涨0.86%，L3Harris涨0.90%。 据媒体报道，特朗普将召集国防承包商高管，强调提升武器产能以应对美伊冲突。",
@@ -337,35 +455,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9060元，较周四夜盘收盘涨65点。成交量477.96亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3065437",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时28分 ~ 04时21分]"
-        },
-        {
-          "title": "呷哺呷哺在港交所公告：预期2025年收入约为人民币38亿元，同比减少约20%；预计净亏损介乎约人民币2.9亿元至3.1亿元之间，亏损较上年同期收窄，减少介乎约22.2%至27.2%之间。",
-          "url": "https://wallstreetcn.com/livenews/3065350",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -403,37 +492,6 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "非农疲软提振降息预期，美债走高，美股指低开，纳指跌超1.4%，WTI原油近两年来首破86美元，现货黄金短线拉升",
-          "url": "https://wallstreetcn.com/articles/3766902",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 05时20分]"
-        },
-        {
-          "title": "非农前夜，油价飙升引发通胀担忧，芯片股领跌美股，美债四连跌，美元走强",
-          "url": "https://wallstreetcn.com/articles/3766762",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 05时20分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -442,11 +500,12 @@
           "url": "https://wallstreetcn.com/livenews/3065462",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时21分]"
         },
         {
           "title": "彭博美元指数转跌，（快速）回吐美国非农就业报告发布以来这一波涨幅。",
