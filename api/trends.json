@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T14:26:53.810530+08:00",
-  "total_titles_processed": 1095,
+  "generated_at": "2026-03-07T15:22:42.513142+08:00",
+  "total_titles_processed": 1152,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,17 @@
           "time_info": "[00时27分 ~ 13时32分]"
         },
         {
+          "title": "特朗普宣称“与伊朗不会达成任何协议”，军工企业同意将“精良级”武器产量“翻两番”",
+          "url": "https://wallstreetcn.com/articles/3766927",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时51分 ~ 15时22分]"
+        },
+        {
           "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
           "url": "https://wallstreetcn.com/articles/3766889",
           "source": "华尔街见闻",
@@ -26,11 +37,12 @@
             10,
             9,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时27分 ~ 14时26分]"
+          "appearance_count": 18,
+          "time_info": "[00时27分 ~ 15时22分]"
         },
         {
           "title": "“甩锅”特朗普，与下属传婚外情，她被开了",
@@ -53,17 +65,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时27分 ~ 09时04分]"
-        },
-        {
-          "title": "特朗普宣称“与伊朗不会达成任何协议”，军工企业同意将“精良级”武器产量“翻两番”",
-          "url": "https://wallstreetcn.com/articles/3766927",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时51分 ~ 14时26分]"
         },
         {
           "title": "特朗普：不接受哈梅内伊儿子担任伊朗新领导人，“我必须亲自参与任命”，伊朗外长：这完全是伊朗人民的事，任何人都无权干涉",
@@ -195,6 +196,42 @@
           "time_info": "[06时21分 ~ 07时19分]"
         },
         {
+          "title": "白宫确认：特朗普将出席在对伊军事行动中死亡的6名美军士兵遗体移交仪式",
+          "url": "https://wallstreetcn.com/livenews/3065616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 15时22分]"
+        },
+        {
+          "title": "奥巴马、拜登“不点名”抨击特朗普政府",
+          "url": "https://news.ifeng.com/c/8rIXypaKu4O",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 15时22分]"
+        },
+        {
+          "title": "白宫确认：特朗普将出席在对伊军事行动中死亡的6名美军士兵遗体移交仪式",
+          "url": "https://flash.jin10.com/detail/20260307134808115800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 15时22分]"
+        },
+        {
           "title": "美国总统特朗普：我们与国防制造公司进行了一次非常好的会谈。 英国宇航系统（BAE Systems）、波音、霍尼韦尔Honeywell Aerospace、雷神等企业的高管们出席了会议。 他们同意，将部分武器的产量提高三倍。",
           "url": "https://wallstreetcn.com/livenews/3065463",
           "source": "华尔街见闻-快讯",
@@ -207,6 +244,18 @@
           "time_info": "[05时20分 ~ 06时21分]"
         },
         {
+          "title": "美国驻约旦大使馆：保护美国公民的安全始终是特朗普总统、鲁比奥国务卿和国务院的首要任务。官员们正在探索更多选项，以帮助美国人离开中东。",
+          "url": "https://flash.jin10.com/detail/20260307134413447800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 15时22分]"
+        },
+        {
           "title": "特朗普和美国大军火商开会",
           "url": "https://wallstreetcn.com/livenews/3065482",
           "source": "华尔街见闻-快讯",
@@ -217,17 +266,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时19分]"
-        },
-        {
-          "title": "白宫确认：特朗普将出席在对伊军事行动中死亡的6名美军士兵遗体移交仪式",
-          "url": "https://wallstreetcn.com/livenews/3065616",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
         },
         {
           "title": "特朗普引用纽约邮报文章表示，根据一项民调，叙利亚人对美国和以色列的态度变暖。",
@@ -250,39 +288,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
-        },
-        {
-          "title": "奥巴马、拜登“不点名”抨击特朗普政府",
-          "url": "https://news.ifeng.com/c/8rIXypaKu4O",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "白宫确认：特朗普将出席在对伊军事行动中死亡的6名美军士兵遗体移交仪式",
-          "url": "https://flash.jin10.com/detail/20260307134808115800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "美国驻约旦大使馆：保护美国公民的安全始终是特朗普总统、鲁比奥国务卿和国务院的首要任务。官员们正在探索更多选项，以帮助美国人离开中东。",
-          "url": "https://flash.jin10.com/detail/20260307134413447800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
         },
         {
           "title": "白宫：美国总统特朗普签署行政命令，打击针对美国人的网络犯罪、欺诈和掠夺性骗局。",
@@ -354,7 +359,7 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "三角洲航天基地有哪些彩蛋",
@@ -379,8 +384,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时51分 ~ 14时26分]"
+          "appearance_count": 6,
+          "time_info": "[11时51分 ~ 15时22分]"
+        },
+        {
+          "title": "中国航天科技集团刘争：最近100次火箭发射仅用1年多",
+          "url": "https://wallstreetcn.com/livenews/3065627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "当地时间3月6日，美国官员称，“福特”号航空母舰已离开东地中海，穿越苏伊士运河，目前正在红海执行任务。（央视新闻）",
@@ -443,8 +459,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时51分 ~ 14时26分]"
+          "appearance_count": 6,
+          "time_info": "[11时51分 ~ 15时22分]"
         },
         {
           "title": "人大代表为何举起20元人民币",
@@ -453,9 +469,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 15时22分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9060元，较周四夜盘收盘涨65点。成交量477.96亿美元。",
@@ -594,8 +610,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时19分 ~ 14时26分]"
+          "appearance_count": 8,
+          "time_info": "[07时19分 ~ 15时22分]"
         },
         {
           "title": "Hims & Hers Health美股盘后涨近37%，报道称诺和诺德计划在Hims的平台上销售其减肥药",
@@ -776,11 +792,12 @@
           "url": "https://www.douyin.com/hot/2421123",
           "source": "抖音",
           "ranks": [
-            15
+            15,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 15时22分]"
         }
       ]
     }
