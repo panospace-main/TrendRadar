@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-08T03:15:23.845052+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-03-08T04:14:49.449674+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普先“赢”上了：伊朗道歉都是我的功劳，今天伊朗将遭受重击",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 03时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 04时14分]"
         },
         {
           "title": "特朗普宣称“与伊朗不会达成任何协议”，军工企业同意将“精良级”武器产量“翻两番”",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 03时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 04时14分]"
         },
         {
           "title": "专家：特朗普的麻烦还在后面，美国与伊朗的战争成本接近300:1",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 03时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 04时14分]"
         },
         {
           "title": "据福克斯新闻：特朗普已从佛罗里达出发，前往特拉华州的多佛空军基地，以向在伊朗冲突中阵亡的美国军人致敬。",
@@ -58,7 +58,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
         },
@@ -134,6 +134,17 @@
           "time_info": "01时14分"
         },
         {
+          "title": "伊朗最高国家安全委员会秘书拉里贾尼：特朗普说他必须干预伊朗未来领导人的选择，这说明他是个极其落后的人。",
+          "url": "https://flash.jin10.com/detail/20260308035031040800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
           "title": "美国总统特朗普：美国参议院应该专注于，必要时完全专注于《拯救美国法案》，这是大家都想要的！",
           "url": "https://flash.jin10.com/detail/20260307233704025800",
           "source": "金十数据",
@@ -151,7 +162,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
         },
@@ -217,6 +228,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "航空航天定调新兴支柱产业，记者一线调研：多家公司今年迎关键节点",
+          "url": "https://www.cls.cn/detail/2305659",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 04时14分]"
+        },
+        {
           "title": "直击两会丨近一百次火箭发射仅用1年多！刘争委员：中国航天部分技术创新已踏足“无人区”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32722366",
           "source": "澎湃新闻",
@@ -226,19 +249,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 03时15分]"
-        },
-        {
-          "title": "航空航天定调新兴支柱产业，记者一线调研：多家公司今年迎关键节点",
-          "url": "https://www.cls.cn/detail/2305659",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 03时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 04时14分]"
         },
         {
           "title": "据英国广播公司：英国已将其“威尔士亲王号”航空母舰置于高度戒备状态，船员已被告知，他们必须做好在五天内出发的准备。",
@@ -265,8 +277,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 03时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 04时14分]"
         }
       ]
     },
@@ -282,11 +294,12 @@
             19,
             4,
             27,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 03时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 04时14分]"
         }
       ]
     },
@@ -336,8 +349,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 03时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 04时14分]"
         }
       ]
     }
