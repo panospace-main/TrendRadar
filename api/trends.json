@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-08T12:02:15.389242+08:00",
-  "total_titles_processed": 836,
+  "generated_at": "2026-03-08T13:37:07.731948+08:00",
+  "total_titles_processed": 907,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普先“赢”上了：伊朗道歉都是我的功劳，今天伊朗将遭受重击",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时16分 ~ 12时02分]"
+          "appearance_count": 16,
+          "time_info": "[00时16分 ~ 13时37分]"
         },
         {
           "title": "专家：特朗普的麻烦还在后面，美国与伊朗的战争成本接近300:1",
@@ -48,8 +48,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 12时02分]"
+          "appearance_count": 5,
+          "time_info": "[09时09分 ~ 13时37分]"
         },
         {
           "title": "美以伊战争｜特朗普：目前无计划在伊朗部署地面部队",
@@ -74,6 +74,17 @@
           "time_info": "09时09分"
         },
         {
+          "title": "英国可能部署航母至中东，特朗普：不需要",
+          "url": "https://news.ifeng.com/c/8rJVEzbISO2",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时09分 ~ 13时37分]"
+        },
+        {
           "title": "据福克斯新闻：特朗普已从佛罗里达出发，前往特拉华州的多佛空军基地，以向在伊朗冲突中阵亡的美国军人致敬。",
           "url": "https://flash.jin10.com/detail/20260308004923405800",
           "source": "金十数据",
@@ -96,15 +107,17 @@
           "time_info": "03时15分"
         },
         {
-          "title": "美媒：特朗普打击伊朗的选项包括派遣特种部队摧毁伊朗核设施",
-          "url": "https://flash.jin10.com/detail/20260308105750349800",
-          "source": "金十数据",
+          "title": "委内瑞拉代总统致函特朗普",
+          "url": "https://www.toutiao.com/trending/7614119677836476458/",
+          "source": "今日头条",
           "ranks": [
-            5
+            6,
+            13,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时09分 ~ 13时37分]"
         },
         {
           "title": "特朗普：目前无意在伊朗部署地面部队，不希望库尔德武装介入伊朗战事",
@@ -166,6 +179,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时13分 ~ 09时09分]"
+        },
+        {
+          "title": "美媒：特朗普打击伊朗的选项包括派遣特种部队摧毁伊朗核设施",
+          "url": "https://flash.jin10.com/detail/20260308105750349800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时37分]"
         },
         {
           "title": "伊朗最高国家安全委员会秘书拉里贾尼：特朗普最好承认他犯了错误，被以色列欺骗了。",
@@ -232,29 +257,6 @@
           "time_info": "[00时16分 ~ 03时15分]"
         },
         {
-          "title": "英国可能部署航母至中东，特朗普：不需要",
-          "url": "https://news.ifeng.com/c/8rJVEzbISO2",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 12时02分]"
-        },
-        {
-          "title": "委内瑞拉代总统致函特朗普",
-          "url": "https://www.toutiao.com/trending/7614119677836476458/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 12时02分]"
-        },
-        {
           "title": "特朗普：伊朗下任领导人需要对美以表现友好",
           "url": "https://flash.jin10.com/detail/20260308014948305800",
           "source": "金十数据",
@@ -265,6 +267,41 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时20分 ~ 03时15分]"
+        },
+        {
+          "title": "特朗普称没有迹象表明俄罗斯支持伊朗",
+          "url": "https://flash.jin10.com/detail/20260308104028991800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时37分]"
+        },
+        {
+          "title": "王毅回应特朗普访华",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时36分 ~ 13时37分]"
+        },
+        {
+          "title": "特朗普称没有迹象表明俄罗斯支持伊朗",
+          "url": "https://wallstreetcn.com/livenews/3065812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时37分]"
         },
         {
           "title": "市场消息：特朗普将于周一下午5点（北京时间周二早上6点）在众议院共和党人休会期间发表讲话。",
@@ -311,17 +348,6 @@
           "time_info": "00时16分"
         },
         {
-          "title": "特朗普称没有迹象表明俄罗斯支持伊朗",
-          "url": "https://flash.jin10.com/detail/20260308104028991800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
           "title": "委内瑞拉代总统：我们将特朗普承认我们的这一决定视为对委内瑞拉人民及其为国家真相而斗争的公正事业的认可。我们重申愿意建立基于相互尊重和平等的长期关系。",
           "url": "https://flash.jin10.com/detail/20260308020752768800",
           "source": "金十数据",
@@ -353,17 +379,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
-        },
-        {
-          "title": "特朗普称没有迹象表明俄罗斯支持伊朗",
-          "url": "https://wallstreetcn.com/livenews/3065812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
         },
         {
           "title": "美国总统特朗普：我们士兵在这场战争中的牺牲是为了整个世界，而不仅仅是中东。",
@@ -413,7 +428,7 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "直击两会丨近一百次火箭发射仅用1年多！刘争委员：中国航天部分技术创新已踏足“无人区”",
@@ -427,8 +442,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时16分 ~ 12时02分]"
+          "appearance_count": 16,
+          "time_info": "[00时16分 ~ 13时37分]"
         },
         {
           "title": "航空航天定调新兴支柱产业，记者一线调研：多家公司今年迎关键节点",
@@ -441,6 +456,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时16分 ~ 07时13分]"
+        },
+        {
+          "title": "三角洲航天基地有哪些彩蛋",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E6%9C%89%E5%93%AA%E4%BA%9B%E5%BD%A9%E8%9B%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时36分 ~ 13时37分]"
         },
         {
           "title": "据英国广播公司：英国已将其“威尔士亲王号”航空母舰置于高度戒备状态，船员已被告知，他们必须做好在五天内出发的准备。",
@@ -504,22 +530,24 @@
           "url": "https://www.cls.cn/detail/2306076",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时16分 ~ 12时02分]"
+          "appearance_count": 16,
+          "time_info": "[00时16分 ~ 13时37分]"
         },
         {
           "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2306147",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时09分"
+          "appearance_count": 3,
+          "time_info": "[09时09分 ~ 13时37分]"
         }
       ]
     },
@@ -576,11 +604,12 @@
           "url": "https://www.cls.cn/detail/2305872",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时16分 ~ 12时02分]"
+          "appearance_count": 16,
+          "time_info": "[00时16分 ~ 13时37分]"
         }
       ]
     }
