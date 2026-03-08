@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-08T22:17:01.083335+08:00",
-  "total_titles_processed": 1447,
+  "generated_at": "2026-03-08T23:15:05.085253+08:00",
+  "total_titles_processed": 1493,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普先“赢”上了：伊朗道歉都是我的功劳，今天伊朗将遭受重击",
@@ -77,6 +77,21 @@
           "time_info": "[13时36分 ~ 18时15分]"
         },
         {
+          "title": "伊朗：今天或选出最高领袖！特朗普再度妄称：希望参与伊朗下一任领导人选择",
+          "url": "https://wallstreetcn.com/articles/3766963",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时19分 ~ 23时15分]"
+        },
+        {
           "title": "委内瑞拉代总统致函特朗普",
           "url": "https://www.toutiao.com/trending/7614119677836476458/",
           "source": "今日头条",
@@ -95,21 +110,6 @@
           "time_info": "[09时09分 ~ 22时17分]"
         },
         {
-          "title": "伊朗：今天或选出最高领袖！特朗普再度妄称：希望参与伊朗下一任领导人选择",
-          "url": "https://wallstreetcn.com/articles/3766963",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时19分 ~ 22时17分]"
-        },
-        {
           "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32726656",
           "source": "澎湃新闻",
@@ -120,8 +120,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时19分 ~ 22时17分]"
+          "appearance_count": 10,
+          "time_info": "[17时19分 ~ 23时15分]"
         },
         {
           "title": "王毅谈特朗普访华",
@@ -132,8 +132,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时34分 ~ 22时17分]"
+          "appearance_count": 5,
+          "time_info": "[21时34分 ~ 23时15分]"
         },
         {
           "title": "特朗普：已排除库尔德武装参战可能，部署地面部队需要“非常好的理由”",
@@ -145,8 +145,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时15分 ~ 22时17分]"
+          "appearance_count": 8,
+          "time_info": "[18时15分 ~ 23时15分]"
         },
         {
           "title": "美以伊战争｜特朗普：目前无计划在伊朗部署地面部队",
@@ -193,6 +193,20 @@
           "time_info": "03时15分"
         },
         {
+          "title": "特朗普要求赦免以色列总理 以总统：战争期间“不讨论”",
+          "url": "https://wallstreetcn.com/livenews/3065878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时25分 ~ 23时15分]"
+        },
+        {
           "title": "特朗普：目前无意在伊朗部署地面部队，不希望库尔德武装介入伊朗战事",
           "url": "https://wallstreetcn.com/livenews/3065774",
           "source": "华尔街见闻-快讯",
@@ -206,17 +220,17 @@
           "time_info": "[06时14分 ~ 09时09分]"
         },
         {
-          "title": "特朗普要求赦免以色列总理 以总统：战争期间“不讨论”",
-          "url": "https://wallstreetcn.com/livenews/3065878",
-          "source": "华尔街见闻-快讯",
+          "title": "据德黑兰时报：一位政治消息人士透露，伊朗总统昨天的讲话是一个试探美国反应的陷阱。结果很有趣：特朗普欣喜若狂，并热情洋溢地谈论伊朗的投降。",
+          "url": "https://flash.jin10.com/detail/20260308210942502800",
+          "source": "金十数据",
           "ranks": [
-            2,
-            12,
-            16
+            3,
+            17,
+            30
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时25分 ~ 22时17分]"
+          "time_info": "[21时34分 ~ 23时15分]"
         },
         {
           "title": "伊朗外交部长：我警告特朗普的特使，战争不会改善谈判地位。",
@@ -254,18 +268,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时20分 ~ 03时15分]"
-        },
-        {
-          "title": "据德黑兰时报：一位政治消息人士透露，伊朗总统昨天的讲话是一个试探美国反应的陷阱。结果很有趣：特朗普欣喜若狂，并热情洋溢地谈论伊朗的投降。",
-          "url": "https://flash.jin10.com/detail/20260308210942502800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 22时17分]"
         },
         {
           "title": "伊朗外交部长：如果特朗普想升级局势，他将如愿以偿。",
@@ -439,6 +441,17 @@
           "time_info": "19时13分"
         },
         {
+          "title": "白宫新闻秘书莱维特：特朗普的当前计划中不包括部署地面部队。特朗普并未排除这一选项。",
+          "url": "https://flash.jin10.com/detail/20260308221917861800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "特朗普暗讽英国航母“姗姗来迟”：不需要在我们已经获胜后才加入战争的人",
           "url": "https://flash.jin10.com/detail/20260308080925846800",
           "source": "金十数据",
@@ -574,7 +587,7 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "直击两会丨近一百次火箭发射仅用1年多！刘争委员：中国航天部分技术创新已踏足“无人区”",
@@ -640,6 +653,17 @@
           "time_info": "[13时36分 ~ 13时37分]"
         },
         {
+          "title": "美国航天业组织警告：中国会超美国",
+          "url": "https://www.toutiao.com/trending/7613958141479075846/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时14分 ~ 23时15分]"
+        },
+        {
           "title": "据英国广播公司：英国已将其“威尔士亲王号”航空母舰置于高度戒备状态，船员已被告知，他们必须做好在五天内出发的准备。",
           "url": "https://flash.jin10.com/detail/20260308001506278800",
           "source": "金十数据",
@@ -654,7 +678,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股收盘：油价暴涨叠加就业数据疲软 三大指数集体收跌",
@@ -707,6 +731,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时19分 ~ 17时20分]"
+        },
+        {
+          "title": "做空ETF、恐慌指数都在飙！高盛戳穿美股“假平静”，市场实则极度脆弱",
+          "url": "https://wallstreetcn.com/articles/3766978",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时14分 ~ 23时15分]"
         }
       ]
     },
@@ -723,8 +758,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时16分 ~ 22时17分]"
+          "appearance_count": 29,
+          "time_info": "[00时16分 ~ 23时15分]"
         },
         {
           "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
@@ -736,8 +771,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时09分 ~ 22时17分]"
+          "appearance_count": 16,
+          "time_info": "[09时09分 ~ 23时15分]"
         },
         {
           "title": "下周A股如何选择方向",
