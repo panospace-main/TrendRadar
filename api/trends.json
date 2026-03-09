@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T07:15:25.686789+08:00",
-  "total_titles_processed": 560,
+  "generated_at": "2026-03-09T09:09:22.322859+08:00",
+  "total_titles_processed": 708,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 32,
       "titles": [
         {
           "title": "王毅谈特朗普访华",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 07时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 09时09分]"
         },
         {
           "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 07时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 09时09分]"
         },
         {
           "title": "美以伊战争｜伊朗新任最高领袖将揭晓，特朗普威胁",
@@ -89,9 +89,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "油价飙升 美媒：特朗普正面临越来越多的问题",
+          "url": "https://flash.jin10.com/detail/20260309085313681800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
         },
         {
           "title": "美国总统特朗普：短期内的油价在伊朗核威胁消除后会迅速下降。",
@@ -100,7 +111,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -251,6 +262,17 @@
           "time_info": "[05时14分 ~ 06时14分]"
         },
         {
+          "title": "哈梅内伊次子当选伊朗新任最高领袖 特朗普威胁“难长久”",
+          "url": "https://wallstreetcn.com/articles/3766987",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
           "title": "特朗普以“拒签法案”为要挟 敦促参议院强推选举改革法",
           "url": "https://flash.jin10.com/detail/20260309001709983800",
           "source": "金十数据",
@@ -260,6 +282,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "伊朗高官：特朗普不懂伊朗",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%AB%98%E5%AE%98%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%87%82%E4%BC%8A%E6%9C%97",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
         },
         {
           "title": "知情人士：特朗普政府拟与古巴达成经济协议",
@@ -279,7 +312,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -317,6 +350,28 @@
           "time_info": "00时17分"
         },
         {
+          "title": "评论员谈中国回绝特朗普“G2之邀”",
+          "url": "https://www.toutiao.com/trending/7614888612266311722/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "据CBS：美国国防部长赫格塞思表示，特朗普将“设定伊朗投降的条件”。",
+          "url": "https://flash.jin10.com/detail/20260309081624843800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
           "title": "美国参议员汤姆·蒂利斯要求特朗普立即解雇国土安全顾问斯蒂芬·米勒。",
           "url": "https://flash.jin10.com/detail/20260308230009882800",
           "source": "金十数据",
@@ -352,11 +407,24 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时20分 ~ 07时15分]"
+          "appearance_count": 9,
+          "time_info": "[02时20分 ~ 09时09分]"
+        },
+        {
+          "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2306147",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 09时09分]"
         },
         {
           "title": "“龙虾”全球爆火 多家A股公司回应",
@@ -368,23 +436,12 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时16分 ~ 01时15分]"
-        },
-        {
-          "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2306147",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 01时15分]"
         }
       ]
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美国航天业组织警告：中国会超美国",
@@ -410,6 +467,17 @@
           "time_info": "[04时15分 ~ 05时14分]"
         },
         {
+          "title": "三角洲航天2.0战术详解",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E8%88%AA%E5%A4%A92.0%E6%88%98%E6%9C%AF%E8%AF%A6%E8%A7%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
           "title": "中国驻卡塔尔大使馆：卡塔尔航空赴华航班开放售票",
           "url": "https://flash.jin10.com/detail/20260308224838225800",
           "source": "金十数据",
@@ -424,7 +492,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "做空ETF、恐慌指数都在飙！高盛戳穿美股“假平静”，市场实则极度脆弱",
@@ -451,15 +519,43 @@
           "time_info": "[06时14分 ~ 07时15分]"
         },
         {
+          "title": "高盛数据显示 美股大跌之际对冲基金加码做空",
+          "url": "https://wallstreetcn.com/livenews/3066004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
           "title": "美股股指期货跌幅扩大至2%",
           "url": "https://flash.jin10.com/detail/20260309062453185800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国外汇交易中心（CFETS）：3月6日人民币汇率指数按周涨1.07至99.65。",
+          "url": "https://wallstreetcn.com/livenews/3066003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
         }
       ]
     },
