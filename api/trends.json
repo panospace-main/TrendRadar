@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T20:36:44.082806+08:00",
-  "total_titles_processed": 1702,
+  "generated_at": "2026-03-09T21:59:58.234798+08:00",
+  "total_titles_processed": 1823,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "王毅谈特朗普访华",
@@ -32,8 +32,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时09分 ~ 20时36分]"
+          "appearance_count": 12,
+          "time_info": "[09时09分 ~ 21时59分]"
         },
         {
           "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
@@ -114,6 +114,17 @@
           "time_info": "[00时16分 ~ 07时15分]"
         },
         {
+          "title": "特朗普回应拉里贾尼威胁",
+          "url": "https://news.ifeng.com/c/8rM7NkGzfDg",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时35分 ~ 21时59分]"
+        },
+        {
           "title": "美媒劝特朗普见好就收",
           "url": "https://news.ifeng.com/c/8rLmtoks9IL",
           "source": "凤凰网",
@@ -125,15 +136,16 @@
           "time_info": "[13时51分 ~ 17时38分]"
         },
         {
-          "title": "特朗普回应拉里贾尼威胁",
-          "url": "https://news.ifeng.com/c/8rM7NkGzfDg",
+          "title": "特朗普：将与以总理共同作出停战决定",
+          "url": "https://news.ifeng.com/c/8rM8XXIvw2a",
           "source": "凤凰网",
           "ranks": [
-            4
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时35分 ~ 20时36分]"
+          "appearance_count": 6,
+          "time_info": "[17时38分 ~ 21时59分]"
         },
         {
           "title": "美以伊战争｜中方回应特朗普威胁伊朗最高领袖",
@@ -191,18 +203,6 @@
           "time_info": "[12时07分 ~ 16时33分]"
         },
         {
-          "title": "特朗普：将与以总理共同作出停战决定",
-          "url": "https://news.ifeng.com/c/8rM8XXIvw2a",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时38分 ~ 20时36分]"
-        },
-        {
           "title": "以色列总统：我尊重特朗普，但战争期间不讨论赦免内塔尼亚胡",
           "url": "https://m.thepaper.cn/newsDetail_forward_32728491",
           "source": "澎湃新闻",
@@ -215,6 +215,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时07分 ~ 16时33分]"
+        },
+        {
+          "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
+          "url": "https://news.ifeng.com/c/8rM8XXIvw5H",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时35分 ~ 21时59分]"
         },
         {
           "title": "特朗普要求赦免以色列总理 以总统：战争期间“不讨论”",
@@ -277,17 +288,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时17分 ~ 04时15分]"
-        },
-        {
-          "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
-          "url": "https://news.ifeng.com/c/8rM8XXIvw5H",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时35分 ~ 20时36分]"
         },
         {
           "title": "特朗普称适时结束对伊军事行动",
@@ -430,6 +430,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        },
+        {
+          "title": "是时候卖原油了？美银Hartnett：特朗普要赢中期选举，美伊战争必须在3月“降级”",
+          "url": "https://wallstreetcn.com/articles/3767022",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "特朗普的儿子们支持一家瞄准国防部订单的无人机新公司。（华尔街日报）",
@@ -610,6 +621,136 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "做空ETF、恐慌指数都在飙！高盛戳穿美股“假平静”，市场实则极度脆弱",
+          "url": "https://wallstreetcn.com/articles/3766978",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[02时20分 ~ 19时29分]"
+        },
+        {
+          "title": "全球股债遭遇双杀！美股三大股指开盘走低，芯片股普跌，美油回落至100美元下方",
+          "url": "https://wallstreetcn.com/articles/3766990",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "美股股指期货跌幅收窄至1%附近，此前均跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3066404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
+          "title": "美股三大股指开盘走低，纳指盘初跌0.91%，标普500指数跌0.88%，道指跌0.96%。科技股普跌，英特尔跌超3%，西部数据、美光科技均跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3066555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "美股三大股指期货周一全线低开，均跌1%。",
+          "url": "https://flash.jin10.com/detail/20260309060042758800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时14分 ~ 07时15分]"
+        },
+        {
+          "title": "高盛数据显示 美股大跌之际对冲基金加码做空",
+          "url": "https://wallstreetcn.com/livenews/3066004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "美股股指期货跌幅扩大至2%",
+          "url": "https://flash.jin10.com/detail/20260309062453185800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "美伊战火会“砸崩”美股？以史为鉴：无需担心，标普500很快反弹！",
+          "url": "https://www.cls.cn/detail/2307187",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "金十图示：2026年03月09日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260309214134620800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "美股盘前，科技股集体走低，英伟达跌超1.2%，美光科技跌超2%；美国石油股普涨，西方石油涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3066345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "摩根士丹利：对美股未来6-12个月走势仍持乐观看法",
+          "url": "https://wallstreetcn.com/livenews/3066428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "A股",
       "match_count": 8,
       "titles": [
@@ -676,6 +817,17 @@
           "time_info": "[00时16分 ~ 01时15分]"
         },
         {
+          "title": "全民“养龙虾”？多家A股公司回应业务关联 深圳龙岗抢推“龙虾十条” 工信部紧急预警",
+          "url": "https://www.cls.cn/detail/2306969",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 21时59分]"
+        },
+        {
           "title": "金十数据整理：A股每日市场要闻回顾（2026-03-09）",
           "url": "https://flash.jin10.com/detail/20260309153028321800",
           "source": "金十数据",
@@ -685,17 +837,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
-        },
-        {
-          "title": "全民“养龙虾”？多家A股公司回应业务关联 深圳龙岗抢推“龙虾十条” 工信部紧急预警",
-          "url": "https://www.cls.cn/detail/2306969",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
         },
         {
           "title": "A股有色金属板块午后局部回暖，海南矿业涨停，湖南裕能、西藏矿业、国城矿业、华新环保跟涨。",
@@ -726,6 +867,18 @@
           "time_info": "[00时16分 ~ 00时17分]"
         },
         {
+          "title": "峰飞航空完成10架凯瑞鸥集中投保",
+          "url": "https://wallstreetcn.com/livenews/3066521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 21时59分]"
+        },
+        {
           "title": "土耳其交通部长：土耳其航空、AJET航空、飞马航空和太阳快运航空飞往伊拉克、叙利亚、黎巴嫩和约旦的航班将暂停至3月13日。",
           "url": "https://flash.jin10.com/detail/20260309031354186800",
           "source": "金十数据",
@@ -738,24 +891,13 @@
           "time_info": "[04时15分 ~ 05时14分]"
         },
         {
-          "title": "峰飞航空完成10架凯瑞鸥集中投保",
-          "url": "https://wallstreetcn.com/livenews/3066521",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
           "title": "印度政府消息人士：印度拥有充足的航空煤油储备。",
           "url": "https://flash.jin10.com/detail/20260309202043602800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -819,8 +961,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时38分 ~ 20时36分]"
+          "appearance_count": 6,
+          "time_info": "[17时38分 ~ 21时59分]"
         },
         {
           "title": "农业农村部部长喊你少吃油",
@@ -841,11 +983,24 @@
           "url": "https://www.toutiao.com/trending/7615095540708605958/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时28分 ~ 20时36分]"
+          "appearance_count": 4,
+          "time_info": "[19时28分 ~ 21时59分]"
+        },
+        {
+          "title": "直击两会丨人均烹调用油超推荐量40%，农业农村部部长韩俊建议居民减油、增豆、加奶",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32732055",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 21时59分]"
         },
         {
           "title": "农业农村部部长韩俊：过渡期后帮扶政策将保持稳定",
@@ -881,17 +1036,6 @@
           "time_info": "16时33分"
         },
         {
-          "title": "直击两会丨人均烹调用油超推荐量40%，农业农村部部长韩俊建议居民减油、增豆、加奶",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32732055",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
           "title": "农业农村部部长韩俊：蔬菜、畜禽、水产品等当家品种立足国内有保障",
           "url": "https://wallstreetcn.com/livenews/3066149",
           "source": "华尔街见闻-快讯",
@@ -901,92 +1045,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "做空ETF、恐慌指数都在飙！高盛戳穿美股“假平静”，市场实则极度脆弱",
-          "url": "https://wallstreetcn.com/articles/3766978",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时20分 ~ 19时29分]"
-        },
-        {
-          "title": "美股股指期货跌幅收窄至1%附近，此前均跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3066404",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时38分"
-        },
-        {
-          "title": "美股三大股指期货周一全线低开，均跌1%。",
-          "url": "https://flash.jin10.com/detail/20260309060042758800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时14分 ~ 07时15分]"
-        },
-        {
-          "title": "高盛数据显示 美股大跌之际对冲基金加码做空",
-          "url": "https://wallstreetcn.com/livenews/3066004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时09分"
-        },
-        {
-          "title": "美股股指期货跌幅扩大至2%",
-          "url": "https://flash.jin10.com/detail/20260309062453185800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "美股盘前，科技股集体走低，英伟达跌超1.2%，美光科技跌超2%；美国石油股普涨，西方石油涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3066345",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
-          "title": "摩根士丹利：对美股未来6-12个月走势仍持乐观看法",
-          "url": "https://wallstreetcn.com/livenews/3066428",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时35分"
         }
       ]
     },
@@ -1023,7 +1081,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -1042,7 +1100,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金价会变但肌肉不会骗你",
@@ -1054,6 +1112,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
+        },
+        {
+          "title": "金价震荡下的危险游戏",
+          "url": "https://www.toutiao.com/trending/7614491185377230891/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         }
       ]
     },
