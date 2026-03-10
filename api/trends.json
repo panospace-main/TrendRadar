@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T19:25:49.872464+08:00",
-  "total_titles_processed": 1749,
+  "generated_at": "2026-03-10T20:35:59.543532+08:00",
+  "total_titles_processed": 1858,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 119,
+      "match_count": 126,
       "titles": [
         {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时03分 ~ 19时25分]"
+          "appearance_count": 14,
+          "time_info": "[09时03分 ~ 20时35分]"
         },
         {
           "title": "【早报】特朗普：将取消部分制裁，以平抑油价；国际油价高位跳水",
@@ -74,8 +74,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时03分 ~ 19时25分]"
+          "appearance_count": 14,
+          "time_info": "[09时03分 ~ 20时35分]"
         },
         {
           "title": "特朗普：将暂时免除一些制裁以平抑油价 对伊战事“很快”会结束",
@@ -118,8 +118,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时36分 ~ 19时25分]"
+          "appearance_count": 9,
+          "time_info": "[14时36分 ~ 20时35分]"
+        },
+        {
+          "title": "美媒最新民调：特朗普支持率下滑至44%",
+          "url": "https://news.ifeng.com/c/8rNS9E6Ovmp",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时10分 ~ 20时35分]"
         },
         {
           "title": "特朗普：将与以总理共同作出停战决定",
@@ -140,8 +151,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时59分 ~ 19时25分]"
+          "appearance_count": 12,
+          "time_info": "[11时59分 ~ 20时35分]"
         },
         {
           "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
@@ -156,17 +167,6 @@
           "time_info": "[00时46分 ~ 12时01分]"
         },
         {
-          "title": "美媒最新民调：特朗普支持率下滑至44%",
-          "url": "https://news.ifeng.com/c/8rNS9E6Ovmp",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时10分 ~ 19时25分]"
-        },
-        {
           "title": "特朗普称对伊战事将很快结束 G7承诺必要时释放石油储备 | 环球市场",
           "url": "https://www.cls.cn/detail/2307809",
           "source": "财联社热门",
@@ -179,6 +179,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时03分 ~ 16时30分]"
+        },
+        {
+          "title": "普京与特朗普通话讨论伊朗局势",
+          "url": "https://www.douyin.com/hot/2424957",
+          "source": "抖音",
+          "ranks": [
+            15,
+            22,
+            24,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时36分 ~ 20时35分]"
         },
         {
           "title": "特朗普：若伊朗阻断霍尔木兹海峡，美将施以“比以往猛烈20倍的打击”",
@@ -227,21 +242,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时29分 ~ 17时34分]"
-        },
-        {
-          "title": "普京与特朗普通话讨论伊朗局势",
-          "url": "https://www.douyin.com/hot/2424957",
-          "source": "抖音",
-          "ranks": [
-            15,
-            22,
-            24,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时36分 ~ 19时25分]"
         },
         {
           "title": "大逆转！特朗普一句“战争结束”，美国股债深V反转，原油一度较日高跳水30%",
@@ -313,6 +313,28 @@
           "time_info": "06时19分"
         },
         {
+          "title": "美以伊战争｜特朗普称可能与伊朗对话",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "特朗普称对伊军事行动很快结束，专家：美出现短板，被伊朗抓住",
+          "url": "https://news.ifeng.com/c/8rNxjUXwYy8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "美国总统特朗普：谈论缴获伊朗石油还为时尚早。",
           "url": "https://flash.jin10.com/detail/20260310011925949800",
           "source": "金十数据",
@@ -355,6 +377,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "特朗普对伊朗开战的目标达成了吗？他承受了多大压力？",
+          "url": "https://v.ifeng.com/c/8rNwUGNMvZG",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "特朗普新闻发布会：对伊军事行动会很快结束、油价涨幅低于预期",
@@ -611,7 +644,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -682,6 +715,17 @@
           "time_info": "15时34分"
         },
         {
+          "title": "美国国防部长赫格塞思：（谈穆杰塔巴·哈梅内伊）他最好听听特朗普的话。至于他的地位，我现在无法评论。",
+          "url": "https://flash.jin10.com/detail/20260310202222700800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "美国总统特朗普：美国正在打击伊朗的无人机制造基地，随着军事行动的持续，伊朗将“很快完蛋”。",
           "url": "https://flash.jin10.com/detail/20260310051406873800",
           "source": "金十数据",
@@ -746,6 +790,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "美国国防部长赫格塞思：美国处于“非常有利的地位”，为美国总统特朗普提供了最大选择空间。",
+          "url": "https://flash.jin10.com/detail/20260310202142671800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "美国总统特朗普：俄罗斯总统普京“希望（在国际局势中）非常具有建设性”。",
@@ -933,6 +988,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "特朗普称有可能有条件同伊朗谈判",
+          "url": "https://wallstreetcn.com/livenews/3067289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "美国总统特朗普：（针对伊朗）我们已经赢了。但我们还没有赢得足够。我们决心彻底战胜这个恐怖政权。",
@@ -1254,6 +1320,17 @@
           "time_info": "09时04分"
         },
         {
+          "title": "伊朗最高安全官员回应特朗普：伊朗人民不畏惧威胁",
+          "url": "https://wallstreetcn.com/livenews/3067276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "美国总统特朗普：油价涨幅低于我的预期。",
           "url": "https://flash.jin10.com/detail/20260310061511399800",
           "source": "金十数据",
@@ -1367,7 +1444,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
@@ -1415,6 +1492,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
+        },
+        {
+          "title": "市场对伊朗战争结束信心减弱 美股反弹势头停滞",
+          "url": "https://flash.jin10.com/detail/20260310202457509800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "金十图示：2026年03月09日（周一）美股热门股票行情一览（美股收盘）",
@@ -1536,13 +1624,24 @@
           "time_info": "[05时23分 ~ 06时19分]"
         },
         {
+          "title": "特朗普释放停战对话信号，美股期指盘前回吐涨幅，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "BioNTech SE(BNTX.O)预计2026年总收入为20亿至23亿欧元，不及预期，BioNTech SE(BNTX.O)美股盘前下跌14%。",
           "url": "https://flash.jin10.com/detail/20260310184822899800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -1553,7 +1652,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -1575,7 +1674,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -1586,7 +1685,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -1600,13 +1699,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "亚马逊：启动11部分的美国投资级债券发行，授权银行安排八部分欧元债券发行。 计划发行250亿至300亿美元的美元债券，以及100亿欧元的欧元债券。 亚马逊美股盘前转跌，现跌0.04%。",
+          "url": "https://wallstreetcn.com/livenews/3067269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         }
       ]
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "国际航空集团发言人：尽管油价上涨，但由于广泛的对冲，航空票价暂时不会上涨。",
+          "url": "https://flash.jin10.com/detail/20260310202556196800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
         {
           "title": "澳洲航空：往返欧洲的航班仍按计划正常运营。",
           "url": "https://flash.jin10.com/detail/20260310141110444800",
@@ -1687,13 +1808,24 @@
           "time_info": "14时36分"
         },
         {
+          "title": "江顺科技：目前，公司无国内外数据中心液冷板产品销售，公司也未接触任何海外客户；目前，公司亦无数据中心液冷铝板产品。公司主营业务之一为铝型材挤压模具及配件产品，其下游应用面向铝型材制造厂商，不直接用于航空航天领域，且间接应用于航空航天产品占比及金额极小。",
+          "url": "https://wallstreetcn.com/livenews/3067293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "德国汉莎航空增开四班慕尼黑至新加坡往返航班。",
           "url": "https://flash.jin10.com/detail/20260310183655990800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -1704,9 +1836,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
+        },
+        {
+          "title": "市场消息：航空公司正在考虑推迟或延迟飞机交付，因为更长的航线和更高的燃油价格对利润和即将到来的旅游季构成了威胁。",
+          "url": "https://flash.jin10.com/detail/20260310201709491800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "俄罗斯国防部：俄罗斯航空航天部队击落了一架乌克兰空军的苏-27战机。",
@@ -1813,7 +1956,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -1919,6 +2062,17 @@
           "time_info": "[00时46分 ~ 07时19分]"
         },
         {
+          "title": "小浪花跑两会丨农业使用无人机全世界最多，第二场部长通道谈到这些热点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32735123",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 20时35分]"
+        },
+        {
           "title": "巴媒：中国农业机械驶入全球田间地头",
           "url": "https://www.toutiao.com/trending/7615391782872137734/",
           "source": "今日头条",
@@ -1939,17 +2093,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
-        },
-        {
-          "title": "小浪花跑两会丨农业使用无人机全世界最多，第二场部长通道谈到这些热点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32735123",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
         }
       ]
     },
