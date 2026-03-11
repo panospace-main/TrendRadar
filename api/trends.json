@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T20:35:34.925145+08:00",
-  "total_titles_processed": 1849,
+  "generated_at": "2026-03-11T21:59:14.092172+08:00",
+  "total_titles_processed": 1972,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时01分 ~ 20时35分]"
+          "appearance_count": 13,
+          "time_info": "[12时01分 ~ 21时59分]"
         },
         {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
@@ -100,8 +100,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时01分 ~ 20时35分]"
+          "appearance_count": 13,
+          "time_info": "[12时01分 ~ 21时59分]"
         },
         {
           "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
@@ -112,8 +112,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时04分 ~ 20时35分]"
+          "appearance_count": 14,
+          "time_info": "[09时04分 ~ 21时59分]"
         },
         {
           "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
@@ -212,7 +212,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
@@ -223,7 +223,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
@@ -294,7 +294,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
@@ -525,7 +525,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         }
@@ -533,7 +533,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 24,
       "titles": [
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
@@ -543,8 +543,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时04分 ~ 20时35分]"
+          "appearance_count": 14,
+          "time_info": "[09时04分 ~ 21时59分]"
         },
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -581,6 +581,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "高盛：对冲基金仓位或为美股大幅反弹创造条件",
+          "url": "https://flash.jin10.com/detail/20260311214325036800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "金十图示：2026年03月11日（周三）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260311214205119800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "甲骨文(ORCL.N)美股盘后涨近5%。",
@@ -630,6 +652,17 @@
           "time_info": "[06时18分 ~ 07时18分]"
         },
         {
+          "title": "布油重回90美元上方 美股期指延续弱势表现 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2310036",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时58分 ~ 21时59分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜英伟达收涨超1.1%，Meta涨1%",
           "url": "https://wallstreetcn.com/livenews/3067555",
           "source": "华尔街见闻-快讯",
@@ -640,6 +673,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时18分]"
+        },
+        {
+          "title": "美股开盘，三大指数涨跌不一，道指跌0.17%，标普500指数涨0.13%，纳指涨0.33%。甲骨文涨超11%，公司全年营收指引超预期。Nebius上涨9.5%，英伟达将向Nebius投资20亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3068142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "美国CPI符合预期 美股三大股指涨跌不一",
+          "url": "https://flash.jin10.com/detail/20260311213023257800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "金十图示：2026年03月10日（周二）美股热门股票行情一览（美股收盘）",
@@ -681,7 +736,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
@@ -725,7 +780,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
@@ -739,12 +794,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
+        },
+        {
+          "title": "美股股指期货集体走低，标普500指数期货跌至盘中低点，日内跌0.28%。纳指期货跌0.24%，道指期货跌0.45%。",
+          "url": "https://wallstreetcn.com/livenews/3068112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         }
       ]
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "航空航天被列为我国新兴支柱产业",
@@ -814,6 +880,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        },
+        {
+          "title": "法国航空：往返特拉维夫和贝鲁特的航班暂停时间将延长至3月15日（含）。",
+          "url": "https://flash.jin10.com/detail/20260311212216810800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "英国希思罗机场：与航空公司及机场合作伙伴携手，以满足中东地区的额外航班需求。",
@@ -914,6 +991,142 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "brahma AI与谷歌云构建合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3067459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "OpenAI的ChatGPT、谷歌公司Gemini、微软Copilot在内，多家公司的机器人聊天工具获准在美国参议院使用。",
+          "url": "https://flash.jin10.com/detail/20260311050854133800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时18分]"
+        },
+        {
+          "title": "Gemini五连绝世",
+          "url": "https://s.weibo.com/weibo?q=Gemini%E4%BA%94%E8%BF%9E%E7%BB%9D%E4%B8%96&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时35分 ~ 21时59分]"
+        },
+        {
+          "title": "谷歌公司发布Gemini Embedding 2。",
+          "url": "https://wallstreetcn.com/livenews/3067453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "谷歌完成320亿美元收购云安全公司Wiz",
+          "url": "https://flash.jin10.com/detail/20260311212742723800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "包括OpenAI的ChatGPT、谷歌公司Gemini、微软Copilot在内，多家公司的机器人聊天工具获准在美国参议院使用。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3067569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "A股全天67只涨停股",
+          "url": "https://www.toutiao.com/trending/7614851798159015942/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 18时29分]"
+        },
+        {
+          "title": "金十数据整理：A股每日市场要闻回顾（2026-03-11）",
+          "url": "https://flash.jin10.com/detail/20260311152623026800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
+          "title": "A股电力股持续拉升，立新能源触及涨停，节能风电、赣能股份、华电能源、绿发电力此前封板，华银电力、乐山电力等冲高。",
+          "url": "https://wallstreetcn.com/livenews/3067835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "91只A股筹码大换手",
+          "url": "https://www.toutiao.com/trending/7614806198060204073/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时58分 ~ 21时59分]"
+        },
+        {
+          "title": "券商：A股春季行情短期仍可能延续",
+          "url": "https://www.toutiao.com/trending/7615802982957727753/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人民币",
       "match_count": 5,
       "titles": [
@@ -977,119 +1190,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "brahma AI与谷歌云构建合作伙伴关系。",
-          "url": "https://wallstreetcn.com/livenews/3067459",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
-        },
-        {
-          "title": "OpenAI的ChatGPT、谷歌公司Gemini、微软Copilot在内，多家公司的机器人聊天工具获准在美国参议院使用。",
-          "url": "https://flash.jin10.com/detail/20260311050854133800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时22分 ~ 06时18分]"
-        },
-        {
-          "title": "Gemini五连绝世",
-          "url": "https://s.weibo.com/weibo?q=Gemini%E4%BA%94%E8%BF%9E%E7%BB%9D%E4%B8%96&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
-        },
-        {
-          "title": "谷歌公司发布Gemini Embedding 2。",
-          "url": "https://wallstreetcn.com/livenews/3067453",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
-        },
-        {
-          "title": "包括OpenAI的ChatGPT、谷歌公司Gemini、微软Copilot在内，多家公司的机器人聊天工具获准在美国参议院使用。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3067569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "A股全天67只涨停股",
-          "url": "https://www.toutiao.com/trending/7614851798159015942/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时33分 ~ 18时29分]"
-        },
-        {
-          "title": "金十数据整理：A股每日市场要闻回顾（2026-03-11）",
-          "url": "https://flash.jin10.com/detail/20260311152623026800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时37分"
-        },
-        {
-          "title": "A股电力股持续拉升，立新能源触及涨停，节能风电、赣能股份、华电能源、绿发电力此前封板，华银电力、乐山电力等冲高。",
-          "url": "https://wallstreetcn.com/livenews/3067835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        },
-        {
-          "title": "券商：A股春季行情短期仍可能延续",
-          "url": "https://www.toutiao.com/trending/7615802982957727753/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -1100,7 +1200,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
