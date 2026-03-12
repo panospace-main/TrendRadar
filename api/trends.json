@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T19:26:23.160907+08:00",
-  "total_titles_processed": 1718,
+  "generated_at": "2026-03-12T20:34:59.432666+08:00",
+  "total_titles_processed": 1821,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 82,
+      "match_count": 83,
       "titles": [
         {
           "title": "美以伊战争｜特朗普：与伊朗的战争很快就会结束",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时25分 ~ 19时26分]"
+          "appearance_count": 17,
+          "time_info": "[06时25分 ~ 20时34分]"
         },
         {
           "title": "伊媒：特朗普向多国盟友求援遭拒，仅1国考虑帮忙",
@@ -66,8 +66,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时04分 ~ 19时26分]"
+          "appearance_count": 12,
+          "time_info": "[12时04分 ~ 20时34分]"
         },
         {
           "title": "【早报】特朗普：对伊朗军事行动“即将结束”；七国集团：原则上支持必要时动用战略储备稳定能源市场",
@@ -81,6 +81,32 @@
           "time_info": "[09时01分 ~ 15时40分]"
         },
         {
+          "title": "特朗普称将对包括中国在内的贸易伙伴启动新的贸易调查，中方回应",
+          "url": "https://www.cls.cn/detail/2310747",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时31分 ~ 20时34分]"
+        },
+        {
+          "title": "中方回应特朗普将对华新贸易调查",
+          "url": "https://www.toutiao.com/trending/7615192157801152518/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时40分 ~ 20时34分]"
+        },
+        {
           "title": "特朗普称对伊战争“即将结束” 但美以军方仍筹划至少两周持续打击",
           "url": "https://www.cls.cn/detail/2310196",
           "source": "财联社热门",
@@ -92,19 +118,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[07时16分 ~ 15时40分]"
-        },
-        {
-          "title": "特朗普称将对包括中国在内的贸易伙伴启动新的贸易调查，中方回应",
-          "url": "https://www.cls.cn/detail/2310747",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时31分 ~ 19时26分]"
         },
         {
           "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
@@ -146,16 +159,15 @@
           "time_info": "[00时40分 ~ 07时17分]"
         },
         {
-          "title": "中方回应特朗普将对华新贸易调查",
-          "url": "https://www.toutiao.com/trending/7615192157801152518/",
-          "source": "今日头条",
+          "title": "中方回应特朗普计划访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
           "ranks": [
-            6,
-            2
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时40分 ~ 19时26分]"
+          "appearance_count": 3,
+          "time_info": "[18时29分 ~ 20时34分]"
         },
         {
           "title": "美以伊战争｜特朗普：将动用战略石油储备抑制油价",
@@ -181,17 +193,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时40分 ~ 07时17分]"
-        },
-        {
-          "title": "中方回应特朗普计划访华",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 19时26分]"
         },
         {
           "title": "市场消息：一旦战斗结束，海湾石油出口恢复正常可能需要数月时间。如果伊朗或其代理人试图在特朗普宣布胜利后干扰航运路线，供应恢复的速度将进一步放缓。",
@@ -500,6 +501,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时17分]"
+        },
+        {
+          "title": "中方回应特朗普计划访华",
+          "url": "https://www.toutiao.com/trending/7615267437721780267/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "当被问及伊朗是否在霍尔木兹海峡布雷时，特朗普回答说：“我们不这么认为。”",
@@ -1184,7 +1196,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "理想汽车第四季度营收287.8亿元人民币，同比下降35%，预估288.4亿元人民币。调整后每ADS收益0.25元人民币，上年同期3.79元人民币。",
@@ -1267,6 +1279,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
+        },
+        {
+          "title": "山西证券：公司拟对山证资管增资2亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3068882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "理想汽车第四季度营收287.8亿元人民币，同比下降35%，市场预估288.4亿元人民币。 第四季度汽车销售收入272.5亿元人民币，同比下降36%，市场预估272.7亿元人民币。 第四季度调整后每ADS收益0.25元人民币，上年同期3.79元人民币。 预计2026年第一季度营收204亿元人民币至216亿元人民币，市场预估240.1亿元人民币。 预计2026年第一季度车辆交付量为85,000至90,000辆，同比减少8.5%至3.1%。 理想汽车美股盘前下跌近3%。",
@@ -1381,8 +1404,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时31分 ~ 19时26分]"
+          "appearance_count": 7,
+          "time_info": "[16时31分 ~ 20时34分]"
         },
         {
           "title": "IEA月报：如果中东供应长期中断，柴油和航空燃料市场可能尤其脆弱。",
@@ -1543,8 +1566,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时16分 ~ 19时26分]"
+          "appearance_count": 16,
+          "time_info": "[07时16分 ~ 20时34分]"
         },
         {
           "title": "30年期美债收益率涨7个基点，美国CPI数据带来瞬间的干扰",
