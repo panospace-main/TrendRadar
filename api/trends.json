@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T04:49:46.869272+08:00",
-  "total_titles_processed": 551,
+  "generated_at": "2026-03-13T05:24:00.749967+08:00",
+  "total_titles_processed": 585,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 04时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 05时24分]"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 04时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 05时24分]"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 04时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 05时24分]"
         },
         {
           "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
@@ -48,8 +48,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 04时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 05时24分]"
         },
         {
           "title": "美国总统特朗普：美联储主席“杰罗姆·太晚·鲍威尔”今天在哪里？他应该立刻降息，而不是等下一次会议。",
@@ -67,33 +67,58 @@
           "url": "https://flash.jin10.com/detail/20260313042436372800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时24分]"
         },
         {
           "title": "美国总统特朗普：已全面听取关于密歇根犹太会堂袭击事件的简报。",
           "url": "https://flash.jin10.com/detail/20260313042248877800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时24分]"
         },
         {
           "title": "美国财政部长贝森特：（被问及战争成本是否会迫使他告诉特朗普战争已不再负担得起）“绝对不会”。",
           "url": "https://flash.jin10.com/detail/20260313035535843800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时24分]"
+        },
+        {
+          "title": "贝森特说不会因为战争成本跟特朗普对峙",
+          "url": "https://flash.jin10.com/detail/20260313045000353800",
+          "source": "金十数据",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时49分"
+          "time_info": "05时24分"
+        },
+        {
+          "title": "周四（3月12日），降息赢家指数跌2.72%，报87.51点，跳空低开之后持续走低。 “特朗普关税输家”指数跌3.14%，“特朗普金融指数”跌3.08%。 散户抱团概念股指数/迷因股（meme stock）指数跌2.73%。",
+          "url": "https://wallstreetcn.com/livenews/3069156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         },
         {
           "title": "美国参议院少数党领袖舒默：唐纳德·特朗普怎么会没预见到霍尔木兹海峡危机呢？一个略懂地缘政治的大学生都能告诉你，伊朗最大的筹码就是这条狭窄的通道，世界上很大一部分石油都必须经过这里运输。而现在，美国政府正忙于控制事态发展，应对不断上涨的油价。",
@@ -124,7 +149,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         }
@@ -132,7 +157,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "伊朗威胁关闭霍尔木兹，美股三大股指低开，现货黄金短线下挫，油价重返100美元",
@@ -142,52 +167,89 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 04时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 05时24分]"
         },
         {
           "title": "美股七巨头收盘播报｜周四（3月12日），美国科技股七巨头（Magnificent 7）指数跌1.68%，报192.90点，美股盘初显著走低，北京时间22:00以来低位震荡。 “超大”市值科技股指数跌1.83%，报367.35点。",
           "url": "https://wallstreetcn.com/livenews/3069153",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时24分]"
         },
         {
           "title": "金十图示：2026年03月12日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260313040653218800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时24分]"
         },
         {
           "title": "金十图示：2026年03月12日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260313040535187800",
           "source": "金十数据",
           "ranks": [
-            15
+            15,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时24分]"
         },
         {
           "title": "美股收盘：纳指跌1.7% 芯片股走弱",
           "url": "https://flash.jin10.com/detail/20260313040117943800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时24分]"
+        },
+        {
+          "title": "美股小盘股指期货周四跌超1.9%",
+          "url": "https://wallstreetcn.com/livenews/3069164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时49分"
+          "time_info": "05时24分"
+        },
+        {
+          "title": "在美股时段交易的费城金银指数收跌2.28%，报405.84点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌1.91%，报2859.82点。 在美股时段交易的原材料指数收跌0.80%，金属与矿业指数收跌3.84%。",
+          "url": "https://wallstreetcn.com/livenews/3069162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "纽约期金跌超2%，美股盘后失守5060美元",
+          "url": "https://wallstreetcn.com/livenews/3069160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         },
         {
           "title": "软银支持的日本数字钱包运营商PayPay登陆美股，开盘涨超13%。",
@@ -203,36 +265,8 @@
       ]
     },
     {
-      "keyword_group": "航天 航空",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "航空业ETF收跌约4%，与半导体ETF领跌美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3069142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "英国航空公司将暂时缩减中东航线航班计划。",
-          "url": "https://flash.jin10.com/detail/20260312235236692800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人民币",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "上期所原油期货2604合约夜盘收涨8.07%，报769.80元人民币/桶。 沪金夜盘收跌0.94%，沪银收跌0.60%。",
@@ -247,41 +281,24 @@
           "time_info": "[02时39分 ~ 03时35分]"
         },
         {
+          "title": "周四（3月12日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8813元，较周三纽约尾盘跌46点，日内整体交投于8.8643-6.8854元区间。",
+          "url": "https://wallstreetcn.com/livenews/3069163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8833元，较周三夜盘收盘跌84点。成交量488.94亿美元。",
           "url": "https://wallstreetcn.com/livenews/3069115",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
-          "url": "https://wallstreetcn.com/articles/3767236",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 04时49分]"
-        },
-        {
-          "title": "两年期美债收益率涨10个基点，突破3.76%",
-          "url": "https://wallstreetcn.com/livenews/3069119",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "04时49分"
         }
@@ -289,8 +306,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美元指数12日上涨",
+          "url": "https://flash.jin10.com/detail/20260313050109769800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数持平，暂报2631.86点，期内呈现出W形反转行情。 MarketVectorTM数字资产100中盘指数涨0.89%，报2854.85点，北京时间11:48跌至2795.46点刷新日低，随后持续反弹。 MarketVector数字资产100指数持平，报14103.24点，13:27也曾刷新日低至13847.75点。 目前，Solana跌0.43%，狗狗币涨0.85%，XRP跌0.62%。 比特币跌0.25%，暂报70453美元；以太坊跌0.22%，暂报2070.20美元。",
           "url": "https://wallstreetcn.com/livenews/3069075",
@@ -310,7 +338,64 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "航天 航空",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "航空业ETF收跌约4%，与半导体ETF领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3069142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时24分]"
+        },
+        {
+          "title": "英国航空公司将暂时缩减中东航线航班计划。",
+          "url": "https://flash.jin10.com/detail/20260312235236692800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
+          "url": "https://wallstreetcn.com/articles/3767236",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 05时24分]"
+        },
+        {
+          "title": "两年期美债收益率涨10个基点，突破3.76%",
+          "url": "https://wallstreetcn.com/livenews/3069119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         }
