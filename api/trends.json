@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T12:03:38.852036+08:00",
-  "total_titles_processed": 963,
+  "generated_at": "2026-03-13T13:41:52.416037+08:00",
+  "total_titles_processed": 1088,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "中方回应特朗普计划访华",
@@ -49,11 +49,23 @@
           "ranks": [
             6,
             26,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时49分 ~ 12时03分]"
+          "appearance_count": 15,
+          "time_info": "[00时49分 ~ 13时41分]"
+        },
+        {
+          "title": "特朗普称穆杰塔巴可能受伤但仍活着",
+          "url": "https://news.ifeng.com/c/8rSDrMIby5D",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 13时41分]"
         },
         {
           "title": "美国总统特朗普：美联储主席“杰罗姆·太晚·鲍威尔”今天在哪里？他应该立刻降息，而不是等下一次会议。",
@@ -65,17 +77,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时35分"
-        },
-        {
-          "title": "特朗普称穆杰塔巴可能受伤但仍活着",
-          "url": "https://news.ifeng.com/c/8rSDrMIby5D",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时03分"
         },
         {
           "title": "特朗普称伊朗最高领袖穆杰塔巴可能“受伤但仍活着”",
@@ -149,6 +150,30 @@
           "time_info": "[07时18分 ~ 12时03分]"
         },
         {
+          "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
+          "url": "https://www.cls.cn/detail/2311436",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 13时41分]"
+        },
+        {
+          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
+          "url": "https://wallstreetcn.com/articles/3767380",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 13时41分]"
+        },
+        {
           "title": "贝森特说不会因为战争成本跟特朗普对峙",
           "url": "https://flash.jin10.com/detail/20260313045000353800",
           "source": "金十数据",
@@ -161,18 +186,6 @@
           "time_info": "[05时24分 ~ 06时16分]"
         },
         {
-          "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
-          "url": "https://www.cls.cn/detail/2311436",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 12时03分]"
-        },
-        {
           "title": "周四（3月12日），降息赢家指数跌2.72%，报87.51点，跳空低开之后持续走低。 “特朗普关税输家”指数跌3.14%，“特朗普金融指数”跌3.08%。 散户抱团概念股指数/迷因股（meme stock）指数跌2.73%。",
           "url": "https://wallstreetcn.com/livenews/3069156",
           "source": "华尔街见闻-快讯",
@@ -183,6 +196,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时16分]"
+        },
+        {
+          "title": "中方就特朗普访华计划准备进展如何？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32753926",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 13时41分]"
         },
         {
           "title": "美国财政部长贝森特：（被问及战争成本是否会迫使他告诉特朗普战争已不再负担得起）“绝对不会”。",
@@ -208,26 +233,15 @@
           "time_info": "09时07分"
         },
         {
-          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
-          "url": "https://wallstreetcn.com/articles/3767380",
-          "source": "华尔街见闻",
+          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
+          "url": "https://www.cls.cn/detail/2311714",
+          "source": "财联社热门",
           "ranks": [
-            7
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "中方就特朗普访华计划准备进展如何？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32753926",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
+          "time_info": "13时41分"
         },
         {
           "title": "美国参议院少数党领袖舒默：唐纳德·特朗普怎么会没预见到霍尔木兹海峡危机呢？一个略懂地缘政治的大学生都能告诉你，伊朗最大的筹码就是这条狭窄的通道，世界上很大一部分石油都必须经过这里运输。而现在，美国政府正忙于控制事态发展，应对不断上涨的油价。",
@@ -252,6 +266,17 @@
           "time_info": "03时35分"
         },
         {
+          "title": "美国总统特朗普：我们拥有无与伦比的火力、无限的弹药和充足的时间——看看今天伊朗会发生什么。",
+          "url": "https://flash.jin10.com/detail/20260313124216025800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
           "title": "特朗普敦促鲍威尔立即降息：不要等到美联储下次开会",
           "url": "https://wallstreetcn.com/livenews/3069118",
           "source": "华尔街见闻-快讯",
@@ -261,6 +286,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "特朗普：伊朗的一切都在被摧毁",
+          "url": "https://flash.jin10.com/detail/20260313123158096800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         }
       ]
     },
@@ -290,8 +326,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时15分 ~ 12时03分]"
+          "appearance_count": 7,
+          "time_info": "[06时15分 ~ 13时41分]"
         },
         {
           "title": "美股七巨头收盘播报｜周四（3月12日），美国科技股七巨头（Magnificent 7）指数跌1.68%，报192.90点，美股盘初显著走低，北京时间22:00以来低位震荡。 “超大”市值科技股指数跌1.83%，报367.35点。",
@@ -404,6 +440,78 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "A股核电板块再度拉升，中国核建午后涨停，兰石重装、南方路机此前封板，江苏神通、中核科技涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3069391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "A股有色·钨概念持续走弱，中钨高新、章源钨业逼近跌停，翔鹭钨业、厦门钨业、西部材料跌幅靠前。",
+          "url": "https://wallstreetcn.com/livenews/3069387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "A股电网设备板块局部走低，顺钠股份触及跌停，中电鑫龙跌超8%，明阳电气、汉缆股份、国电南自跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3069383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "A股银行板块震荡上扬，重庆银行、华夏银行、沪农商行涨超2%，浦发银行、上海银行、中信银行等纷纷上扬。",
+          "url": "https://wallstreetcn.com/livenews/3069381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "瑞银：A股对地缘政治事件体现一定下行保护",
+          "url": "https://wallstreetcn.com/livenews/3069324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "A股风电板块探底回升，天顺风能直线涨停，大金重工逼近涨停，通裕重工涨超18%，天能重工、双一科技、金雷股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3069309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 5,
       "titles": [
@@ -431,6 +539,17 @@
           "time_info": "[07时18分 ~ 07时19分]"
         },
         {
+          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3767295",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 13时41分]"
+        },
+        {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌2%，金银下挫",
           "url": "https://wallstreetcn.com/articles/3767295",
           "source": "华尔街见闻",
@@ -440,17 +559,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
-        },
-        {
-          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3767295",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时03分"
         },
         {
           "title": "两年期美债收益率涨10个基点，突破3.76%",
@@ -549,34 +657,6 @@
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "瑞银：A股对地缘政治事件体现一定下行保护",
-          "url": "https://wallstreetcn.com/livenews/3069324",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "A股风电板块探底回升，天顺风能直线涨停，大金重工逼近涨停，通裕重工涨超18%，天能重工、双一科技、金雷股份跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3069309",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        }
-      ]
-    },
-    {
       "keyword_group": "航天 航空",
       "match_count": 2,
       "titles": [
@@ -633,7 +713,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         }
