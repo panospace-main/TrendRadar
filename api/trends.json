@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T13:39:31.257545+08:00",
-  "total_titles_processed": 1011,
+  "generated_at": "2026-03-14T14:34:35.256651+08:00",
+  "total_titles_processed": 1059,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 59,
       "titles": [
         {
           "title": "草台班子？特朗普政府低估伊朗决心，让人目瞪口呆",
@@ -77,8 +77,21 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 13时39分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 14时34分]"
+        },
+        {
+          "title": "美国据称向中东增派海军陆战队和军舰，特朗普声称下周“猛烈空袭”伊朗",
+          "url": "https://wallstreetcn.com/articles/3767495",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时06分 ~ 14时34分]"
         },
         {
           "title": "美国总统特朗普拒绝俄罗斯总统普京关于“将伊朗铀转移至俄罗斯”的提议。",
@@ -92,19 +105,6 @@
           "time_info": "[05时24分 ~ 07时19分]"
         },
         {
-          "title": "美国据称向中东增派海军陆战队和军舰，特朗普声称下周“猛烈空袭”伊朗",
-          "url": "https://wallstreetcn.com/articles/3767495",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时06分 ~ 13时39分]"
-        },
-        {
           "title": "美以伊战争｜特朗普承认：美以目标可能不太一样",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -114,6 +114,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时06分 ~ 09时07分]"
+        },
+        {
+          "title": "【早报】金融监管总局约谈5家平台运营机构；特朗普称对伊朗石油出口枢纽发动空袭",
+          "url": "https://www.cls.cn/detail/2312864",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时06分 ~ 14时34分]"
         },
         {
           "title": "美国参议员蒂利斯表示，特朗普政府若就美联储主席鲍威尔的裁决提出上诉，只会推迟确认凯文·沃什出任下一任美联储主席。",
@@ -138,19 +151,6 @@
           "time_info": "07时19分"
         },
         {
-          "title": "【早报】金融监管总局约谈5家平台运营机构；特朗普称对伊朗石油出口枢纽发动空袭",
-          "url": "https://www.cls.cn/detail/2312864",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时06分 ~ 13时39分]"
-        },
-        {
           "title": "特朗普承认美以对结束战争目标不同",
           "url": "https://flash.jin10.com/detail/20260314082854992800",
           "source": "金十数据",
@@ -171,6 +171,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "特朗普：美军对伊朗石油出口枢纽哈尔克岛发动“猛烈空袭”，“很快”开始护航",
+          "url": "https://wallstreetcn.com/articles/3767499",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 14时34分]"
         },
         {
           "title": "美军何时护航油轮通过霍尔木兹海峡？特朗普最新表态：很快",
@@ -272,18 +284,6 @@
           "time_info": "[04时22分 ~ 07时19分]"
         },
         {
-          "title": "特朗普：美军对伊朗石油出口枢纽哈尔克岛发动“猛烈空袭”，“很快”开始护航",
-          "url": "https://wallstreetcn.com/articles/3767499",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 13时39分]"
-        },
-        {
           "title": "AT&T(T.N)首席执行官斯坦基本周早些时候与特朗普会面。",
           "url": "https://flash.jin10.com/detail/20260314040328220800",
           "source": "金十数据",
@@ -294,6 +294,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时22分 ~ 07时19分]"
+        },
+        {
+          "title": "特朗普对哈尔克岛发动空袭",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%93%88%E5%B0%94%E5%85%8B%E5%B2%9B%E5%8F%91%E5%8A%A8%E7%A9%BA%E8%A2%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 14时34分]"
+        },
+        {
+          "title": "特朗普：美军轰炸伊朗石油出口枢纽哈尔克岛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32765792",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 14时34分]"
         },
         {
           "title": "美国总统特朗普拒绝了俄罗斯总统普京关于“将伊朗的铀转移至俄罗斯”的建议。（Axios）",
@@ -309,16 +333,28 @@
           "time_info": "[05时24分 ~ 07时19分]"
         },
         {
-          "title": "特朗普对哈尔克岛发动空袭",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%93%88%E5%B0%94%E5%85%8B%E5%B2%9B%E5%8F%91%E5%8A%A8%E7%A9%BA%E8%A2%AD",
-          "source": "bilibili 热搜",
+          "title": "特朗普据悉私下称“伊朗即将投降” 伊朗最高领袖誓言继续战斗",
+          "url": "https://www.cls.cn/detail/2312740",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            7
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 14时34分]"
+        },
+        {
+          "title": "特朗普声称伊朗已被“彻底击败”",
+          "url": "https://wallstreetcn.com/livenews/3070086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时02分 ~ 13时39分]"
+          "time_info": "[13时39分 ~ 14时34分]"
         },
         {
           "title": "特朗普：美军下周将“猛烈空袭”伊朗，拒绝谈论“夺岛”，不需要乌克兰的反无人机技术",
@@ -357,18 +393,6 @@
           "time_info": "[09时07分 ~ 12时02分]"
         },
         {
-          "title": "特朗普：美军轰炸伊朗石油出口枢纽哈尔克岛",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32765792",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 13时39分]"
-        },
-        {
           "title": "美国联邦住房金融局（FHFA）局长Bill Pulte：总统特朗普让社区银行可以染指抵押贷款。",
           "url": "https://wallstreetcn.com/livenews/3069993",
           "source": "华尔街见闻-快讯",
@@ -391,18 +415,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时22分 ~ 05时24分]"
-        },
-        {
-          "title": "特朗普据悉私下称“伊朗即将投降” 伊朗最高领袖誓言继续战斗",
-          "url": "https://www.cls.cn/detail/2312740",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 13时39分]"
         },
         {
           "title": "特朗普宣布对伊朗石油出口枢纽哈尔克岛发动空袭",
@@ -429,6 +441,29 @@
           "time_info": "[05时24分 ~ 06时20分]"
         },
         {
+          "title": "美国总统特朗普：假新闻媒体讨厌报道美国军方在对抗伊朗方面的出色表现，而伊朗已经完全被击败了，且想要达成协议——但这不是我会接受的协议！",
+          "url": "https://flash.jin10.com/detail/20260314115534678800",
+          "source": "金十数据",
+          "ranks": [
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 14时34分]"
+        },
+        {
+          "title": "特朗普这么一打伊朗，乌克兰几乎全是坏消息",
+          "url": "https://news.ifeng.com/c/8rTv5CAQnz3",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
           "title": "美国总统特朗普： 伊朗曾计划接管整个中东，并彻底消灭以色列。就像伊朗本身一样，这些计划现在已经死了！",
           "url": "https://flash.jin10.com/detail/20260314082502614800",
           "source": "金十数据",
@@ -438,17 +473,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
-        },
-        {
-          "title": "特朗普声称伊朗已被“彻底击败”",
-          "url": "https://wallstreetcn.com/livenews/3070086",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时39分"
         },
         {
           "title": "美国总统特朗普放松对委内瑞拉石油和化肥的制裁。（Axios）",
@@ -605,17 +629,6 @@
           "time_info": "04时22分"
         },
         {
-          "title": "美国总统特朗普：假新闻媒体讨厌报道美国军方在对抗伊朗方面的出色表现，而伊朗已经完全被击败了，且想要达成协议——但这不是我会接受的协议！",
-          "url": "https://flash.jin10.com/detail/20260314115534678800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时39分"
-        },
-        {
           "title": "美媒：普京提议将伊朗浓缩铀转放俄罗斯 特朗普拒绝",
           "url": "https://flash.jin10.com/detail/20260314092101244800",
           "source": "金十数据",
@@ -644,7 +657,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -697,8 +710,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时18分 ~ 13时39分]"
+          "appearance_count": 7,
+          "time_info": "[07时18分 ~ 14时34分]"
         },
         {
           "title": "美伊冲突升级，美股倒V、连跌三周！Mag7陷入回调，Meta跌近4%，美元破百",
@@ -708,8 +721,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时06分 ~ 13时39分]"
+          "appearance_count": 5,
+          "time_info": "[09时06分 ~ 14时34分]"
         },
         {
           "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股收盘）",
@@ -854,11 +867,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 13时39分]"
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 14时34分]"
         },
         {
           "title": "政协委员王亚平透露，航天员中心正研究解决未来在地外星球长期生存的问题，你有哪些期待？有哪些难点要突破？",
@@ -869,8 +883,20 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 14时34分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队航空航天部队司令马吉德·穆萨维：过去48小时，伊朗导弹对美国和以色列目标的“命中率提升了一倍”。",
+          "url": "https://flash.jin10.com/detail/20260314121918455800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            21
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时02分 ~ 13时39分]"
+          "time_info": "[13时39分 ~ 14时34分]"
         },
         {
           "title": "阿联酋民航总局：3月1日至12日，阿联酋各机场共保障约140万名旅客出行，同期阿联酋领空记录7839架次航班起降活动。目前，阿联酋各航空公司运力已恢复至战事前水平的44.6%。",
@@ -906,17 +932,6 @@
           "time_info": "00时28分"
         },
         {
-          "title": "伊朗伊斯兰革命卫队航空航天部队司令马吉德·穆萨维：过去48小时，伊朗导弹对美国和以色列目标的“命中率提升了一倍”。",
-          "url": "https://flash.jin10.com/detail/20260314121918455800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时39分"
-        },
-        {
           "title": "美国联邦航空局：华盛顿地区三大机场的地面停飞指令已解除。",
           "url": "https://flash.jin10.com/detail/20260314081650762800",
           "source": "金十数据",
@@ -945,8 +960,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 13时39分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 14时34分]"
         },
         {
           "title": "周五（3月13日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9065元，较周四纽约尾盘跌252点，日内整体交投于6.8778-6.9087元区间。",
@@ -990,11 +1005,12 @@
           "url": "https://flash.jin10.com/detail/20260314120535987800",
           "source": "金十数据",
           "ranks": [
-            22
+            22,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 14时34分]"
         }
       ]
     },
@@ -1077,8 +1093,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时27分 ~ 13时39分]"
+          "appearance_count": 13,
+          "time_info": "[01时27分 ~ 14时34分]"
         },
         {
           "title": "欧盟委员会农业与食品专员Christophe Hansen：欧盟暂停进口某些零关税糖的方案将持续“至少一年时间”，从而帮助稳定辖区内价格。 相关文件已经准备就绪。（彭博）",
