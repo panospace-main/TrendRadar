@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T18:44:41.888587+08:00",
-  "total_titles_processed": 1334,
+  "generated_at": "2026-03-16T19:39:54.954829+08:00",
+  "total_titles_processed": 1436,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 56,
       "titles": [
         {
           "title": "美以伊战争丨伊议长：特朗普说击败了我们9次，搞笑",
@@ -179,22 +179,12 @@
           "source": "凤凰网",
           "ranks": [
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时31分 ~ 18时44分]"
-        },
-        {
-          "title": "美以伊战争丨美媒：特朗普考虑派兵攻占伊朗哈尔克岛",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
+          "appearance_count": 8,
+          "time_info": "[12时31分 ~ 19时39分]"
         },
         {
           "title": "美国被曝拟宣布组建霍尔木兹海峡「护航联盟」，特朗普威胁北约盟友协助通航，如何解读美方意图？有哪些影响？",
@@ -206,8 +196,21 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时31分 ~ 18时44分]"
+          "appearance_count": 8,
+          "time_info": "[12时31分 ~ 19时39分]"
+        },
+        {
+          "title": "外交部：中美双方就特朗普总统访华事宜保持着沟通",
+          "url": "https://www.cls.cn/detail/2314062",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时54分 ~ 19时39分]"
         },
         {
           "title": "中美就特朗普总统访华事保持着沟通",
@@ -217,8 +220,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 18时44分]"
+          "appearance_count": 3,
+          "time_info": "[17时54分 ~ 19时39分]"
         },
         {
           "title": "特朗普会投入地面部队吗？",
@@ -228,31 +231,31 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 18时44分]"
-        },
-        {
-          "title": "外交部：中美双方就特朗普总统访华事宜保持着沟通",
-          "url": "https://www.cls.cn/detail/2314062",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 18时44分]"
+          "appearance_count": 3,
+          "time_info": "[17时54分 ~ 19时39分]"
         },
         {
           "title": "外交部回应特朗普将推迟访华言论，「双方就特朗普总统访华事宜保持着沟通」，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2016900692145637068",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时54分 ~ 19时39分]"
+        },
+        {
+          "title": "美以伊战争丨美媒：特朗普考虑派兵攻占伊朗哈尔克岛",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时54分 ~ 18时44分]"
+          "time_info": "[12时31分 ~ 12时32分]"
         },
         {
           "title": "特朗普威胁将取消访华 中方回应",
@@ -291,6 +294,17 @@
           "time_info": "14时14分"
         },
         {
+          "title": "美以伊战争丨特朗普称正与伊朗对话，伊外长坚决否认",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
           "title": "日本共同社报道称，日本外务大臣茂木敏充和美国国务卿鲁比奥很可能讨论美国总统特朗普关于向霍尔木兹海峡派遣护航舰艇的请求。",
           "url": "https://flash.jin10.com/detail/20260316135643816800",
           "source": "金十数据",
@@ -300,6 +314,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
+        },
+        {
+          "title": "特朗普，赚了近100亿",
+          "url": "https://news.ifeng.com/c/8rXsIKxSU6H",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         },
         {
           "title": "美石油巨头警告特朗普政府：能源危机恐加剧",
@@ -326,6 +351,18 @@
           "time_info": "[14时14分 ~ 17时54分]"
         },
         {
+          "title": "中方：中美就特朗普访华保持着沟通",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E4%B8%AD%E7%BE%8E%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BF%9D%E6%8C%81%E7%9D%80%E6%B2%9F%E9%80%9A",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时02分 ~ 19时39分]"
+        },
+        {
           "title": "据华尔街日报：特朗普政府计划最快于本周宣布，多个国家已同意组成联盟，为通过霍尔木兹海峡的船只提供护航。不过各方仍在讨论这些行动应在伊朗敌对行动结束之前还是之后启动。",
           "url": "https://flash.jin10.com/detail/20260316044634158800",
           "source": "金十数据",
@@ -336,17 +373,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 06时17分]"
-        },
-        {
-          "title": "中方：中美就特朗普访华保持着沟通",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E4%B8%AD%E7%BE%8E%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BF%9D%E6%8C%81%E7%9D%80%E6%B2%9F%E9%80%9A",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时02分 ~ 18时44分]"
         },
         {
           "title": "英国首相府：英国首相斯塔默今晚与美国总统特朗普、加拿大总理卡尼进行了通话。",
@@ -367,11 +393,12 @@
           "source": "微博",
           "ranks": [
             12,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 18时44分]"
+          "appearance_count": 3,
+          "time_info": "[17时54分 ~ 19时39分]"
         },
         {
           "title": "释新闻｜特朗普呼吁组建“护航联盟”打通霍尔木兹海峡，为何反应平平？",
@@ -381,8 +408,31 @@
             14
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时54分 ~ 19时39分]"
+        },
+        {
+          "title": "特朗普强推“护航联盟”：不派舰，北约未来“非常糟糕”；日澳已拒绝",
+          "url": "https://wallstreetcn.com/articles/3767606",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时54分 ~ 18时44分]"
+          "time_info": "[18时44分 ~ 19时39分]"
+        },
+        {
+          "title": "中国不协助霍尔木兹海峡护航特朗普就推迟访华？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32776754",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 19时39分]"
         },
         {
           "title": "特朗普：美以对伊目标总体一致，具体目标可能不同",
@@ -394,17 +444,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
-        },
-        {
-          "title": "特朗普强推“护航联盟”：不派舰，北约未来“非常糟糕”；日澳已拒绝",
-          "url": "https://wallstreetcn.com/articles/3767606",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时44分"
         },
         {
           "title": "深套伊朗，特朗普“浮亏加仓”，袭击哈尔克是对是错？丨Hi，今天怎么看？",
@@ -484,6 +523,17 @@
           "time_info": "09时18分"
         },
         {
+          "title": "中美双方就特朗普总统访华事保持着沟通",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%8F%8C%E6%96%B9%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%BB%E7%BB%9F%E8%AE%BF%E5%8D%8E%E4%BA%8B%E4%BF%9D%E6%8C%81%E7%9D%80%E6%B2%9F%E9%80%9A%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
           "title": "特朗普称正与他国商讨共同保障霍尔木兹海峡航行安全",
           "url": "https://wallstreetcn.com/livenews/3070554",
           "source": "华尔街见闻-快讯",
@@ -493,6 +543,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "外媒：特朗普威胁北约盟友护航霍尔木兹海峡后，德国外长表态",
+          "url": "https://wallstreetcn.com/livenews/3070863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         },
         {
           "title": "据华尔街日报：石油行业警告，特朗普政府导致的能源危机很可能进一步恶化。",
@@ -506,15 +567,26 @@
           "time_info": "07时20分"
         },
         {
-          "title": "中国不协助霍尔木兹海峡护航特朗普就推迟访华？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32776754",
-          "source": "澎湃新闻",
+          "title": "英国首相斯塔默：与特朗普的关系良好。",
+          "url": "https://flash.jin10.com/detail/20260316190058574800",
+          "source": "金十数据",
           "ranks": [
-            18
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时44分"
+          "time_info": "19时39分"
+        },
+        {
+          "title": "德国国防部长皮斯托里乌斯：特朗普指望区区几艘欧洲护卫舰能做到强大的美国海军做不到的事吗？这不是我们的战争，我们也没有挑起战争。",
+          "url": "https://flash.jin10.com/detail/20260316185959269800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         },
         {
           "title": "特朗普喊话护航，盟友反应冷淡",
@@ -548,6 +620,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "德国国防部长皮斯托里乌斯：（评美国总统特朗普的表态）我们距离北约解体还很远。",
+          "url": "https://flash.jin10.com/detail/20260316185700114800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         },
         {
           "title": "美国总统特朗普：（谈古巴）我认为我们很快就会达成协议，或者采取必要行动。",
@@ -598,11 +681,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 18时44分]"
+          "appearance_count": 3,
+          "time_info": "[17时54分 ~ 19时39分]"
         },
         {
           "title": "国际油价高开后转跌，WTI日内跌超1%，韩股收涨1.1%，美股期货走高，比特币月内涨逾12%",
@@ -666,9 +750,92 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "A股绿电概念持续调整，中国核建、中国电建双双跌停，大唐发电、中国能建、嘉泽新能、晶科科技、建投能源、节能风电等多股跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3070615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
+          "title": "A股港口航运板块午后拉升，招商南油直线涨停，海航科技此前封板，招商轮船、中远海能、招商港口跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3070600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
+          "title": "华虹公司午后直线拉升，A股涨超8%，H股涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3070597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
+          "title": "金十数据整理：A股每日市场要闻回顾（2026-03-16）",
+          "url": "https://flash.jin10.com/detail/20260316152055206800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
+          "title": "沃森生物：筹划向特定对象发行A股股票 控制人变更",
+          "url": "https://wallstreetcn.com/livenews/3070768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
+          "title": "半个月内A股第3次“走V”释放何信号",
+          "url": "https://www.toutiao.com/trending/7617784204897553963/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
+          "title": "A股三大指数涨跌不一",
+          "url": "https://www.toutiao.com/trending/7617751070629957126/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时54分"
         }
       ]
     },
@@ -758,78 +925,6 @@
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "A股绿电概念持续调整，中国核建、中国电建双双跌停，大唐发电、中国能建、嘉泽新能、晶科科技、建投能源、节能风电等多股跌超5%。",
-          "url": "https://wallstreetcn.com/livenews/3070615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时14分"
-        },
-        {
-          "title": "A股港口航运板块午后拉升，招商南油直线涨停，海航科技此前封板，招商轮船、中远海能、招商港口跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3070600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时14分"
-        },
-        {
-          "title": "华虹公司午后直线拉升，A股涨超8%，H股涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3070597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时14分"
-        },
-        {
-          "title": "金十数据整理：A股每日市场要闻回顾（2026-03-16）",
-          "url": "https://flash.jin10.com/detail/20260316152055206800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时03分"
-        },
-        {
-          "title": "沃森生物：筹划向特定对象发行A股股票 控制人变更",
-          "url": "https://wallstreetcn.com/livenews/3070768",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时54分"
-        },
-        {
-          "title": "A股三大指数涨跌不一",
-          "url": "https://www.toutiao.com/trending/7617751070629957126/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时54分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人民币",
       "match_count": 3,
       "titles": [
@@ -911,6 +1006,34 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数DXY日内跌超0.50%，现报100.02。",
+          "url": "https://flash.jin10.com/detail/20260316191720304800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
+          "title": "美元指数日内跌幅达0.5%，报99.99，跌破100关口。",
+          "url": "https://wallstreetcn.com/livenews/3070885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "农业 机械",
       "match_count": 1,
       "titles": [
@@ -922,8 +1045,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 18时44分]"
+          "appearance_count": 3,
+          "time_info": "[17时54分 ~ 19时39分]"
         }
       ]
     }
