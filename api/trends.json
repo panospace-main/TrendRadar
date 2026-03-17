@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T15:47:48.864297+08:00",
-  "total_titles_processed": 1350,
+  "generated_at": "2026-03-17T16:40:07.051812+08:00",
+  "total_titles_processed": 1449,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 90,
+      "match_count": 92,
       "titles": [
         {
           "title": "特朗普会投入地面部队吗？",
@@ -56,6 +56,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时53分 ~ 07时22分]"
+        },
+        {
+          "title": "特朗普“护航联盟”为何应者寥寥？美军真的会夺哈尔克岛吗｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32777497",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时09分 ~ 16时40分]"
         },
         {
           "title": "美以伊战争丨特朗普求护航，德国：这不是北约的战争",
@@ -125,17 +139,18 @@
           "time_info": "[01时54分 ~ 07时22分]"
         },
         {
-          "title": "特朗普“护航联盟”为何应者寥寥？美军真的会夺哈尔克岛吗｜907编辑部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32777497",
-          "source": "澎湃新闻",
+          "title": "特朗普抱怨部分盟友不帮忙 并暗示将袭击哈尔克岛石油设施 | 环球市场",
+          "url": "https://www.cls.cn/detail/2314895",
+          "source": "财联社热门",
           "ranks": [
-            8,
+            6,
             5,
-            3
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时09分 ~ 15时47分]"
+          "appearance_count": 8,
+          "time_info": "[09时09分 ~ 16时40分]"
         },
         {
           "title": "美以伊战争丨特朗普暗示将袭击哈尔克岛石油设施",
@@ -149,20 +164,6 @@
           "time_info": "[06时52分 ~ 07时22分]"
         },
         {
-          "title": "特朗普抱怨部分盟友不帮忙 并暗示将袭击哈尔克岛石油设施 | 环球市场",
-          "url": "https://www.cls.cn/detail/2314895",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时09分 ~ 15时47分]"
-        },
-        {
           "title": "特朗普“三个很开心”，让全世界脊背发凉",
           "url": "https://news.ifeng.com/c/8rYllPsJnfC",
           "source": "凤凰网",
@@ -170,8 +171,54 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时09分 ~ 15时47分]"
+          "appearance_count": 8,
+          "time_info": "[09时09分 ~ 16时40分]"
+        },
+        {
+          "title": "特朗普：古巴现在非常脆弱，我可以随心所欲拿下它",
+          "url": "https://news.ifeng.com/c/8rYzLJPGX5T",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时08分 ~ 16时40分]"
+        },
+        {
+          "title": "美澄清涉特朗普或推迟访华不实报道",
+          "url": "https://www.cls.cn/detail/2315239",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时51分 ~ 16时40分]"
+        },
+        {
+          "title": "中方回应特朗普称可能推迟访华",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%AF%E8%83%BD%E6%8E%A8%E8%BF%9F%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时39分 ~ 16时40分]"
+        },
+        {
+          "title": "中方回应特朗普称推迟一个月访华",
+          "url": "https://www.toutiao.com/trending/7618123908893380150/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时39分 ~ 16时40分]"
         },
         {
           "title": "美以伊战争丨美财长：特朗普不是因护航事件推迟访华",
@@ -207,6 +254,19 @@
           "time_info": "06时53分"
         },
         {
+          "title": "中方制裁是否影响鲁比奥随特朗普访华？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32778211",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时53分 ~ 16时40分]"
+        },
+        {
           "title": "特朗普：打击哈尔克岛石油设施仍在备选方案中",
           "url": "https://flash.jin10.com/detail/20260317014030515800",
           "source": "金十数据",
@@ -227,17 +287,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
-        },
-        {
-          "title": "特朗普：古巴现在非常脆弱，我可以随心所欲拿下它",
-          "url": "https://news.ifeng.com/c/8rYzLJPGX5T",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时08分 ~ 15时47分]"
         },
         {
           "title": "白宫官员：特朗普拒绝重启与伊朗谈判",
@@ -323,29 +372,16 @@
           "time_info": "[06时53分 ~ 07时22分]"
         },
         {
-          "title": "中方制裁是否影响鲁比奥随特朗普访华？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32778211",
+          "title": "美国财长：特朗普“因霍尔木兹海峡护航事威胁推迟访华”报道不实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32781657",
           "source": "澎湃新闻",
           "ranks": [
-            18,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时53分 ~ 15时47分]"
-        },
-        {
-          "title": "美澄清涉特朗普或推迟访华不实报道",
-          "url": "https://www.cls.cn/detail/2315239",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
+            13,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时51分 ~ 15时47分]"
+          "time_info": "[15时47分 ~ 16时40分]"
         },
         {
           "title": "全球前瞻｜特朗普称将继续“猛烈空袭”伊朗，中美正探讨建立全新机制",
@@ -370,6 +406,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 01时54分]"
+        },
+        {
+          "title": "外交部：中美双方就特朗普总统访华事保持着沟通",
+          "url": "https://wallstreetcn.com/livenews/3071473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时47分 ~ 16时40分]"
         },
         {
           "title": "特朗普敦促鲍威尔召开美联储特别会议，要求“立即”降息",
@@ -477,17 +525,6 @@
           "time_info": "13时53分"
         },
         {
-          "title": "外交部：中美双方就特朗普总统访华事保持着沟通",
-          "url": "https://wallstreetcn.com/livenews/3071473",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时47分"
-        },
-        {
           "title": "美国总统特朗普：英国国王很快就要来访。",
           "url": "https://flash.jin10.com/detail/20260317003115577800",
           "source": "金十数据",
@@ -505,7 +542,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -618,17 +655,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
-        },
-        {
-          "title": "美国财长：特朗普“因霍尔木兹海峡护航事威胁推迟访华”报道不实",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32781657",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时47分"
         },
         {
           "title": "美国总统特朗普：大公司正在进入委内瑞拉，将迅速提升委内瑞拉的石油生产。",
@@ -879,7 +905,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -934,7 +960,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -978,7 +1004,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -1056,6 +1082,18 @@
           "time_info": "[06时53分 ~ 07时22分]"
         },
         {
+          "title": "A股行情",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%A1%8C%E6%83%85&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时47分 ~ 16时40分]"
+        },
+        {
           "title": "A股",
           "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -1098,17 +1136,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
-        },
-        {
-          "title": "A股行情",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%A1%8C%E6%83%85&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时47分"
         },
         {
           "title": "A股CRO板块震荡走弱，昭衍新药跌停，普蕊斯、益诺思、诺思格、美迪西、诚达药业、海特生物等跟跌。",
@@ -1161,7 +1188,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -1213,8 +1240,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时08分 ~ 15时47分]"
+          "appearance_count": 7,
+          "time_info": "[12时08分 ~ 16时40分]"
         },
         {
           "title": "布油期货涨幅扩大至2.6%，报每桶102.85美元。 美股期货小幅走低，标普500指数期货跌0.3%。",
@@ -1296,6 +1323,155 @@
       ]
     },
     {
+      "keyword_group": "人民币",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "周一（3月16日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.8890元，较上周五纽约尾盘涨175点，日内整体交投于6.9085-6.8859元区间。",
+          "url": "https://wallstreetcn.com/livenews/3071174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.8877，较上一交易日官方收盘价涨120点，较上日夜盘收盘涨31点。",
+          "url": "https://wallstreetcn.com/livenews/3071517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "上期所原油期货2605合约夜盘收跌6.53%，报720.10元人民币/桶。 沪金夜盘收跌0.86%，沪银收跌0.12%。",
+          "url": "https://wallstreetcn.com/livenews/3071102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时05分 ~ 03时47分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8908元，较上周五夜盘收盘涨135点。成交量439.06亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3071113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时47分 ~ 04时29分]"
+        },
+        {
+          "title": "人民币跨境支付交流活动在西班牙马德里举行",
+          "url": "https://wallstreetcn.com/livenews/3071398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "人民币跨境支付交流活动在西班牙马德里举行",
+          "url": "https://flash.jin10.com/detail/20260317130640563800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "金价下跌却买不进",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E5%8D%B4%E4%B9%B0%E4%B8%8D%E8%BF%9B%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            8,
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时53分 ~ 16时40分]"
+        },
+        {
+          "title": "金价大跌黄金9点开卖9点01分售罄",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E9%BB%84%E9%87%919%E7%82%B9%E5%BC%80%E5%8D%969%E7%82%B901%E5%88%86%E5%94%AE%E7%BD%84%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时39分 ~ 16时40分]"
+        },
+        {
+          "title": "金价持稳于5000美元整数位心理关口附近，铂金、钯金涨约4%",
+          "url": "https://wallstreetcn.com/livenews/3071167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "黄金小幅走高 能源价格上升仍抑制金价",
+          "url": "https://flash.jin10.com/detail/20260317161959462800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "周一油价从高位回撤5%，为何金价没有轻松起飞？",
+          "url": "https://flash.jin10.com/detail/20260317115509143800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "框架没破，但为何金价走得这么累？",
+          "url": "https://flash.jin10.com/detail/20260317152635367800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "航天 航空",
       "match_count": 5,
       "titles": [
@@ -1356,121 +1532,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "周一（3月16日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.8890元，较上周五纽约尾盘涨175点，日内整体交投于6.9085-6.8859元区间。",
-          "url": "https://wallstreetcn.com/livenews/3071174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "上期所原油期货2605合约夜盘收跌6.53%，报720.10元人民币/桶。 沪金夜盘收跌0.86%，沪银收跌0.12%。",
-          "url": "https://wallstreetcn.com/livenews/3071102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时05分 ~ 03时47分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8908元，较上周五夜盘收盘涨135点。成交量439.06亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3071113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时47分 ~ 04时29分]"
-        },
-        {
-          "title": "人民币跨境支付交流活动在西班牙马德里举行",
-          "url": "https://wallstreetcn.com/livenews/3071398",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
-          "title": "人民币跨境支付交流活动在西班牙马德里举行",
-          "url": "https://flash.jin10.com/detail/20260317130640563800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "金价下跌却买不进",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E5%8D%B4%E4%B9%B0%E4%B8%8D%E8%BF%9B%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时53分 ~ 15时47分]"
-        },
-        {
-          "title": "金价持稳于5000美元整数位心理关口附近，铂金、钯金涨约4%",
-          "url": "https://wallstreetcn.com/livenews/3071167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "周一油价从高位回撤5%，为何金价没有轻松起飞？",
-          "url": "https://flash.jin10.com/detail/20260317115509143800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "框架没破，但为何金价走得这么累？",
-          "url": "https://flash.jin10.com/detail/20260317152635367800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时47分"
         }
       ]
     },
@@ -1577,8 +1638,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时09分 ~ 15时47分]"
+          "appearance_count": 8,
+          "time_info": "[09时09分 ~ 16时40分]"
         },
         {
           "title": "霍尔木兹海峡现通航迹象，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
@@ -1615,11 +1676,12 @@
           "ranks": [
             15,
             13,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时53分 ~ 15时47分]"
+          "appearance_count": 6,
+          "time_info": "[13时53分 ~ 16时40分]"
         },
         {
           "title": "创业板涨超1%，存储芯片大爆发，华虹半导体直线拉升，农业白酒等“老登股”大涨，恒科指大涨逾2%",
