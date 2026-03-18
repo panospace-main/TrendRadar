@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T13:57:30.698050+08:00",
-  "total_titles_processed": 1094,
+  "generated_at": "2026-03-18T14:57:42.664732+08:00",
+  "total_titles_processed": 1193,
   "failed_sources": [],
   "trends": [
     {
@@ -78,8 +78,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时23分 ~ 13时57分]"
+          "appearance_count": 6,
+          "time_info": "[06时23分 ~ 14时57分]"
         },
         {
           "title": "【早报】特朗普：应考虑美国退出北约的可能性；存储现货倒挂加剧",
@@ -90,8 +90,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时22分 ~ 13时57分]"
+          "appearance_count": 5,
+          "time_info": "[07时22分 ~ 14时57分]"
         },
         {
           "title": "美以伊战争丨特朗普：不担心伊朗会成为另一个越南",
@@ -100,9 +100,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时57分 ~ 14时57分]"
+        },
+        {
+          "title": "国台办回应特朗普或将批准对台军售案",
+          "url": "https://www.toutiao.com/trending/7617485967372320822/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时57分 ~ 14时57分]"
         },
         {
           "title": "美国总统特朗普：伊朗行动进展迅速，远超计划，预计几周内会有结论。",
@@ -125,17 +136,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
-        },
-        {
-          "title": "国台办回应特朗普或将批准对台军售案",
-          "url": "https://www.toutiao.com/trending/7617485967372320822/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
         },
         {
           "title": "美国总统特朗普夸赞美国股市表现。",
@@ -183,6 +183,18 @@
           "time_info": "[01时54分 ~ 02时46分]"
         },
         {
+          "title": "伊朗证实拉里贾尼已经身亡 特朗普称对北约感到失望 | 环球市场",
+          "url": "https://www.cls.cn/detail/2316165",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时13分 ~ 14时57分]"
+        },
+        {
           "title": "美国总统特朗普：我们很快将重返月球，然后前往火星。",
           "url": "https://wallstreetcn.com/livenews/3071928",
           "source": "华尔街见闻-快讯",
@@ -207,16 +219,16 @@
           "time_info": "[06时23分 ~ 07时22分]"
         },
         {
-          "title": "伊朗证实拉里贾尼已经身亡 特朗普称对北约感到失望 | 环球市场",
-          "url": "https://www.cls.cn/detail/2316165",
-          "source": "财联社热门",
+          "title": "遭北约背刺，特朗普怒了：愚蠢！美国一定会“记仇”",
+          "url": "https://news.ifeng.com/c/8radF7mAvMh",
+          "source": "凤凰网",
           "ranks": [
             7,
             9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时13分 ~ 13时57分]"
+          "time_info": "[12时14分 ~ 14时57分]"
         },
         {
           "title": "美国总统特朗普重申，将在任期内封杀风力发电机",
@@ -232,6 +244,41 @@
           "time_info": "[02时46分 ~ 04时29分]"
         },
         {
+          "title": "为何不谴责美以？高市早苗：因为我要见特朗普，说完了",
+          "url": "https://news.ifeng.com/c/8raajLUudf0",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 14时57分]"
+        },
+        {
+          "title": "特朗普炮轰北约不肯援助：美国应考虑退出北约的可能性",
+          "url": "https://www.cls.cn/detail/2316263",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 14时57分]"
+        },
+        {
+          "title": "特朗普称应考虑美国退出北约的可能性",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32786280",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 14时57分]"
+        },
+        {
           "title": "特朗普谈反恐中心主任辞职：他走人是好事",
           "url": "https://flash.jin10.com/detail/20260318032156939800",
           "source": "金十数据",
@@ -242,29 +289,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时49分 ~ 04时29分]"
-        },
-        {
-          "title": "遭北约背刺，特朗普怒了：愚蠢！美国一定会“记仇”",
-          "url": "https://news.ifeng.com/c/8radF7mAvMh",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 13时57分]"
-        },
-        {
-          "title": "为何不谴责美以？高市早苗：因为我要见特朗普，说完了",
-          "url": "https://news.ifeng.com/c/8raajLUudf0",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 13时57分]"
         },
         {
           "title": "特朗普称应考虑美国退出北约的可能性",
@@ -303,17 +327,6 @@
           "time_info": "[05时28分 ~ 06时23分]"
         },
         {
-          "title": "特朗普炮轰北约不肯援助：美国应考虑退出北约的可能性",
-          "url": "https://www.cls.cn/detail/2316263",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 13时57分]"
-        },
-        {
           "title": "美国总统特朗普谈及与爱尔兰关系，声称：希望我们能达成一份关于美国出口液化天然气（LNG）的协议。",
           "url": "https://wallstreetcn.com/livenews/3071842",
           "source": "华尔街见闻-快讯",
@@ -338,16 +351,15 @@
           "time_info": "[05时28分 ~ 06时23分]"
         },
         {
-          "title": "特朗普称应考虑美国退出北约的可能性",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32786280",
+          "title": "特朗普亲自澄清：因对伊朗战事未了请求推迟行程，“期待访华”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32783811",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            17
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时14分 ~ 13时57分]"
+          "time_info": "[13时57分 ~ 14时57分]"
         },
         {
           "title": "美国总统特朗普：（谈伊朗）我们进展大大超前。",
@@ -414,17 +426,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
-        },
-        {
-          "title": "特朗普亲自澄清：因对伊朗战事未了请求推迟行程，“期待访华”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32783811",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
         },
         {
           "title": "美国总统特朗普：英国广播公司在我对其发起的诉讼中承认有罪，让我们拭目以待事态的发展。",
@@ -583,6 +584,101 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2026-03-18）",
+          "url": "https://flash.jin10.com/detail/20260318090551677800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "A股港口航运板块短线拉升，招商轮船涨停，国航远洋、招商南油、中远海特、珠海港、锦江航运跟涨。",
+          "url": "https://flash.jin10.com/detail/20260318134454344800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "A股版HALO被热买，电网设备ETF“独苗”30亿到300亿只用俩月，还有哪些ETF“含HALO”更高？",
+          "url": "https://www.cls.cn/detail/2316463",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时57分 ~ 14时57分]"
+        },
+        {
+          "title": "A股燃气轮机概念震荡拉升，万泽股份逼近涨停，飞沃科技、三角防务、应流股份、东方电气等涨幅靠前。",
+          "url": "https://wallstreetcn.com/livenews/3072186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
+          "title": "A股半导体设备概念走高，深科达封20cm涨停，联动科技涨超10%，劲拓股份、长川科技、强一股份、光力科技、亚翔集成跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3072142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "A股算力概念股持续活跃，数据港直线涨停，杭钢股份、首都在线、优刻得、铜牛信息、东方国信等纷纷冲高，消息上，阿里云AI算力和存储产品最高涨价34%。",
+          "url": "https://wallstreetcn.com/livenews/3072133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "A股午评：创业板指半日涨0.89%，存储芯片板块领涨",
+          "url": "https://flash.jin10.com/detail/20260318113432590800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
+          "title": "A股三大指数集体翻绿，油气、化工、农业、白酒等方向跌幅居前，沪深京三市下跌个股近3200只。",
+          "url": "https://wallstreetcn.com/livenews/3072076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人民币",
       "match_count": 8,
       "titles": [
@@ -652,7 +748,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -674,7 +770,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         }
@@ -693,8 +789,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 13时57分]"
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 14时57分]"
         },
         {
           "title": "英伟达CEO黄仁勋：IT企业将是OpenAI和Anthropic的中间商。",
@@ -761,7 +857,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -775,89 +871,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "金十数据整理：A股盘前市场要闻速递（2026-03-18）",
-          "url": "https://flash.jin10.com/detail/20260318090551677800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "A股港口航运板块短线拉升，招商轮船涨停，国航远洋、招商南油、中远海特、珠海港、锦江航运跟涨。",
-          "url": "https://flash.jin10.com/detail/20260318134454344800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "A股版HALO被热买，电网设备ETF“独苗”30亿到300亿只用俩月，还有哪些ETF“含HALO”更高？",
-          "url": "https://www.cls.cn/detail/2316463",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "A股半导体设备概念走高，深科达封20cm涨停，联动科技涨超10%，劲拓股份、长川科技、强一股份、光力科技、亚翔集成跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3072142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "A股算力概念股持续活跃，数据港直线涨停，杭钢股份、首都在线、优刻得、铜牛信息、东方国信等纷纷冲高，消息上，阿里云AI算力和存储产品最高涨价34%。",
-          "url": "https://wallstreetcn.com/livenews/3072133",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "A股午评：创业板指半日涨0.89%，存储芯片板块领涨",
-          "url": "https://flash.jin10.com/detail/20260318113432590800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "A股三大指数集体翻绿，油气、化工、农业、白酒等方向跌幅居前，沪深京三市下跌个股近3200只。",
-          "url": "https://wallstreetcn.com/livenews/3072076",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
         }
       ]
     },
@@ -895,11 +908,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时22分 ~ 13时57分]"
+          "appearance_count": 5,
+          "time_info": "[07时22分 ~ 14时57分]"
         },
         {
           "title": "金十图示：2026年03月17日（周二）美股热门股票行情一览（美股盘中）",
@@ -927,7 +941,7 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【数读IPO】今日1申购1上市，涉及航空航天概念等",
@@ -953,13 +967,24 @@
           "time_info": "[05时28分 ~ 06时23分]"
         },
         {
+          "title": "上证指数转涨，算力、存储芯片、CPO、航天装备、卫星互联网等概念涨幅居前；全市约3100股上涨，2200股下跌。",
+          "url": "https://flash.jin10.com/detail/20260318141855290800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
           "title": "创业板指涨超1%，沪指现跌0.38%，存储芯片、CPO、航天装备、PCB、通信服务等概念涨幅居前。",
           "url": "https://wallstreetcn.com/livenews/3072131",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         }
@@ -1028,8 +1053,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时22分 ~ 13时57分]"
+          "appearance_count": 5,
+          "time_info": "[07时22分 ~ 14时57分]"
         },
         {
           "title": "周二（3月17日）纽约尾盘，美国10年期基准国债收益率跌1.75个基点，报4.2004%，北京时间14:01涨至4.2473%刷新日高，随后逐步走低，00:29刷新日低至4.1868%。 两年期美债收益率持平，报3.6715%，日内交投于3.6925%-3.6526%区间。",
