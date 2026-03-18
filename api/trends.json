@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T16:37:01.058633+08:00",
-  "total_titles_processed": 1387,
+  "generated_at": "2026-03-18T17:43:02.189320+08:00",
+  "total_titles_processed": 1511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普称将接管古巴",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时23分 ~ 16时37分]"
+          "appearance_count": 12,
+          "time_info": "[06时23分 ~ 17时43分]"
         },
         {
           "title": "【早报】特朗普：应考虑美国退出北约的可能性；存储现货倒挂加剧",
@@ -91,6 +91,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时45分 ~ 16时37分]"
+        },
+        {
+          "title": "特朗普炮轰北约不肯援助：美国应考虑退出北约的可能性",
+          "url": "https://www.cls.cn/detail/2316263",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时14分 ~ 17时43分]"
         },
         {
           "title": "美澄清涉特朗普或推迟访华不实报道",
@@ -141,19 +154,6 @@
           "time_info": "[13时57分 ~ 14时57分]"
         },
         {
-          "title": "特朗普炮轰北约不肯援助：美国应考虑退出北约的可能性",
-          "url": "https://www.cls.cn/detail/2316263",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时14分 ~ 16时37分]"
-        },
-        {
           "title": "特朗普称应考虑美国退出北约的可能性",
           "url": "https://m.thepaper.cn/newsDetail_forward_32786280",
           "source": "澎湃新闻",
@@ -188,6 +188,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时45分 ~ 16时37分]"
+        },
+        {
+          "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
+          "url": "https://news.ifeng.com/c/8rb4ORiCMhg",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 17时43分]"
         },
         {
           "title": "中方回应特朗普称推迟访华",
@@ -363,6 +374,39 @@
           "time_info": "[03时49分 ~ 04时29分]"
         },
         {
+          "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
+          "url": "https://www.cls.cn/detail/2316670",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 17时43分]"
+        },
+        {
+          "title": "谴责伊朗不谴责美以，高市早苗语出惊人：因为我要见特朗普",
+          "url": "https://news.ifeng.com/c/8rb2oC4BRVx",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 17时43分]"
+        },
+        {
+          "title": "特朗普就伊朗问题施压日本怎么办？高市可能使出拖字诀",
+          "url": "https://news.ifeng.com/c/8rb3KwO5fcb",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 17时43分]"
+        },
+        {
           "title": "特朗普称应考虑美国退出北约的可能性",
           "url": "https://wallstreetcn.com/livenews/3071810",
           "source": "华尔街见闻-快讯",
@@ -421,6 +465,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时23分]"
+        },
+        {
+          "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32787473",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 17时43分]"
         },
         {
           "title": "美国总统特朗普：（谈伊朗）我们进展大大超前。",
@@ -649,7 +704,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -678,6 +733,137 @@
       ]
     },
     {
+      "keyword_group": "人民币",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "腾讯控股第四季度净利润582.6亿元人民币，预估550.5亿元人民币；第四季度营收1,943.7亿元人民币，预估1,940.7亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3072276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "中通快递四季度营收145.1亿元人民币，分析师预期141.6亿元。 预计2026年包裹处理量将同比增长10%-13%。 董事会授权增加15亿美元股票回购。",
+          "url": "https://wallstreetcn.com/livenews/3071929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "上期所原油期货2605合约夜盘收涨2.74%，报764.90元人民币/桶。 沪金夜盘收跌0.16%，沪银收跌1.85%。",
+          "url": "https://wallstreetcn.com/livenews/3071853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时46分 ~ 04时29分]"
+        },
+        {
+          "title": "周二（3月17日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8830元，较周一纽约尾盘涨60点，日内整体交投于6.8944-6.8797元区间。",
+          "url": "https://wallstreetcn.com/livenews/3071911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时23分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8850元，较周一夜盘收盘涨58点。成交量458.26亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3071860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时29分]"
+        },
+        {
+          "title": "挚文集团第四季度净营收25.8亿元人民币，预估25.6亿元人民币。 第四季度调整后每ADS收益 1.70元人民币，预估1.36元人民币。 挚文集团预计第一季度净营收23亿元人民币至24亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3072212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
+          "title": "中通快递四季度营收145.1亿元人民币，分析师预期141.6亿元。 预计2026年包裹处理量将达到423.7亿-435.2亿，预计将同比增长10%-13%。 董事会授权增加15亿美元股票回购。",
+          "url": "https://wallstreetcn.com/livenews/3071929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "腾讯控股第四季度营收1,943.7亿元人民币，市场预估1,940.7亿元人民币； 第四季度调整后净利润646.9亿元人民币，市场预估649.3亿元人民币； 第四季度营业利润603.4亿元人民币，市场预估604.5亿元人民币； 第四季度金融科技及企业服务业务收入608亿元人民币，市场预估611.7亿元人民币； 第四季度增值服务业务收入899亿元人民币，市场预估887.8亿元人民币； 2025年净利润2,248.4亿元人民币，市场预估2,221.6亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3072276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
+          "title": "奇瑞汽车2025年归母净利润190.2亿元人民币，同比+35%。 营收3,002.9亿元人民币，同比+11%。 每股收益3.43元人民币，上年同期2.58元人民币。 每股末期股息0.50港元，上年同期0.33港元。",
+          "url": "https://wallstreetcn.com/livenews/3072124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "中通快递(02057.HK)：2025年第四季度收入为人民币145.1亿元，同比增长12.3%；净利润为人民币26.93亿元，同比增长10.1%。2025财年收入为人民币490.99亿元，同比增长10.9%；净利润为人民币 92.36亿元，同比增长3.9%。",
+          "url": "https://flash.jin10.com/detail/20260318060616022800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "吉利汽车2025年归属母公司净利润168.5亿元人民币，预估165.1亿元人民币。 2025年营收3,452.3亿元人民币，预估3,417亿元人民币。 每股末期股息0.50港元。",
+          "url": "https://wallstreetcn.com/livenews/3072117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "A股",
       "match_count": 10,
       "titles": [
@@ -688,11 +874,12 @@
           "ranks": [
             11,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时57分 ~ 16时37分]"
+          "appearance_count": 8,
+          "time_info": "[13时57分 ~ 17时43分]"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-03-18）",
@@ -796,126 +983,6 @@
       ]
     },
     {
-      "keyword_group": "人民币",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "腾讯控股第四季度净利润582.6亿元人民币，预估550.5亿元人民币；第四季度营收1,943.7亿元人民币，预估1,940.7亿元人民币。",
-          "url": "https://wallstreetcn.com/livenews/3072276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "中通快递四季度营收145.1亿元人民币，分析师预期141.6亿元。 预计2026年包裹处理量将同比增长10%-13%。 董事会授权增加15亿美元股票回购。",
-          "url": "https://wallstreetcn.com/livenews/3071929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
-          "title": "上期所原油期货2605合约夜盘收涨2.74%，报764.90元人民币/桶。 沪金夜盘收跌0.16%，沪银收跌1.85%。",
-          "url": "https://wallstreetcn.com/livenews/3071853",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时46分 ~ 04时29分]"
-        },
-        {
-          "title": "周二（3月17日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8830元，较周一纽约尾盘涨60点，日内整体交投于6.8944-6.8797元区间。",
-          "url": "https://wallstreetcn.com/livenews/3071911",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时23分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8850元，较周一夜盘收盘涨58点。成交量458.26亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3071860",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时49分 ~ 04时29分]"
-        },
-        {
-          "title": "挚文集团第四季度净营收25.8亿元人民币，预估25.6亿元人民币。 第四季度调整后每ADS收益 1.70元人民币，预估1.36元人民币。 挚文集团预计第一季度净营收23亿元人民币至24亿元人民币。",
-          "url": "https://wallstreetcn.com/livenews/3072212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时46分"
-        },
-        {
-          "title": "中通快递四季度营收145.1亿元人民币，分析师预期141.6亿元。 预计2026年包裹处理量将达到423.7亿-435.2亿，预计将同比增长10%-13%。 董事会授权增加15亿美元股票回购。",
-          "url": "https://wallstreetcn.com/livenews/3071929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "奇瑞汽车2025年归母净利润190.2亿元人民币，同比+35%。 营收3,002.9亿元人民币，同比+11%。 每股收益3.43元人民币，上年同期2.58元人民币。 每股末期股息0.50港元，上年同期0.33港元。",
-          "url": "https://wallstreetcn.com/livenews/3072124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "中通快递(02057.HK)：2025年第四季度收入为人民币145.1亿元，同比增长12.3%；净利润为人民币26.93亿元，同比增长10.1%。2025财年收入为人民币490.99亿元，同比增长10.9%；净利润为人民币 92.36亿元，同比增长3.9%。",
-          "url": "https://flash.jin10.com/detail/20260318060616022800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "吉利汽车2025年归属母公司净利润168.5亿元人民币，预估165.1亿元人民币。 2025年营收3,452.3亿元人民币，预估3,417亿元人民币。 每股末期股息0.50港元。",
-          "url": "https://wallstreetcn.com/livenews/3072117",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 8,
       "titles": [
@@ -926,11 +993,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时14分 ~ 16时37分]"
+          "appearance_count": 9,
+          "time_info": "[12时14分 ~ 17时43分]"
         },
         {
           "title": "英伟达CEO黄仁勋：IT企业将是OpenAI和Anthropic的中间商。",
@@ -1016,7 +1084,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "哈塞特安抚市场，美股指高开，科技股普涨，布油站上102美元，现货黄金涨0.2%",
@@ -1054,6 +1122,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时22分 ~ 14时57分]"
+        },
+        {
+          "title": "微博美股盘前下跌3%，公司第四季度调整后每股收益不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3072307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "金十图示：2026年03月17日（周二）美股热门股票行情一览（美股盘中）",
@@ -1178,11 +1257,12 @@
           "url": "https://www.toutiao.com/trending/7618482201037901355/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 16时37分]"
+          "appearance_count": 4,
+          "time_info": "[16时36分 ~ 17时43分]"
         },
         {
           "title": "金价银价下跌原因找到了",
@@ -1223,8 +1303,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时22分 ~ 16时37分]"
+          "appearance_count": 11,
+          "time_info": "[07时22分 ~ 17时43分]"
         },
         {
           "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
