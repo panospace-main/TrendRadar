@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T17:43:02.189320+08:00",
-  "total_titles_processed": 1511,
+  "generated_at": "2026-03-18T18:41:41.957793+08:00",
+  "total_titles_processed": 1593,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 65,
       "titles": [
         {
           "title": "特朗普称将接管古巴",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时23分 ~ 17时43分]"
+          "appearance_count": 13,
+          "time_info": "[06时23分 ~ 18时41分]"
         },
         {
           "title": "【早报】特朗普：应考虑美国退出北约的可能性；存储现货倒挂加剧",
@@ -82,17 +82,6 @@
           "time_info": "[00时55分 ~ 07时22分]"
         },
         {
-          "title": "美以伊战争丨因伊朗战争与特朗普决裂，他什么来头？",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时45分 ~ 16时37分]"
-        },
-        {
           "title": "特朗普炮轰北约不肯援助：美国应考虑退出北约的可能性",
           "url": "https://www.cls.cn/detail/2316263",
           "source": "财联社热门",
@@ -102,8 +91,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时14分 ~ 17时43分]"
+          "appearance_count": 10,
+          "time_info": "[12时14分 ~ 18时41分]"
+        },
+        {
+          "title": "美以伊战争丨因伊朗战争与特朗普决裂，他什么来头？",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时45分 ~ 16时37分]"
         },
         {
           "title": "美澄清涉特朗普或推迟访华不实报道",
@@ -141,6 +141,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时13分 ~ 16时37分]"
+        },
+        {
+          "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
+          "url": "https://news.ifeng.com/c/8rb4ORiCMhg",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时42分 ~ 18时41分]"
         },
         {
           "title": "美以伊战争丨特朗普：不担心伊朗会成为另一个越南",
@@ -188,17 +199,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时45分 ~ 16时37分]"
-        },
-        {
-          "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
-          "url": "https://news.ifeng.com/c/8rb4ORiCMhg",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 17时43分]"
         },
         {
           "title": "中方回应特朗普称推迟访华",
@@ -326,6 +326,18 @@
           "time_info": "[15时45分 ~ 16时37分]"
         },
         {
+          "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
+          "url": "https://www.cls.cn/detail/2316670",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时42分 ~ 18时41分]"
+        },
+        {
           "title": "遭北约背刺，特朗普怒了：愚蠢！美国一定会“记仇”",
           "url": "https://news.ifeng.com/c/8radF7mAvMh",
           "source": "凤凰网",
@@ -351,6 +363,17 @@
           "time_info": "[02时46分 ~ 04时29分]"
         },
         {
+          "title": "谴责伊朗不谴责美以，高市早苗语出惊人：因为我要见特朗普",
+          "url": "https://news.ifeng.com/c/8rb2oC4BRVx",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时42分 ~ 18时41分]"
+        },
+        {
           "title": "为何不谴责美以？高市早苗：因为我要见特朗普，说完了",
           "url": "https://news.ifeng.com/c/8raajLUudf0",
           "source": "凤凰网",
@@ -360,6 +383,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时14分 ~ 14时57分]"
+        },
+        {
+          "title": "特朗普就伊朗问题施压日本怎么办？高市可能使出拖字诀",
+          "url": "https://news.ifeng.com/c/8rb3KwO5fcb",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时42分 ~ 18时41分]"
+        },
+        {
+          "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32787473",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时42分 ~ 18时41分]"
         },
         {
           "title": "特朗普谈反恐中心主任辞职：他走人是好事",
@@ -372,39 +418,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时49分 ~ 04时29分]"
-        },
-        {
-          "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
-          "url": "https://www.cls.cn/detail/2316670",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 17时43分]"
-        },
-        {
-          "title": "谴责伊朗不谴责美以，高市早苗语出惊人：因为我要见特朗普",
-          "url": "https://news.ifeng.com/c/8rb2oC4BRVx",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 17时43分]"
-        },
-        {
-          "title": "特朗普就伊朗问题施压日本怎么办？高市可能使出拖字诀",
-          "url": "https://news.ifeng.com/c/8rb3KwO5fcb",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 17时43分]"
         },
         {
           "title": "特朗普称应考虑美国退出北约的可能性",
@@ -467,17 +480,6 @@
           "time_info": "[05时28分 ~ 06时23分]"
         },
         {
-          "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32787473",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 17时43分]"
-        },
-        {
           "title": "美国总统特朗普：（谈伊朗）我们进展大大超前。",
           "url": "https://flash.jin10.com/detail/20260318054846607800",
           "source": "金十数据",
@@ -509,6 +511,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
+        },
+        {
+          "title": "是否派自卫队赴中东？日本专家：高市或与特朗普达成私下交易",
+          "url": "https://news.ifeng.com/c/8rb1B6BXYFH",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "特朗普确认推迟访华，外交部：中美将继续就此事保持沟通",
@@ -687,6 +700,17 @@
           "time_info": "00时55分"
         },
         {
+          "title": "特朗普再称马克龙很快就下台了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E7%A7%B0%E9%A9%AC%E5%85%8B%E9%BE%99%E5%BE%88%E5%BF%AB%E5%B0%B1%E4%B8%8B%E5%8F%B0%E4%BA%86%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "美国总统特朗普：将努力阻止在美国建设风力发电厂。",
           "url": "https://flash.jin10.com/detail/20260318001934971800",
           "source": "金十数据",
@@ -824,7 +848,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
         },
@@ -875,11 +899,12 @@
             11,
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时57分 ~ 17时43分]"
+          "appearance_count": 9,
+          "time_info": "[13时57分 ~ 18时41分]"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-03-18）",
@@ -1128,11 +1153,12 @@
           "url": "https://wallstreetcn.com/livenews/3072307",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 18时41分]"
         },
         {
           "title": "金十图示：2026年03月17日（周二）美股热门股票行情一览（美股盘中）",
@@ -1160,7 +1186,7 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "【数读IPO】今日1申购1上市，涉及航空航天概念等",
@@ -1186,6 +1212,17 @@
           "time_info": "[05时28分 ~ 06时23分]"
         },
         {
+          "title": "北京：支持拓展星箭制造、卫星运营等业务，对商业航天投保企业按有关政策给予保费补贴",
+          "url": "https://wallstreetcn.com/livenews/3072333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "上证指数转涨，算力、存储芯片、CPO、航天装备、卫星互联网等概念涨幅居前；全市约3100股上涨，2200股下跌。",
           "url": "https://flash.jin10.com/detail/20260318141855290800",
           "source": "金十数据",
@@ -1206,6 +1243,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "农业 机械",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "全国人大农业与农村委员会原副主任委员蒋超良被提起公诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32781423",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 09时13分]"
+        },
+        {
+          "title": "农业农村部：以更大力度深入推进种业振兴行动，加快实现种业科技自立自强、种源自主可控",
+          "url": "https://wallstreetcn.com/livenews/3072345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "国家发改委推出新一批重大外资项目，包括电子制造、化工、汽车、电气机械等",
+          "url": "https://wallstreetcn.com/livenews/3072093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时14分"
         }
       ]
     },
@@ -1261,8 +1339,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时36分 ~ 17时43分]"
+          "appearance_count": 5,
+          "time_info": "[16时36分 ~ 18时41分]"
         },
         {
           "title": "金价银价下跌原因找到了",
@@ -1303,8 +1381,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时22分 ~ 17时43分]"
+          "appearance_count": 12,
+          "time_info": "[07时22分 ~ 18时41分]"
         },
         {
           "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
@@ -1369,36 +1447,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农业 机械",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "全国人大农业与农村委员会原副主任委员蒋超良被提起公诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32781423",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 09时13分]"
-        },
-        {
-          "title": "国家发改委推出新一批重大外资项目，包括电子制造、化工、汽车、电气机械等",
-          "url": "https://wallstreetcn.com/livenews/3072093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
         }
       ]
     }
