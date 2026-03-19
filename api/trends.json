@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T13:52:15.096840+08:00",
-  "total_titles_processed": 1197,
+  "generated_at": "2026-03-19T14:45:00.631471+08:00",
+  "total_titles_processed": 1294,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普称对伊行动无需北约和日韩澳帮助，伊朗宣告打击进入\"加速阶段\"、总统证实拉里贾尼身亡",
@@ -45,6 +45,18 @@
           "time_info": "[00时01分 ~ 07时23分]"
         },
         {
+          "title": "伊朗接连袭击沙特卡塔尔油气设施 特朗普据悉反对继续袭击伊能源设施",
+          "url": "https://www.cls.cn/detail/2317562",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时12分 ~ 14时45分]"
+        },
+        {
           "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
           "url": "https://www.cls.cn/detail/2316670",
           "source": "财联社热门",
@@ -57,6 +69,17 @@
           "time_info": "[00时01分 ~ 07时23分]"
         },
         {
+          "title": "美参议院未通过限制特朗普对伊动武法案，民主党扬言继续施压",
+          "url": "https://news.ifeng.com/c/8rcHthVvS8A",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时12分 ~ 14时45分]"
+        },
+        {
           "title": "是否派自卫队赴中东？日本专家：高市或与特朗普达成私下交易",
           "url": "https://news.ifeng.com/c/8rb1B6BXYFH",
           "source": "凤凰网",
@@ -64,8 +87,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时01分 ~ 13时52分]"
+          "appearance_count": 19,
+          "time_info": "[00时01分 ~ 14时45分]"
         },
         {
           "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
@@ -100,30 +123,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时01分 ~ 13时52分]"
-        },
-        {
-          "title": "伊朗接连袭击沙特卡塔尔油气设施 特朗普据悉反对继续袭击伊能源设施",
-          "url": "https://www.cls.cn/detail/2317562",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时12分 ~ 13时52分]"
-        },
-        {
-          "title": "美参议院未通过限制特朗普对伊动武法案，民主党扬言继续施压",
-          "url": "https://news.ifeng.com/c/8rcHthVvS8A",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时12分 ~ 13时52分]"
+          "appearance_count": 19,
+          "time_info": "[00时01分 ~ 14时45分]"
         },
         {
           "title": "美以伊战争丨特朗普谈以打击伊朗天然气田：毫不知情",
@@ -219,6 +220,17 @@
           "time_info": "12时13分"
         },
         {
+          "title": "油价分裂！阿曼冲到150，WTI还在100下挣扎，真怕了特朗普？",
+          "url": "https://flash.jin10.com/detail/20260319141414344800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
           "title": "知情人士：特朗普仍在权衡地面出兵伊朗风险",
           "url": "https://flash.jin10.com/detail/20260319004133751800",
           "source": "金十数据",
@@ -294,6 +306,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "特朗普盟友警告：美国经济实力不足以应对伊朗战争！",
+          "url": "https://flash.jin10.com/detail/20260319140651826800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "高市早苗抵达华盛顿将与特朗普会面",
@@ -457,7 +480,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -482,6 +505,134 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "五连降！A股成交额缩至2万亿关口，这些方向仍局部活跃",
+          "url": "https://www.cls.cn/detail/2316947",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 07时23分]"
+        },
+        {
+          "title": "A股创新药概念震荡走低，科兴制药跌超10%，益诺思、海特生物、艾迪药业、皓元医药、北陆药业跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3072985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "A股午评：创业板指收跌0.11%，CPO概念低开高走",
+          "url": "https://flash.jin10.com/detail/20260319113522911800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "A股三大指数持续下挫，深成指跌超2%，沪指、创业板指均跌超1%。有色金属、化学化工板块跌幅居前，全市场近5000只个股下跌。",
+          "url": "https://wallstreetcn.com/livenews/3072950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 14时45分]"
+        },
+        {
+          "title": "韩国资金涌入中国避险，A股、港股均获加仓，安全溢价正显现",
+          "url": "https://www.cls.cn/detail/2317812",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 14时45分]"
+        },
+        {
+          "title": "A股多元金融板块逆势拉升，中粮资本冲击涨停，中油资本此前封板，爱建集团、瑞达期货、五矿资本等纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3072973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "A股银行板块局部拉升，工商银行涨超2%，农业银行、建设银行、中国银行、中信银行跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3072972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "A股无人驾驶板块局部异动，昆仑万维短线拉升涨超4%；消息面上，工信部等三部门召开新能源汽车行业企业座谈会，提出加快自动驾驶技术攻关突破，优化准入试点流程、加快相关标准制定，为规模量产创造有利条件。",
+          "url": "https://flash.jin10.com/detail/20260319130219148800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
+          "title": "A股大金融股异动拉升，中油资本直线涨停，中粮资本、瑞达期货、弘业期货、爱建集团、江苏金租跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3072963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "A股银行板块局部拉升，工商银行涨超2%，农业银行、建设银行、中国银行、中信银行跟涨。中信证券首席经济学家明明此前表示，我国货币政策存在“灵活高效运用”降准降息的空间，预计全年或将降息1-2次、降准1次。",
+          "url": "https://flash.jin10.com/detail/20260319140614579800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "A股多元金融板块震荡走高，中油资本此前涨停，中粮资本短线拉升涨超9%，爱建集团涨超6%，五矿资本、瑞达期货、弘业期货等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260319140452747800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         }
       ]
     },
@@ -686,58 +837,8 @@
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "五连降！A股成交额缩至2万亿关口，这些方向仍局部活跃",
-          "url": "https://www.cls.cn/detail/2316947",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时01分 ~ 07时23分]"
-        },
-        {
-          "title": "A股三大指数持续下挫，深成指跌超2%，沪指、创业板指均跌超1%。有色金属、化学化工板块跌幅居前，全市场近5000只个股下跌。",
-          "url": "https://wallstreetcn.com/livenews/3072950",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
-          "title": "A股午评：创业板指收跌0.11%，CPO概念低开高走",
-          "url": "https://flash.jin10.com/detail/20260319113522911800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时13分"
-        },
-        {
-          "title": "A股无人驾驶板块局部异动，昆仑万维短线拉升涨超4%；消息面上，工信部等三部门召开新能源汽车行业企业座谈会，提出加快自动驾驶技术攻关突破，优化准入试点流程、加快相关标准制定，为规模量产创造有利条件。",
-          "url": "https://flash.jin10.com/detail/20260319130219148800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        }
-      ]
-    },
-    {
       "keyword_group": "航天 航空",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "据Air Current：美国联邦航空管理局于3月17日批准波音公司将其推迟已久的777-9机型继续推进至适航认证测试的第四阶段。",
@@ -761,6 +862,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时23分]"
+        },
+        {
+          "title": "热度爆表！商业航天万亿赛道保障待激活，头部险企加速下场",
+          "url": "https://www.cls.cn/detail/2317724",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 14时45分]"
         },
         {
           "title": "美国联邦航空管理局（FAA）：已取消对蒙特利尔国际机场的地面停飞令。",
