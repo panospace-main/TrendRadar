@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T19:28:39.021616+08:00",
-  "total_titles_processed": 1847,
+  "generated_at": "2026-03-19T20:38:13.640892+08:00",
+  "total_titles_processed": 1968,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "特朗普称对伊行动无需北约和日韩澳帮助，伊朗宣告打击进入\"加速阶段\"、总统证实拉里贾尼身亡",
@@ -135,8 +135,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时34分 ~ 19时28分]"
+          "appearance_count": 5,
+          "time_info": "[17时34分 ~ 20时38分]"
         },
         {
           "title": "报告与特朗普开战理由相悖？美情报总监矛盾表态",
@@ -146,8 +146,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时34分 ~ 19时28分]"
+          "appearance_count": 5,
+          "time_info": "[17时34分 ~ 20时38分]"
         },
         {
           "title": "美以伊战争丨特朗普谈以打击伊朗天然气田：毫不知情",
@@ -167,7 +167,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -216,6 +216,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时40分 ~ 18时31分]"
+        },
+        {
+          "title": "特朗普威胁：再炸卡塔尔，把你们伊朗气田炸上天",
+          "url": "https://news.ifeng.com/c/8rcnk4inq8M",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时28分 ~ 20时38分]"
         },
         {
           "title": "特朗普豁免执行《琼斯法》遏制高油价",
@@ -277,17 +288,6 @@
           "time_info": "[17时34分 ~ 19时28分]"
         },
         {
-          "title": "特朗普威胁：再炸卡塔尔，把你们伊朗气田炸上天",
-          "url": "https://news.ifeng.com/c/8rcnk4inq8M",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        },
-        {
           "title": "美前反恐中心主任辞职后首发声：大量关键意见根本传不到特朗普耳边！",
           "url": "https://flash.jin10.com/detail/20260319171537924800",
           "source": "金十数据",
@@ -341,6 +341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "美国财长贝森特：美联储调查并非美国总统特朗普的决定，而是检察官皮罗的决定。",
+          "url": "https://flash.jin10.com/detail/20260319202412471800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "美国副总统万斯：（谈及反恐中心主任肯特离职）如果你在团队中，却无法帮助实施特朗普的决定，那你辞职是件好事。",
@@ -445,7 +456,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股收盘：七巨头齐挫三大指数跌超1% 闪迪、美光逆市收新高",
@@ -586,6 +597,17 @@
           "time_info": "04时27分"
         },
         {
+          "title": "特斯拉美股盘前跌幅扩大至1%，此前优步表示将斥资最高12.5亿美元押注Rivian无人驾驶出租车。",
+          "url": "https://wallstreetcn.com/livenews/3073294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
           "title": "技术分析师警告：美股濒临变盘！一旦跌破临界线，将再跌10%",
           "url": "https://flash.jin10.com/detail/20260319125418834800",
           "source": "金十数据",
@@ -614,7 +636,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -655,19 +677,8 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
-        {
-          "title": "五连降！A股成交额缩至2万亿关口，这些方向仍局部活跃",
-          "url": "https://www.cls.cn/detail/2316947",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时01分 ~ 07时23分]"
-        },
         {
           "title": "韩国资金涌入中国避险，A股、港股均获加仓，安全溢价正显现",
           "url": "https://www.cls.cn/detail/2317812",
@@ -679,8 +690,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时44分 ~ 19时28分]"
+          "appearance_count": 10,
+          "time_info": "[14时44分 ~ 20时38分]"
+        },
+        {
+          "title": "五连降！A股成交额缩至2万亿关口，这些方向仍局部活跃",
+          "url": "https://www.cls.cn/detail/2316947",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 07时23分]"
         },
         {
           "title": "A股创新药概念震荡走低，科兴制药跌超10%，益诺思、海特生物、艾迪药业、皓元医药、北陆药业跌幅居前。",
@@ -727,6 +749,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时40分 ~ 16时32分]"
+        },
+        {
+          "title": "亚太股市再度跳水 A股结构分化",
+          "url": "https://www.toutiao.com/trending/7618879790426226742/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 20时38分]"
         },
         {
           "title": "A股多元金融板块逆势拉升，中粮资本冲击涨停，中油资本此前封板，爱建集团、瑞达期货、五矿资本等纷纷冲高。",
@@ -844,7 +877,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -889,7 +922,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -900,7 +933,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -911,7 +944,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         }
@@ -984,7 +1017,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -1047,11 +1080,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 19时28分]"
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 20时38分]"
         },
         {
           "title": "金价下跌也买不到",
@@ -1164,7 +1198,7 @@
     },
     {
       "keyword_group": "农业 机械",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "据华盛顿检查者报：特朗普将于下周会见农业机械公司约翰迪尔的首席执行官。",
@@ -1187,6 +1221,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
+        },
+        {
+          "title": "小米新一代SU7采用车外机械拉手：碰撞后自动解锁，可从车外应急开门",
+          "url": "https://wallstreetcn.com/livenews/3073300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "农业农村部发布2026年中央财政强农惠农富农政策清单",
