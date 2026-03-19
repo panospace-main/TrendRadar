@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T14:45:00.631471+08:00",
-  "total_titles_processed": 1294,
+  "generated_at": "2026-03-19T15:40:57.327614+08:00",
+  "total_titles_processed": 1422,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普称对伊行动无需北约和日韩澳帮助，伊朗宣告打击进入\"加速阶段\"、总统证实拉里贾尼身亡",
@@ -50,11 +50,23 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时12分 ~ 14时45分]"
+          "appearance_count": 7,
+          "time_info": "[12时12分 ~ 15时40分]"
+        },
+        {
+          "title": "美参议院未通过限制特朗普对伊动武法案，民主党扬言继续施压",
+          "url": "https://news.ifeng.com/c/8rcHthVvS8A",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时12分 ~ 15时40分]"
         },
         {
           "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
@@ -67,17 +79,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时01分 ~ 07时23分]"
-        },
-        {
-          "title": "美参议院未通过限制特朗普对伊动武法案，民主党扬言继续施压",
-          "url": "https://news.ifeng.com/c/8rcHthVvS8A",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时12分 ~ 14时45分]"
         },
         {
           "title": "是否派自卫队赴中东？日本专家：高市或与特朗普达成私下交易",
@@ -226,9 +227,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
+        },
+        {
+          "title": "高市早苗访美与特朗普如何“面对面”？",
+          "url": "https://news.ifeng.com/c/8rcWUf1wYvu",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         },
         {
           "title": "知情人士：特朗普仍在权衡地面出兵伊朗风险",
@@ -314,7 +326,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -510,7 +522,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "五连降！A股成交额缩至2万亿关口，这些方向仍局部活跃",
@@ -530,7 +542,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -562,11 +574,12 @@
           "url": "https://www.cls.cn/detail/2317812",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时44分 ~ 14时45分]"
+          "appearance_count": 3,
+          "time_info": "[14时44分 ~ 15时40分]"
         },
         {
           "title": "A股多元金融板块逆势拉升，中粮资本冲击涨停，中油资本此前封板，爱建集团、瑞达期货、五矿资本等纷纷冲高。",
@@ -575,7 +588,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -586,7 +599,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -608,9 +621,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
+        },
+        {
+          "title": "A股跌破4000点",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%B7%8C%E7%A0%B44000%E7%82%B9%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         },
         {
           "title": "A股银行板块局部拉升，工商银行涨超2%，农业银行、建设银行、中国银行、中信银行跟涨。中信证券首席经济学家明明此前表示，我国货币政策存在“灵活高效运用”降准降息的空间，预计全年或将降息1-2次、降准1次。",
@@ -619,9 +643,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         },
         {
           "title": "A股多元金融板块震荡走高，中油资本此前涨停，中粮资本短线拉升涨超9%，爱建集团涨超6%，五矿资本、瑞达期货、弘业期货等个股跟涨。",
@@ -630,9 +665,82 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "上期所原油期货2605合约夜盘收涨4.91%，报788.10元人民币/桶。 沪金夜盘收跌2.23%，沪银收跌4.44%。",
+          "url": "https://wallstreetcn.com/livenews/3072625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        },
+        {
+          "title": "【央行：继续实施好适度宽松的货币政策】3月18日，中国人民银行党委召开扩大会议。继续实施好适度宽松的货币政策。把促进经济稳定增长、物价合理回升作为货币政策的重要考量，发挥增量政策和存量政策、货币政策与财政政策的集成效应。综合运用存款准备金率、买卖国债、中期借贷便利（MLF）、逆回购等长中短期货币政策工具，保持流动性充裕，使社会融资规模、货币供应量增长同经济增长、价格总水平预期目标相匹配。根据经济金融形势的变化和宏观经济运行情况，引导和调控好利率水平，强化利率政策执行和监督，规范融资中间费用，促进社会综合融资成本低位运行。做好与市场沟通，提升政策透明度。保持人民币汇率在合理均衡水平上的基本稳定。",
+          "url": "https://wallstreetcn.com/livenews/3073059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "周三（3月18日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.9004元，较周二纽约尾盘跌174点，日内整体交投于6.8721-6.9042元区间。",
+          "url": "https://wallstreetcn.com/livenews/3072697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时23分]"
+        },
+        {
+          "title": "中国2月Swift人民币在全球支付中占比 2.74%，前值3.13%。",
+          "url": "https://flash.jin10.com/detail/20260319090100628800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8879元，较周二夜盘收盘跌29点。成交量442.48亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3072643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "中国央行1800亿元人民币3个月国库现金定期存款中标利率1.72%。",
+          "url": "https://wallstreetcn.com/livenews/3072866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         }
       ]
     },
@@ -707,68 +815,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "上期所原油期货2605合约夜盘收涨4.91%，报788.10元人民币/桶。 沪金夜盘收跌2.23%，沪银收跌4.44%。",
-          "url": "https://wallstreetcn.com/livenews/3072625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
-        },
-        {
-          "title": "周三（3月18日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.9004元，较周二纽约尾盘跌174点，日内整体交投于6.8721-6.9042元区间。",
-          "url": "https://wallstreetcn.com/livenews/3072697",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时23分]"
-        },
-        {
-          "title": "中国2月Swift人民币在全球支付中占比 2.74%，前值3.13%。",
-          "url": "https://flash.jin10.com/detail/20260319090100628800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8879元，较周二夜盘收盘跌29点。成交量442.48亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3072643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "中国央行1800亿元人民币3个月国库现金定期存款中标利率1.72%。",
-          "url": "https://wallstreetcn.com/livenews/3072866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时13分"
         }
       ]
     },
@@ -871,8 +917,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时44分 ~ 14时45分]"
+          "appearance_count": 3,
+          "time_info": "[14时44分 ~ 15时40分]"
         },
         {
           "title": "美国联邦航空管理局（FAA）：已取消对蒙特利尔国际机场的地面停飞令。",
