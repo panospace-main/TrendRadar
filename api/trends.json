@@ -1,12 +1,43 @@
 {
-  "generated_at": "2026-03-21T15:27:13.212760+08:00",
-  "total_titles_processed": 1075,
+  "generated_at": "2026-03-21T16:20:43.162397+08:00",
+  "total_titles_processed": 1149,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
+        {
+          "title": "特朗普称正考虑逐步降级对伊朗的军事行动",
+          "url": "https://www.cls.cn/detail/2320213",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            5,
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时19分 ~ 16时20分]"
+        },
+        {
+          "title": "美国或向中东增派数千士兵，特朗普先称不想停火、后称考虑对伊军事行动逐步降级，伊朗威胁毁灭性打击美以“邪恶官员”",
+          "url": "https://wallstreetcn.com/articles/3768030",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时19分 ~ 16时20分]"
+        },
         {
           "title": "特朗普据称考虑占领或封锁哈尔克岛 以迫使伊朗重开霍尔木兹海峡",
           "url": "https://www.cls.cn/detail/2320056",
@@ -14,11 +45,24 @@
           "ranks": [
             5,
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 15时27分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 16时20分]"
+        },
+        {
+          "title": "美日领导人会晤，特朗普只想聊伊朗",
+          "url": "https://news.ifeng.com/c/8rfOa2ro7FJ",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时04分 ~ 16时20分]"
         },
         {
           "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
@@ -30,47 +74,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时31分 ~ 05时21分]"
-        },
-        {
-          "title": "特朗普称正考虑逐步降级对伊朗的军事行动",
-          "url": "https://www.cls.cn/detail/2320213",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时19分 ~ 15时27分]"
-        },
-        {
-          "title": "美国或向中东增派数千士兵，特朗普先称不想停火、后称考虑对伊军事行动逐步降级，伊朗威胁毁灭性打击美以“邪恶官员”",
-          "url": "https://wallstreetcn.com/articles/3768030",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时19分 ~ 15时27分]"
-        },
-        {
-          "title": "美日领导人会晤，特朗普只想聊伊朗",
-          "url": "https://news.ifeng.com/c/8rfOa2ro7FJ",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时04分 ~ 15时27分]"
         },
         {
           "title": "向特朗普提问的日本记者，遭疯狂网暴",
@@ -110,8 +113,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 15时27分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 16时20分]"
         },
         {
           "title": "高市早苗抵达白宫，特朗普张开双臂欢迎，两人热情拥抱",
@@ -129,15 +132,18 @@
           "time_info": "[00时31分 ~ 11时56分]"
         },
         {
-          "title": "美以伊战争丨特朗普：当美想结束冲突时，以也会同步",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
+          "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32802192",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            12,
+            8,
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时21分 ~ 06时18分]"
+          "appearance_count": 7,
+          "time_info": "[11时55分 ~ 16时20分]"
         },
         {
           "title": "特朗普称正考虑降级对伊行动 贵金属价格延续跌势 | 环球市场",
@@ -149,8 +155,30 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时04分 ~ 16时20分]"
+        },
+        {
+          "title": "美以伊战争丨特朗普：当美想结束冲突时，以也会同步",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时21分 ~ 06时18分]"
+        },
+        {
+          "title": "“谁是主子，谁是奴才？”特朗普给高市上课",
+          "url": "https://news.ifeng.com/c/8rfRldwHGa7",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时04分 ~ 15时27分]"
+          "time_info": "[11时55分 ~ 16时20分]"
         },
         {
           "title": "美以伊战争丨特朗普：正考虑逐步降级对伊朗军事行动",
@@ -164,17 +192,6 @@
           "time_info": "[07时19分 ~ 07时20分]"
         },
         {
-          "title": "“谁是主子，谁是奴才？”特朗普给高市上课",
-          "url": "https://news.ifeng.com/c/8rfRldwHGa7",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时55分 ~ 15时27分]"
-        },
-        {
           "title": "特朗普：目前不想停火 霍尔木兹海峡会自动开放",
           "url": "https://flash.jin10.com/detail/20260321041434327800",
           "source": "金十数据",
@@ -185,19 +202,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时21分 ~ 09时04分]"
-        },
-        {
-          "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32802192",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时55分 ~ 15时27分]"
         },
         {
           "title": "【美国防官员已为向伊朗部署地面部队制定详尽方案】3月20日获悉，美国国防部官员已为向伊朗部署美国地面部队制定了详尽的准备方案。据悉，特朗普一直在权衡是否要在该地区部署地面部队。目前尚不清楚他会在何种情况下授权动用地面部队。（央视）",
@@ -489,6 +493,17 @@
           "time_info": "09时04分"
         },
         {
+          "title": "默茨说特朗普对他不太满意",
+          "url": "https://flash.jin10.com/detail/20260321154534112800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
           "title": "美国内政部长伯古姆：特朗普的能源战略正是为此时刻而设。",
           "url": "https://flash.jin10.com/detail/20260321031857561800",
           "source": "金十数据",
@@ -659,8 +674,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时19分 ~ 15时27分]"
+          "appearance_count": 10,
+          "time_info": "[07时19分 ~ 16时20分]"
+        },
+        {
+          "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
+          "url": "https://wallstreetcn.com/articles/3767994",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时04分 ~ 16时20分]"
         },
         {
           "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
@@ -675,19 +701,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 15时27分]"
-        },
-        {
-          "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
-          "url": "https://wallstreetcn.com/articles/3767994",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时04分 ~ 15时27分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 16时20分]"
         },
         {
           "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
@@ -710,11 +725,12 @@
             9,
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时55分 ~ 15时27分]"
+          "appearance_count": 7,
+          "time_info": "[11时55分 ~ 16时20分]"
         },
         {
           "title": "中东局势恶化叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
@@ -1072,8 +1088,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时02分 ~ 15时27分]"
+          "appearance_count": 5,
+          "time_info": "[13时02分 ~ 16时20分]"
         },
         {
           "title": "两年期美债收益率本周涨超18个基点",
@@ -1147,8 +1163,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时55分 ~ 15时27分]"
+          "appearance_count": 7,
+          "time_info": "[11时55分 ~ 16时20分]"
         },
         {
           "title": "国家发展改革委、农业农村部召开生猪养殖企业座谈会",
@@ -1158,8 +1174,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时04分 ~ 15时27分]"
+          "appearance_count": 7,
+          "time_info": "[09时04分 ~ 16时20分]"
         }
       ]
     },
@@ -1197,11 +1213,12 @@
             25,
             20,
             26,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 15时27分]"
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 16时20分]"
         }
       ]
     },
