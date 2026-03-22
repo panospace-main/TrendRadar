@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T14:38:23.673118+08:00",
-  "total_titles_processed": 864,
+  "generated_at": "2026-03-22T15:33:06.630340+08:00",
+  "total_titles_processed": 919,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时17分 ~ 14时38分]"
+          "appearance_count": 19,
+          "time_info": "[00时17分 ~ 15时33分]"
         },
         {
           "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时17分 ~ 07时16分]"
+        },
+        {
+          "title": "语气再变！特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂，伊朗回应：或反击三类设施",
+          "url": "https://wallstreetcn.com/articles/3768068",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时10分 ~ 15时33分]"
         },
         {
           "title": "江学勤教授预警：特朗普或启动全美征兵",
@@ -71,11 +82,12 @@
           "ranks": [
             8,
             9,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时17分 ~ 14时38分]"
+          "appearance_count": 19,
+          "time_info": "[00时17分 ~ 15时33分]"
         },
         {
           "title": "美以伊战争丨伊朗：若地面入侵，将给特朗普“惊喜”",
@@ -101,17 +113,6 @@
           "time_info": "[00时17分 ~ 09时12分]"
         },
         {
-          "title": "语气再变！特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂，伊朗回应：或反击三类设施",
-          "url": "https://wallstreetcn.com/articles/3768068",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时10分 ~ 14时38分]"
-        },
-        {
           "title": "美国总统特朗普：如果民主党人不同意向国土安全部拨款，我将在下周一让移民与海关执法局（ICE）特工前往机场。",
           "url": "https://flash.jin10.com/detail/20260322014423191800",
           "source": "金十数据",
@@ -125,6 +126,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时22分 ~ 07时16分]"
+        },
+        {
+          "title": "特朗普要求伊朗48小时内开放霍尔木兹海峡，威胁摧毁发电厂",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32809575",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时10分 ~ 15时33分]"
         },
         {
           "title": "美媒：特朗普团队正在为可能的伊朗和平谈判制定策略",
@@ -148,23 +161,46 @@
             3,
             9,
             15,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时12分 ~ 14时38分]"
+          "appearance_count": 5,
+          "time_info": "[09时12分 ~ 15时33分]"
         },
         {
-          "title": "特朗普要求伊朗48小时内开放霍尔木兹海峡，威胁摧毁发电厂",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32809575",
+          "title": "伊朗回应特朗普袭击电厂威胁：若遭袭将打击美及其盟友关键设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32809836",
           "source": "澎湃新闻",
           "ranks": [
             11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时45分 ~ 15时33分]"
+        },
+        {
+          "title": "美国前FBI局长米勒去世，曾负责特朗普“通俄门”调查",
+          "url": "https://news.ifeng.com/c/8rhPSWAl42N",
+          "source": "凤凰网",
+          "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时10分 ~ 14时38分]"
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 15时33分]"
+        },
+        {
+          "title": "在高市面前提珍珠港，特朗普二儿子夸父亲答得好",
+          "url": "https://news.ifeng.com/c/8rhITNvbPgx",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 15时33分]"
         },
         {
           "title": "伊朗回应特朗普袭击电厂威胁",
@@ -177,18 +213,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时10分 ~ 13时46分]"
-        },
-        {
-          "title": "伊朗回应特朗普袭击电厂威胁：若遭袭将打击美及其盟友关键设施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32809836",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时45分 ~ 14时38分]"
         },
         {
           "title": "美国总统特朗普：如果激进左翼民主党人不立即签署协议，让我们的国家，特别是我们的机场，再次获得自由和安全，我将把移民执法局（ICE）特工调往机场，他们将执行前所未有的安保措施，包括立即逮捕所有非法入境的移民，重点打击来自索马里的非法移民。",
@@ -237,28 +261,6 @@
           "time_info": "09时12分"
         },
         {
-          "title": "美国前FBI局长米勒去世，曾负责特朗普“通俄门”调查",
-          "url": "https://news.ifeng.com/c/8rhPSWAl42N",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
-          "title": "在高市面前提珍珠港，特朗普二儿子夸父亲答得好",
-          "url": "https://news.ifeng.com/c/8rhITNvbPgx",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
           "title": "特朗普要求伊朗开放霍尔木兹海峡",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E4%BC%8A%E6%9C%97%E5%BC%80%E6%94%BE%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -298,6 +300,20 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            21,
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时12分 ~ 15时33分]"
+        },
+        {
           "title": "国际金价为何八连跌",
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E4%B8%BA%E4%BD%95%E5%85%AB%E8%BF%9E%E8%B7%8C",
           "source": "bilibili 热搜",
@@ -307,19 +323,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时12分 ~ 14时38分]"
         },
         {
           "title": "国际金价“八连跌”",
@@ -393,8 +396,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时17分 ~ 14时38分]"
+          "appearance_count": 19,
+          "time_info": "[00时17分 ~ 15时33分]"
         },
         {
           "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
@@ -439,6 +442,37 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时22分 ~ 04时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "农业 机械",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "肥料卡脖子,日本农业遭重",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352143&amp;topic_name=%E8%82%A5%E6%96%99%E5%8D%A1%E8%84%96%E5%AD%90%2C%E6%97%A5%E6%9C%AC%E5%86%9C%E4%B8%9A%E9%81%AD%E9%87%8D",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            12,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时17分 ~ 15时33分]"
+        },
+        {
+          "title": "中国空间站机械臂带你看地球",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E6%9C%BA%E6%A2%B0%E8%87%82%E5%B8%A6%E4%BD%A0%E7%9C%8B%E5%9C%B0%E7%90%83%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时32分 ~ 15时33分]"
         }
       ]
     },
@@ -488,27 +522,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时17分 ~ 14时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农业 机械",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "肥料卡脖子,日本农业遭重",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352143&amp;topic_name=%E8%82%A5%E6%96%99%E5%8D%A1%E8%84%96%E5%AD%90%2C%E6%97%A5%E6%9C%AC%E5%86%9C%E4%B8%9A%E9%81%AD%E9%87%8D",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时17分 ~ 14时38分]"
+          "appearance_count": 19,
+          "time_info": "[00时17分 ~ 15时33分]"
         }
       ]
     },
