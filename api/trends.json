@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-22T17:23:15.833301+08:00",
-  "total_titles_processed": 1051,
+  "generated_at": "2026-03-22T18:17:54.560630+08:00",
+  "total_titles_processed": 1115,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "语气再变！特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂，伊朗回应：或反击三类设施",
+          "url": "https://wallstreetcn.com/articles/3768068",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时10分 ~ 18时17分]"
+        },
         {
           "title": "美国或向中东增派数千士兵，特朗普先称不想停火、后称考虑对伊军事行动逐步降级，伊朗威胁毁灭性打击美以“邪恶官员”",
           "url": "https://wallstreetcn.com/articles/3768030",
@@ -27,19 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时17分 ~ 17时23分]"
-        },
-        {
-          "title": "语气再变！特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂，伊朗回应：或反击三类设施",
-          "url": "https://wallstreetcn.com/articles/3768068",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时10分 ~ 17时23分]"
+          "appearance_count": 23,
+          "time_info": "[00时17分 ~ 18时17分]"
         },
         {
           "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
@@ -121,8 +121,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时45分 ~ 17时23分]"
+          "appearance_count": 9,
+          "time_info": "[13时45分 ~ 18时17分]"
         },
         {
           "title": "特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂",
@@ -142,6 +142,28 @@
           "time_info": "[09时12分 ~ 17时23分]"
         },
         {
+          "title": "美国前FBI局长米勒去世，曾负责特朗普“通俄门”调查",
+          "url": "https://news.ifeng.com/c/8rhPSWAl42N",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时38分 ~ 18时17分]"
+        },
+        {
+          "title": "在高市面前提珍珠港，特朗普二儿子夸父亲答得好",
+          "url": "https://news.ifeng.com/c/8rhITNvbPgx",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时38分 ~ 18时17分]"
+        },
+        {
           "title": "美国总统特朗普：如果民主党人不同意向国土安全部拨款，我将在下周一让移民与海关执法局（ICE）特工前往机场。",
           "url": "https://flash.jin10.com/detail/20260322014423191800",
           "source": "金十数据",
@@ -157,17 +179,6 @@
           "time_info": "[02时22分 ~ 07时16分]"
         },
         {
-          "title": "美国前FBI局长米勒去世，曾负责特朗普“通俄门”调查",
-          "url": "https://news.ifeng.com/c/8rhPSWAl42N",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时38分 ~ 17时23分]"
-        },
-        {
           "title": "特朗普要求伊朗48小时内开放霍尔木兹海峡，威胁摧毁发电厂",
           "url": "https://m.thepaper.cn/newsDetail_forward_32809575",
           "source": "澎湃新闻",
@@ -178,28 +189,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时10分 ~ 15时33分]"
-        },
-        {
-          "title": "在高市面前提珍珠港，特朗普二儿子夸父亲答得好",
-          "url": "https://news.ifeng.com/c/8rhITNvbPgx",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时38分 ~ 17时23分]"
-        },
-        {
-          "title": "英国内阁大臣里德：（在被问及英国对美国总统特朗普48小时伊朗最后通牒的立场时）美国总统特朗普只是在代表他自己发言。",
-          "url": "https://flash.jin10.com/detail/20260322164923102800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时23分"
         },
         {
           "title": "美媒：特朗普团队正在为可能的伊朗和平谈判制定策略",
@@ -214,6 +203,29 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时17分 ~ 07时16分]"
+        },
+        {
+          "title": "美媒：特朗普团队已密谋与伊朗“和谈”，细节曝光",
+          "url": "https://news.ifeng.com/c/8rhkJWR8tiE",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "英国内阁大臣里德：（在被问及英国对美国总统特朗普48小时伊朗最后通牒的立场时）美国总统特朗普只是在代表他自己发言。",
+          "url": "https://flash.jin10.com/detail/20260322164923102800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 18时17分]"
         },
         {
           "title": "伊朗回应特朗普袭击电厂威胁",
@@ -274,6 +286,28 @@
           "time_info": "09时12分"
         },
         {
+          "title": "若特朗普兑现威胁 伊朗天然气发电厂恐遭袭击",
+          "url": "https://flash.jin10.com/detail/20260322173327101800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "周末要闻汇总：特朗普考虑逐步降级对伊朗的军事行动；宇树IPO申请获受理",
+          "url": "https://www.cls.cn/detail/2320568",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "特朗普要求伊朗开放霍尔木兹海峡",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E4%BC%8A%E6%9C%97%E5%BC%80%E6%94%BE%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -310,7 +344,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "金价",
@@ -327,17 +361,6 @@
           "time_info": "[09时12分 ~ 16时22分]"
         },
         {
-          "title": "金价还能涨回来吗？",
-          "url": "https://flash.jin10.com/detail/20260322163613272800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时23分"
-        },
-        {
           "title": "国际金价为何八连跌",
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E4%B8%BA%E4%BD%95%E5%85%AB%E8%BF%9E%E8%B7%8C",
           "source": "bilibili 热搜",
@@ -347,6 +370,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        },
+        {
+          "title": "金价还能涨回来吗？",
+          "url": "https://flash.jin10.com/detail/20260322163613272800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 18时17分]"
         },
         {
           "title": "国际金价“八连跌”",
@@ -382,6 +417,17 @@
           "time_info": "16时22分"
         },
         {
+          "title": "专家：金价有一些回调是正常的",
+          "url": "https://www.toutiao.com/trending/7619248018004836406/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "金价大跌原因找到了",
           "url": "https://flash.jin10.com/detail/20260321221312750800",
           "source": "金十数据",
@@ -391,6 +437,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "本轮金价暴跌原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%AC%E8%BD%AE%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "金价八连跌消费者还是不敢买",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%85%AB%E8%BF%9E%E8%B7%8C%E6%B6%88%E8%B4%B9%E8%80%85%E8%BF%98%E6%98%AF%E4%B8%8D%E6%95%A2%E4%B9%B0%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         }
       ]
     },
@@ -431,8 +499,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时17分 ~ 17时23分]"
+          "appearance_count": 23,
+          "time_info": "[00时17分 ~ 18时17分]"
         },
         {
           "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
@@ -496,8 +564,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时17分 ~ 17时23分]"
+          "appearance_count": 23,
+          "time_info": "[00时17分 ~ 18时17分]"
         },
         {
           "title": "中国空间站机械臂带你看地球",
@@ -559,8 +627,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时17分 ~ 17时23分]"
+          "appearance_count": 23,
+          "time_info": "[00时17分 ~ 18时17分]"
         }
       ]
     },
