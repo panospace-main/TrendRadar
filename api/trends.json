@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T02:39:02.176455+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-03-24T03:49:55.986854+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 38,
       "titles": [
         {
           "title": "称伊对话“富有成效”，特朗普“推迟5天”打击伊朗发电站，伊朗断然否认",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 02时39分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 03时49分]"
         },
         {
           "title": "特朗普称同伊朗已形成协议要点",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 02时39分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 03时49分]"
         },
         {
           "title": "特朗普：美伊过去两天已进行对话",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 02时39分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 03时49分]"
         },
         {
           "title": "特朗普：同伊朗对话“完美” 已形成协议要点，伊斯兰堡会谈遭伊否认",
@@ -59,8 +59,114 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时38分 ~ 02时39分]"
+          "appearance_count": 3,
+          "time_info": "[02时38分 ~ 03时49分]"
+        },
+        {
+          "title": "特朗普称同伊朗已形成协议要点",
+          "url": "https://www.toutiao.com/trending/7620316859677786155/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 03时49分]"
+        },
+        {
+          "title": "靠“夺取哈尔克岛”，特朗普能让“霍尔木兹海峡”重开吗？",
+          "url": "https://wallstreetcn.com/articles/3768111",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 03时49分]"
+        },
+        {
+          "title": "特朗普称同伊朗已形成协议要点",
+          "url": "https://www.cls.cn/detail/2322071",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 03时49分]"
+        },
+        {
+          "title": "伊朗否认与美国沟通，此前特朗普称已与伊朗对话，将推迟五天打击伊朗发电站，如何看待此事？战争要结束了吗？",
+          "url": "https://www.zhihu.com/question/2019499450662348649",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 03时49分]"
+        },
+        {
+          "title": "美以伊战争丨特朗普：这一次，伊朗是认真的",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时49分"
+        },
+        {
+          "title": "特朗普称美伊进行了富有成效的对话",
+          "url": "https://www.toutiao.com/trending/7619517736586821695/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 03时49分]"
+        },
+        {
+          "title": "特朗普称已与伊朗对话，将暂停打击其能源设施5天",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32815385",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 03时49分]"
+        },
+        {
+          "title": "中方回应特朗普向伊朗发出最后通牒",
+          "url": "https://www.toutiao.com/trending/7620351961246924809/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 03时49分]"
+        },
+        {
+          "title": "特朗普称美伊已对话",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E4%BC%8A%E5%B7%B2%E5%AF%B9%E8%AF%9D%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 03时49分]"
         },
         {
           "title": "美国总统特朗普：所有在打击犯罪特别小组服役的国民警卫队成员，都将享受与现役军人同等的待遇。",
@@ -74,96 +180,26 @@
           "time_info": "01时44分"
         },
         {
-          "title": "特朗普称同伊朗已形成协议要点",
-          "url": "https://www.toutiao.com/trending/7620316859677786155/",
-          "source": "今日头条",
+          "title": "以总理：特朗普认为可借军事成果推动达成协议",
+          "url": "https://wallstreetcn.com/livenews/3075390",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            2
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 02时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时49分"
         },
         {
-          "title": "靠“夺取哈尔克岛”，特朗普能让“霍尔木兹海峡”重开吗？",
-          "url": "https://wallstreetcn.com/articles/3768111",
-          "source": "华尔街见闻",
+          "title": "央视：特朗普称与伊朗谈判，有四重目的",
+          "url": "https://wallstreetcn.com/livenews/3075389",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 02时39分]"
-        },
-        {
-          "title": "特朗普称同伊朗已形成协议要点",
-          "url": "https://www.cls.cn/detail/2322071",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 02时39分]"
-        },
-        {
-          "title": "伊朗否认与美国沟通，此前特朗普称已与伊朗对话，将推迟五天打击伊朗发电站，如何看待此事？战争要结束了吗？",
-          "url": "https://www.zhihu.com/question/2019499450662348649",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 02时39分]"
-        },
-        {
-          "title": "特朗普称美伊进行了富有成效的对话",
-          "url": "https://www.toutiao.com/trending/7619517736586821695/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 02时39分]"
-        },
-        {
-          "title": "特朗普称已与伊朗对话，将暂停打击其能源设施5天",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32815385",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 02时39分]"
-        },
-        {
-          "title": "中方回应特朗普向伊朗发出最后通牒",
-          "url": "https://www.toutiao.com/trending/7620351961246924809/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 02时39分]"
-        },
-        {
-          "title": "特朗普称美伊已对话",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E4%BC%8A%E5%B7%B2%E5%AF%B9%E8%AF%9D%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 02时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时49分"
         },
         {
           "title": "美国总统特朗普：与伊朗达成协议的机会非常大。",
@@ -214,6 +250,44 @@
           "time_info": "[01时18分 ~ 01时44分]"
         },
         {
+          "title": "欧洲天然气期货跌约6%，投资者关注特朗普的“与伊朗谈判”论调",
+          "url": "https://wallstreetcn.com/livenews/3075357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 03时49分]"
+        },
+        {
+          "title": "两年期德债收益率周一跌约10个基点，投资者权衡特朗普抛出的“与伊朗谈判”信息",
+          "url": "https://wallstreetcn.com/livenews/3075354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 03时49分]"
+        },
+        {
+          "title": "伊朗称特朗普推迟袭击表态为心理战",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E6%8E%A8%E8%BF%9F%E8%A2%AD%E5%87%BB%E8%A1%A8%E6%80%81%E4%B8%BA%E5%BF%83%E7%90%86%E6%88%98%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时38分 ~ 03时49分]"
+        },
+        {
           "title": "美国总统特朗普：我们已经消灭了伊朗境内所有值得消灭的对象，包括其领导人。",
           "url": "https://flash.jin10.com/detail/20260324004757885800",
           "source": "金十数据",
@@ -224,18 +298,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 01时44分]"
-        },
-        {
-          "title": "欧洲天然气期货跌约6%，投资者关注特朗普的“与伊朗谈判”论调",
-          "url": "https://wallstreetcn.com/livenews/3075357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 02时39分]"
         },
         {
           "title": "美国总统特朗普：正与伊朗进行磋商，以确定能否达成更广泛的协议。这次伊朗是认真的，他们想解决问题。",
@@ -250,18 +312,6 @@
           "time_info": "[01时18分 ~ 01时44分]"
         },
         {
-          "title": "两年期德债收益率周一跌约10个基点，投资者权衡特朗普抛出的“与伊朗谈判”信息",
-          "url": "https://wallstreetcn.com/livenews/3075354",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 02时39分]"
-        },
-        {
           "title": "特朗普称正就达成更广泛协议与伊朗磋商：伊朗是认真的，他们想要达成和解",
           "url": "https://wallstreetcn.com/livenews/3075353",
           "source": "华尔街见闻-快讯",
@@ -274,17 +324,6 @@
           "time_info": "[01时44分 ~ 02时39分]"
         },
         {
-          "title": "伊朗称特朗普推迟袭击表态为心理战",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E6%8E%A8%E8%BF%9F%E8%A2%AD%E5%87%BB%E8%A1%A8%E6%80%81%E4%B8%BA%E5%BF%83%E7%90%86%E6%88%98%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时38分 ~ 02时39分]"
-        },
-        {
           "title": "美国总统特朗普：我们在需要的地方会出动国民警卫队。",
           "url": "https://flash.jin10.com/detail/20260324005426226800",
           "source": "金十数据",
@@ -294,6 +333,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "国际油价收跌超10%，投资者权衡特朗普声称的“与伊朗谈判”",
+          "url": "https://wallstreetcn.com/livenews/3075380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时49分"
         },
         {
           "title": "据以色列媒体Ynetglobal：在特朗普总统发表声明后，一位以色列官员表示，华盛顿已将4月9日定为结束战争的目标日期，这意味着约剩21天的时间用于持续的战斗和谈判。",
@@ -318,6 +368,17 @@
           "time_info": "01时44分"
         },
         {
+          "title": "特朗普政府对哈佛大学展开两项新的调查。",
+          "url": "https://flash.jin10.com/detail/20260324030806287800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时49分"
+        },
+        {
           "title": "据天空新闻；以色列安全消息人士表示，要对特朗普关于推迟对伊朗打击的说法“持保留态度”。",
           "url": "https://flash.jin10.com/detail/20260324002935925800",
           "source": "金十数据",
@@ -329,13 +390,35 @@
           "time_info": "01时18分"
         },
         {
+          "title": "以总理：特朗普认为可借军事成果推动达成协议",
+          "url": "https://flash.jin10.com/detail/20260324030558566800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时49分"
+        },
+        {
+          "title": "媒体分析：特朗普称与伊朗谈判有四重目的",
+          "url": "https://flash.jin10.com/detail/20260324030428229800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时49分"
+        },
+        {
           "title": "据半岛电视台：伊朗高级官员称特朗普无权对谈判施加条件或设定截止日期。",
           "url": "https://flash.jin10.com/detail/20260324014006892800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
         },
@@ -357,7 +440,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
         }
@@ -375,8 +458,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 02时39分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 03时49分]"
         },
         {
           "title": "特朗普“缓和信号”震动资本市场 欧美股市狂飙油金全线震荡",
@@ -386,8 +469,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 02时39分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 03时49分]"
         },
         {
           "title": "特朗普暂缓打击伊朗能源设施 美股三大期指均涨近2% | 今夜看点",
@@ -397,8 +480,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 02时39分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 03时49分]"
         },
         {
           "title": "美股",
@@ -407,11 +490,12 @@
           "ranks": [
             19,
             18,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 02时39分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 03时49分]"
         },
         {
           "title": "美股期指金银快速反弹",
@@ -420,11 +504,12 @@
           "ranks": [
             22,
             19,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 02时39分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 03时49分]"
         },
         {
           "title": "数字货币市场在美股盘前短线拉升，比特币、以太币目前涨超3%",
@@ -453,19 +538,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 02时39分]"
-        },
-        {
-          "title": "金价大跌后还会回升吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%90%8E%E8%BF%98%E4%BC%9A%E5%9B%9E%E5%8D%87%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 02时39分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 03时49分]"
         },
         {
           "title": "金价急跌原因",
@@ -475,8 +549,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 02时39分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 03时49分]"
         },
         {
           "title": "金价接连失守4500、4400、4300、4200、4100美元，避险功能为何“失灵”？",
@@ -484,7 +558,19 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            18
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 03时49分]"
+        },
+        {
+          "title": "金价大跌后还会回升吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%90%8E%E8%BF%98%E4%BC%9A%E5%9B%9E%E5%8D%87%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -504,8 +590,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 02时39分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 03时49分]"
         },
         {
           "title": "十大券商看后市｜A股继续大幅下探的空间有限，不宜盲目杀跌",
@@ -513,11 +599,68 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 02时39分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 03时49分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "航天 航空",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国交通部长达菲：十名美国联邦航空局工作人员赴纽约调查加拿大快运航空公司事件。",
+          "url": "https://flash.jin10.com/detail/20260324033526944800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时49分"
+        },
+        {
+          "title": "市场消息：德国汉莎航空将部分中东航班削减计划延长至十月。",
+          "url": "https://flash.jin10.com/detail/20260324015317252800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8795元，较上周五夜盘收盘涨255点。成交量506.57亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3075386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时49分"
+        },
+        {
+          "title": "上期所原油期货2605合约夜盘收跌7.81%，报742.20元人民币/桶。 沪金夜盘收跌1.30%，沪银收涨3.47%。",
+          "url": "https://wallstreetcn.com/livenews/3075379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时49分"
         }
       ]
     },
@@ -530,11 +673,12 @@
           "url": "https://wallstreetcn.com/livenews/3075367",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 03时49分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：（谈退出美国核聚变初创公司Helion董事会）随着Helion和OpenAI开始探索合作，我很难同时兼任两家公司的董事。",
@@ -543,24 +687,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "航天 航空",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "市场消息：德国汉莎航空将部分中东航班削减计划延长至十月。",
-          "url": "https://flash.jin10.com/detail/20260324015317252800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
         }
