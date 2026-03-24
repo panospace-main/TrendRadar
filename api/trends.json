@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-24T19:38:42.815901+08:00",
-  "total_titles_processed": 1719,
+  "generated_at": "2026-03-24T20:44:59.932256+08:00",
+  "total_titles_processed": 1812,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时18分 ~ 19时38分]"
+          "appearance_count": 24,
+          "time_info": "[01时18分 ~ 20时44分]"
         },
         {
           "title": "特朗普称同伊朗已形成协议要点",
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[06时38分 ~ 19时38分]"
+          "appearance_count": 16,
+          "time_info": "[06时38分 ~ 20时44分]"
         },
         {
           "title": "特朗普称同伊朗已形成协议要点",
@@ -104,8 +104,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时08分 ~ 19时38分]"
+          "appearance_count": 12,
+          "time_info": "[12时08分 ~ 20时44分]"
         },
         {
           "title": "不光期货异动？预测市场也暗示有“内鬼”知道特朗普要发贴……",
@@ -119,8 +119,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时53分 ~ 19时38分]"
+          "appearance_count": 10,
+          "time_info": "[13时53分 ~ 20时44分]"
         },
         {
           "title": "美以伊战争丨特朗普：这一次，伊朗是认真的",
@@ -211,8 +211,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时08分 ~ 19时38分]"
+          "appearance_count": 12,
+          "time_info": "[12时08分 ~ 20时44分]"
         },
         {
           "title": "特朗普：同伊朗对话“完美”，已形成协议要点",
@@ -224,11 +224,12 @@
             17,
             13,
             10,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时06分 ~ 19时38分]"
+          "appearance_count": 13,
+          "time_info": "[09时06分 ~ 20时44分]"
         },
         {
           "title": "特朗普称美伊进行了富有成效的对话",
@@ -344,6 +345,32 @@
           "time_info": "[13时53分 ~ 17时45分]"
         },
         {
+          "title": "美伊到底“谈了吗”？特朗普立场突变背后的秘密外交和压力测试",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32818612",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时39分 ~ 20时44分]"
+        },
+        {
+          "title": "开始甩锅？特朗普谈中东点名美防长：是他第一个说要打伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32818073",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时39分 ~ 20时44分]"
+        },
+        {
           "title": "美国总统特朗普：所有在打击犯罪特别小组服役的国民警卫队成员，都将享受与现役军人同等的待遇。",
           "url": "https://flash.jin10.com/detail/20260324011538950800",
           "source": "金十数据",
@@ -389,19 +416,6 @@
           "time_info": "07时23分"
         },
         {
-          "title": "美伊到底“谈了吗”？特朗普立场突变背后的秘密外交和压力测试",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32818612",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时39分 ~ 19时38分]"
-        },
-        {
           "title": "特朗普为何称与伊朗完美谈判",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E7%A7%B0%E4%B8%8E%E4%BC%8A%E6%9C%97%E5%AE%8C%E7%BE%8E%E8%B0%88%E5%88%A4",
           "source": "bilibili 热搜",
@@ -414,18 +428,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时53分 ~ 19时38分]"
-        },
-        {
-          "title": "开始甩锅？特朗普谈中东点名美防长：是他第一个说要打伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32818073",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时39分 ~ 19时38分]"
         },
         {
           "title": "以总理：特朗普认为可借军事成果推动达成协议",
@@ -550,6 +552,19 @@
           "time_info": "[01时44分 ~ 03时49分]"
         },
         {
+          "title": "特朗普称推迟打击伊朗发电设施，外交部回应",
+          "url": "https://www.cls.cn/detail/2322947",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时41分 ~ 20时44分]"
+        },
+        {
           "title": "两年期德债收益率周一跌约10个基点，投资者权衡特朗普抛出的“与伊朗谈判”信息",
           "url": "https://wallstreetcn.com/livenews/3075354",
           "source": "华尔街见闻-快讯",
@@ -631,18 +646,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 01时44分]"
-        },
-        {
-          "title": "特朗普称推迟打击伊朗发电设施，外交部回应",
-          "url": "https://www.cls.cn/detail/2322947",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时41分 ~ 19时38分]"
         },
         {
           "title": "特朗普称正就达成更广泛协议与伊朗磋商：伊朗是认真的，他们想要达成和解",
@@ -767,7 +770,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -951,7 +954,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "十大券商看后市｜A股继续大幅下探的空间有限，不宜盲目杀跌",
@@ -1161,6 +1164,17 @@
           "time_info": "15时47分"
         },
         {
+          "title": "A股深V三大股指收涨：超5100股飘红，两市成交2万亿元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32819962",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
           "title": "金十数据整理：A股每日市场要闻回顾（2026-03-24）",
           "url": "https://flash.jin10.com/detail/20260324152013676800",
           "source": "金十数据",
@@ -1299,11 +1313,12 @@
             4,
             7,
             12,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时47分 ~ 19时38分]"
+          "appearance_count": 7,
+          "time_info": "[15时47分 ~ 20时44分]"
         },
         {
           "title": "金十图示：2026年03月23日（周一）美股热门股票行情一览（美股收盘）",
@@ -1362,8 +1377,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时41分 ~ 19时38分]"
+          "appearance_count": 3,
+          "time_info": "[18时41分 ~ 20时44分]"
         },
         {
           "title": "美伊和谈信号提振市场，美股期货盘前小幅上涨，现货黄金跌幅收窄，布油仍涨约2%",
@@ -1407,7 +1422,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -1418,7 +1433,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         }
@@ -1604,7 +1619,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "禾赛-W(02525.HK)：2025年全年净收入达人民币30.28亿元，全年净利润达人民币4.36亿元。2025年全年激光雷达出货量达1620406台。",
@@ -1676,6 +1691,18 @@
           "time_info": "[03时49分 ~ 04时29分]"
         },
         {
+          "title": "农夫山泉全年营收525.5亿元人民币，预估505.3亿元人民币。 农夫山泉全年净利润158.7亿元人民币，预估149.9亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3075924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时38分 ~ 20时44分]"
+        },
+        {
           "title": "小米集团第四季度营收1,169.2亿元人民币，市场预估1,163亿元人民币。 第四季度调整后净利润63.5亿元人民币，市场预估57.8亿元人民币。 第四季度毛利率20.8％，市场预估20.9％。 第四季度智能手机收入443.4亿元人民币。 第四季度汽车交付总量145115辆；全年汽车交付总量411082辆。 全年营收4,572.9亿元人民币，市场预估4,607.9亿元人民币。 全年调整后净利润391.7亿元人民币，市场预估391.2亿元人民币。",
           "url": "https://wallstreetcn.com/livenews/3075833",
           "source": "华尔街见闻-快讯",
@@ -1698,15 +1725,15 @@
           "time_info": "03时49分"
         },
         {
-          "title": "农夫山泉全年营收525.5亿元人民币，预估505.3亿元人民币。 农夫山泉全年净利润158.7亿元人民币，预估149.9亿元人民币。",
-          "url": "https://wallstreetcn.com/livenews/3075924",
-          "source": "华尔街见闻-快讯",
+          "title": "小米集团 2025 年调整后净利润 391.7 亿元人民币，同比增长 43.8%，怎样解读这一业绩？",
+          "url": "https://www.zhihu.com/question/2019829332076418709",
+          "source": "知乎",
           "ranks": [
-            12
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时38分"
+          "time_info": "20时44分"
         },
         {
           "title": "中海油服全年营收502.8亿元人民币，预估510亿元人民币。 全年净利润38.4亿元人民币，预估41.4亿元人民币。",
@@ -1867,8 +1894,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时06分 ~ 19时38分]"
+          "appearance_count": 13,
+          "time_info": "[09时06分 ~ 20时44分]"
         },
         {
           "title": "周一（3月23日）纽约尾盘，美国10年期国债收益率跌4.75个基点，报4.3321%，北京时间19:05出现一波跳水行情，从4.44%附近迅速跌至4.3005刷新日低。 两年期美债收益率跌6.31个基点，报3.8349%；30年期美债收益率跌3.27个基点，报4.9050%。 2/10年期美债收益率利差涨1.972，报+49.494个基点。 10年期通胀保值国债（TIPS）收益率持平，至1.9893%；两年期TIPS收益率涨12.26个基点，至0.6422%；30年期TIPS收益率跌2.11个基点，至2.6869%。",
