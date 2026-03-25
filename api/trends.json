@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T09:11:51.561281+08:00",
-  "total_titles_processed": 875,
+  "generated_at": "2026-03-25T12:10:24.314646+08:00",
+  "total_titles_processed": 1069,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "信口雌黄、反复无常？特朗普告诉“华尔街空头”：撒谎可耻但有用！",
@@ -28,11 +28,12 @@
             12,
             13,
             14,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 09时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 12时10分]"
         },
         {
           "title": "开始甩锅？特朗普谈中东点名美防长：是他第一个说要打伊朗",
@@ -89,11 +90,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 09时11分]"
+          "appearance_count": 3,
+          "time_info": "[07时22分 ~ 12时10分]"
         },
         {
           "title": "特朗普：同伊朗对话“完美”、已形成协议要点，正就达成更广泛协议与伊磋商",
@@ -113,7 +115,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -138,6 +140,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
+        },
+        {
+          "title": "特朗普称美伊谈判“可能已相当接近达成协议”、伊朗同意永不拥有核武，报道称美国有意停火一个月、提15条和谈方案",
+          "url": "https://wallstreetcn.com/articles/3768302",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时22分 ~ 12时10分]"
         },
         {
           "title": "特朗普政府的官员们准备对夏季汽油销售实施E15豁免。",
@@ -171,18 +185,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
-        },
-        {
-          "title": "特朗普称美伊谈判“可能已相当接近达成协议”、伊朗同意永不拥有核武，报道称美国有意停火一个月、提15条和谈方案",
-          "url": "https://wallstreetcn.com/articles/3768302",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 09时11分]"
         },
         {
           "title": "【美第82空降师约3000人将赴中东】3月24日，美国第82空降师部分部队即将部署至中东地区。目前相关命令正在制定中，预计将在接到指令后迅速出发。消息称，此次调动将包括地面作战部队及负责后勤与作战规划的指挥单元。第82空降师常备一支约3000人的“即时反应部队”，可在约18小时内部署至全球任一地区。该部队隶属于轻步兵编制，擅长通过空降方式快速进入争议地区执行任务，驻地位于北卡罗来纳州布拉格堡。3月24日，白宫表示，在总统特朗普考虑外交选项的同时，美国对伊朗的军事行动仍在“持续进行、未有减弱”。(央视新闻)",
@@ -221,6 +223,18 @@
           "time_info": "[06时21分 ~ 07时22分]"
         },
         {
+          "title": "美国向伊朗抛出“15点橄榄枝”，特朗普自信发言会再被“打脸”吗？",
+          "url": "https://www.cls.cn/detail/2323682",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 12时10分]"
+        },
+        {
           "title": "【特朗普转发巴基斯坦总理倡议，支持巴方主办美伊会谈】3月24日，美国总统特朗普转发了巴基斯坦总理夏巴兹提出的倡议，支持由巴方主办美伊之间“有意义且具决定性”的会谈。（央视）",
           "url": "https://wallstreetcn.com/livenews/3076089",
           "source": "华尔街见闻-快讯",
@@ -238,11 +252,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 09时11分]"
+          "appearance_count": 3,
+          "time_info": "[07时22分 ~ 12时10分]"
         },
         {
           "title": "美国总统特朗普：在伊朗取得了巨大成功。",
@@ -309,17 +324,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
-        },
-        {
-          "title": "美国向伊朗抛出“15点橄榄枝”，特朗普自信发言会再被“打脸”吗？",
-          "url": "https://www.cls.cn/detail/2323682",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时11分"
         },
         {
           "title": "美国总统特朗普：他们（国会山驴象两党）接近就国土安全部（DHS）预算拨款问题达成共识了。",
@@ -443,6 +447,17 @@
           "time_info": "03时47分"
         },
         {
+          "title": "口碑崩盘！特朗普支持率跌至重返白宫以来最低",
+          "url": "https://flash.jin10.com/detail/20260325114114672800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
           "title": "美国总统特朗普：（谈伊朗）我认为可以说，这是一次政权更迭。",
           "url": "https://flash.jin10.com/detail/20260325024026103800",
           "source": "金十数据",
@@ -504,7 +519,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         }
@@ -512,7 +527,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "消息人士称，OpenAI将终止与迪士尼的合作。",
@@ -524,6 +539,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         },
         {
           "title": "OpenAI旗下文生视频Sora确认，该部门将不会再得到公司的支持。（彭博）",
@@ -587,6 +613,17 @@
           "time_info": "00时51分"
         },
         {
+          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
+          "url": "https://www.cls.cn/detail/2323711",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
           "title": "据The Information：OpenAI创始人奥尔特曼调整职责分工，并筹备推出SPUD新型人工智能模型。",
           "url": "https://flash.jin10.com/detail/20260325041357943800",
           "source": "金十数据",
@@ -629,6 +666,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
+        },
+        {
+          "title": "OpenAI 将停止 Sora 视频生成服务，以精简产品线，这透露出哪些行业信号？",
+          "url": "https://www.zhihu.com/question/2020036375211157322",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         },
         {
           "title": "Shopify：从本周开始，数百万商家可以通过Agentic店面向ChatGPT用户销售商品。",
@@ -857,22 +905,35 @@
             13,
             12,
             14,
-            15
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 09时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 12时10分]"
         },
         {
           "title": "美股收盘：中东增兵与谈判信号交错 三大指数再度回落",
           "url": "https://www.cls.cn/detail/2323617",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时22分 ~ 12时10分]"
+        },
+        {
+          "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
+          "url": "https://wallstreetcn.com/articles/3768212",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时22分 ~ 09时11分]"
+          "time_info": "[09时11分 ~ 12时10分]"
         },
         {
           "title": "地缘信号反复切换，美股当日收跌、但盘后大涨1%，原油日内涨幅抹平，加密货币下挫",
@@ -884,17 +945,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
-        },
-        {
-          "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
-          "url": "https://wallstreetcn.com/articles/3768212",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时11分"
         },
         {
           "title": "网络股指数ETF收跌超2.3%，领跌美股行业ETF，标普能源板块涨2%",
@@ -1025,6 +1075,154 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "A股深V三大股指收涨：超5100股飘红，两市成交2万亿元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32819962",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 12时10分]"
+        },
+        {
+          "title": "业内：A股市场估值有望在中期获修复",
+          "url": "https://www.toutiao.com/trending/7620658555000832019/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
+          "title": "A股市场反弹，抄底资金增持宽基ETF",
+          "url": "https://wallstreetcn.com/livenews/3076238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "A股午评：深成指、创业板指半日涨超1% 电力板块延续强势",
+          "url": "https://flash.jin10.com/detail/20260325114615266800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
+          "title": "A股旅游板块震荡走强，桂林旅游封涨停，西域旅游、大连圣亚、锦江酒店、峨眉山A、金陵饭店跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3076353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
+          "title": "业内：A股后续将更趋“以我为主”",
+          "url": "https://www.toutiao.com/trending/7620790365733519398/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "金价“开始找平衡”，但停火风声能托多久？",
+          "url": "https://flash.jin10.com/detail/20260325115436547800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
+          "title": "金价将冲击1万美元？黄金跌入熊市后 市场资深人士重申看涨预期",
+          "url": "https://www.cls.cn/detail/2323307",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时21分]"
+        },
+        {
+          "title": "金价美股盘后拉升，投资者紧盯中东局势",
+          "url": "https://wallstreetcn.com/livenews/3076199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时21分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
+          "title": "金价大跌金饰店不再人山人海",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E9%87%91%E9%A5%B0%E5%BA%97%E4%B8%8D%E5%86%8D%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "美伊传闻影响金价，中金称勿高估「全球央行购金」动力，黄金走势未来依然复杂，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2019711251106804428",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 6,
       "titles": [
@@ -1094,58 +1292,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "A股深V三大股指收涨：超5100股飘红，两市成交2万亿元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32819962",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 09时11分]"
-        },
-        {
-          "title": "业内：A股市场估值有望在中期获修复",
-          "url": "https://www.toutiao.com/trending/7620658555000832019/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "A股市场反弹，抄底资金增持宽基ETF",
-          "url": "https://wallstreetcn.com/livenews/3076238",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "业内：A股后续将更趋“以我为主”",
-          "url": "https://www.toutiao.com/trending/7620790365733519398/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时11分"
         }
       ]
     },
@@ -1249,57 +1395,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "金价将冲击1万美元？黄金跌入熊市后 市场资深人士重申看涨预期",
-          "url": "https://www.cls.cn/detail/2323307",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时21分]"
-        },
-        {
-          "title": "金价美股盘后拉升，投资者紧盯中东局势",
-          "url": "https://wallstreetcn.com/livenews/3076199",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时21分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "金价大跌金饰店不再人山人海",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E9%87%91%E9%A5%B0%E5%BA%97%E4%B8%8D%E5%86%8D%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 1,
