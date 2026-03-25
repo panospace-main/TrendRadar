@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T12:10:24.314646+08:00",
-  "total_titles_processed": 1069,
+  "generated_at": "2026-03-25T13:55:25.043035+08:00",
+  "total_titles_processed": 1198,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 48,
       "titles": [
         {
           "title": "信口雌黄、反复无常？特朗普告诉“华尔街空头”：撒谎可耻但有用！",
@@ -74,6 +74,19 @@
           "time_info": "[00时51分 ~ 07时22分]"
         },
         {
+          "title": "【早报】美方提出含“15项条件”的和谈方案，特朗普：伊朗同意“永不拥核”；日本拟将中日关系定位降级，中方回应",
+          "url": "https://www.cls.cn/detail/2323637",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时22分 ~ 13时55分]"
+        },
+        {
           "title": "美伊谈判是真是假，至少华尔街已从特朗普引发的五分钟狂飙获得明确信号",
           "url": "https://wallstreetcn.com/articles/3768206",
           "source": "华尔街见闻",
@@ -85,17 +98,16 @@
           "time_info": "[00时51分 ~ 07时22分]"
         },
         {
-          "title": "【早报】美方提出含“15项条件”的和谈方案，特朗普：伊朗同意“永不拥核”；日本拟将中日关系定位降级，中方回应",
-          "url": "https://www.cls.cn/detail/2323637",
-          "source": "财联社热门",
+          "title": "特朗普称美伊谈判“可能已相当接近达成协议”、伊朗同意永不拥有核武，报道称美国有意停火一个月、提15条和谈方案",
+          "url": "https://wallstreetcn.com/articles/3768302",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            2,
-            1
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时22分 ~ 12时10分]"
+          "appearance_count": 4,
+          "time_info": "[07时22分 ~ 13时55分]"
         },
         {
           "title": "特朗普：同伊朗对话“完美”、已形成协议要点，正就达成更广泛协议与伊磋商",
@@ -120,6 +132,19 @@
           "time_info": "09时11分"
         },
         {
+          "title": "美国向伊朗抛出“15点橄榄枝”，特朗普自信发言会再被“打脸”吗？",
+          "url": "https://www.cls.cn/detail/2323682",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时11分 ~ 13时55分]"
+        },
+        {
           "title": "美国前中情局局长：比起特朗普我更信伊朗",
           "url": "https://flash.jin10.com/detail/20260325002638492800",
           "source": "金十数据",
@@ -142,18 +167,6 @@
           "time_info": "02时47分"
         },
         {
-          "title": "特朗普称美伊谈判“可能已相当接近达成协议”、伊朗同意永不拥有核武，报道称美国有意停火一个月、提15条和谈方案",
-          "url": "https://wallstreetcn.com/articles/3768302",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时22分 ~ 12时10分]"
-        },
-        {
           "title": "特朗普政府的官员们准备对夏季汽油销售实施E15豁免。",
           "url": "https://wallstreetcn.com/livenews/3076245",
           "source": "华尔街见闻-快讯",
@@ -163,6 +176,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "美CIA前局长：比起特朗普，更相信伊朗",
+          "url": "https://news.ifeng.com/c/8rm8Wgr5b4i",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         },
         {
           "title": "美国总统特朗普：美国国务卿鲁比奥、副总统范斯和其他人正在与伊朗进行谈判。",
@@ -223,16 +247,18 @@
           "time_info": "[06时21分 ~ 07时22分]"
         },
         {
-          "title": "美国向伊朗抛出“15点橄榄枝”，特朗普自信发言会再被“打脸”吗？",
-          "url": "https://www.cls.cn/detail/2323682",
+          "title": "中东战事推高生活成本 民调显示特朗普支持率创重返白宫后新低",
+          "url": "https://www.cls.cn/detail/2323574",
           "source": "财联社热门",
           "ranks": [
-            12,
-            4
+            13,
+            7,
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时11分 ~ 12时10分]"
+          "appearance_count": 4,
+          "time_info": "[07时22分 ~ 13时55分]"
         },
         {
           "title": "【特朗普转发巴基斯坦总理倡议，支持巴方主办美伊会谈】3月24日，美国总统特朗普转发了巴基斯坦总理夏巴兹提出的倡议，支持由巴方主办美伊之间“有意义且具决定性”的会谈。（央视）",
@@ -245,19 +271,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时51分 ~ 01时47分]"
-        },
-        {
-          "title": "中东战事推高生活成本 民调显示特朗普支持率创重返白宫后新低",
-          "url": "https://www.cls.cn/detail/2323574",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时22分 ~ 12时10分]"
         },
         {
           "title": "美国总统特朗普：在伊朗取得了巨大成功。",
@@ -335,6 +348,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
+        },
+        {
+          "title": "特朗普一句话搅动市场风雨：亚太股市普遍高开 国际油价大幅下跌",
+          "url": "https://www.cls.cn/detail/2323758",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         },
         {
           "title": "特朗普称伊朗方面“希望达成协议”，美国正与“正确的人”沟通",
@@ -453,9 +477,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        },
+        {
+          "title": "特朗普想停火，沙特、阿联酋、以色列都不乐意",
+          "url": "https://flash.jin10.com/detail/20260325131239311800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗）我认为可以说，这是一次政权更迭。",
@@ -541,17 +576,6 @@
           "time_info": "04时31分"
         },
         {
-          "title": "OpenAI宣布关停Sora",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
           "title": "OpenAI旗下文生视频Sora确认，该部门将不会再得到公司的支持。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3076186",
           "source": "华尔街见闻-快讯",
@@ -575,6 +599,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时47分 ~ 03时47分]"
+        },
+        {
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 13时55分]"
+        },
+        {
+          "title": "OpenAI 将停止 Sora 视频生成服务，以精简产品线，这透露出哪些行业信号？",
+          "url": "https://www.zhihu.com/question/2020036375211157322",
+          "source": "知乎",
+          "ranks": [
+            14,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 13时55分]"
         },
         {
           "title": "报道：OpenAI完成了新款AI模型的初步开发，Altman将专注供应链和打造数据中心",
@@ -602,6 +650,18 @@
           "time_info": "[02时47分 ~ 03时47分]"
         },
         {
+          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
+          "url": "https://www.cls.cn/detail/2323711",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 13时55分]"
+        },
+        {
           "title": "OpenAI：扩大智能体商务协议（Agentic Commerce Protocol，简称ACP）。 ACP将支持产品发现。 （ACP）在ChatGPT中支持产品发现。",
           "url": "https://wallstreetcn.com/livenews/3076085",
           "source": "华尔街见闻-快讯",
@@ -611,17 +671,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
-        },
-        {
-          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
-          "url": "https://www.cls.cn/detail/2323711",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
         },
         {
           "title": "据The Information：OpenAI创始人奥尔特曼调整职责分工，并筹备推出SPUD新型人工智能模型。",
@@ -666,17 +715,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
-        },
-        {
-          "title": "OpenAI 将停止 Sora 视频生成服务，以精简产品线，这透露出哪些行业信号？",
-          "url": "https://www.zhihu.com/question/2020036375211157322",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
         },
         {
           "title": "Shopify：从本周开始，数百万商家可以通过Agentic店面向ChatGPT用户销售商品。",
@@ -906,11 +944,12 @@
             12,
             14,
             15,
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 12时10分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 13时55分]"
         },
         {
           "title": "美股收盘：中东增兵与谈判信号交错 三大指数再度回落",
@@ -921,8 +960,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时22分 ~ 12时10分]"
+          "appearance_count": 4,
+          "time_info": "[07时22分 ~ 13时55分]"
         },
         {
           "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
@@ -932,8 +971,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时11分 ~ 12时10分]"
+          "appearance_count": 3,
+          "time_info": "[09时11分 ~ 13时55分]"
         },
         {
           "title": "地缘信号反复切换，美股当日收跌、但盘后大涨1%，原油日内涨幅抹平，加密货币下挫",
@@ -1076,7 +1115,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 6,
+      "match_count": 11,
       "titles": [
         {
           "title": "A股深V三大股指收涨：超5100股飘红，两市成交2万亿元",
@@ -1089,8 +1128,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 12时10分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 13时55分]"
         },
         {
           "title": "业内：A股市场估值有望在中期获修复",
@@ -1115,15 +1154,59 @@
           "time_info": "07时22分"
         },
         {
+          "title": "A股电池产业链午后拉升，圣阳股份直线涨停，维科技术此前涨停，震裕科技、嘉元科技、万润新能、先惠技术、龙蟠科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3076423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
+          "title": "A股农业股午后拉升，冠农股份封涨停，丰林集团、农发种业、新赛股份、亚通股份、新农开发涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3076417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
+          "title": "A股固态电池板块午后异动拉升，圣阳股份直线涨停，维科技术此前涨停，震裕科技、嘉元科技、万润新能、先惠技术、龙蟠科技跟涨。",
+          "url": "https://flash.jin10.com/detail/20260325132229564800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
           "title": "A股午评：深成指、创业板指半日涨超1% 电力板块延续强势",
           "url": "https://flash.jin10.com/detail/20260325114615266800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        },
+        {
+          "title": "A股生态农业板块午后拉升，冠农股份封板涨停，丰林集团、农发种业、新赛股份、亚通股份、新农开发等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260325131431264800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         },
         {
           "title": "A股旅游板块震荡走强，桂林旅游封涨停，西域旅游、大连圣亚、锦江酒店、峨眉山A、金陵饭店跟涨。",
@@ -1132,9 +1215,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        },
+        {
+          "title": "A股人形机器人概念板块午后活跃，斯菱智驱涨超10%，德马科技、五洲新春、万向钱潮、睿能科技、奥比中光跟涨。",
+          "url": "https://flash.jin10.com/detail/20260325130445732800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         },
         {
           "title": "业内：A股后续将更趋“以我为主”",
@@ -1150,6 +1244,93 @@
       ]
     },
     {
+      "keyword_group": "人民币",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "小米集团 2025 年调整后净利润 391.7 亿元人民币，同比增长 43.8%，怎样解读这一业绩？",
+          "url": "https://www.zhihu.com/question/2019829332076418709",
+          "source": "知乎",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 09时11分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8916元，较周一夜盘收盘跌121点。成交量408.06亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3076157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时47分 ~ 04时31分]"
+        },
+        {
+          "title": "周二（3月24日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8938元，较周一纽约尾盘跌97点，日内整体交投于6.8826-6.9050元区间。",
+          "url": "https://wallstreetcn.com/livenews/3076205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时21分]"
+        },
+        {
+          "title": "港股泡泡玛特午后直线跳水跌超14%，泡泡玛特2025年营收371.2亿元人民币，部分非Labubu IP销售未达预期。",
+          "url": "https://wallstreetcn.com/livenews/3076415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
+          "title": "上期所原油期货2605合约夜盘收跌1.56%，报740.20元人民币/桶。 沪金夜盘收涨0.25%，沪银收涨1.93%。",
+          "url": "https://wallstreetcn.com/livenews/3076146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
+          "title": "中国央行在香港发行600亿元人民币6个月期央票，中标利率1.48%。",
+          "url": "https://wallstreetcn.com/livenews/3076403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
+          "title": "港股泡泡玛特(09992.HK)午后跌超12%，此前财报显示2025年度收益371.2亿元，同比增长184.7%，拥有人应占溢利127.75亿元人民币，同比增长308.8%。",
+          "url": "https://flash.jin10.com/detail/20260325130154923800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 6,
       "titles": [
@@ -1160,7 +1341,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -1188,6 +1369,18 @@
           "time_info": "[05时28分 ~ 06时21分]"
         },
         {
+          "title": "美伊传闻影响金价，中金称勿高估「全球央行购金」动力，黄金走势未来依然复杂，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2019711251106804428",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 13时55分]"
+        },
+        {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -1208,17 +1401,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
-        },
-        {
-          "title": "美伊传闻影响金价，中金称勿高估「全球央行购金」动力，黄金走势未来依然复杂，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2019711251106804428",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
         }
       ]
     },
@@ -1292,60 +1474,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "小米集团 2025 年调整后净利润 391.7 亿元人民币，同比增长 43.8%，怎样解读这一业绩？",
-          "url": "https://www.zhihu.com/question/2019829332076418709",
-          "source": "知乎",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 09时11分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8916元，较周一夜盘收盘跌121点。成交量408.06亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3076157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时47分 ~ 04时31分]"
-        },
-        {
-          "title": "周二（3月24日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8938元，较周一纽约尾盘跌97点，日内整体交投于6.8826-6.9050元区间。",
-          "url": "https://wallstreetcn.com/livenews/3076205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时21分]"
-        },
-        {
-          "title": "上期所原油期货2605合约夜盘收跌1.56%，报740.20元人民币/桶。 沪金夜盘收涨0.25%，沪银收涨1.93%。",
-          "url": "https://wallstreetcn.com/livenews/3076146",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时47分"
         }
       ]
     },
