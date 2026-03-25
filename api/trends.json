@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T04:29:33.571207+08:00",
-  "total_titles_processed": 538,
+  "generated_at": "2026-03-26T05:28:58.130684+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普称美伊谈判“可能已相当接近达成协议”、伊朗同意永不拥有核武，报道称美国有意停火一个月、提15条和谈方案",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 04时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 05时28分]"
         },
         {
           "title": "美以伊战争丨美媒：军方只向特朗普展示胜利画面",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 04时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 05时28分]"
         },
         {
           "title": "凤凰女记者：伊朗民众认为特朗普说谎，在为美方袭击做准备",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 04时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 05时28分]"
         },
         {
           "title": "伊朗喊话特朗普：美国在中东地区的投资将不复存在",
@@ -48,8 +48,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 04时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 05时28分]"
+        },
+        {
+          "title": "伊朗称向美林肯号航母发射导弹，特朗普再谈正与伊朗谈判，声称收到伊方「大礼」，具体情况如何？",
+          "url": "https://www.zhihu.com/question/2020199361380905442",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 05时28分]"
+        },
+        {
+          "title": "又赢了？特朗普声称已实现伊朗的政权更迭，“他们还同意放弃拥核”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32827122",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 05时28分]"
         },
         {
           "title": "据Axios网站记者Barak Ravid：特朗普政府尚未收到伊朗方面拒绝该提议的任何官方消息。",
@@ -61,30 +85,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        },
-        {
-          "title": "伊朗称向美林肯号航母发射导弹，特朗普再谈正与伊朗谈判，声称收到伊方「大礼」，具体情况如何？",
-          "url": "https://www.zhihu.com/question/2020199361380905442",
-          "source": "知乎",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 04时29分]"
-        },
-        {
-          "title": "又赢了？特朗普声称已实现伊朗的政权更迭，“他们还同意放弃拥核”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32827122",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 04时29分]"
         },
         {
           "title": "美媒：以总理希望呼吁伊朗人民“起义” 遭特朗普拒绝",
@@ -157,6 +157,17 @@
           "time_info": "00时00分"
         },
         {
+          "title": "伊朗拒绝美国停战方案、称不允许特朗普决定停战时间，白宫称美伊在谈判且有成效，伊外长称信息交流并非谈判",
+          "url": "https://wallstreetcn.com/articles/3768393",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
           "title": "据Axios网站记者Barak Ravid：特朗普政府尚未收到伊朗方面拒绝该提议的任何官方消息。",
           "url": "https://flash.jin10.com/detail/20260326003830726800",
           "source": "金十数据",
@@ -226,7 +237,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "美伊谈判存疑，美股三大股指涨超1%，存储板块走低，现货黄金涨2%，原油跌幅重回5%",
@@ -240,17 +251,6 @@
           "time_info": "[00时00分 ~ 04时29分]"
         },
         {
-          "title": "金十图示：2026年03月25日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260326040606409800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
           "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
           "url": "https://wallstreetcn.com/articles/3768212",
           "source": "华尔街见闻",
@@ -258,19 +258,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 04时29分]"
-        },
-        {
-          "title": "金十图示：2026年03月25日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260326040604173800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 05时28分]"
         },
         {
           "title": "美伊谈判消息提振市场 美股期指大涨 油价重挫 | 今夜看点",
@@ -281,17 +270,39 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 04时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 05时28分]"
         },
         {
-          "title": "美股收盘：三大股指收涨 CPU巨头走强",
-          "url": "https://flash.jin10.com/detail/20260326040128570800",
-          "source": "金十数据",
+          "title": "美伊谈判存疑，美股指涨幅收窄，存储板块走低，现货黄金涨2%，原油跌幅收窄",
+          "url": "https://wallstreetcn.com/articles/3768319",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            2
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "金十图示：2026年03月25日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260326040606409800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "金十图示：2026年03月25日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260326040604173800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -300,11 +311,34 @@
           "url": "https://wallstreetcn.com/livenews/3076887",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时28分]"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 CPU巨头走强",
+          "url": "https://flash.jin10.com/detail/20260326040128570800",
+          "source": "金十数据",
+          "ranks": [
             6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜亚马逊收涨超2.1%，英伟达涨约2%",
+          "url": "https://wallstreetcn.com/livenews/3076897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时29分"
+          "time_info": "05时28分"
         },
         {
           "title": "美股回吐涨幅，美国原油跌幅收窄，报道称伊朗布什尔核电站再遭袭击",
@@ -316,6 +350,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时00分"
+        },
+        {
+          "title": "周三（3月25日），存储芯片与硬件供应链指数跌2.08%，报113.03点，跳空低开之后、在美股盘初跌至109.00点刷新日低，大部分交易时间“高位震荡”。 北美科技软件股指数ETF收跌0.52%，报80.40美元。 信息科技指数涨0.35%，人工智能（AI）赢家指数涨0.72%，AI软件先驱指数跌0.63%。",
+          "url": "https://wallstreetcn.com/livenews/3076894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
         }
       ]
     },
@@ -353,7 +398,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -372,8 +417,19 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "周三（3月25日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.9028元，较周二纽约尾盘跌90点，日内整体交投于6.8840-6.9093元区间。",
+          "url": "https://wallstreetcn.com/livenews/3076908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8986元，较周二夜盘收盘跌70点。成交量486.85亿美元。",
           "url": "https://wallstreetcn.com/livenews/3076861",
@@ -410,11 +466,12 @@
           "ranks": [
             14,
             16,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 04时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 05时28分]"
         },
         {
           "title": "OpenAI推出安全漏洞赏金计划。",
@@ -427,6 +484,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时42分 ~ 03时39分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数25日上涨",
+          "url": "https://flash.jin10.com/detail/20260326043313899800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "美元指数涨0.2%，日元再次跌向160",
+          "url": "https://wallstreetcn.com/livenews/3076876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         }
       ]
     },
@@ -473,28 +558,12 @@
           "url": "https://wallstreetcn.com/livenews/3076878",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数涨0.2%，日元再次跌向160",
-          "url": "https://wallstreetcn.com/livenews/3076876",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时28分]"
         }
       ]
     }
