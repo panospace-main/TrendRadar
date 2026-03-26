@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T16:43:13.284650+08:00",
-  "total_titles_processed": 1393,
+  "generated_at": "2026-03-26T17:53:12.739432+08:00",
+  "total_titles_processed": 1513,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "凤凰女记者：伊朗民众认为特朗普说谎，在为美方袭击做准备",
@@ -36,11 +36,24 @@
           "ranks": [
             7,
             6,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[05时28分 ~ 16时43分]"
+          "appearance_count": 12,
+          "time_info": "[05时28分 ~ 17时53分]"
+        },
+        {
+          "title": "特朗普：伊朗迫切希望达成协议，但又不敢明说",
+          "url": "https://news.ifeng.com/c/8rnmpUhhTBm",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时24分 ~ 17时53分]"
         },
         {
           "title": "特朗普称美伊谈判“可能已相当接近达成协议”、伊朗同意永不拥有核武，报道称美国有意停火一个月、提15条和谈方案",
@@ -63,6 +76,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时00分 ~ 09时17分]"
+        },
+        {
+          "title": "中方回应特朗普称5月访华",
+          "url": "https://news.ifeng.com/c/8roF6LOhLGd",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时55分 ~ 17时53分]"
         },
         {
           "title": "又赢了？特朗普声称已实现伊朗的政权更迭，“他们还同意放弃拥核”",
@@ -91,28 +115,6 @@
           "time_info": "[00时00分 ~ 09时17分]"
         },
         {
-          "title": "特朗普：伊朗迫切希望达成协议，但又不敢明说",
-          "url": "https://news.ifeng.com/c/8rnmpUhhTBm",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时24分 ~ 16时43分]"
-        },
-        {
-          "title": "中方回应特朗普称5月访华",
-          "url": "https://news.ifeng.com/c/8roF6LOhLGd",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时55分 ~ 16时43分]"
-        },
-        {
           "title": "中方回应特朗普称5月中旬访华",
           "url": "https://www.toutiao.com/trending/7621462030418972210/",
           "source": "今日头条",
@@ -120,8 +122,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时55分 ~ 16时43分]"
+          "appearance_count": 5,
+          "time_info": "[15时55分 ~ 17时53分]"
         },
         {
           "title": "释新闻｜美伊谈判迷雾：特朗普的算盘和巴基斯坦的中间人角色",
@@ -133,8 +135,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时17分 ~ 16时43分]"
+          "appearance_count": 8,
+          "time_info": "[09时17分 ~ 17时53分]"
         },
         {
           "title": "白宫：特朗普将于5月中旬访华",
@@ -146,6 +148,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时24分 ~ 14时06分]"
+        },
+        {
+          "title": "传特朗普团队正研究200美元油价影响？白宫矢口否认！",
+          "url": "https://www.cls.cn/detail/2325422",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时55分 ~ 17时53分]"
+        },
+        {
+          "title": "外交部：中美双方就特朗普总统访华保持着沟通",
+          "url": "https://www.cls.cn/detail/2325505",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时42分 ~ 17时53分]"
         },
         {
           "title": "据Axios网站记者Barak Ravid：特朗普政府尚未收到伊朗方面拒绝该提议的任何官方消息。",
@@ -184,6 +211,18 @@
           "time_info": "[06时25分 ~ 12时24分]"
         },
         {
+          "title": "标志性投票！特朗普“后院失火”：民主党赢了“海湖庄园所在地”的佛州选区",
+          "url": "https://wallstreetcn.com/articles/3768421",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时55分 ~ 17时53分]"
+        },
+        {
           "title": "美媒：以总理希望呼吁伊朗人民“起义” 遭特朗普拒绝",
           "url": "https://flash.jin10.com/detail/20260326032123527800",
           "source": "金十数据",
@@ -208,27 +247,28 @@
           "time_info": "[03时39分 ~ 04时29分]"
         },
         {
-          "title": "传特朗普团队正研究200美元油价影响？白宫矢口否认！",
-          "url": "https://www.cls.cn/detail/2325422",
-          "source": "财联社热门",
+          "title": "“我们大赢特赢”，特朗普：伊朗太想达成协议，就是不敢承认",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32834414",
+          "source": "澎湃新闻",
           "ranks": [
-            11,
-            9
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时55分 ~ 16时43分]"
+          "appearance_count": 4,
+          "time_info": "[16时42分 ~ 17时53分]"
         },
         {
-          "title": "标志性投票！特朗普“后院失火”：民主党赢了“海湖庄园所在地”的佛州选区",
-          "url": "https://wallstreetcn.com/articles/3768421",
-          "source": "华尔街见闻",
+          "title": "中方回应特朗普称5月中旬访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B05%E6%9C%88%E4%B8%AD%E6%97%AC%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
           "ranks": [
-            10
+            25,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时55分 ~ 16时43分]"
+          "appearance_count": 4,
+          "time_info": "[16时42分 ~ 17时53分]"
         },
         {
           "title": "伊朗称不允许特朗普决定停战时间、美国15条提议是“罗列幻想”，美众议长称不会在伊进行地面作战",
@@ -266,17 +306,6 @@
           "time_info": "[06时25分 ~ 07时25分]"
         },
         {
-          "title": "外交部：中美双方就特朗普总统访华保持着沟通",
-          "url": "https://www.cls.cn/detail/2325505",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 16时43分]"
-        },
-        {
           "title": "外交部回应特朗普更新访华时间",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%9B%B4%E6%96%B0%E8%AE%BF%E5%8D%8E%E6%97%B6%E9%97%B4%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -300,26 +329,15 @@
           "time_info": "[02时42分 ~ 03时39分]"
         },
         {
-          "title": "“我们大赢特赢”，特朗普：伊朗太想达成协议，就是不敢承认",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32834414",
-          "source": "澎湃新闻",
+          "title": "中方回应特朗普称5月中旬访华",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B05%E6%9C%88%E4%B8%AD%E6%97%AC%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时42分 ~ 16时43分]"
-        },
-        {
-          "title": "中方回应特朗普称5月中旬访华",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B05%E6%9C%88%E4%B8%AD%E6%97%AC%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 16时43分]"
+          "time_info": "[17时52分 ~ 17时53分]"
         },
         {
           "title": "美以伊战争丨特朗普被曝想尽快结束对伊战争",
@@ -454,6 +472,17 @@
           "time_info": "09时17分"
         },
         {
+          "title": "市场频现“股神级”操作：特朗普还没发文，他们早已埋伏！",
+          "url": "https://flash.jin10.com/detail/20260326170447274800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
           "title": "伊朗说不允许特朗普决定停战时间",
           "url": "https://wallstreetcn.com/livenews/3076778",
           "source": "华尔街见闻-快讯",
@@ -541,11 +570,12 @@
           "url": "https://wallstreetcn.com/articles/3768319",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时24分 ~ 16时43分]"
+          "appearance_count": 10,
+          "time_info": "[07时24分 ~ 17时53分]"
         },
         {
           "title": "美伊谈判消息提振市场 美股期指大涨 油价重挫 | 今夜看点",
@@ -682,7 +712,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -840,7 +870,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "特步国际2025年营收141.5亿元人民币，预估143.8亿元人民币； 全年净利润13.7亿元人民币，预估13.8亿元人民币。",
@@ -860,7 +890,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -871,9 +901,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
+        },
+        {
+          "title": "美团第四季度营收921.0亿元人民币，预估920.8亿元人民币； 第四季度调整后净亏损150.8亿元人民币； 全年营收3,648.5亿元人民币，预估3,661.3亿元人民币； 全年净亏损233.6亿元人民币，预估亏损241.1亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3077325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "中国移动：2025年股东应占利润为人民币1371亿元 同比下降0.9%",
@@ -882,7 +923,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -893,7 +934,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -928,7 +969,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -955,11 +996,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时24分 ~ 16时43分]"
+          "appearance_count": 10,
+          "time_info": "[07时24分 ~ 17时53分]"
         },
         {
           "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
@@ -967,22 +1009,24 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时24分 ~ 16时43分]"
+          "appearance_count": 7,
+          "time_info": "[12时24分 ~ 17时53分]"
         },
         {
           "title": "谷歌突破性算法震惊硅谷 华尔街激辩：内存需求要降温了？",
           "url": "https://www.cls.cn/detail/2325322",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时55分 ~ 16时43分]"
+          "appearance_count": 5,
+          "time_info": "[15时55分 ~ 17时53分]"
         },
         {
           "title": "META和谷歌在社交媒体成瘾案中被认为负有责任。",
@@ -1033,7 +1077,7 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股收盘：中东停火期待推高三大指数 商业航天、CPU概念领涨",
@@ -1048,6 +1092,20 @@
           "time_info": "[07时24分 ~ 16时43分]"
         },
         {
+          "title": "我国航空发动机领域著名专家严红病逝，年仅57岁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32834461",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时06分 ~ 17时53分]"
+        },
+        {
           "title": "航空发动机专家严红病逝 享年57岁",
           "url": "https://www.toutiao.com/trending/7621404255807127606/",
           "source": "今日头条",
@@ -1060,28 +1118,27 @@
           "time_info": "[14时06分 ~ 16时43分]"
         },
         {
-          "title": "我国航空发动机领域著名专家严红病逝，年仅57岁",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32834461",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时06分 ~ 16时43分]"
-        },
-        {
           "title": "航空发动机专家严红病逝 享年57岁",
           "url": "https://www.baidu.com/s?wd=%E8%88%AA%E7%A9%BA%E5%8F%91%E5%8A%A8%E6%9C%BA%E4%B8%93%E5%AE%B6%E4%B8%A5%E7%BA%A2%E7%97%85%E9%80%9D+%E4%BA%AB%E5%B9%B457%E5%B2%81",
           "source": "百度热搜",
           "ranks": [
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 16时43分]"
+          "appearance_count": 4,
+          "time_info": "[16时42分 ~ 17时53分]"
+        },
+        {
+          "title": "再升科技：公司自2020年起向国际某知名航天公司直接供应“高硅氧纤维产品”，2024年该项产品业务收入占公司总营收比例极低",
+          "url": "https://flash.jin10.com/detail/20260326172346124800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "航空公司JetBlue涨幅迅速扩大至13%。 据Semafor报道，该公司探索潜在的合并伙伴。",
@@ -1109,11 +1166,12 @@
             16,
             15,
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时00分 ~ 16时43分]"
+          "appearance_count": 17,
+          "time_info": "[00时00分 ~ 17时53分]"
         },
         {
           "title": "OpenAI推出安全漏洞赏金计划。",
@@ -1148,6 +1206,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金价波动有人请假去水贝买金",
+          "url": "https://www.toutiao.com/trending/7621219689284468755/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 17时53分]"
+        },
+        {
+          "title": "金十图示：2026年03月26日（周四）上海金午盘价为992.09元/克，较国际金价(987.3元/克)，高4.79元/克",
+          "url": "https://flash.jin10.com/detail/20260326162106755800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
+          "title": "金价修复成果还在，但能否站稳还得看这三点！",
+          "url": "https://flash.jin10.com/detail/20260326113954655800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "金价银价突然飙升",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E7%AA%81%E7%84%B6%E9%A3%99%E5%8D%87",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时00分"
         }
       ]
     },
@@ -1203,48 +1311,20 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 3,
+      "keyword_group": "农业 机械",
+      "match_count": 2,
       "titles": [
         {
-          "title": "金十图示：2026年03月26日（周四）上海金午盘价为992.09元/克，较国际金价(987.3元/克)，高4.79元/克",
-          "url": "https://flash.jin10.com/detail/20260326162106755800",
-          "source": "金十数据",
+          "title": "李强签署国务院令 公布修订后的《全国农业普查条例》",
+          "url": "https://wallstreetcn.com/livenews/3077301",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时43分"
+          "time_info": "17时53分"
         },
-        {
-          "title": "金价修复成果还在，但能否站稳还得看这三点！",
-          "url": "https://flash.jin10.com/detail/20260326113954655800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时24分"
-        },
-        {
-          "title": "金价银价突然飙升",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E7%AA%81%E7%84%B6%E9%A3%99%E5%8D%87",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农业 机械",
-      "match_count": 1,
-      "titles": [
         {
           "title": "中国机械工业联合会：今年前两个月机械工业增加值同比保持增长",
           "url": "https://wallstreetcn.com/livenews/3076967",
@@ -1260,8 +1340,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "特朗普何时再“TACO”？华尔街发现规律：美油逼近100美元 or 美债收益率4.5%",
+          "url": "https://wallstreetcn.com/articles/3768442",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 17时53分]"
+        },
         {
           "title": "10/30年期美债收益率至少跌约3.5个基点",
           "url": "https://wallstreetcn.com/livenews/3076878",
