@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T00:03:03.971520+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2026-03-27T01:53:12.046701+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "伊朗拒绝美国停战方案、称不允许特朗普决定停战时间，白宫称美伊在谈判且有成效，伊外长称信息交流并非谈判",
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 01时53分]"
+        },
+        {
+          "title": "担心特朗普叫停，内塔尼亚胡下令猛炸伊朗",
+          "url": "https://news.ifeng.com/c/8roGSbDHfgm",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 01时53分]"
         },
         {
           "title": "外交部：中美双方就特朗普总统访华保持着沟通",
@@ -30,24 +41,13 @@
           "time_info": "[00时02分 ~ 00时03分]"
         },
         {
-          "title": "担心特朗普叫停，内塔尼亚胡下令猛炸伊朗",
-          "url": "https://news.ifeng.com/c/8roGSbDHfgm",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
-        },
-        {
           "title": "美国总统特朗普：正与伊朗进行非常实质性的谈判，我会宣布新的谈判“最后期限”。",
           "url": "https://flash.jin10.com/detail/20260326234735406800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
         },
@@ -69,7 +69,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
         },
@@ -80,7 +80,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
         },
@@ -91,7 +91,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
         },
@@ -100,33 +100,36 @@
           "url": "https://www.toutiao.com/trending/7621462030418972210/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 01时53分]"
         },
         {
           "title": "特朗普称将在5月中旬访华，外交部：中美就此事保持着沟通",
           "url": "https://m.thepaper.cn/newsDetail_forward_32835719",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 01时53分]"
         },
         {
           "title": "伊朗战争还将持续多久？据传特朗普希望4-6周内终结战事",
           "url": "https://www.cls.cn/detail/2325824",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 01时53分]"
         },
         {
           "title": "特朗普重大公告前，市场多次出现抢跑交易，特朗普真的在操纵金融市场吗？背后都有哪些可能？",
@@ -136,8 +139,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 01时53分]"
         },
         {
           "title": "外交部回应「特朗普称将在 5 月中旬访华」，表示中美保持着沟通，透露出哪些信息？",
@@ -147,19 +150,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 01时53分]"
         },
         {
           "title": "“我们大赢特赢”，特朗普：伊朗太想达成协议，就是不敢承认",
           "url": "https://m.thepaper.cn/newsDetail_forward_32834414",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 01时53分]"
         },
         {
           "title": "美国总统特朗普：曾考虑过暂停征收联邦汽油税。",
@@ -168,9 +172,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "美国（特朗普政府）调查斯坦福大学医学院的行政政策。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3077621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时53分"
         },
         {
           "title": "美国总统特朗普：（被问及将武器从乌克兰转移到中东时）美国一直在转移武器。",
@@ -179,7 +194,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
         },
@@ -190,7 +205,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
         },
@@ -201,7 +216,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
         },
@@ -212,7 +227,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
         },
@@ -223,7 +238,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
         },
@@ -234,7 +249,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
         },
@@ -245,7 +260,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
         },
@@ -256,9 +271,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "美国总统特朗普：还不知道周五的“最后期限”会不会改变。",
+          "url": "https://wallstreetcn.com/livenews/3077593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时53分"
         },
         {
           "title": "纳指跌超1%，特朗普称：若达成正确的协议，霍尔木兹海峡就会重新开放",
@@ -267,9 +293,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "特朗普：如果美伊达成“正确的协议”，霍尔木兹海峡将会开放",
+          "url": "https://wallstreetcn.com/livenews/3077592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时53分"
         }
       ]
     },
@@ -285,19 +322,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 01时53分]"
         },
         {
           "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
           "url": "https://wallstreetcn.com/articles/3768419",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 01时53分]"
         },
         {
           "title": "谷歌公司Fiber更名为GFiber。",
@@ -306,7 +344,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
         },
@@ -317,7 +355,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
         }
@@ -325,35 +363,48 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "我国航空发动机领域著名专家严红病逝，年仅57岁",
           "url": "https://m.thepaper.cn/newsDetail_forward_32834461",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 01时53分]"
         },
         {
           "title": "【焦点复盘】市场连续普反后现地量普跌，绿电产业链分歧加剧，商业航天概念逆势拉升",
           "url": "https://www.cls.cn/detail/2325706",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 01时53分]"
+        },
+        {
+          "title": "工会表示，美国联合航空空乘人员与公司达成新的劳资协议草案，协议规定提高基本工资标准、限制“红眼航班”飞行。",
+          "url": "https://flash.jin10.com/detail/20260327010608370800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时53分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美伊和谈陷入僵局，美股低开高走，纳指跌0.8%，布油突破100美元，现货金银跳水",
@@ -363,8 +414,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 01时53分]"
         },
         {
           "title": "美伊谈判存疑，美股震荡收涨，中概股指跑赢大盘，存储板块走低，迪拜原油暴跌",
@@ -374,8 +425,47 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 01时53分]"
+        },
+        {
+          "title": "油价重上100美元冲击市场 美股期指走低 金银下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2326015",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "time_info": "[01时52分 ~ 01时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "WTI原油日内涨幅达5.0%，报94.89美元/桶。 纳斯达克100指数跌幅扩大至1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3077599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
+        {
+          "title": "标普500指数跌幅扩大至1%，刷新日低。 道指跌266点，跌幅0.6%，纳指跌1.3%。 现货黄金日内跌幅达2.5%，报4392.36美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3077595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时53分"
         }
       ]
     },
@@ -388,11 +478,12 @@
           "url": "https://www.cls.cn/detail/2325757",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 01时53分]"
         }
       ]
     },
@@ -405,11 +496,12 @@
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 01时53分]"
         }
       ]
     },
@@ -422,11 +514,12 @@
           "url": "https://wallstreetcn.com/articles/3768442",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 01时53分]"
         }
       ]
     }
