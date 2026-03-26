@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T03:51:29.743793+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2026-03-27T04:27:28.130692+08:00",
+  "total_titles_processed": 546,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 03时51分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 04时27分]"
         },
         {
           "title": "担心特朗普叫停，内塔尼亚胡下令猛炸伊朗",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 03时51分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 04时27分]"
         },
         {
           "title": "中方回应特朗普称5月中旬访华",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 03时51分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 04时27分]"
         },
         {
           "title": "特朗普称将在5月中旬访华，外交部：中美就此事保持着沟通",
@@ -53,8 +53,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 03时51分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 04时27分]"
         },
         {
           "title": "伊朗战争还将持续多久？据传特朗普希望4-6周内终结战事",
@@ -65,8 +65,43 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 03时51分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 04时27分]"
+        },
+        {
+          "title": "特朗普重大公告前，市场多次出现抢跑交易，特朗普真的在操纵金融市场吗？背后都有哪些可能？",
+          "url": "https://www.zhihu.com/question/2020434705586102279",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 04时27分]"
+        },
+        {
+          "title": "外交部回应「特朗普称将在 5 月中旬访华」，表示中美保持着沟通，透露出哪些信息？",
+          "url": "https://www.zhihu.com/question/2020523519075710358",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 04时27分]"
+        },
+        {
+          "title": "“我们大赢特赢”，特朗普：伊朗太想达成协议，就是不敢承认",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32834414",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 04时27分]"
         },
         {
           "title": "外交部：中美双方就特朗普总统访华保持着沟通",
@@ -78,41 +113,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 00时03分]"
-        },
-        {
-          "title": "特朗普重大公告前，市场多次出现抢跑交易，特朗普真的在操纵金融市场吗？背后都有哪些可能？",
-          "url": "https://www.zhihu.com/question/2020434705586102279",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 03时51分]"
-        },
-        {
-          "title": "外交部回应「特朗普称将在 5 月中旬访华」，表示中美保持着沟通，透露出哪些信息？",
-          "url": "https://www.zhihu.com/question/2020523519075710358",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 03时51分]"
-        },
-        {
-          "title": "“我们大赢特赢”，特朗普：伊朗太想达成协议，就是不敢承认",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32834414",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 03时51分]"
         },
         {
           "title": "美国总统特朗普：正与伊朗进行非常实质性的谈判，我会宣布新的谈判“最后期限”。",
@@ -177,8 +177,20 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时50分 ~ 04时27分]"
+        },
+        {
+          "title": "特朗普再次就停战谈判威胁伊朗",
+          "url": "https://wallstreetcn.com/livenews/3077645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时50分 ~ 03时51分]"
+          "time_info": "[03时51分 ~ 04时27分]"
         },
         {
           "title": "美国总统特朗普：曾考虑过暂停征收联邦汽油税。",
@@ -242,18 +254,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时51分"
-        },
-        {
-          "title": "特朗普再次就停战谈判威胁伊朗",
-          "url": "https://wallstreetcn.com/livenews/3077645",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
         },
@@ -359,6 +360,90 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美伊和谈陷入僵局，美股低开高走，纳指跌0.8%，布油突破100美元，现货金银跳水",
+          "url": "https://wallstreetcn.com/articles/3768430",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 04时27分]"
+        },
+        {
+          "title": "美伊谈判存疑，美股震荡收涨，中概股指跑赢大盘，存储板块走低，迪拜原油暴跌",
+          "url": "https://wallstreetcn.com/articles/3768319",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 04时27分]"
+        },
+        {
+          "title": "油价重上100美元冲击市场 美股期指走低 金银下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2326015",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时52分 ~ 04时27分]"
+        },
+        {
+          "title": "金十图示：2026年03月26日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260327040606823800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "金十图示：2026年03月26日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260327040601213800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "美股收盘：纳指跌超2% 英伟达跌4%",
+          "url": "https://flash.jin10.com/detail/20260327040147808800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "美股延续跌势，纳指跌超2.00%，道指现跌约1%，标普500指数跌约1.5%。",
+          "url": "https://flash.jin10.com/detail/20260327015622629800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 6,
       "titles": [
@@ -370,8 +455,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 03时51分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 04时27分]"
         },
         {
           "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
@@ -391,22 +476,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时51分 ~ 03时51分]"
+          "appearance_count": 3,
+          "time_info": "[02时51分 ~ 04时27分]"
         },
         {
           "title": "谷歌：用户可以将其他AI应用的记忆转移到Gemini。",
           "url": "https://flash.jin10.com/detail/20260327032315760800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时51分 ~ 04时27分]"
         },
         {
           "title": "谷歌公司Fiber更名为GFiber。",
@@ -433,111 +520,42 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美伊和谈陷入僵局，美股低开高走，纳指跌0.8%，布油突破100美元，现货金银跳水",
-          "url": "https://wallstreetcn.com/articles/3768430",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 03时51分]"
-        },
-        {
-          "title": "美伊谈判存疑，美股震荡收涨，中概股指跑赢大盘，存储板块走低，迪拜原油暴跌",
-          "url": "https://wallstreetcn.com/articles/3768319",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 03时51分]"
-        },
-        {
-          "title": "油价重上100美元冲击市场 美股期指走低 金银下跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2326015",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时52分 ~ 03时51分]"
-        },
-        {
-          "title": "美股延续跌势，纳指跌超2.00%，道指现跌约1%，标普500指数跌约1.5%。",
-          "url": "https://flash.jin10.com/detail/20260327015622629800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "航天 航空",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "我国航空发动机领域著名专家严红病逝，年仅57岁",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32834461",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 03时51分]"
-        },
-        {
-          "title": "【焦点复盘】市场连续普反后现地量普跌，绿电产业链分歧加剧，商业航天概念逆势拉升",
-          "url": "https://www.cls.cn/detail/2325706",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 03时51分]"
-        },
-        {
-          "title": "工会表示，美国联合航空空乘人员与公司达成新的劳资协议草案，协议规定提高基本工资标准、限制“红眼航班”飞行。",
-          "url": "https://flash.jin10.com/detail/20260327010608370800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "周四（3月26日）纽约尾盘，ICE美元指数涨0.38%，刷新日高至99.980点，整体持续走高，北京时间19:11-20:02涨幅突出。 彭博美元指数涨0.36%，刷新日高至1215.82点。 美元兑日元涨0.22%，刷新日高至159.83日元；欧元兑日元跌0.08%，英镑兑日元跌0.33%。",
+          "url": "https://wallstreetcn.com/livenews/3077665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
         {
           "title": "美元指数26日上涨",
           "url": "https://flash.jin10.com/detail/20260327033542902800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时51分 ~ 04时27分]"
+        },
+        {
+          "title": "美元指数DXY向上触及100关口，日内涨0.36%。",
+          "url": "https://flash.jin10.com/detail/20260327040044304800",
+          "source": "金十数据",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时51分"
+          "time_info": "04时27分"
         },
         {
           "title": "WTI原油日内涨幅达5.0%，报94.89美元/桶。 纳斯达克100指数跌幅扩大至1.6%。",
@@ -564,6 +582,47 @@
       ]
     },
     {
+      "keyword_group": "航天 航空",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "我国航空发动机领域著名专家严红病逝，年仅57岁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32834461",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 04时27分]"
+        },
+        {
+          "title": "【焦点复盘】市场连续普反后现地量普跌，绿电产业链分歧加剧，商业航天概念逆势拉升",
+          "url": "https://www.cls.cn/detail/2325706",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 04时27分]"
+        },
+        {
+          "title": "工会表示，美国联合航空空乘人员与公司达成新的劳资协议草案，协议规定提高基本工资标准、限制“红眼航班”飞行。",
+          "url": "https://flash.jin10.com/detail/20260327010608370800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人民币",
       "match_count": 2,
       "titles": [
@@ -572,22 +631,24 @@
           "url": "https://wallstreetcn.com/livenews/3077653",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时51分 ~ 04时27分]"
         },
         {
           "title": "上期所原油期货2605合约夜盘收涨2.22%，报744.60元人民币/桶。 沪金夜盘收跌2.83%，沪银收跌5.66%。",
           "url": "https://wallstreetcn.com/livenews/3077642",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时51分 ~ 04时27分]"
         }
       ]
     },
@@ -604,8 +665,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 03时51分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 04时27分]"
         }
       ]
     },
@@ -624,8 +685,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 03时51分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 04时27分]"
         }
       ]
     },
@@ -642,8 +703,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 03时51分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 04时27分]"
         }
       ]
     }
