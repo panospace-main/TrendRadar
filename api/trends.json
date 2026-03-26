@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-27T05:23:12.021230+08:00",
-  "total_titles_processed": 614,
+  "generated_at": "2026-03-27T06:18:47.542754+08:00",
+  "total_titles_processed": 657,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 46,
       "titles": [
         {
           "title": "伊朗拒绝美国停战方案、称不允许特朗普决定停战时间，白宫称美伊在谈判且有成效，伊外长称信息交流并非谈判",
           "url": "https://wallstreetcn.com/articles/3768393",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 06时18分]"
         },
         {
           "title": "担心特朗普叫停，内塔尼亚胡下令猛炸伊朗",
@@ -26,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 06时18分]"
         },
         {
           "title": "中方回应特朗普称5月中旬访华",
@@ -39,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 06时18分]"
         },
         {
           "title": "特朗普称将在5月中旬访华，外交部：中美就此事保持着沟通",
@@ -53,8 +54,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 06时18分]"
         },
         {
           "title": "伊朗战争还将持续多久？据传特朗普希望4-6周内终结战事",
@@ -65,8 +66,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 06时18分]"
         },
         {
           "title": "特朗普重大公告前，市场多次出现抢跑交易，特朗普真的在操纵金融市场吗？背后都有哪些可能？",
@@ -77,8 +78,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 06时18分]"
         },
         {
           "title": "外交部回应「特朗普称将在 5 月中旬访华」，表示中美保持着沟通，透露出哪些信息？",
@@ -88,8 +89,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 06时18分]"
         },
         {
           "title": "“我们大赢特赢”，特朗普：伊朗太想达成协议，就是不敢承认",
@@ -100,8 +101,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 06时18分]"
         },
         {
           "title": "外交部：中美双方就特朗普总统访华保持着沟通",
@@ -115,6 +116,19 @@
           "time_info": "[00时02分 ~ 00时03分]"
         },
         {
+          "title": "特朗普：不知美伊能否达成协议、我不迫切，伊朗允许十艘油轮通行霍尔木兹，市场对冲突反应没预期剧烈",
+          "url": "https://wallstreetcn.com/articles/3768496",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时50分 ~ 06时18分]"
+        },
+        {
           "title": "美国总统特朗普：正与伊朗进行非常实质性的谈判，我会宣布新的谈判“最后期限”。",
           "url": "https://flash.jin10.com/detail/20260326234735406800",
           "source": "金十数据",
@@ -124,6 +138,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "美财政部称纸币印特朗普签名“实至名归”",
+          "url": "https://flash.jin10.com/detail/20260327060931474800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
         },
         {
           "title": "美国总统特朗普：法官和最高法院大法官正在伤害我们。最高法院还伤害了我们的国家。",
@@ -168,18 +193,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
-        },
-        {
-          "title": "特朗普：不知美伊能否达成协议、我不迫切，伊朗允许十艘油轮通行霍尔木兹，市场对冲突反应没预期剧烈",
-          "url": "https://wallstreetcn.com/articles/3768496",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时50分 ~ 05时23分]"
         },
         {
           "title": "特朗普再次就停战谈判威胁伊朗",
@@ -271,6 +284,50 @@
           "time_info": "00时03分"
         },
         {
+          "title": "美国总统特朗普：你不能让一个疯子或疯狂的意识形态拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260327053813277800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "比特币略微走高，特朗普称：伊朗要求七天，“我给了他们十天”",
+          "url": "https://wallstreetcn.com/livenews/3077701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "据美国新闻机构DropSiteNews：特朗普称是伊朗请求他暂停打击伊能源设施，一名伊朗官员否认了这一说法称：“我们没有就美国潜在的袭击提出任何请求。”",
+          "url": "https://flash.jin10.com/detail/20260327053457955800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗请求给多七天时间，我给了他们十天。",
+          "url": "https://flash.jin10.com/detail/20260327052820305800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
           "title": "特朗普开玩笑称：沃什可以在白宫办公",
           "url": "https://wallstreetcn.com/livenews/3077570",
           "source": "华尔街见闻-快讯",
@@ -282,15 +339,37 @@
           "time_info": "00时03分"
         },
         {
+          "title": "美国总统特朗普谈暂停对伊朗能源打击：是伊朗人让我这么做的。",
+          "url": "https://flash.jin10.com/detail/20260327052135478800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
           "title": "国际油价急剧跳水，特朗普称对伊朗能源设施空袭再推迟10天",
           "url": "https://wallstreetcn.com/livenews/3077681",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "特朗普签名将出现在面额100美元的纸币上",
+          "url": "https://flash.jin10.com/detail/20260327052048605800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
         },
         {
           "title": "特朗普称再推迟10天打击伊朗发电厂",
@@ -299,7 +378,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -310,7 +389,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -354,7 +433,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -365,7 +444,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -376,7 +455,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -398,7 +477,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -409,7 +488,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -460,8 +539,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 06时18分]"
         },
         {
           "title": "美伊谈判存疑，美股震荡收涨，中概股指跑赢大盘，存储板块走低，迪拜原油暴跌",
@@ -472,8 +551,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 06时18分]"
         },
         {
           "title": "油价重上100美元冲击市场 美股期指走低 金银下跌 | 今夜看点",
@@ -483,8 +562,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时52分 ~ 05时23分]"
+          "appearance_count": 9,
+          "time_info": "[01时52分 ~ 06时18分]"
         },
         {
           "title": "金十图示：2026年03月26日（周四）热门中概股行情一览（美股收盘）",
@@ -527,7 +606,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -568,8 +647,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 02时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 06时18分]"
         },
         {
           "title": "谷歌母公司Alphabet跌幅迅速扩大至4.3%。",
@@ -684,61 +763,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "OpenAI宣布关停Sora",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            12,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 05时23分]"
-        },
-        {
-          "title": "OpenAI来自ChatGPT广告业务试点获得的年化收入超过1亿美元。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3077691",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "据The Information：OpenAI的广告客户已超过600家，预计将于四月推出自助广告客户接入服务。",
-          "url": "https://flash.jin10.com/detail/20260327045344271800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "据 The Information：OpenAI广告试点的年化收入突破1亿美元。",
-          "url": "https://flash.jin10.com/detail/20260327045343835800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "航天 航空",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "我国航空发动机领域著名专家严红病逝，年仅57岁",
@@ -749,8 +775,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 06时18分]"
         },
         {
           "title": "【焦点复盘】市场连续普反后现地量普跌，绿电产业链分歧加剧，商业航天概念逆势拉升",
@@ -761,8 +787,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 06时18分]"
+        },
+        {
+          "title": "波音客机险撞“黑鹰”直升机 美航空管理局展开调查",
+          "url": "https://flash.jin10.com/detail/20260327053836470800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
         },
         {
           "title": "工会表示，美国联合航空空乘人员与公司达成新的劳资协议草案，协议规定提高基本工资标准、限制“红眼航班”飞行。",
@@ -778,20 +815,64 @@
       ]
     },
     {
-      "keyword_group": "人民币",
-      "match_count": 3,
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
       "titles": [
         {
-          "title": "周四（3月26日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.9203元，较周三纽约尾盘跌175点，日内整体交投于6.9024-6.9229元区间。",
-          "url": "https://wallstreetcn.com/livenews/3077694",
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            12,
+            11,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 06时18分]"
+        },
+        {
+          "title": "OpenAI来自ChatGPT广告业务试点获得的年化收入超过1亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3077691",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            6,
+            21
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时18分]"
+        },
+        {
+          "title": "据The Information：OpenAI的广告客户已超过600家，预计将于四月推出自助广告客户接入服务。",
+          "url": "https://flash.jin10.com/detail/20260327045344271800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
+        {
+          "title": "据 The Information：OpenAI广告试点的年化收入突破1亿美元。",
+          "url": "https://flash.jin10.com/detail/20260327045343835800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 3,
+      "titles": [
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9101元，较周三夜盘收盘跌115点。成交量449.63亿美元。",
           "url": "https://wallstreetcn.com/livenews/3077653",
@@ -803,6 +884,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时51分 ~ 04时27分]"
+        },
+        {
+          "title": "周四（3月26日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.9203元，较周三纽约尾盘跌175点，日内整体交投于6.9024-6.9229元区间。",
+          "url": "https://wallstreetcn.com/livenews/3077694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时18分]"
         },
         {
           "title": "上期所原油期货2605合约夜盘收涨2.22%，报744.60元人民币/桶。 沪金夜盘收跌2.83%，沪银收跌5.66%。",
@@ -819,6 +912,36 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "特朗普何时再“TACO”？华尔街发现规律：美油逼近100美元 or 美债收益率4.5%",
+          "url": "https://wallstreetcn.com/articles/3768442",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 06时18分]"
+        },
+        {
+          "title": "短端美债收益率涨超10个基点",
+          "url": "https://wallstreetcn.com/livenews/3077702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "A股",
       "match_count": 1,
       "titles": [
@@ -831,8 +954,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 06时18分]"
         }
       ]
     },
@@ -847,28 +970,9 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特朗普何时再“TACO”？华尔街发现规律：美油逼近100美元 or 美债收益率4.5%",
-          "url": "https://wallstreetcn.com/articles/3768442",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 05时23分]"
         }
       ]
     }
