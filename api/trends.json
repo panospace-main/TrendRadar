@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T18:38:35.021540+08:00",
-  "total_titles_processed": 1638,
+  "generated_at": "2026-03-27T19:35:31.871536+08:00",
+  "total_titles_processed": 1742,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 75,
+      "match_count": 76,
       "titles": [
         {
           "title": "伊朗拒绝美国停战方案、称不允许特朗普决定停战时间，白宫称美伊在谈判且有成效，伊外长称信息交流并非谈判",
@@ -59,8 +59,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[03时50分 ~ 18时38分]"
+          "appearance_count": 16,
+          "time_info": "[03时50分 ~ 19时35分]"
         },
         {
           "title": "中方回应特朗普称5月中旬访华",
@@ -74,6 +74,21 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时02分 ~ 07时21分]"
+        },
+        {
+          "title": "大摩数据印证特朗普口中“大礼” ：霍尔木兹海峡流量正明显增加",
+          "url": "https://www.cls.cn/detail/2326560",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时25分 ~ 19时35分]"
         },
         {
           "title": "伊朗战争还将持续多久？据传特朗普希望4-6周内终结战事",
@@ -123,21 +138,6 @@
           "time_info": "[00时02分 ~ 09时17分]"
         },
         {
-          "title": "大摩数据印证特朗普口中“大礼” ：霍尔木兹海峡流量正明显增加",
-          "url": "https://www.cls.cn/detail/2326560",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时25分 ~ 18时38分]"
-        },
-        {
           "title": "特朗普推迟十天打击伊朗能源设施，最后期限延至4月6日，称美伊谈判“非常顺利”",
           "url": "https://wallstreetcn.com/articles/3768510",
           "source": "华尔街见闻",
@@ -147,8 +147,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时16分 ~ 18时38分]"
+          "appearance_count": 9,
+          "time_info": "[09时16分 ~ 19时35分]"
         },
         {
           "title": "伊朗消息人士：特朗普“大礼”言论系政治作秀",
@@ -160,6 +160,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时16分 ~ 12时25分]"
+        },
+        {
+          "title": "美元纸币将印上特朗普签名",
+          "url": "https://news.ifeng.com/c/8rpZSKNA39N",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时25分 ~ 19时35分]"
         },
         {
           "title": "外交部：中美双方就特朗普总统访华保持着沟通",
@@ -208,18 +220,6 @@
           "time_info": "[09时16分 ~ 16时39分]"
         },
         {
-          "title": "美元纸币将印上特朗普签名",
-          "url": "https://news.ifeng.com/c/8rpZSKNA39N",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时25分 ~ 18时38分]"
-        },
-        {
           "title": "美以伊战争丨特朗普：再推迟10天打击伊朗发电厂",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -251,6 +251,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "特朗普再次就停战谈判威胁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32837558",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时07分 ~ 19时35分]"
         },
         {
           "title": "谈判僵局重燃市场恐慌，油价重新走强，拖累股债金齐跌，特朗普称暂缓打击后美元涨势回落",
@@ -330,17 +344,18 @@
           "time_info": "09时17分"
         },
         {
-          "title": "特朗普再次就停战谈判威胁伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32837558",
-          "source": "澎湃新闻",
+          "title": "打破165年传统 美钞将印特朗普签名",
+          "url": "https://www.baidu.com/s?wd=%E6%89%93%E7%A0%B4165%E5%B9%B4%E4%BC%A0%E7%BB%9F+%E7%BE%8E%E9%92%9E%E5%B0%86%E5%8D%B0%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E5%90%8D",
+          "source": "百度热搜",
           "ranks": [
-            20,
-            18,
-            14
+            12,
+            14,
+            22,
+            23
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[14时07分 ~ 18时38分]"
+          "time_info": "[15时54分 ~ 19时35分]"
         },
         {
           "title": "美伊极致拉扯：特朗普称收到“大礼”，再推迟10天打击能源设施！",
@@ -356,17 +371,16 @@
           "time_info": "[12时25分 ~ 16时39分]"
         },
         {
-          "title": "打破165年传统 美钞将印特朗普签名",
-          "url": "https://www.baidu.com/s?wd=%E6%89%93%E7%A0%B4165%E5%B9%B4%E4%BC%A0%E7%BB%9F+%E7%BE%8E%E9%92%9E%E5%B0%86%E5%8D%B0%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E5%90%8D",
-          "source": "百度热搜",
+          "title": "美钞将印上特朗普签名，打破165年来的传统",
+          "url": "https://www.cls.cn/detail/2326823",
+          "source": "财联社热门",
           "ranks": [
-            12,
-            14,
-            22
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时54分 ~ 18时38分]"
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 19时35分]"
         },
         {
           "title": "特朗普称对伊能源空袭再推迟10天",
@@ -415,17 +429,6 @@
           "time_info": "[12时25分 ~ 14时07分]"
         },
         {
-          "title": "美钞将印上特朗普签名，打破165年来的传统",
-          "url": "https://www.cls.cn/detail/2326823",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 18时38分]"
-        },
-        {
           "title": "美国总统特朗普：曾考虑过暂停征收联邦汽油税。",
           "url": "https://flash.jin10.com/detail/20260326234304645800",
           "source": "金十数据",
@@ -446,6 +449,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-27）",
+          "url": "https://flash.jin10.com/detail/20260327193101277800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "美元纸币将印特朗普签名",
@@ -586,7 +600,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -869,7 +883,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "人民币兑美元中间价报6.9141，下调85点；上一交易日中间价6.9056，上一交易日官方收盘价6.9041，上日夜盘报收6.9101。",
@@ -944,7 +958,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -958,6 +972,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
+        },
+        {
+          "title": "20元人民币背景观景台被指乱收费，广西桂林阳朔县：个人行为，已取缔",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32838273",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时54分 ~ 19时35分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9101元，较周三夜盘收盘跌115点。成交量449.63亿美元。",
@@ -982,19 +1010,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时18分]"
-        },
-        {
-          "title": "20元人民币背景观景台被指乱收费，广西桂林阳朔县：个人行为，已取缔",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32838273",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时54分 ~ 18时38分]"
         },
         {
           "title": "上期所原油期货2605合约夜盘收涨2.22%，报744.60元人民币/桶。 沪金夜盘收跌2.83%，沪银收跌5.66%。",
@@ -1042,15 +1057,37 @@
           "time_info": "12时25分"
         },
         {
+          "title": "三诺生物：拟以1.5亿元-3亿元回购股份，拟回购股份的价格不超过人民币25元/股。",
+          "url": "https://wallstreetcn.com/livenews/3078186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
           "title": "宏和科技：通过公司全资子公司黄石宏和在黄石经济技术开发区·铁山区投资“高性能电子材料产业园项目”新建项目，项目总投资金额约人民币80亿元。",
           "url": "https://wallstreetcn.com/livenews/3078146",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
+        },
+        {
+          "title": "招商银行全年净利润1,501.8亿元人民币，预估1,494.3亿元人民币。 全年净利息收入2,155.9亿元人民币，预估2,152.8亿元人民币。 全年不良贷款率0.94％，预估0.93％。 全年拨备覆盖率391.8％，预估397.6％。 全年净息差1.87％，预估1.86％。 全年不良贷款额682.1亿元人民币，预估679.6亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3078185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "恒大物业全年营收136.8亿元人民币，净利润9.866亿元人民币。",
@@ -1059,7 +1096,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         }
@@ -1067,7 +1104,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "美伊和谈陷入僵局，美股低开高走，纳指跌0.8%，布油突破100美元，现货金银跳水",
@@ -1086,11 +1123,26 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时16分 ~ 18时38分]"
+          "appearance_count": 9,
+          "time_info": "[09时16分 ~ 19时35分]"
+        },
+        {
+          "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
+          "url": "https://wallstreetcn.com/articles/3768527",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时25分 ~ 19时35分]"
         },
         {
           "title": "【早报】深夜巨震：油价狂飙，美股、金银齐跳水；美方被曝正酝酿针对伊朗的“最后一击”",
@@ -1114,19 +1166,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时21分 ~ 15时54分]"
-        },
-        {
-          "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
-          "url": "https://wallstreetcn.com/articles/3768527",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时25分 ~ 18时38分]"
         },
         {
           "title": "美伊谈判存疑，美股震荡收涨，中概股指跑赢大盘，存储板块走低，迪拜原油暴跌",
@@ -1163,6 +1202,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时16分 ~ 12时25分]"
+        },
+        {
+          "title": "美伊局势走向不明，美股期指跌幅扩大，美日债市承压，布油涨超2%，现货金银涨幅收窄",
+          "url": "https://wallstreetcn.com/articles/3768537",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "金十图示：2026年03月26日（周四）热门中概股行情一览（美股收盘）",
@@ -1233,6 +1283,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "美股期货走低，纳斯达克100指数期货跌0.7%，标普500指数期货跌0.5%，道指期货跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3078195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "美股三大股指期货持续走低，纳指日内跌幅扩大至0.26%，标普500指数期货跌0.23%，道指期货跌0.24%； 国际原油走高，布伦特原油突破104美元/桶，日内涨超2%。 欧洲斯托克600指数跌幅扩大至1.1%，触及盘中新低。",
@@ -1308,6 +1369,19 @@
           "time_info": "14时07分"
         },
         {
+          "title": "社保基金多次在A股大跌时果断加仓",
+          "url": "https://www.baidu.com/s?wd=%E7%A4%BE%E4%BF%9D%E5%9F%BA%E9%87%91%E5%A4%9A%E6%AC%A1%E5%9C%A8A%E8%82%A1%E5%A4%A7%E8%B7%8C%E6%97%B6%E6%9E%9C%E6%96%AD%E5%8A%A0%E4%BB%93",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 19时35分]"
+        },
+        {
           "title": "A股超4300只个股上涨",
           "url": "https://www.toutiao.com/trending/7621509005798260799/",
           "source": "今日头条",
@@ -1330,18 +1404,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时54分 ~ 16时39分]"
-        },
-        {
-          "title": "社保基金多次在A股大跌时果断加仓",
-          "url": "https://www.baidu.com/s?wd=%E7%A4%BE%E4%BF%9D%E5%9F%BA%E9%87%91%E5%A4%9A%E6%AC%A1%E5%9C%A8A%E8%82%A1%E5%A4%A7%E8%B7%8C%E6%97%B6%E6%9E%9C%E6%96%AD%E5%8A%A0%E4%BB%93",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 18时38分]"
         },
         {
           "title": "A股算力硬件股持续回升，光库科技涨超10%，股价续创历史新高，罗博特科、致尚科技、亨通光电、长飞光纤纷纷拉升。",
@@ -1486,6 +1548,18 @@
           "time_info": "[00时02分 ~ 07时21分]"
         },
         {
+          "title": "我国打造商业航天增长极",
+          "url": "https://www.douyin.com/hot/2445682",
+          "source": "抖音",
+          "ranks": [
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 19时35分]"
+        },
+        {
           "title": "航天电子：2025年净利润2.27亿元，同比下降58.58%",
           "url": "https://flash.jin10.com/detail/20260327171124080800",
           "source": "金十数据",
@@ -1552,17 +1626,6 @@
           "time_info": "09时17分"
         },
         {
-          "title": "我国打造商业航天增长极",
-          "url": "https://www.douyin.com/hot/2445682",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时38分"
-        },
-        {
           "title": "北京无人驾驶航空器飞行和销售运输存储新规出台，2026年5月1日实施",
           "url": "https://flash.jin10.com/detail/20260327152409793800",
           "source": "金十数据",
@@ -1625,8 +1688,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时16分 ~ 18时38分]"
+          "appearance_count": 9,
+          "time_info": "[09时16分 ~ 19时35分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -1636,11 +1699,12 @@
             9,
             5,
             2,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时25分 ~ 18时38分]"
+          "appearance_count": 7,
+          "time_info": "[12时25分 ~ 19时35分]"
         },
         {
           "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
@@ -1655,6 +1719,20 @@
           "time_info": "[00时02分 ~ 07时21分]"
         },
         {
+          "title": "谷歌TurboQuant论文解读",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            7,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时54分 ~ 19时35分]"
+        },
+        {
           "title": "谷歌母公司Alphabet跌幅迅速扩大至4.3%。",
           "url": "https://wallstreetcn.com/livenews/3077637",
           "source": "华尔街见闻-快讯",
@@ -1666,19 +1744,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时51分 ~ 04时27分]"
-        },
-        {
-          "title": "谷歌TurboQuant论文解读",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时54分 ~ 18时38分]"
         },
         {
           "title": "谷歌新算法掀起“存储热降温恐慌” 华尔街分析师却不慌",
@@ -1743,7 +1808,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "金价为何反常下跌",
@@ -1754,11 +1819,12 @@
             8,
             12,
             3,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时25分 ~ 18时38分]"
+          "appearance_count": 7,
+          "time_info": "[12时25分 ~ 19时35分]"
         },
         {
           "title": "金价银价急跌",
@@ -1770,6 +1836,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
+        },
+        {
+          "title": "德商银行：铂金价格预计到年中将达到每金衡盎司2,100美元，到年底将达到2,300美元。",
+          "url": "https://flash.jin10.com/detail/20260327193219234800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "德商银行：将今年年底的金价预测上调至5000美元/盎司，将明年年底的金价预测上调至5200美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260327192835713800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "金十图示：2026年03月27日（周五）上海金午盘价为995.34元/克，较国际金价(987.55元/克)，高7.79元/克",
