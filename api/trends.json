@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T22:05:07.515116+08:00",
-  "total_titles_processed": 1970,
+  "generated_at": "2026-03-27T23:42:13.146710+08:00",
+  "total_titles_processed": 2097,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[03时50分 ~ 22时05分]"
+          "appearance_count": 21,
+          "time_info": "[03时50分 ~ 23时42分]"
         },
         {
           "title": "特朗普称将在5月中旬访华，外交部：中美就此事保持着沟通",
@@ -100,8 +100,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时16分 ~ 22时05分]"
+          "appearance_count": 14,
+          "time_info": "[09时16分 ~ 23时42分]"
         },
         {
           "title": "伊朗战争还将持续多久？据传特朗普希望4-6周内终结战事",
@@ -259,7 +259,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -906,21 +906,8 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
-        {
-          "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
-          "url": "https://wallstreetcn.com/articles/3768430",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时16分 ~ 22时05分]"
-        },
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
           "url": "https://wallstreetcn.com/articles/3768527",
@@ -932,8 +919,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时25分 ~ 22时05分]"
+          "appearance_count": 12,
+          "time_info": "[12时25分 ~ 23时42分]"
+        },
+        {
+          "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
+          "url": "https://wallstreetcn.com/articles/3768430",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[09时16分 ~ 23时42分]"
         },
         {
           "title": "美伊和谈陷入僵局，美股低开高走，纳指跌0.8%，布油突破100美元，现货金银跳水",
@@ -994,6 +995,29 @@
           "time_info": "[01时52分 ~ 09时17分]"
         },
         {
+          "title": "美伊局势走向不明，美股指下跌，半导体股、网络安全股普跌，布油涨超2%，美30年期国债收益率创去年9月来新高",
+          "url": "https://wallstreetcn.com/articles/3768537",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时04分 ~ 23时42分]"
+        },
+        {
+          "title": "20岁女生引爆美股至暗时刻",
+          "url": "https://www.toutiao.com/trending/7621797188750344246/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时41分 ~ 23时42分]"
+        },
+        {
           "title": "美伊局势走向不明，美股期指跌幅扩大，美日债市承压，布油涨超2%，现货金银涨幅收窄",
           "url": "https://wallstreetcn.com/articles/3768537",
           "source": "华尔街见闻",
@@ -1003,17 +1027,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时35分 ~ 20时39分]"
-        },
-        {
-          "title": "美伊局势走向不明，美股指下跌，半导体股、网络安全股普跌，布油涨超2%，美30年期国债收益率创去年9月来新高",
-          "url": "https://wallstreetcn.com/articles/3768537",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时04分 ~ 22时05分]"
         },
         {
           "title": "美股标普纳指创开战后最大单日跌幅",
@@ -1049,6 +1062,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时27分 ~ 05时23分]"
+        },
+        {
+          "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2327400",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时04分 ~ 23时42分]"
         },
         {
           "title": "美股大跳水",
@@ -1088,17 +1113,6 @@
           "time_info": "[19时35分 ~ 20时39分]"
         },
         {
-          "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2327400",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时04分 ~ 22时05分]"
-        },
-        {
           "title": "美股标普纳指创开战后最大单日跌幅",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%A0%87%E6%99%AE%E7%BA%B3%E6%8C%87%E5%88%9B%E5%BC%80%E6%88%98%E5%90%8E%E6%9C%80%E5%A4%A7%E5%8D%95%E6%97%A5%E8%B7%8C%E5%B9%85",
           "source": "百度热搜",
@@ -1127,7 +1141,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -1138,7 +1152,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -1160,7 +1174,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -1182,7 +1196,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -1204,7 +1218,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -1215,7 +1229,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         }
@@ -1223,8 +1237,20 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "三部门提醒：“人民币版”冥币不要用",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E9%83%A8%E9%97%A8%E6%8F%90%E9%86%92%EF%BC%9A%E2%80%9C%E4%BA%BA%E6%B0%91%E5%B8%81%E7%89%88%E2%80%9D%E5%86%A5%E5%B8%81%E4%B8%8D%E8%A6%81%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时04分 ~ 23时42分]"
+        },
         {
           "title": "人民币兑美元中间价报6.9141，下调85点；上一交易日中间价6.9056，上一交易日官方收盘价6.9041，上日夜盘报收6.9101。",
           "url": "https://wallstreetcn.com/livenews/3077807",
@@ -1363,15 +1389,15 @@
           "time_info": "[05时23分 ~ 06时18分]"
         },
         {
-          "title": "三部门提醒：“人民币版”冥币不要用",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E9%83%A8%E9%97%A8%E6%8F%90%E9%86%92%EF%BC%9A%E2%80%9C%E4%BA%BA%E6%B0%91%E5%B8%81%E7%89%88%E2%80%9D%E5%86%A5%E5%B8%81%E4%B8%8D%E8%A6%81%E7%94%A8",
-          "source": "百度热搜",
+          "title": "三部门提醒：“人民币版”冥币不可卖也不要用",
+          "url": "https://news.ifeng.com/c/8rqHG4Ch48u",
+          "source": "凤凰网",
           "ranks": [
-            9
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时04分 ~ 22时05分]"
+          "time_info": "[23时41分 ~ 23时42分]"
         },
         {
           "title": "上期所原油期货2605合约夜盘收涨2.22%，报744.60元人民币/桶。 沪金夜盘收跌2.83%，沪银收跌5.66%。",
@@ -1392,7 +1418,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -1447,7 +1473,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -1715,17 +1741,6 @@
           "time_info": "[00时02分 ~ 07时21分]"
         },
         {
-          "title": "国产航空发动机技术再升级",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7%E8%88%AA%E7%A9%BA%E5%8F%91%E5%8A%A8%E6%9C%BA%E6%8A%80%E6%9C%AF%E5%86%8D%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时04分 ~ 22时05分]"
-        },
-        {
           "title": "我国打造商业航天增长极",
           "url": "https://www.douyin.com/hot/2445682",
           "source": "抖音",
@@ -1736,8 +1751,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时38分 ~ 22时05分]"
+          "appearance_count": 7,
+          "time_info": "[18时38分 ~ 23时42分]"
+        },
+        {
+          "title": "国产航空发动机技术再升级",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7%E8%88%AA%E7%A9%BA%E5%8F%91%E5%8A%A8%E6%9C%BA%E6%8A%80%E6%9C%AF%E5%86%8D%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时04分 ~ 22时05分]"
         },
         {
           "title": "航天电子：2025年净利润2.27亿元，同比下降58.58%",
@@ -1842,7 +1868,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -1869,8 +1895,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时25分 ~ 22时05分]"
+          "appearance_count": 12,
+          "time_info": "[12时25分 ~ 23时42分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -1884,11 +1910,12 @@
             17,
             11,
             19,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时16分 ~ 22时05分]"
+          "appearance_count": 14,
+          "time_info": "[09时16分 ~ 23时42分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -1899,11 +1926,12 @@
             7,
             12,
             13,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时54分 ~ 22时05分]"
+          "appearance_count": 10,
+          "time_info": "[15时54分 ~ 23时42分]"
         },
         {
           "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
@@ -1956,6 +1984,17 @@
           "time_info": "[03时51分 ~ 04时27分]"
         },
         {
+          "title": "全球内存股惨遭谷歌新算法冲击 瑞穗：恰恰是一个上车机会！",
+          "url": "https://www.cls.cn/detail/2327153",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时41分 ~ 23时42分]"
+        },
+        {
           "title": "3月27日投资避雷针：谷歌推出压缩算法TurboQuant 美股存储板块遭重挫",
           "url": "https://www.cls.cn/detail/2326356",
           "source": "财联社热门",
@@ -1993,7 +2032,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "金价为何反常下跌",
@@ -2009,8 +2048,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时25分 ~ 22时05分]"
+          "appearance_count": 12,
+          "time_info": "[12时25分 ~ 23时42分]"
         },
         {
           "title": "金价银价急跌",
@@ -2033,6 +2072,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
+        },
+        {
+          "title": "现货黄金价格深夜再度跳水，一度跌逾3%！金价为何“上蹿下跳”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32841691",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时41分 ~ 23时42分]"
         },
         {
           "title": "德商银行：将今年年底的金价预测上调至5000美元/盎司，将明年年底的金价预测上调至5200美元/盎司。",
@@ -2104,8 +2154,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "彭博美元指数短线下挫，日内整体转跌，跌穿1216点，亚太午盘曾刷新日低至1214.14点。",
+          "url": "https://wallstreetcn.com/livenews/3078372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
         {
           "title": "周四（3月26日）纽约尾盘，ICE美元指数涨0.38%，刷新日高至99.980点，整体持续走高，北京时间19:11-20:02涨幅突出。 彭博美元指数涨0.36%，刷新日高至1215.82点。 美元兑日元涨0.22%，刷新日高至159.83日元；欧元兑日元跌0.08%，英镑兑日元跌0.33%。",
           "url": "https://wallstreetcn.com/livenews/3077665",
