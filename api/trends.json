@@ -1,22 +1,56 @@
 {
-  "generated_at": "2026-03-28T03:36:53.031826+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2026-03-28T04:27:09.841000+08:00",
+  "total_titles_processed": 554,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
-          "title": "特朗普认定：美国国土安全部“停摆”构成紧急状态",
-          "url": "https://wallstreetcn.com/livenews/3078455",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普推迟十天打击伊朗能源设施，最后期限延至4月6日，称美伊谈判“非常顺利”",
+          "url": "https://wallstreetcn.com/articles/3768510",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 04时27分]"
+        },
+        {
+          "title": "特朗普与莫迪通话讨论中东局势，马斯克参与",
+          "url": "https://news.ifeng.com/c/8rqfbkZxNyT",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 04时27分]"
+        },
+        {
+          "title": "特朗普揭晓所谓伊朗大礼",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%AD%E6%99%93%E6%89%80%E8%B0%93%E4%BC%8A%E6%9C%97%E5%A4%A7%E7%A4%BC%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时42分 ~ 04时27分]"
+        },
+        {
+          "title": "美国中东问题特使威特科夫：认为本周将与伊朗举行会谈，特朗普希望达成和平协议。",
+          "url": "https://flash.jin10.com/detail/20260328041150540800",
+          "source": "金十数据",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时36分"
+          "time_info": "04时27分"
         },
         {
           "title": "美国总统特朗普：共和党应该终止阻挠议事，开始投票！难道他们还没厌倦这些来自激进左派疯子们的胡闹吗？让美国再次伟大！",
@@ -25,7 +59,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
         },
@@ -36,20 +70,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
         },
         {
-          "title": "特朗普推迟十天打击伊朗能源设施，最后期限延至4月6日，称美伊谈判“非常顺利”",
-          "url": "https://wallstreetcn.com/articles/3768510",
-          "source": "华尔街见闻",
+          "title": "特朗普：乌克兰曾试图干预美大选",
+          "url": "https://www.cls.cn/detail/2327470",
+          "source": "财联社热门",
           "ranks": [
-            6
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时36分]"
+          "appearance_count": 5,
+          "time_info": "[01时42分 ~ 04时27分]"
         },
         {
           "title": "白宫备忘录：美国总统特朗普指示国土安全部部长和美国行政管理和预算局局长补偿美国运输安全管理局员工。",
@@ -64,6 +98,18 @@
           "time_info": "[02时42分 ~ 03时36分]"
         },
         {
+          "title": "特朗普认定：美国国土安全部“停摆”构成紧急状态",
+          "url": "https://wallstreetcn.com/livenews/3078455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时36分 ~ 04时27分]"
+        },
+        {
           "title": "纳指跌幅扩大至2%，标普跌1.4%，道指跌674点、跌幅1.5%，半导体指数跌1.8%，生物科技指数跌2.3%。 伊朗外长阿拉格奇称，以色列在美方协调下对伊朗钢铁厂、电力和核设施发动的袭击与特朗普延长外交期限的声明相悖。伊朗将让以色列为其罪行付出沉重代价。",
           "url": "https://wallstreetcn.com/livenews/3078430",
           "source": "华尔街见闻-快讯",
@@ -76,27 +122,27 @@
           "time_info": "[02时42分 ~ 03时36分]"
         },
         {
-          "title": "特朗普揭晓所谓伊朗大礼",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%AD%E6%99%93%E6%89%80%E8%B0%93%E4%BC%8A%E6%9C%97%E5%A4%A7%E7%A4%BC%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
+          "title": "“末日博士”鲁比尼：特朗普更有可能升级伊朗局势而非选择退让",
+          "url": "https://www.cls.cn/detail/2327594",
+          "source": "财联社热门",
           "ranks": [
-            19,
-            4
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时42分 ~ 04时27分]"
+        },
+        {
+          "title": "特朗普下令在国土安全部停摆期间向TSA人员发薪，资金来源未明",
+          "url": "https://wallstreetcn.com/livenews/3078445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时42分 ~ 03时36分]"
-        },
-        {
-          "title": "特朗普：乌克兰曾试图干预美大选",
-          "url": "https://www.cls.cn/detail/2327470",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 03时36分]"
+          "time_info": "[03时36分 ~ 04时27分]"
         },
         {
           "title": "美国总统特朗普：希望卡特彼勒等公司保证降低农民的成本。 与约翰迪尔（迪尔农机）讨论了（农用）设备问题。",
@@ -111,17 +157,6 @@
           "time_info": "[01时42分 ~ 02时42分]"
         },
         {
-          "title": "“末日博士”鲁比尼：特朗普更有可能升级伊朗局势而非选择退让",
-          "url": "https://www.cls.cn/detail/2327594",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 03时36分]"
-        },
-        {
           "title": "美国众议院议长约翰逊：几分钟前与美国总统特朗普通了话。",
           "url": "https://flash.jin10.com/detail/20260328022158948800",
           "source": "金十数据",
@@ -133,26 +168,26 @@
           "time_info": "02时42分"
         },
         {
-          "title": "特朗普下令在国土安全部停摆期间向TSA人员发薪，资金来源未明",
-          "url": "https://wallstreetcn.com/livenews/3078445",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
           "title": "据纽约时报：美国总统特朗普与印度总理莫迪就伊朗局势通了电话，埃隆·马斯克也加入了通话。",
           "url": "https://flash.jin10.com/detail/20260328030555224800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
+        },
+        {
+          "title": "特朗普与莫迪通话讨论中东局势，马斯克参与",
+          "url": "https://wallstreetcn.com/livenews/3078461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         },
         {
           "title": "美国总统特朗普：将在迈阿密发表一场关于经济的盛大演讲。我们在伊朗的军事行动进展顺利！",
@@ -183,7 +218,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
         },
@@ -197,6 +232,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        },
+        {
+          "title": "特朗普与莫迪通话讨论中东局势 马斯克参与",
+          "url": "https://flash.jin10.com/detail/20260328034803956800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         },
         {
           "title": "美国总统特朗普将于4月3日公布2027财年完整预算案。",
@@ -224,7 +270,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -234,8 +280,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 04时27分]"
         },
         {
           "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
@@ -245,8 +291,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 04时27分]"
+        },
+        {
+          "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2327400",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 04时27分]"
         },
         {
           "title": "美伊局势走向不明，美股指下跌，半导体股、网络安全股普跌，布油涨超2%，美30年期国债收益率创去年9月来新高",
@@ -260,17 +319,15 @@
           "time_info": "00时42分"
         },
         {
-          "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2327400",
-          "source": "财联社热门",
+          "title": "金十图示：2026年03月27日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260328040914755800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            7,
-            8
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         },
         {
           "title": "美股遇开战以来最惨一日后，特朗普立刻宣布打伊朗“再推迟10天”",
@@ -280,8 +337,30 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 03时36分]"
+          "appearance_count": 5,
+          "time_info": "[01时42分 ~ 04时27分]"
+        },
+        {
+          "title": "金十图示：2026年03月27日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260328040912356800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "美股收盘：三大股指低开低走 明星科技股多数下跌",
+          "url": "https://flash.jin10.com/detail/20260328040624554800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         },
         {
           "title": "美股延续跌势，纳斯达克综合指数跌幅扩大至2%，标普500指数现跌1.4%，道指跌1.44%。",
@@ -301,7 +380,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
         },
@@ -323,6 +402,19 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "全球内存股惨遭谷歌新算法冲击 瑞穗：恰恰是一个上车机会！",
+          "url": "https://www.cls.cn/detail/2327153",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 04时27分]"
+        },
+        {
           "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
           "url": "https://flash.jin10.com/detail/20260328013224717800",
           "source": "金十数据",
@@ -334,19 +426,6 @@
           "time_info": "01时42分"
         },
         {
-          "title": "全球内存股惨遭谷歌新算法冲击 瑞穗：恰恰是一个上车机会！",
-          "url": "https://www.cls.cn/detail/2327153",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时36分]"
-        },
-        {
           "title": "内存股大跌与谷歌论文有关吗",
           "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E8%82%A1%E5%A4%A7%E8%B7%8C%E4%B8%8E%E8%B0%B7%E6%AD%8C%E8%AE%BA%E6%96%87%E6%9C%89%E5%85%B3%E5%90%97",
           "source": "bilibili 热搜",
@@ -356,8 +435,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 04时27分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -366,11 +445,12 @@
           "ranks": [
             18,
             20,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 04时27分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -383,8 +463,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 04时27分]"
         },
         {
           "title": "据英国金融时报：谷歌接近达成协议，为租予Anthropic的数十亿美元数据中心提供资金支持。",
@@ -404,6 +484,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "美国农业部长Rollins：未来几天将宣布关于化肥的消息。",
+          "url": "https://wallstreetcn.com/livenews/3078448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时36分 ~ 04时27分]"
+        },
+        {
           "title": "美国总统特朗普兜售关于燃料油E15的豁免行动，称：针对柴油发布新版指导意见。 要求国会山迅速批准新版农业立法草案。 相信众议长约翰逊等国会山成员能为农民找到一份（跨党派）协议。",
           "url": "https://wallstreetcn.com/livenews/3078406",
           "source": "华尔街见闻-快讯",
@@ -414,17 +506,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时42分 ~ 02时42分]"
-        },
-        {
-          "title": "美国农业部长Rollins：未来几天将宣布关于化肥的消息。",
-          "url": "https://wallstreetcn.com/livenews/3078448",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时36分"
         },
         {
           "title": "市场消息：美国总统特朗普承诺降低拖拉机成本，并“消除大量针对农业设备的荒谬规定”。",
@@ -444,7 +525,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
         }
@@ -462,19 +543,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时36分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9110元，较周四夜盘收盘跌9点。成交量381.99亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3078451",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时36分"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 04时27分]"
         },
         {
           "title": "三部门提醒：“人民币版”冥币不可卖也不要用",
@@ -484,19 +554,60 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 04时27分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9110元，较周四夜盘收盘跌9点。成交量381.99亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3078451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时36分 ~ 04时27分]"
         },
         {
           "title": "上期所原油期货2605合约夜盘收涨2.67%，报760.30元人民币/桶。 沪金夜盘收涨1.73%，沪银收涨3.12%。",
           "url": "https://wallstreetcn.com/livenews/3078442",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时36分 ~ 04时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "航天 航空",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "我国打造商业航天增长极",
+          "url": "https://www.douyin.com/hot/2445682",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 04时27分]"
+        },
+        {
+          "title": "航空业ETF收跌超3.5%，领跌美股行业ETF，能源业ETF涨1.7%",
+          "url": "https://wallstreetcn.com/livenews/3078472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时36分"
+          "time_info": "04时27分"
         }
       ]
     },
@@ -515,8 +626,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 04时27分]"
         },
         {
           "title": "现货黄金价格深夜再度跳水，一度跌逾3%！金价为何“上蹿下跳”？",
@@ -527,31 +638,14 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时36分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "航天 航空",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "我国打造商业航天增长极",
-          "url": "https://www.douyin.com/hot/2445682",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 04时27分]"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "彭博美元指数短线下挫，日内整体转跌，跌穿1216点，亚太午盘曾刷新日低至1214.14点。",
@@ -563,6 +657,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "彭博美元指数本周涨0.7%，日元跌超0.6%失守160",
+          "url": "https://wallstreetcn.com/livenews/3078458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         }
       ]
     }
