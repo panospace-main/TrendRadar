@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T02:26:17.548942+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-03-29T03:23:43.098125+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 03时23分]"
         },
         {
           "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
@@ -38,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 03时23分]"
         },
         {
           "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
@@ -51,8 +51,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 03时23分]"
         },
         {
           "title": "特朗普谈中国：对中国的成就必须非常尊重",
@@ -62,8 +62,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 03时23分]"
         },
         {
           "title": "“末日博士”鲁比尼：特朗普更有可能升级伊朗局势而非选择退让",
@@ -73,8 +73,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 03时23分]"
         },
         {
           "title": "泽连斯基：我希望特朗普不会忘记乌克兰冲突。",
@@ -84,8 +84,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 03时23分]"
         }
       ]
     },
@@ -99,11 +99,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 03时23分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -112,22 +113,24 @@
           "ranks": [
             21,
             23,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 03时23分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
           "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E8%82%A1%E5%A4%A7%E8%B7%8C%E4%B8%8E%E8%B0%B7%E6%AD%8C%E8%AE%BA%E6%96%87%E6%9C%89%E5%85%B3%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 03时23分]"
         }
       ]
     },
@@ -143,8 +146,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 03时23分]"
         },
         {
           "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
@@ -154,19 +157,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 03时23分]"
         },
         {
           "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
           "url": "https://wallstreetcn.com/articles/3768633",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 03时23分]"
         }
       ]
     },
@@ -180,22 +184,52 @@
           "source": "微博",
           "ranks": [
             28,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 02时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 03时23分]"
         },
         {
           "title": "金价又涨了",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%88%E6%B6%A8%E4%BA%86%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
-            28
+            28,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 03时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？",
+          "url": "https://wallstreetcn.com/articles/3768635",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 03时23分]"
+        },
+        {
+          "title": "新债王：进入“保全资本”模式，风险仓位已砍到“历史最低”，“美联储加息、美国衰退、美债软违约”都有可能",
+          "url": "https://wallstreetcn.com/articles/3768639",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时26分"
+          "time_info": "03时23分"
         }
       ]
     },
@@ -212,8 +246,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 03时23分]"
         }
       ]
     },
@@ -227,28 +261,12 @@
           "source": "百度热搜",
           "ranks": [
             22,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 02时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？",
-          "url": "https://wallstreetcn.com/articles/3768635",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
+            16,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时26分]"
+          "time_info": "[01时21分 ~ 03时23分]"
         }
       ]
     }
