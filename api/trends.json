@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T18:22:57.720056+08:00",
-  "total_titles_processed": 1155,
+  "generated_at": "2026-03-29T19:20:49.541230+08:00",
+  "total_titles_processed": 1216,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普发出威胁：“下一个是古巴”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时22分 ~ 18时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时22分 ~ 19时20分]"
         },
         {
           "title": "特朗普谈中国：对中国的成就必须非常尊重",
@@ -45,6 +45,17 @@
           "time_info": "[00时22分 ~ 14时07分]"
         },
         {
+          "title": "伦敦超十万人游行，高喊“反对极右翼、反对特朗普”",
+          "url": "https://news.ifeng.com/c/8rsRuzH8VRV",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时18分 ~ 19时20分]"
+        },
+        {
           "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
           "url": "https://wallstreetcn.com/articles/3768631",
           "source": "华尔街见闻",
@@ -68,17 +79,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时07分 ~ 18时22分]"
-        },
-        {
-          "title": "伦敦超十万人游行，高喊“反对极右翼、反对特朗普”",
-          "url": "https://news.ifeng.com/c/8rsRuzH8VRV",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时18分 ~ 18时22分]"
         },
         {
           "title": "“末日博士”鲁比尼：特朗普更有可能升级伊朗局势而非选择退让",
@@ -171,11 +171,25 @@
           "ranks": [
             14,
             13,
-            9
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 19时20分]"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗议会议长卡利巴夫表示，特朗普一直未能获得欧洲国家的合作。",
+          "url": "https://flash.jin10.com/detail/20260329165022283800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            14,
+            25
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时29分 ~ 18时22分]"
+          "time_info": "[17时27分 ~ 19时20分]"
         },
         {
           "title": "特朗普称战争总会有意外，「有些本应打赢的战争却输了」，北约这次不帮美国，美国以后也不帮北约，如何解读？",
@@ -189,18 +203,6 @@
           "time_info": "[09时20分 ~ 14时07分]"
         },
         {
-          "title": "据伊朗国家媒体：伊朗议会议长卡利巴夫表示，特朗普一直未能获得欧洲国家的合作。",
-          "url": "https://flash.jin10.com/detail/20260329165022283800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 18时22分]"
-        },
-        {
           "title": "美国爆发反特朗普政府集会",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E7%88%86%E5%8F%91%E5%8F%8D%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E9%9B%86%E4%BC%9A",
           "source": "bilibili 热搜",
@@ -210,12 +212,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-29）",
+          "url": "https://flash.jin10.com/detail/20260329182448742800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "谷歌TurboQuant论文解读",
@@ -273,8 +286,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时07分 ~ 18时22分]"
+          "appearance_count": 6,
+          "time_info": "[14时07分 ~ 19时20分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -289,8 +302,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时29分 ~ 18时22分]"
+          "appearance_count": 7,
+          "time_info": "[12时29分 ~ 19时20分]"
         },
         {
           "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
@@ -302,6 +315,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时07分 ~ 17时27分]"
+        },
+        {
+          "title": "新算法公布,谷歌干崩股市",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352482&amp;topic_name=%E6%96%B0%E7%AE%97%E6%B3%95%E5%85%AC%E5%B8%83%2C%E8%B0%B7%E6%AD%8C%E5%B9%B2%E5%B4%A9%E8%82%A1%E5%B8%82",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "RaBitQ 作者独家发文指出 Google的 ICLR 2026 TurboQuant 论文存在严重错误",
@@ -337,6 +361,19 @@
           "time_info": "[01时21分 ~ 06时18分]"
         },
         {
+          "title": "据伊朗国家媒体：伊朗议会议长卡利巴夫表示，从F-35战斗机到航空母舰以及地区军事基地，这些美国威望的象征都遭受了重大打击。",
+          "url": "https://flash.jin10.com/detail/20260329165110485800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时27分 ~ 19时20分]"
+        },
+        {
           "title": "国内首次实现兆瓦级液氢燃料航空发动机整机性能达标",
           "url": "https://flash.jin10.com/detail/20260329154311887800",
           "source": "金十数据",
@@ -348,18 +385,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时29分 ~ 18时22分]"
-        },
-        {
-          "title": "据伊朗国家媒体：伊朗议会议长卡利巴夫表示，从F-35战斗机到航空母舰以及地区军事基地，这些美国威望的象征都遭受了重大打击。",
-          "url": "https://flash.jin10.com/detail/20260329165110485800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 18时22分]"
         },
         {
           "title": "首次披露！国产航空发动机技术又进化了",
@@ -454,8 +479,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时22分 ~ 18时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时22分 ~ 19时20分]"
         },
         {
           "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
@@ -478,8 +503,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时07分 ~ 18时22分]"
+          "appearance_count": 6,
+          "time_info": "[14时07分 ~ 19时20分]"
         }
       ]
     },
@@ -494,11 +519,12 @@
           "ranks": [
             2,
             10,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 18时22分]"
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 19时20分]"
         },
         {
           "title": "中国石油：2025年净利润1573.18亿元，同比下降4.5%；拟向全体股东派发2025年末期股息每股人民币0.25元（含适用税项）的现金红利，总派息额约人民币457.55亿元。",
@@ -507,11 +533,12 @@
           "ranks": [
             3,
             11,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 18时22分]"
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 19时20分]"
         }
       ]
     },
@@ -561,8 +588,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时22分 ~ 18时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时22分 ~ 19时20分]"
         }
       ]
     }
