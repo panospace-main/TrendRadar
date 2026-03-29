@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T17:27:57.881051+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2026-03-29T18:22:57.720056+08:00",
+  "total_titles_processed": 1155,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 17时27分]"
+          "appearance_count": 16,
+          "time_info": "[00时22分 ~ 18时22分]"
         },
         {
           "title": "特朗普谈中国：对中国的成就必须非常尊重",
@@ -59,6 +59,28 @@
           "time_info": "[00时22分 ~ 09时20分]"
         },
         {
+          "title": "全美超900万人举行抗议反对特朗普",
+          "url": "https://www.toutiao.com/trending/7621824327100940294/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时07分 ~ 18时22分]"
+        },
+        {
+          "title": "伦敦超十万人游行，高喊“反对极右翼、反对特朗普”",
+          "url": "https://news.ifeng.com/c/8rsRuzH8VRV",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时18分 ~ 18时22分]"
+        },
+        {
           "title": "“末日博士”鲁比尼：特朗普更有可能升级伊朗局势而非选择退让",
           "url": "https://www.cls.cn/detail/2327594",
           "source": "财联社热门",
@@ -69,28 +91,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时22分 ~ 07时21分]"
-        },
-        {
-          "title": "全美超900万人举行抗议反对特朗普",
-          "url": "https://www.toutiao.com/trending/7621824327100940294/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时07分 ~ 17时27分]"
-        },
-        {
-          "title": "伦敦超十万人游行，高喊“反对极右翼、反对特朗普”",
-          "url": "https://news.ifeng.com/c/8rsRuzH8VRV",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时18分 ~ 17时27分]"
         },
         {
           "title": "泽连斯基：我希望特朗普不会忘记乌克兰冲突。",
@@ -165,6 +165,19 @@
           "time_info": "12时29分"
         },
         {
+          "title": "全美超900万人举行抗议，民众反对特朗普伊朗、移民等政策",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32856388",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 18时22分]"
+        },
+        {
           "title": "特朗普称战争总会有意外，「有些本应打赢的战争却输了」，北约这次不帮美国，美国以后也不帮北约，如何解读？",
           "url": "https://www.zhihu.com/question/2021274346899943516",
           "source": "知乎",
@@ -176,16 +189,16 @@
           "time_info": "[09时20分 ~ 14时07分]"
         },
         {
-          "title": "全美超900万人举行抗议，民众反对特朗普伊朗、移民等政策",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32856388",
-          "source": "澎湃新闻",
+          "title": "据伊朗国家媒体：伊朗议会议长卡利巴夫表示，特朗普一直未能获得欧洲国家的合作。",
+          "url": "https://flash.jin10.com/detail/20260329165022283800",
+          "source": "金十数据",
           "ranks": [
-            14,
-            13
+            8,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时29分 ~ 17时27分]"
+          "time_info": "[17时27分 ~ 18时22分]"
         },
         {
           "title": "美国爆发反特朗普政府集会",
@@ -197,17 +210,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
-        },
-        {
-          "title": "据伊朗国家媒体：伊朗议会议长卡利巴夫表示，特朗普一直未能获得欧洲国家的合作。",
-          "url": "https://flash.jin10.com/detail/20260329165022283800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
         }
       ]
     },
@@ -271,8 +273,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时07分 ~ 17时27分]"
+          "appearance_count": 5,
+          "time_info": "[14时07分 ~ 18时22分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -283,11 +285,12 @@
             3,
             15,
             16,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时29分 ~ 17时27分]"
+          "appearance_count": 6,
+          "time_info": "[12时29分 ~ 18时22分]"
         },
         {
           "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
@@ -339,22 +342,24 @@
           "source": "金十数据",
           "ranks": [
             9,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 17时27分]"
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 18时22分]"
         },
         {
           "title": "据伊朗国家媒体：伊朗议会议长卡利巴夫表示，从F-35战斗机到航空母舰以及地区军事基地，这些美国威望的象征都遭受了重大打击。",
           "url": "https://flash.jin10.com/detail/20260329165110485800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 18时22分]"
         },
         {
           "title": "首次披露！国产航空发动机技术又进化了",
@@ -449,8 +454,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 17时27分]"
+          "appearance_count": 16,
+          "time_info": "[00时22分 ~ 18时22分]"
         },
         {
           "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
@@ -473,8 +478,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时07分 ~ 17时27分]"
+          "appearance_count": 5,
+          "time_info": "[14时07分 ~ 18时22分]"
         }
       ]
     },
@@ -488,11 +493,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 17时27分]"
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 18时22分]"
         },
         {
           "title": "中国石油：2025年净利润1573.18亿元，同比下降4.5%；拟向全体股东派发2025年末期股息每股人民币0.25元（含适用税项）的现金红利，总派息额约人民币457.55亿元。",
@@ -500,11 +506,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 17时27分]"
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 18时22分]"
         }
       ]
     },
@@ -554,8 +561,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 17时27分]"
+          "appearance_count": 16,
+          "time_info": "[00时22分 ~ 18时22分]"
         }
       ]
     }
