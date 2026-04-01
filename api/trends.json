@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T07:25:20.316377+08:00",
-  "total_titles_processed": 664,
+  "generated_at": "2026-04-01T09:25:27.936949+08:00",
+  "total_titles_processed": 825,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普的“退出路线图”浮现：愿意先结束战争，重开霍尔木兹就交给欧洲和海湾盟友",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 07时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 09时25分]"
         },
         {
           "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
@@ -49,23 +49,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 07时25分]"
-        },
-        {
-          "title": "特朗普称即使霍尔木兹海峡仍关闭也愿结束战争",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865149",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 07时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 09时25分]"
         },
         {
           "title": "特朗普前顾问班农：应该让内塔尼亚胡的儿子奔赴前线",
@@ -76,8 +65,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 07时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 09时25分]"
         },
         {
           "title": "美媒：特朗普想结束对伊朗战争，重开霍尔木兹海峡就交给欧洲和海湾盟友",
@@ -86,7 +75,20 @@
           "ranks": [
             11,
             12,
-            10
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 09时25分]"
+        },
+        {
+          "title": "特朗普称即使霍尔木兹海峡仍关闭也愿结束战争",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32865149",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -163,15 +165,38 @@
           "time_info": "[03时26分 ~ 07时25分]"
         },
         {
+          "title": "美以伊战争丨特朗普：不达成协议也能结束战争",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
           "title": "美总统特朗普签署行政令，限制邮寄投票",
           "url": "https://wallstreetcn.com/livenews/3080423",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "俄10万吨石油抵达古巴，特朗普：没有任何意见",
+          "url": "https://news.ifeng.com/c/8rxB6hK0gY7",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时52分 ~ 09时25分]"
         },
         {
           "title": "美国联邦法官裁定：特朗普政府终止移民身份行为违法",
@@ -235,6 +260,18 @@
           "time_info": "[03时47分 ~ 04时33分]"
         },
         {
+          "title": "美国为何爆发反特朗普抗议",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E7%88%86%E5%8F%91%E5%8F%8D%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%97%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时52分 ~ 09时25分]"
+        },
+        {
           "title": "特朗普被曝希望快速结束战争",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E6%9B%9D%E5%B8%8C%E6%9C%9B%E5%BF%AB%E9%80%9F%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -256,28 +293,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时26分 ~ 03时47分]"
-        },
-        {
-          "title": "俄10万吨石油抵达古巴，特朗普：没有任何意见",
-          "url": "https://news.ifeng.com/c/8rxB6hK0gY7",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 07时25分]"
-        },
-        {
-          "title": "美国为何爆发反特朗普抗议",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E7%88%86%E5%8F%91%E5%8F%8D%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%97%E8%AE%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 07时25分]"
         },
         {
           "title": "美国总统特朗普：（被问及伊朗威胁打击中东地区美国公司）拿什么威胁？玩具枪（BB guns）吗？他们已经没什么可以拿来威胁的了。",
@@ -388,6 +403,17 @@
           "time_info": "[06时52分 ~ 07时25分]"
         },
         {
+          "title": "战争烂尾，特朗普要跑了",
+          "url": "https://news.ifeng.com/c/8rxhKnCdBaV",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
           "title": "美国联邦法官裁定特朗普政府终止移民身份行为违法",
           "url": "https://flash.jin10.com/detail/20260401004005511800",
           "source": "金十数据",
@@ -399,15 +425,37 @@
           "time_info": "00时55分"
         },
         {
+          "title": "美伊转折点？特朗普：将在“两到三周”内结束战争，协议亦可能达成！",
+          "url": "https://www.cls.cn/detail/2331376",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
           "title": "特朗普愈发沮丧，计划“两到三周内”结束对伊朗战争，或放弃关键目标",
           "url": "https://flash.jin10.com/detail/20260401064258971800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "欧洲盟友开始“说不”！伊朗战争撕裂北约，特朗普怒斥",
+          "url": "https://flash.jin10.com/detail/20260401090947955800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
         },
         {
           "title": "美国白宫：特朗普总统将签署新的行政命令打击邮寄投票。",
@@ -454,6 +502,17 @@
           "time_info": "00时55分"
         },
         {
+          "title": "特朗普将发表全国讲话，就伊朗问题发布“重要更新”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32869490",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
           "title": "美国总统特朗普：在此（美国撤出伊朗）之前有可能达成协议。",
           "url": "https://flash.jin10.com/detail/20260401055903554800",
           "source": "金十数据",
@@ -490,7 +549,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普释放停战信号，美股指涨幅扩大，纳指涨逾2%，房利美、房地美涨超10%，金银油齐涨",
@@ -514,8 +573,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 07时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 09时25分]"
+        },
+        {
+          "title": "美股收盘：美伊均释放冲突缓和言论 道指飙升逾1100点 纳指涨3.8%",
+          "url": "https://www.cls.cn/detail/2331315",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时52分 ~ 09时25分]"
         },
         {
           "title": "巴菲特：在苹果上赚了1000亿，但卖早了；目前美股不便宜，不抄底",
@@ -530,15 +601,42 @@
           "time_info": "[00时55分 ~ 05时29分]"
         },
         {
-          "title": "美股收盘：美伊均释放冲突缓和言论 道指飙升逾1100点 纳指涨3.8%",
-          "url": "https://www.cls.cn/detail/2331315",
-          "source": "财联社热门",
+          "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
+          "url": "https://wallstreetcn.com/articles/3768819",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时52分 ~ 07时25分]"
+          "time_info": "[07时25分 ~ 09时25分]"
+        },
+        {
+          "title": "美股黄金全线大涨！伊朗总统称伊方愿在诉求满足前提下结束战争",
+          "url": "https://www.cls.cn/detail/2331277",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时28分 ~ 09时25分]"
+        },
+        {
+          "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
+          "url": "https://wallstreetcn.com/articles/3768902",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时52分 ~ 09时25分]"
         },
         {
           "title": "美伊结束冲突信号提振华尔街，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
@@ -552,15 +650,15 @@
           "time_info": "06时52分"
         },
         {
-          "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
-          "url": "https://wallstreetcn.com/articles/3768819",
-          "source": "华尔街见闻",
+          "title": "【早报】伊朗总统：愿在诉求满足前提下结束战争；美股大涨，科技股、中概股大幅走强",
+          "url": "https://www.cls.cn/detail/2331350",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时25分"
+          "time_info": "09时25分"
         },
         {
           "title": "美股短线走强，纳指涨超3%，标普500指数、道指涨超2%。",
@@ -574,29 +672,15 @@
           "time_info": "00时55分"
         },
         {
-          "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
-          "url": "https://wallstreetcn.com/articles/3768902",
-          "source": "华尔街见闻",
+          "title": "美股三大股指集体收涨纳指涨超3.8%",
+          "url": "https://www.toutiao.com/trending/7623563069813165609/",
+          "source": "今日头条",
           "ranks": [
-            7,
             5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 07时25分]"
-        },
-        {
-          "title": "美股黄金全线大涨！伊朗总统称伊方愿在诉求满足前提下结束战争",
-          "url": "https://www.cls.cn/detail/2331277",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时28分 ~ 07时25分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
         },
         {
           "title": "美股后续会怎么走",
@@ -645,6 +729,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "美股暴涨 三大股指悉数收高",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%9A%B4%E6%B6%A8+%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E6%82%89%E6%95%B0%E6%94%B6%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
         },
         {
           "title": "金十图示：2026年03月31日（周二）美股热门股票行情一览（美股收盘）",
@@ -727,7 +822,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI完成1220亿美元融资，估值达8520亿美元",
@@ -777,11 +872,87 @@
           "time_info": "04时33分"
         },
         {
+          "title": "OpenAI完成1220亿美元融资 美法官叫停白宫宴会厅改造项目 | 环球市场",
+          "url": "https://www.cls.cn/detail/2331334",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
           "title": "OpenAI按8520亿美元估值完成本轮1220亿美元规模的融资",
           "url": "https://wallstreetcn.com/livenews/3080357",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "人民币兑美元中间价报6.9025，上调169点；上一交易日中间价6.9194，上一交易日官方收盘价6.9081，上日夜盘报收6.8881。",
+          "url": "https://wallstreetcn.com/livenews/3080499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "2026年4月1日银行间外汇市场人民币汇率中间价",
+          "url": "https://flash.jin10.com/detail/20260401091519637800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8881元，较周一夜盘收盘涨246点。成交量429.98亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3080338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时26分 ~ 04时33分]"
+        },
+        {
+          "title": "上期所原油期货2605合约夜盘收跌7.39%，报693.90元人民币/桶。 沪金夜盘收涨1.97%，沪银收涨5.18%。",
+          "url": "https://wallstreetcn.com/livenews/3080331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时26分 ~ 04时33分]"
+        },
+        {
+          "title": "周二（3月31日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8892元，较周一纽约尾盘271点，日内整体交投于6.9216-6.8866元区间。",
+          "url": "https://wallstreetcn.com/livenews/3080380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -897,9 +1068,50 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "全球地缘风险扰动，A股为何“更抗打”？高盛：“独特性”和“低波动性”增加吸引力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32863128",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 07时25分]"
+        },
+        {
+          "title": "张雪机车双冠点燃A股摩托板块，终端订单排至5-7月",
+          "url": "https://www.cls.cn/detail/2330554",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时48分]"
+        },
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2026-04-01）",
+          "url": "https://flash.jin10.com/detail/20260401090540631800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
         }
       ]
     },
@@ -948,79 +1160,6 @@
       ]
     },
     {
-      "keyword_group": "人民币",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8881元，较周一夜盘收盘涨246点。成交量429.98亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3080338",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时26分 ~ 04时33分]"
-        },
-        {
-          "title": "上期所原油期货2605合约夜盘收跌7.39%，报693.90元人民币/桶。 沪金夜盘收涨1.97%，沪银收涨5.18%。",
-          "url": "https://wallstreetcn.com/livenews/3080331",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时26分 ~ 04时33分]"
-        },
-        {
-          "title": "周二（3月31日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8892元，较周一纽约尾盘271点，日内整体交投于6.9216-6.8866元区间。",
-          "url": "https://wallstreetcn.com/livenews/3080380",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "全球地缘风险扰动，A股为何“更抗打”？高盛：“独特性”和“低波动性”增加吸引力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32863128",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 07时25分]"
-        },
-        {
-          "title": "张雪机车双冠点燃A股摩托板块，终端订单排至5-7月",
-          "url": "https://www.cls.cn/detail/2330554",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时48分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "农业 机械",
       "match_count": 2,
       "titles": [
@@ -1051,7 +1190,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌发布论文，在2029年期限前就量子风险向加密行业发出警告",
@@ -1064,6 +1203,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时48分 ~ 03时26分]"
+        },
+        {
+          "title": "谷歌正在研发无屏幕版Fitbit手环，并计划于今年晚些时候发布。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3080469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
         }
       ]
     },
