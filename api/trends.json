@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T04:35:18.998930+08:00",
-  "total_titles_processed": 538,
+  "generated_at": "2026-04-02T05:34:02.340446+08:00",
+  "total_titles_processed": 574,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "美以伊战争丨特朗普：伊朗新政权总统向美国请求停火",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时34分]"
         },
         {
           "title": "马克龙访日暗讽特朗普",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时34分]"
         },
         {
           "title": "俄10万吨石油抵达古巴，特朗普：没有任何意见",
@@ -37,30 +37,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时34分]"
         },
         {
           "title": "特朗普称将在“两到三周”内结束伊朗战事 霍尔木兹海峡由他国自行解决",
           "url": "https://wallstreetcn.com/articles/3768931",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时34分]"
         },
         {
           "title": "特朗普称将很快撤出伊朗战事",
           "url": "https://wallstreetcn.com/articles/3769012",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时34分]"
         },
         {
           "title": "外媒：特朗普正“认真考虑”让美国退出北约",
@@ -71,8 +73,81 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时34分]"
+        },
+        {
+          "title": "特朗普称美军将很快撤出伊朗战事",
+          "url": "https://www.toutiao.com/trending/7622967334319521811/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时34分]"
+        },
+        {
+          "title": "美国将结束打击伊朗？特朗普：两三周内撤离，霍尔木兹海峡通航问题与美无关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32869664",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时34分]"
+        },
+        {
+          "title": "特朗普最新表态：有无协议都会撤出伊朗，只要伊方没有核武器",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32869629",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时34分]"
+        },
+        {
+          "title": "特朗普正“认真考虑”让美国退出北约，美防长：对伊朗展开大规模行动时，北约盟友甚至连通行权限都不给美国",
+          "url": "https://wallstreetcn.com/articles/3768995",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时42分 ~ 05时34分]"
+        },
+        {
+          "title": "马克龙“暗批”特朗普",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E2%80%9C%E6%9A%97%E6%89%B9%E2%80%9D%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            17,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时42分 ~ 05时34分]"
+        },
+        {
+          "title": "美国汽油价格突破每加仑4美元，特朗普：美军离开伊朗油价就能跌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32870657",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时42分 ~ 05时34分]"
         },
         {
           "title": "市场消息：北约担忧特朗普会削弱联盟，此前美国威胁要退出北约。",
@@ -86,40 +161,29 @@
           "time_info": "00时02分"
         },
         {
-          "title": "特朗普称美军将很快撤出伊朗战事",
-          "url": "https://www.toutiao.com/trending/7622967334319521811/",
-          "source": "今日头条",
+          "title": "据华尔街日报：消息人士称，美国总统特朗普预计将全面调整钢铁和铝关税。据悉特朗普政府将调整成品关税以简化合规。",
+          "url": "https://flash.jin10.com/detail/20260402045441497800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            12
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时35分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
         },
         {
-          "title": "美国将结束打击伊朗？特朗普：两三周内撤离，霍尔木兹海峡通航问题与美无关",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32869664",
-          "source": "澎湃新闻",
+          "title": "特朗普称伊朗新政权总统请求停火",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BC%8A%E6%9C%97%E6%96%B0%E6%94%BF%E6%9D%83%E6%80%BB%E7%BB%9F%E8%AF%B7%E6%B1%82%E5%81%9C%E7%81%AB%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
           "ranks": [
+            26,
+            25,
             14,
             15
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时35分]"
-        },
-        {
-          "title": "特朗普最新表态：有无协议都会撤出伊朗，只要伊方没有核武器",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32869629",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时35分]"
+          "time_info": "[00时02分 ~ 05时34分]"
         },
         {
           "title": "北约担忧美国总统特朗普会削弱这个联盟，此前美国威胁要退出北约。",
@@ -133,73 +197,17 @@
           "time_info": "00时02分"
         },
         {
-          "title": "美国总统特朗普宣称，美国正与伊朗议长对话。（ABC新闻）",
-          "url": "https://wallstreetcn.com/livenews/3081104",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "据ABC新闻：特朗普表示，美国正在与伊朗议会议长对话。",
-          "url": "https://flash.jin10.com/detail/20260402035800707800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "特朗普正“认真考虑”让美国退出北约，美防长：对伊朗展开大规模行动时，北约盟友甚至连通行权限都不给美国",
-          "url": "https://wallstreetcn.com/articles/3768995",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时42分 ~ 04时35分]"
-        },
-        {
-          "title": "马克龙“暗批”特朗普",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E2%80%9C%E6%9A%97%E6%89%B9%E2%80%9D%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时42分 ~ 04时35分]"
-        },
-        {
-          "title": "美国汽油价格突破每加仑4美元，特朗普：美军离开伊朗油价就能跌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32870657",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时42分 ~ 04时35分]"
-        },
-        {
           "title": "据Politico：特朗普将在当地时间周三晚上发表的讲话中宣布伊朗战争已接近尾声，而其他国家则需解决霍尔木兹海峡问题。",
           "url": "https://flash.jin10.com/detail/20260402033435211800",
           "source": "金十数据",
           "ranks": [
             1,
-            8
+            8,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时52分 ~ 04时35分]"
+          "appearance_count": 3,
+          "time_info": "[03时52分 ~ 05时34分]"
         },
         {
           "title": "特朗普听取了关于“运走伊朗近1000磅高浓缩铀”的简报",
@@ -207,24 +215,60 @@
           "source": "金十数据",
           "ranks": [
             3,
-            10
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时52分 ~ 05时34分]"
+        },
+        {
+          "title": "美国总统特朗普宣称，美国正与伊朗议长对话。（ABC新闻）",
+          "url": "https://wallstreetcn.com/livenews/3081104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时52分 ~ 04时35分]"
+          "time_info": "[04时35分 ~ 05时34分]"
         },
         {
-          "title": "特朗普称伊朗新政权总统请求停火",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BC%8A%E6%9C%97%E6%96%B0%E6%94%BF%E6%9D%83%E6%80%BB%E7%BB%9F%E8%AF%B7%E6%B1%82%E5%81%9C%E7%81%AB%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
+          "title": "据ABC新闻：特朗普表示，美国正在与伊朗议会议长对话。",
+          "url": "https://flash.jin10.com/detail/20260402035800707800",
+          "source": "金十数据",
           "ranks": [
-            26,
-            25,
-            14
+            4,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 04时35分]"
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时34分]"
+        },
+        {
+          "title": "美媒：特朗普将在黄金时段宣布战争即将结束，海峡责任全在北约",
+          "url": "https://flash.jin10.com/detail/20260402034238876800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时34分]"
+        },
+        {
+          "title": "特朗普要求军方提交夺取伊朗核材料计划",
+          "url": "https://wallstreetcn.com/livenews/3081098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时34分]"
         },
         {
           "title": "标普500指数涨超1.2%，道指涨429点、涨幅0.9%。 据以色列广播管理局援引以色列消息人士的话称，以色列越来越担心特朗普会对此次行动的成果感到满意，并宣布行动结束。",
@@ -237,6 +281,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时42分 ~ 02时45分]"
+        },
+        {
+          "title": "白带：特朗普将在黄金时段宣布战争即将结束，海峡责任全在北约",
+          "url": "https://wallstreetcn.com/livenews/3081095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时34分]"
         },
         {
           "title": "白宫官员预告特朗普讲话：将重申可能2-3周结束在伊朗的行动",
@@ -287,28 +343,6 @@
           "time_info": "[02时45分 ~ 03时52分]"
         },
         {
-          "title": "美媒：特朗普将在黄金时段宣布战争即将结束，海峡责任全在北约",
-          "url": "https://flash.jin10.com/detail/20260402034238876800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "特朗普要求军方提交夺取伊朗核材料计划",
-          "url": "https://wallstreetcn.com/livenews/3081098",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
           "title": "特朗普“撒手不管”霍尔木兹海峡，对油价意味着什么？",
           "url": "https://wallstreetcn.com/articles/3768941",
           "source": "华尔街见闻",
@@ -318,17 +352,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        },
-        {
-          "title": "白带：特朗普将在黄金时段宣布战争即将结束，海峡责任全在北约",
-          "url": "https://wallstreetcn.com/livenews/3081095",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
         },
         {
           "title": "标普涨幅收窄至不足1%，道指维持0.9%的涨幅，纳指涨幅收窄至不足1.5%。 据路透报道，美国副总统万斯在巴基斯坦与调停方讨论伊朗问题。 万斯最近一次谈论伊朗问题是在周二。 万斯暗示，如果美国的要求得到满足，总统特朗普对停火持开放态度。 万斯发出严厉信号，宣称特朗普“没有耐心”",
@@ -466,7 +489,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
@@ -476,8 +499,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时34分]"
         },
         {
           "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
@@ -485,22 +508,23 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时34分]"
         },
         {
-          "title": "金十图示：2026年04月01日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260402040551362800",
-          "source": "金十数据",
+          "title": "受美伊停火希望提振，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元关口",
+          "url": "https://wallstreetcn.com/articles/3768936",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 05时34分]"
         },
         {
           "title": "美股存储板块全线爆发，西部数据大涨11.74%领涨，闪迪涨10.42%，美光科技涨10.77%报374美元，希捷科技涨9.08%。",
@@ -528,26 +552,51 @@
           "time_info": "[00时02分 ~ 04时35分]"
         },
         {
+          "title": "黄金ETF收涨超1.7%，领跑美股大类资产类ETF，布油基金则跌超3.2%",
+          "url": "https://wallstreetcn.com/livenews/3081112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
+        },
+        {
+          "title": "金十图示：2026年04月01日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260402040551362800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时34分]"
+        },
+        {
           "title": "金十图示：2026年04月01日（周三）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260402040549263800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时34分]"
         },
         {
           "title": "美股收盘：三大股指收涨 内存股走强",
           "url": "https://flash.jin10.com/detail/20260402040132988800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时34分]"
         },
         {
           "title": "礼来(LLY.N)美股涨超4%，减肥药Foundayo在美获批。",
@@ -586,8 +635,19 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "据美国哥伦比亚广播公司（CBS）：美国航空航天局（NASA）正在排查一个可能导致阿尔忒弥斯二号发射延迟的问题。",
+          "url": "https://flash.jin10.com/detail/20260402045322036800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
+        },
         {
           "title": "德国汉莎航空首席执行官：今年超过80%的燃油需求已通过套期保值合约对冲油价波动风险。",
           "url": "https://flash.jin10.com/detail/20260401234412463800",
@@ -598,6 +658,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "厦门航空回应燃油附加费上涨5倍",
+          "url": "https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A8%E8%88%AA%E7%A9%BA%E5%9B%9E%E5%BA%94%E7%87%83%E6%B2%B9%E9%99%84%E5%8A%A0%E8%B4%B9%E4%B8%8A%E6%B6%A85%E5%80%8D",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 05时34分]"
         },
         {
           "title": "德国汉莎航空首席执行官：航空燃料供应短缺很可能首先在欧洲以外地区显现。",
@@ -611,6 +682,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "航空业ETF收涨2.6%，和半导体ETF领跑美股行业ETF，能源业ETF跌超3.7%",
+          "url": "https://wallstreetcn.com/livenews/3081109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
+        },
+        {
           "title": "巴西国家石油公司：获准向商业航空业供油的经销商4月份航油价格涨幅不得超过18%",
           "url": "https://flash.jin10.com/detail/20260402010236086800",
           "source": "金十数据",
@@ -620,6 +702,49 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "周三（4月1日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.8774元，较周二纽约尾盘涨118点，日内整体交投于6.8909-6.8710元区间。",
+          "url": "https://wallstreetcn.com/livenews/3081116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
+        },
+        {
+          "title": "上期所原油期货2605合约夜盘收跌4.46%，报664.80元人民币/桶。 沪金夜盘收涨2.01%，沪银收涨0.69%。",
+          "url": "https://wallstreetcn.com/livenews/3081075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时45分 ~ 04时35分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8750元，较周二夜盘收盘涨131点。成交量494.04亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3081086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时52分 ~ 05时34分]"
         }
       ]
     },
@@ -641,6 +766,18 @@
           "time_info": "[02时45分 ~ 04时35分]"
         },
         {
+          "title": "周三（4月1日）纽约尾盘，ICE美元指数跌0.33%，报99.634点，日内交投区间为99.883-99.298点。 彭博美元指数跌0.27%，报1212.17点，日内交投区间为1215.61-1209.41点。 美元兑日元涨0.11%，报158.89日元，日内交投区间为158.28-159.01日元。 欧元兑日元涨0.38%，英镑兑日元涨0.65%。",
+          "url": "https://wallstreetcn.com/livenews/3081097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时34分]"
+        },
+        {
           "title": "标普500指数涨幅收窄至不足0.9%，WTI原油5分钟内下跌0.49美元/桶，报99.21美元/桶。 美国驻北约特使Witkoff宣称，美国显然正与伊朗内部正确的人对话。 美方认为，伊朗能够针对（美国和以色列发动的伊朗战争）选择一个“退出渠道”（off-ramp）。",
           "url": "https://wallstreetcn.com/livenews/3081072",
           "source": "华尔街见闻-快讯",
@@ -651,17 +788,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时45分 ~ 03时52分]"
-        },
-        {
-          "title": "周三（4月1日）纽约尾盘，ICE美元指数跌0.33%，报99.634点，日内交投区间为99.883-99.298点。 彭博美元指数跌0.27%，报1212.17点，日内交投区间为1215.61-1209.41点。 美元兑日元涨0.11%，报158.89日元，日内交投区间为158.28-159.01日元。 欧元兑日元涨0.38%，英镑兑日元涨0.65%。",
-          "url": "https://wallstreetcn.com/livenews/3081097",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
         }
       ]
     },
@@ -678,8 +804,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时34分]"
         },
         {
           "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
@@ -690,39 +816,25 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时34分]"
         }
       ]
     },
     {
-      "keyword_group": "人民币",
-      "match_count": 2,
+      "keyword_group": "农业 机械",
+      "match_count": 1,
       "titles": [
         {
-          "title": "上期所原油期货2605合约夜盘收跌4.46%，报664.80元人民币/桶。 沪金夜盘收涨2.01%，沪银收涨0.69%。",
-          "url": "https://wallstreetcn.com/livenews/3081075",
-          "source": "华尔街见闻-快讯",
+          "title": "印度政府公告：自4月2日至6月30日，硝酸铵免征农业基础设施与发展税。",
+          "url": "https://flash.jin10.com/detail/20260402042846863800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            15,
-            26
+            8
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时45分 ~ 04时35分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8750元，较周二夜盘收盘涨131点。成交量494.04亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3081086",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时52分 ~ 04时35分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
         }
       ]
     },
@@ -757,8 +869,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时42分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[01时42分 ~ 05时34分]"
         }
       ]
     }
