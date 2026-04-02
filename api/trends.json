@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T05:28:06.663132+08:00",
-  "total_titles_processed": 567,
+  "generated_at": "2026-04-03T06:23:26.486143+08:00",
+  "total_titles_processed": 588,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 06时23分]"
         },
         {
           "title": "全球市场瞩目！9点“全美讲话”，特朗普会讲什么？",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 06时23分]"
         },
         {
           "title": "特朗普讲话“没有明确降温信号”，市场“很失望”",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 06时23分]"
         },
         {
           "title": "外交部谈特朗普涉伊朗言论",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 06时23分]"
         },
         {
           "title": "伊朗强硬回应特朗普",
@@ -58,11 +58,27 @@
           "ranks": [
             13,
             15,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 06时23分]"
+        },
+        {
+          "title": "特朗普发表讲话谈伊朗战事",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E8%A1%A8%E8%AE%B2%E8%AF%9D%E8%B0%88%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            25,
+            29,
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时41分 ~ 06时23分]"
         },
         {
           "title": "外交部谈特朗普涉伊朗言论：再次敦促当事方立即停止军事行动",
@@ -76,29 +92,28 @@
           "time_info": "00时53分"
         },
         {
-          "title": "特朗普发表讲话谈伊朗战事",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E8%A1%A8%E8%AE%B2%E8%AF%9D%E8%B0%88%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "特朗普讲话后金银直线跳水",
+          "url": "https://www.douyin.com/hot/2452230",
+          "source": "抖音",
           "ranks": [
-            30,
-            25,
-            29,
-            24
+            16,
+            22,
+            27
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[02时41分 ~ 05时28分]"
+          "time_info": "[01时41分 ~ 06时23分]"
         },
         {
-          "title": "据CBS报道，礼来制药减肥药Foundayo将上架美国总统特朗普的TrumpRX。 4月1日，美国食品药品管理局（FDA）批准了这款口服减肥药。",
-          "url": "https://wallstreetcn.com/livenews/3081802",
+          "title": "特朗普放炸桥视频施压，伊朗外长说不会投降",
+          "url": "https://wallstreetcn.com/livenews/3081814",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时28分"
+          "time_info": "06时23分"
         },
         {
           "title": "特朗普认为伊朗战争结束后 抵押贷款利率将会下降",
@@ -110,18 +125,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
-        },
-        {
-          "title": "特朗普讲话后金银直线跳水",
-          "url": "https://www.douyin.com/hot/2452230",
-          "source": "抖音",
-          "ranks": [
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时41分 ~ 04时25分]"
         },
         {
           "title": "美国总统特朗普：美国司法部长帕姆·邦迪将转任一份在私营部门非常需要且重要的新工作，具体日期将于近期公布，副司法部长托德·布兰奇将接任代理司法部长一职。",
@@ -148,6 +151,31 @@
           "time_info": "[00时53分 ~ 01时41分]"
         },
         {
+          "title": "据CBS报道，礼来制药减肥药Foundayo将上架美国总统特朗普的TrumpRX。 4月1日，美国食品药品管理局（FDA）批准了这款口服减肥药。",
+          "url": "https://wallstreetcn.com/livenews/3081802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时23分]"
+        },
+        {
+          "title": "伊朗外长嘲讽特朗普：石器时代可没有油气",
+          "url": "https://flash.jin10.com/detail/20260403035841206800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时25分 ~ 06时23分]"
+        },
+        {
           "title": "美国总统特朗普宣称，司法部长Bondi被免职。（福克斯新闻）",
           "url": "https://wallstreetcn.com/livenews/3081729",
           "source": "华尔街见闻-快讯",
@@ -161,16 +189,16 @@
           "time_info": "[01时41分 ~ 03时42分]"
         },
         {
-          "title": "伊朗外长嘲讽特朗普：石器时代可没有油气",
-          "url": "https://flash.jin10.com/detail/20260403035841206800",
-          "source": "金十数据",
+          "title": "美华盛顿规划机构批准特朗普白宫宴会厅项目",
+          "url": "https://wallstreetcn.com/livenews/3081794",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            26
+            12,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时25分 ~ 05时28分]"
+          "time_info": "[05时28分 ~ 06时23分]"
         },
         {
           "title": "忍了数月，特朗普解职美司法部长邦迪",
@@ -205,17 +233,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
-        },
-        {
-          "title": "美华盛顿规划机构批准特朗普白宫宴会厅项目",
-          "url": "https://wallstreetcn.com/livenews/3081794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
         },
         {
           "title": "据CNN：美国总统特朗普免去帕姆·邦迪美国司法部长职务。",
@@ -299,8 +316,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 06时23分]"
         },
         {
           "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
@@ -311,8 +328,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 06时23分]"
         },
         {
           "title": "什么信号？华尔街频频传来“避开美股”警告声……",
@@ -324,8 +341,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 06时23分]"
         },
         {
           "title": "美股三大指数低开 特斯拉跌逾4%",
@@ -336,11 +353,12 @@
             27,
             22,
             24,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 06时23分]"
         },
         {
           "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股盘中）",
@@ -370,11 +388,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 05时28分]"
+          "appearance_count": 3,
+          "time_info": "[04时25分 ~ 06时23分]"
         },
         {
           "title": "法国10年期国债收益率在美股开盘前后快速回吐涨幅，本周已跌15个基点",
@@ -389,6 +408,54 @@
           "time_info": "[00时53分 ~ 01时41分]"
         },
         {
+          "title": "美股大类资产类ETF多数收涨，布油基金涨超7.5%",
+          "url": "https://wallstreetcn.com/livenews/3081793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时23分]"
+        },
+        {
+          "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260403040716683800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时23分]"
+        },
+        {
+          "title": "金十图示：2026年04月02日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260403040531633800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时23分]"
+        },
+        {
+          "title": "周四（4月2日），美股行业ETF多数收涨，网络股指数ETF收涨1.33%，科技行业ETF涨0.82%，能源业ETF涨0.47%，半导体ETF涨0.09%，可选消费ETF跌1.50%。",
+          "url": "https://wallstreetcn.com/livenews/3081784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时23分]"
+        },
+        {
           "title": "特朗普即将发表讲话，美股首度“两连涨”，黄金已“四连涨”，华尔街FOMO了",
           "url": "https://wallstreetcn.com/articles/3769043",
           "source": "华尔街见闻",
@@ -398,50 +465,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "航天 航空",
+      "match_count": 3,
+      "titles": [
         {
-          "title": "美股大类资产类ETF多数收涨，布油基金涨超7.5%",
-          "url": "https://wallstreetcn.com/livenews/3081793",
+          "title": "美国联合航空（美联航）将托运行李费上调10美元，来应对燃油价格持续攀升。",
+          "url": "https://wallstreetcn.com/livenews/3081816",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时28分"
+          "time_info": "06时23分"
         },
         {
-          "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260403040716683800",
+          "title": "大航天对中美意义有多大",
+          "url": "https://www.toutiao.com/trending/7624151498783460900/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 01时41分]"
+        },
+        {
+          "title": "摩洛哥皇家航空宣布，将往返迪拜的航班取消至5月31日。",
+          "url": "https://flash.jin10.com/detail/20260403000959634800",
           "source": "金十数据",
           "ranks": [
-            16
+            17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "金十图示：2026年04月02日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260403040531633800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "周四（4月2日），美股行业ETF多数收涨，网络股指数ETF收涨1.33%，科技行业ETF涨0.82%，能源业ETF涨0.47%，半导体ETF涨0.09%，可选消费ETF跌1.50%。",
-          "url": "https://wallstreetcn.com/livenews/3081784",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
+          "time_info": "00时53分"
         }
       ]
     },
@@ -449,17 +512,6 @@
       "keyword_group": "人民币",
       "match_count": 3,
       "titles": [
-        {
-          "title": "周四（4月2日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8901元，较周三纽约尾盘跌127点，日内整体交投于6.8724-6.9042元区间。",
-          "url": "https://wallstreetcn.com/livenews/3081803",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
         {
           "title": "上期所原油期货2605合约夜盘收涨3.75%，报713.20元人民币/桶。 沪金夜盘收跌0.74%，沪银收跌1.87%。",
           "url": "https://wallstreetcn.com/livenews/3081754",
@@ -472,6 +524,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时42分 ~ 04时25分]"
+        },
+        {
+          "title": "周四（4月2日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8901元，较周三纽约尾盘跌127点，日内整体交投于6.8724-6.9042元区间。",
+          "url": "https://wallstreetcn.com/livenews/3081803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时23分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8855元，较周三夜盘收盘跌105点。成交量420.82亿美元。",
@@ -583,8 +647,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 06时23分]"
         },
         {
           "title": "3月A股新开460万户，同环比各创高增，谁正进场逆势布局？",
@@ -596,37 +660,39 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 06时23分]"
         }
       ]
     },
     {
-      "keyword_group": "航天 航空",
+      "keyword_group": "美债",
       "match_count": 2,
       "titles": [
         {
-          "title": "大航天对中美意义有多大",
-          "url": "https://www.toutiao.com/trending/7624151498783460900/",
-          "source": "今日头条",
+          "title": "多国央行大幅减持美债",
+          "url": "https://www.douyin.com/hot/2452076",
+          "source": "抖音",
           "ranks": [
-            8,
-            9
+            30,
+            23,
+            21,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 01时41分]"
+          "appearance_count": 5,
+          "time_info": "[03时42分 ~ 06时23分]"
         },
         {
-          "title": "摩洛哥皇家航空宣布，将往返迪拜的航班取消至5月31日。",
-          "url": "https://flash.jin10.com/detail/20260403000959634800",
-          "source": "金十数据",
+          "title": "10年期美债收益率周四冲高回落，本周仍累跌超12个基点",
+          "url": "https://wallstreetcn.com/livenews/3081808",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时53分"
+          "time_info": "06时23分"
         }
       ]
     },
@@ -651,30 +717,12 @@
           "url": "https://flash.jin10.com/detail/20260403043416469800",
           "source": "金十数据",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "多国央行大幅减持美债",
-          "url": "https://www.douyin.com/hot/2452076",
-          "source": "抖音",
-          "ranks": [
-            30,
-            23,
-            21
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时42分 ~ 05时28分]"
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时23分]"
         }
       ]
     }
