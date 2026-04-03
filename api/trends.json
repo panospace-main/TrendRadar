@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T20:38:50.689733+08:00",
-  "total_titles_processed": 1754,
+  "generated_at": "2026-04-03T21:57:05.811277+08:00",
+  "total_titles_processed": 1871,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 64,
       "titles": [
         {
           "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
@@ -51,8 +51,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时17分 ~ 20时38分]"
+          "appearance_count": 13,
+          "time_info": "[09时17分 ~ 21时57分]"
         },
         {
           "title": "外交部谈特朗普涉伊朗言论",
@@ -65,6 +65,21 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时53分 ~ 09时18分]"
+        },
+        {
+          "title": "美国炸毁伊朗最大桥梁 特朗普威胁：将继续打击桥梁和发电厂！",
+          "url": "https://www.cls.cn/detail/2334381",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            4,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时56分 ~ 21时57分]"
         },
         {
           "title": "伊朗强硬回应特朗普",
@@ -92,21 +107,6 @@
           "time_info": "[09时17分 ~ 18时34分]"
         },
         {
-          "title": "美国炸毁伊朗最大桥梁 特朗普威胁：将继续打击桥梁和发电厂！",
-          "url": "https://www.cls.cn/detail/2334381",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            4,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时56分 ~ 20时38分]"
-        },
-        {
           "title": "特朗普讲话后金银直线跳水",
           "url": "https://www.douyin.com/hot/2452230",
           "source": "抖音",
@@ -120,6 +120,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时41分 ~ 09时18分]"
+        },
+        {
+          "title": "马克龙回怼特朗普",
+          "url": "https://www.douyin.com/hot/2453352",
+          "source": "抖音",
+          "ranks": [
+            14,
+            11,
+            12,
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时42分 ~ 21时57分]"
         },
         {
           "title": "美以伊战争丨炸完大桥特朗普再发威胁，伊朗回击",
@@ -183,21 +198,6 @@
           "time_info": "00时53分"
         },
         {
-          "title": "马克龙回怼特朗普",
-          "url": "https://www.douyin.com/hot/2453352",
-          "source": "抖音",
-          "ranks": [
-            14,
-            11,
-            12,
-            15,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时42分 ~ 20时38分]"
-        },
-        {
           "title": "特朗普认为伊朗战争结束后 抵押贷款利率将会下降",
           "url": "https://flash.jin10.com/detail/20260403003009535800",
           "source": "金十数据",
@@ -215,7 +215,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         },
@@ -226,7 +226,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         },
@@ -356,6 +356,17 @@
           "time_info": "[01时41分 ~ 03时42分]"
         },
         {
+          "title": "特朗普又又又临阵退缩了？",
+          "url": "https://news.ifeng.com/c/8s1rQuxF293",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 21时57分]"
+        },
+        {
           "title": "白宫紧急下架特朗普讲话视频",
           "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%AB%E7%B4%A7%E6%80%A5%E4%B8%8B%E6%9E%B6%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%B2%E8%AF%9D%E8%A7%86%E9%A2%91%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -432,7 +443,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         },
@@ -487,9 +498,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
+        },
+        {
+          "title": "白宫国家经济委员会主任哈塞特：特朗普的预算请求在财政上负责任的。",
+          "url": "https://flash.jin10.com/detail/20260403214119681800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "白宫：特朗普2027财年预算案寻求1.5万亿美元国防支出",
@@ -498,7 +520,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         },
@@ -580,6 +602,17 @@
           "time_info": "09时18分"
         },
         {
+          "title": "美国管理和预算办公室（OMB）：特朗普政府预算案提议投入100亿美元用于美化华盛顿特区。 特朗普在2027财年的预算申请中要求采购85架F-35战机，这一数量较去年的47架有所增加。 特朗普政府预算计划采购2艘“弗吉尼亚”级潜艇，与去年的计划相同。 特朗普预算申请175亿美元用于“金穹顶”项目资金。",
+          "url": "https://wallstreetcn.com/livenews/3082218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "美国白宫：根据总统特朗普修订后的232条款金属关税，某些金属密集型工业和电网设备将征收15%的关税。",
           "url": "https://flash.jin10.com/detail/20260403034839754800",
           "source": "金十数据",
@@ -600,6 +633,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
+        },
+        {
+          "title": "特朗普再提打开霍尔木兹海峡“抢石油”",
+          "url": "https://wallstreetcn.com/livenews/3082198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "日本财务大臣片山皋月：美国总统特朗普的讲话对金融市场产生了重大影响。",
@@ -652,7 +696,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         },
@@ -666,6 +710,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "美媒：特朗普对两部长不满 正考虑进一步调整内阁",
+          "url": "https://wallstreetcn.com/livenews/3082199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "伦敦基础金属下跌，特朗普威胁要袭击伊朗电厂",
@@ -696,7 +751,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         }
@@ -704,7 +759,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普威胁升级对伊战事，WTI原油突破110美元，美股大幅低开，黄金跌破4600、白银日内跌超5%",
@@ -890,6 +945,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时23分]"
+        },
+        {
+          "title": "提醒：美股因耶稣受难日休市。",
+          "url": "https://wallstreetcn.com/livenews/3082234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         }
       ]
     },
@@ -1031,8 +1097,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时56分 ~ 20时38分]"
+          "appearance_count": 9,
+          "time_info": "[15时56分 ~ 21时57分]"
         },
         {
           "title": "美国联合航空(UAL.O)：上调美国、墨西哥、加拿大及拉丁美洲地区旅客的首件和第二件托运行李费各10美元。",
@@ -1239,11 +1305,12 @@
             10,
             4,
             16,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时56分 ~ 20时38分]"
+          "appearance_count": 9,
+          "time_info": "[15时56分 ~ 21时57分]"
         },
         {
           "title": "谷歌最新模型Gemma4发布",
@@ -1306,7 +1373,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "周四（4月2日）纽约尾盘，ICE美元指数涨0.35%，报99.998点，日内交投区间为99.447-100.263点，亚太早盘，美国总统特朗普讲话之际陡峭地走高，日内大部分时间高位震荡、北京时间19:16刷新日高。 彭博美元指数涨0.26%，报1215.67点。 美元兑日元涨0.50%，报159.60日元，日内交投区间为158.55-159.74日元。",
@@ -1343,6 +1410,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
+        },
+        {
+          "title": "美国3月非农就业报告公布后，美元指数短线逾10点，现报100.12。美国10年期国债收益率短线拉升，现报4.351%。数据显示，美国3月非农就业人数增幅远程预期，失业率下降，交易员降低了对美联储2026年降息的押注。",
+          "url": "https://wallstreetcn.com/livenews/3082210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "美元指数维持日内小幅上涨态势，现报100.05。特朗普针对伊朗发帖：下一步将摧毁桥梁，然后是发电厂；伊朗新政权领导层知道必须做什么，而且必须尽快做。",
@@ -1400,6 +1478,34 @@
       ]
     },
     {
+      "keyword_group": "农业 机械",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "智慧装备为农业打开发展新空间",
+          "url": "https://www.baidu.com/s?wd=%E6%99%BA%E6%85%A7%E8%A3%85%E5%A4%87%E4%B8%BA%E5%86%9C%E4%B8%9A%E6%89%93%E5%BC%80%E5%8F%91%E5%B1%95%E6%96%B0%E7%A9%BA%E9%97%B4",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 21时57分]"
+        },
+        {
+          "title": "沪指午后跌超1%。煤炭、油气、养殖业、电力、农业等方向跌幅居前，沪深京三市下跌个股近4700只。",
+          "url": "https://wallstreetcn.com/livenews/3081978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -1410,7 +1516,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         },
@@ -1458,23 +1564,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农业 机械",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "沪指午后跌超1%。煤炭、油气、养殖业、电力、农业等方向跌幅居前，沪深京三市下跌个股近4700只。",
-          "url": "https://wallstreetcn.com/livenews/3081978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时07分"
         }
       ]
     }
