@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T00:29:10.726645+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-04T01:26:16.126179+08:00",
+  "total_titles_processed": 377,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美国炸毁伊朗最大桥梁 特朗普威胁：将继续打击桥梁和发电厂！",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 00时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 01时26分]"
         },
         {
           "title": "发了又删，特朗普1小时闭门讲话引发巨大争议",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 00时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 01时26分]"
         },
         {
           "title": "特朗普又又又临阵退缩了？",
@@ -37,8 +37,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 00时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 01时26分]"
         },
         {
           "title": "马克龙回怼特朗普",
@@ -48,30 +48,43 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 00时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 01时26分]"
         },
         {
           "title": "特朗普已就美战机在伊朗被击落听取简报",
           "url": "https://wallstreetcn.com/livenews/3082271",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时26分]"
         },
         {
           "title": "北约：秘书长吕特将于4月8-12日前往美国。 吕特将在4月8日会见美国总统特朗普，国务卿卢比奥，以及国防部长海格塞斯。",
           "url": "https://wallstreetcn.com/livenews/3082267",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时26分]"
+        },
+        {
+          "title": "特朗普计划拨款1.52亿美元，重启“恶魔岛”监狱",
+          "url": "https://wallstreetcn.com/livenews/3082282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时29分"
+          "time_info": "01时26分"
         },
         {
           "title": "如果特朗普休市突袭！开盘第一单该怎么做？",
@@ -80,7 +93,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
         },
@@ -91,7 +104,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
         },
@@ -102,7 +115,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
         },
@@ -113,7 +126,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
         },
@@ -124,7 +137,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
         }
@@ -132,8 +145,19 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美国白宫提议将2027年美国航空航天局（NASA）的预算削减23%，以支持国防开支增加。",
+          "url": "https://flash.jin10.com/detail/20260404005316812800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时26分"
+        },
         {
           "title": "天龙三号失利,商业航天栽跟头",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352748&amp;topic_name=%E5%A4%A9%E9%BE%99%E4%B8%89%E5%8F%B7%E5%A4%B1%E5%88%A9%2C%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E6%A0%BD%E8%B7%9F%E5%A4%B4",
@@ -142,8 +166,19 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 00时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 01时26分]"
+        },
+        {
+          "title": "美国白宫再次向国会提议大幅削减美国国家航空航天局的科研经费，降幅近一半。",
+          "url": "https://flash.jin10.com/detail/20260404003113664800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时26分"
         }
       ]
     },
@@ -159,8 +194,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 00时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 01时26分]"
         }
       ]
     },
@@ -173,11 +208,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
           "source": "bilibili 热搜",
           "ranks": [
-            24
+            24,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 00时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 01时26分]"
         }
       ]
     },
@@ -192,7 +228,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
         }
