@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-04-03T07:24:22.920331+08:00",
-  "total_titles_processed": 633,
+  "generated_at": "2026-04-03T09:18:12.492061+08:00",
+  "total_titles_processed": 797,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 38,
       "titles": [
         {
           "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
           "url": "https://wallstreetcn.com/articles/3769051",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 09时18分]"
         },
         {
           "title": "全球市场瞩目！9点“全美讲话”，特朗普会讲什么？",
@@ -34,22 +35,24 @@
           "url": "https://wallstreetcn.com/articles/3769054",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 09时18分]"
         },
         {
           "title": "外交部谈特朗普涉伊朗言论",
           "url": "https://news.ifeng.com/c/8rzs0Q10Ejk",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 09时18分]"
         },
         {
           "title": "伊朗强硬回应特朗普",
@@ -73,11 +76,23 @@
             16,
             22,
             27,
-            23
+            23,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时41分 ~ 07时24分]"
+          "appearance_count": 9,
+          "time_info": "[01时41分 ~ 09时18分]"
+        },
+        {
+          "title": "美以伊战争丨炸完大桥特朗普再发威胁，伊朗回击",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
         },
         {
           "title": "特朗普发表讲话谈伊朗战事",
@@ -93,6 +108,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时41分 ~ 06时23分]"
+        },
+        {
+          "title": "发了又删，特朗普1小时闭门讲话引发巨大争议",
+          "url": "https://news.ifeng.com/c/8s10y0PIEwa",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
         },
         {
           "title": "外交部谈特朗普涉伊朗言论：再次敦促当事方立即停止军事行动",
@@ -191,6 +217,28 @@
           "time_info": "[01时41分 ~ 03时42分]"
         },
         {
+          "title": "密友出车祸被捕，特朗普紧急出面护短",
+          "url": "https://news.ifeng.com/c/8rs4tUu8kcn",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
+        },
+        {
+          "title": "伊朗回应特朗普所谓已胜利 SpaceX有望冲刺2万亿美元估值 | 环球市场",
+          "url": "https://www.cls.cn/detail/2334086",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
+        },
+        {
           "title": "美华盛顿规划机构批准特朗普白宫宴会厅项目",
           "url": "https://wallstreetcn.com/livenews/3081794",
           "source": "华尔街见闻-快讯",
@@ -201,6 +249,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时23分]"
+        },
+        {
+          "title": "马克龙批评特朗普",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%8B%E9%BE%99%E6%89%B9%E8%AF%84%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
         },
         {
           "title": "忍了数月，特朗普解职美司法部长邦迪",
@@ -215,13 +275,35 @@
           "time_info": "[02时42分 ~ 03时42分]"
         },
         {
+          "title": "特朗普炒掉司法部长邦迪",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%92%E6%8E%89%E5%8F%B8%E6%B3%95%E9%83%A8%E9%95%BF%E9%82%A6%E8%BF%AA%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
+        },
+        {
+          "title": "刚炒了司法部长，特朗普又盯上两个“心腹”：商务部长“如履薄冰”",
+          "url": "https://flash.jin10.com/detail/20260403085404648800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
           "title": "特朗普刚说“炸回石器时代”，美军就把伊朗大桥炸了",
           "url": "https://flash.jin10.com/detail/20260403061620774800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -254,9 +336,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：特朗普的言论对市场的影响显著。 石油交易和外汇市场的投机行为正在增加。 我们一直以来都在谈论采取大胆的行动，立场是将从各个方面对市场采取行动。 市场波动性正在上升。 货币政策的具体细节由日本央行决定。",
+          "url": "https://wallstreetcn.com/livenews/3081866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "据CNN：美国总统特朗普免去帕姆·邦迪美国司法部长职务。",
@@ -270,6 +363,17 @@
           "time_info": "01时41分"
         },
         {
+          "title": "特朗普政府被曝考虑解职更多高官",
+          "url": "https://wallstreetcn.com/livenews/3081865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
           "title": "美国白宫：根据总统特朗普修订后的232条款金属关税，某些金属密集型工业和电网设备将征收15%的关税。",
           "url": "https://flash.jin10.com/detail/20260403034839754800",
           "source": "金十数据",
@@ -279,6 +383,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：美国总统特朗普的讲话对金融市场产生了重大影响。",
+          "url": "https://flash.jin10.com/detail/20260403084218412800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "特朗普演说后，美油价差飙升至历史纪录水平",
@@ -303,6 +418,17 @@
           "time_info": "01时41分"
         },
         {
+          "title": "支持率不佳 美媒：更多特朗普政府官员恐被解职",
+          "url": "https://flash.jin10.com/detail/20260403082125134800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
           "title": "伦敦基础金属下跌，特朗普威胁要袭击伊朗电厂",
           "url": "https://wallstreetcn.com/livenews/3081722",
           "source": "华尔街见闻-快讯",
@@ -312,6 +438,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
+        },
+        {
+          "title": "据大西洋月刊：消息人士称，美国联邦调查局（FBI）局长帕特尔、陆军部长德里斯科尔、劳工部长查韦斯-德雷默或即将离开美国总统特朗普的政府。",
+          "url": "https://flash.jin10.com/detail/20260403081424335800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         }
       ]
     },
@@ -337,11 +474,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 09时18分]"
         },
         {
           "title": "什么信号？华尔街频频传来“避开美股”警告声……",
@@ -386,6 +524,17 @@
           "time_info": "[00时53分 ~ 06时23分]"
         },
         {
+          "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
+          "url": "https://www.cls.cn/detail/2334066",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时24分 ~ 09时18分]"
+        },
+        {
           "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260403003135168800",
           "source": "金十数据",
@@ -406,17 +555,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
-          "url": "https://www.cls.cn/detail/2334066",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时24分"
         },
         {
           "title": "美股周四收盘，道指初步收跌0.13%，标普500指数涨0.1%，纳指涨0.18%。特斯拉(TSLA.O)收跌超5%。纳斯达克中国金龙指数收跌0.34%。",
@@ -515,7 +653,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -550,7 +688,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -569,8 +707,19 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "人民币兑美元中间价报6.8929，下调49点；上一交易日中间价6.8880，上一交易日官方收盘价6.8936，上日夜盘报收6.8855。",
+          "url": "https://wallstreetcn.com/livenews/3081876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
         {
           "title": "上期所原油期货2605合约夜盘收涨3.75%，报713.20元人民币/桶。 沪金夜盘收跌0.74%，沪银收跌1.87%。",
           "url": "https://wallstreetcn.com/livenews/3081754",
@@ -613,8 +762,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "谷歌最新模型Gemma4发布",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
+        },
         {
           "title": "谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。 英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。 英伟达为本地智能体人工智能（Agentic AI）加速Gemma 4。",
           "url": "https://wallstreetcn.com/livenews/3081712",
@@ -707,8 +867,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 09时18分]"
         },
         {
           "title": "3月A股新开460万户，同环比各创高增，谁正进场逆势布局？",
@@ -717,11 +877,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 09时18分]"
         }
       ]
     },
@@ -738,11 +899,12 @@
             23,
             21,
             14,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时42分 ~ 07时24分]"
+          "appearance_count": 8,
+          "time_info": "[03时42分 ~ 09时18分]"
         },
         {
           "title": "10年期美债收益率周四冲高回落，本周仍累跌超12个基点",
