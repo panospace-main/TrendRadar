@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T17:29:21.197439+08:00",
-  "total_titles_processed": 1174,
+  "generated_at": "2026-04-04T18:24:10.223130+08:00",
+  "total_titles_processed": 1241,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "一图看懂｜特朗普“解放日”一周年，关税让美国再次伟大了吗？",
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[03时32分 ~ 17时29分]"
+          "appearance_count": 19,
+          "time_info": "[03时32分 ~ 18时24分]"
         },
         {
           "title": "美国炸毁伊朗最大桥梁 特朗普威胁：将继续打击桥梁和发电厂！",
@@ -91,8 +91,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时49分 ~ 17时29分]"
+          "appearance_count": 9,
+          "time_info": "[13时49分 ~ 18时24分]"
         },
         {
           "title": "美以伊战争丨特朗普称战机被击落不影响与伊朗谈判",
@@ -136,6 +136,17 @@
           "time_info": "[04时24分 ~ 09时12分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-04）",
+          "url": "https://flash.jin10.com/detail/20260404180154288800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "美国总统特朗普在自家社交媒体平台兜售3月非农就业报告。",
           "url": "https://wallstreetcn.com/livenews/3082341",
           "source": "华尔街见闻-快讯",
@@ -176,6 +187,17 @@
           "time_info": "[03时33分 ~ 07时25分]"
         },
         {
+          "title": "特朗普称伊朗“新政权”更温和 专家称伊朗政权未更迭且更强硬",
+          "url": "https://flash.jin10.com/detail/20260404175453984800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "据华尔街日报：美国法官驳回总统特朗普政府恢复针对鲍威尔的传票申请。",
           "url": "https://wallstreetcn.com/livenews/3082306",
           "source": "华尔街见闻-快讯",
@@ -187,6 +209,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时33分 ~ 05时24分]"
+        },
+        {
+          "title": "二战以来最大军费年增！特朗普政府寻求2027财年国防预算1.5万亿美元，非国防支出压缩10%",
+          "url": "https://wallstreetcn.com/articles/3769222",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时30分 ~ 18时24分]"
         },
         {
           "title": "停火斡旋陷僵局，伊朗拒绝与美方伊斯兰堡会面，周五美或有两架战机坠毁，特朗普称战机被击落不影响谈判",
@@ -252,23 +286,22 @@
           "time_info": "[12时07分 ~ 13时50分]"
         },
         {
+          "title": "胡锡进：特朗普想在停战前再捞一笔，遭伊朗沉重打击",
+          "url": "https://news.ifeng.com/c/8s3EHhsM4Il",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 18时24分]"
+        },
+        {
           "title": "特朗普政府人事大换血",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E4%BA%BA%E4%BA%8B%E5%A4%A7%E6%8D%A2%E8%A1%80",
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时30分 ~ 17时29分]"
-        },
-        {
-          "title": "二战以来最大军费年增！特朗普政府寻求2027财年国防预算1.5万亿美元，非国防支出压缩10%",
-          "url": "https://wallstreetcn.com/articles/3769222",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
             8
           ],
           "is_new": false,
@@ -311,6 +344,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时24分 ~ 05时24分]"
+        },
+        {
+          "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32901007",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 18时24分]"
         },
         {
           "title": "特朗普炮轰ABC记者：三流主播又写书瞎编，这家电视台最烂最腐败",
@@ -385,28 +430,6 @@
           "time_info": "[00时29分 ~ 01时26分]"
         },
         {
-          "title": "胡锡进：特朗普想在停战前再捞一笔，遭伊朗沉重打击",
-          "url": "https://news.ifeng.com/c/8s3EHhsM4Il",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32901007",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
           "title": "如果特朗普休市突袭！开盘第一单该怎么做？",
           "url": "https://flash.jin10.com/detail/20260403233021951800",
           "source": "金十数据",
@@ -477,8 +500,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时49分 ~ 17时29分]"
+          "appearance_count": 9,
+          "time_info": "[13时49分 ~ 18时24分]"
         },
         {
           "title": "天龙三号失利,商业航天栽跟头",
@@ -489,11 +512,12 @@
             19,
             23,
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时28分 ~ 17时29分]"
+          "appearance_count": 24,
+          "time_info": "[00时28分 ~ 18时24分]"
         },
         {
           "title": "美国白宫提议将2027年美国航空航天局（NASA）的预算削减23%，以支持国防开支增加。",
@@ -583,8 +607,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时07分 ~ 17时29分]"
+          "appearance_count": 10,
+          "time_info": "[12时07分 ~ 18时24分]"
         },
         {
           "title": "农业成本因伊朗战事上升 土耳其取消部分化肥关税",
@@ -615,8 +639,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时11分 ~ 17时29分]"
+          "appearance_count": 12,
+          "time_info": "[09时11分 ~ 18时24分]"
         },
         {
           "title": "本周A股涨幅榜出炉",
@@ -745,6 +769,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时22分 ~ 09时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI在冲刺IPO的关键时刻，高管层大重组",
+          "url": "https://wallstreetcn.com/livenews/3082422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         }
       ]
     },
