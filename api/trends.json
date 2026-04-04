@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T21:45:37.702215+08:00",
-  "total_titles_processed": 1518,
+  "generated_at": "2026-04-04T22:25:30.282734+08:00",
+  "total_titles_processed": 1577,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "一图看懂｜特朗普“解放日”一周年，关税让美国再次伟大了吗？",
@@ -20,8 +20,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[03时32分 ~ 21时45分]"
+          "appearance_count": 23,
+          "time_info": "[03时32分 ~ 22时25分]"
         },
         {
           "title": "美国炸毁伊朗最大桥梁 特朗普威胁：将继续打击桥梁和发电厂！",
@@ -101,11 +101,23 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时30分 ~ 21时45分]"
+          "appearance_count": 9,
+          "time_info": "[16时30分 ~ 22时25分]"
+        },
+        {
+          "title": "胡锡进：特朗普想在停战前再捞一笔，遭伊朗沉重打击",
+          "url": "https://news.ifeng.com/c/8s3EHhsM4Il",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时29分 ~ 22时25分]"
         },
         {
           "title": "美以伊战争丨特朗普称战机被击落不影响与伊朗谈判",
@@ -119,15 +131,19 @@
           "time_info": "[09时11分 ~ 09时12分]"
         },
         {
-          "title": "胡锡进：特朗普想在停战前再捞一笔，遭伊朗沉重打击",
-          "url": "https://news.ifeng.com/c/8s3EHhsM4Il",
-          "source": "凤凰网",
+          "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32901007",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            17,
+            16,
+            15,
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时29分 ~ 21时45分]"
+          "appearance_count": 7,
+          "time_info": "[17时29分 ~ 22时25分]"
         },
         {
           "title": "特朗普：美国战机坠毁不会影响与伊朗的谈判",
@@ -171,6 +187,17 @@
           "time_info": "06时22分"
         },
         {
+          "title": "特朗普再警告伊朗：“48小时内”可能采取进一步行动",
+          "url": "https://wallstreetcn.com/livenews/3082457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "美国政府2027财年预算草案要点总结：特朗普“重武轻文”，大幅削减民生开支恐引发两党博弈",
           "url": "https://wallstreetcn.com/livenews/3082313",
           "source": "华尔街见闻-快讯",
@@ -198,43 +225,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时33分 ~ 07时25分]"
-        },
-        {
-          "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32901007",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            15,
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时29分 ~ 21时45分]"
-        },
-        {
-          "title": "美国总统特朗普：昨天不仅就业数据非常好，新增了17.8万个工作岗位，而且贸易逆差下降了55%，创下历史最大降幅。感谢关税先生！与此同时，我们还在消除一个拥有核武的伊朗。",
-          "url": "https://flash.jin10.com/detail/20260404213415488800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
-        },
-        {
-          "title": "特朗普：纽约时报信誉扫地 把北约称为“北美条约组织”",
-          "url": "https://flash.jin10.com/detail/20260404212809199800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
         },
         {
           "title": "据华尔街日报：美国法官驳回总统特朗普政府恢复针对鲍威尔的传票申请。",
@@ -276,6 +266,18 @@
           "time_info": "[13时50分 ~ 16时31分]"
         },
         {
+          "title": "美国总统特朗普：昨天不仅就业数据非常好，新增了17.8万个工作岗位，而且贸易逆差下降了55%，创下历史最大降幅。感谢关税先生！与此同时，我们还在消除一个拥有核武的伊朗。",
+          "url": "https://flash.jin10.com/detail/20260404213415488800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 22时25分]"
+        },
+        {
           "title": "美国总统特朗普签署备忘录，下令向国土安全部（DHS）工作人员（补充）发放薪资。",
           "url": "https://wallstreetcn.com/livenews/3082339",
           "source": "华尔街见闻-快讯",
@@ -299,6 +301,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时24分 ~ 19时21分]"
+        },
+        {
+          "title": "特朗普：纽约时报信誉扫地 把北约称为“北美条约组织”",
+          "url": "https://flash.jin10.com/detail/20260404212809199800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 22时25分]"
         },
         {
           "title": "特朗普发文吹嘘自己创造了一个强大的经济增长引擎",
@@ -337,6 +351,20 @@
           "time_info": "[18时24分 ~ 19时21分]"
         },
         {
+          "title": "奥地利副总理：不想卷入特朗普发动的战争",
+          "url": "https://wallstreetcn.com/livenews/3082429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时21分 ~ 22时25分]"
+        },
+        {
           "title": "特朗普政府人事大换血",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E4%BA%BA%E4%BA%8B%E5%A4%A7%E6%8D%A2%E8%A1%80",
           "source": "bilibili 热搜",
@@ -360,19 +388,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时24分 ~ 07时25分]"
-        },
-        {
-          "title": "奥地利副总理：不想卷入特朗普发动的战争",
-          "url": "https://wallstreetcn.com/livenews/3082429",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时21分 ~ 21时45分]"
         },
         {
           "title": "美国总统特朗普表示，击落美国战机不会影响与伊朗的谈判。（NBC新闻）",
@@ -471,6 +486,18 @@
           "time_info": "[00时29分 ~ 01时26分]"
         },
         {
+          "title": "伊朗高官：与其撤换美国将领，不如罢免特朗普",
+          "url": "https://flash.jin10.com/detail/20260404202353358800",
+          "source": "金十数据",
+          "ranks": [
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 22时25分]"
+        },
+        {
           "title": "如果特朗普休市突袭！开盘第一单该怎么做？",
           "url": "https://flash.jin10.com/detail/20260403233021951800",
           "source": "金十数据",
@@ -502,17 +529,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
-        },
-        {
-          "title": "伊朗高官：与其撤换美国将领，不如罢免特朗普",
-          "url": "https://flash.jin10.com/detail/20260404202353358800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
         },
         {
           "title": "伊朗总统回应特朗普：“炸回石器时代”言论意味着大规模战争罪",
@@ -584,19 +600,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时28分 ~ 21时45分]"
-        },
-        {
-          "title": "兆瓦级氢燃料航空涡桨发动机首飞成功",
-          "url": "https://wallstreetcn.com/livenews/3082449",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
+          "appearance_count": 28,
+          "time_info": "[00时28分 ~ 22时25分]"
         },
         {
           "title": "美国白宫提议将2027年美国航空航天局（NASA）的预算削减23%，以支持国防开支增加。",
@@ -612,6 +617,18 @@
           "time_info": "[01时26分 ~ 03时33分]"
         },
         {
+          "title": "兆瓦级氢燃料航空涡桨发动机首飞成功",
+          "url": "https://wallstreetcn.com/livenews/3082449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 22时25分]"
+        },
+        {
           "title": "美国白宫再次向国会提议大幅削减美国国家航空航天局的科研经费，降幅近一半。",
           "url": "https://flash.jin10.com/detail/20260404003113664800",
           "source": "金十数据",
@@ -622,6 +639,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时26分 ~ 02时33分]"
+        },
+        {
+          "title": "兆瓦级氢燃料航空涡桨发动机首飞成功",
+          "url": "https://flash.jin10.com/detail/20260404210813375800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 22时25分]"
         },
         {
           "title": "美国航空航天局（NASA）：阿尔忒弥斯（Artemis）计划宇航员已完成登月任务一半路程。",
@@ -658,23 +687,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时12分 ~ 12时07分]"
-        },
-        {
-          "title": "兆瓦级氢燃料航空涡桨发动机首飞成功",
-          "url": "https://flash.jin10.com/detail/20260404210813375800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
         }
       ]
     },
     {
       "keyword_group": "A股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "【早报】消费领域，多个利好来袭；多家A股公司被证监会立案",
@@ -686,8 +704,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时11分 ~ 21时45分]"
+          "appearance_count": 16,
+          "time_info": "[09时11分 ~ 22时25分]"
         },
         {
           "title": "本周A股涨幅榜出炉",
@@ -702,24 +720,36 @@
           "time_info": "[15时42分 ~ 16时31分]"
         },
         {
+          "title": "盘中创历史新高A股名单一览：长飞光纤、亨通光电等多只光纤概念股在列",
+          "url": "https://www.cls.cn/detail/2335367",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 22时25分]"
+        },
+        {
+          "title": "一夜十家被罚 A股严查这些雷区",
+          "url": "https://www.toutiao.com/trending/7624821124119298091/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "媒体：A股严查这些雷区",
           "url": "https://www.toutiao.com/trending/7624821124119298091/",
           "source": "今日头条",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
-        },
-        {
-          "title": "盘中创历史新高A股名单一览：长飞光纤、亨通光电等多只光纤概念股在列",
-          "url": "https://www.cls.cn/detail/2335367",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         }
@@ -751,8 +781,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时07分 ~ 21时45分]"
+          "appearance_count": 14,
+          "time_info": "[12时07分 ~ 22时25分]"
         },
         {
           "title": "农业成本因伊朗战事上升 土耳其取消部分化肥关税",
@@ -773,11 +803,12 @@
           "url": "https://flash.jin10.com/detail/20260404204528580800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 22时25分]"
         }
       ]
     },
@@ -801,11 +832,12 @@
           "url": "https://flash.jin10.com/detail/20260404201515638800",
           "source": "金十数据",
           "ranks": [
-            24
+            24,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 22时25分]"
         },
         {
           "title": "媒体人：金价在夹缝中求生存",
