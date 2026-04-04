@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T14:46:59.492014+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2026-04-04T15:42:42.004830+08:00",
+  "total_titles_processed": 1037,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时32分 ~ 14时46分]"
+          "appearance_count": 14,
+          "time_info": "[03时32分 ~ 15时42分]"
         },
         {
           "title": "美国炸毁伊朗最大桥梁 特朗普威胁：将继续打击桥梁和发电厂！",
@@ -208,11 +208,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时50分 ~ 15时42分]"
+        },
+        {
+          "title": "凤凰观察：出乎特朗普意料，伊朗正把一手烂牌打得很出色",
+          "url": "https://news.ifeng.com/c/8s2xxMXfWA9",
+          "source": "凤凰网",
+          "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 14时46分]"
+          "appearance_count": 4,
+          "time_info": "[13时49分 ~ 15时42分]"
         },
         {
           "title": "特朗普发文吹嘘自己创造了一个强大的经济增长引擎",
@@ -237,17 +249,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时07分 ~ 13时50分]"
-        },
-        {
-          "title": "凤凰观察：出乎特朗普意料，伊朗正把一手烂牌打得很出色",
-          "url": "https://news.ifeng.com/c/8s2xxMXfWA9",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时49分 ~ 14时46分]"
         },
         {
           "title": "特朗普：美军机被击落不会影响与伊朗谈判",
@@ -427,11 +428,12 @@
             18,
             19,
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 14时46分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 15时42分]"
         },
         {
           "title": "马兴瑞落马：曾被称为“航天少帅”",
@@ -441,8 +443,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时49分 ~ 14时46分]"
+          "appearance_count": 4,
+          "time_info": "[13时49分 ~ 15时42分]"
         },
         {
           "title": "美国白宫提议将2027年美国航空航天局（NASA）的预算削减23%，以支持国防开支增加。",
@@ -528,11 +530,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时07分 ~ 14时46分]"
+          "appearance_count": 5,
+          "time_info": "[12时07分 ~ 15时42分]"
         },
         {
           "title": "农业成本因伊朗战事上升 土耳其取消部分化肥关税",
@@ -541,11 +544,41 @@
           "ranks": [
             6,
             15,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 14时46分]"
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 15时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【早报】消费领域，多个利好来袭；多家A股公司被证监会立案",
+          "url": "https://www.cls.cn/detail/2335221",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时11分 ~ 15时42分]"
+        },
+        {
+          "title": "本周A股涨幅榜出炉",
+          "url": "https://www.toutiao.com/trending/7624078545644650532/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         }
       ]
     },
@@ -567,8 +600,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 14时46分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 15时42分]"
         },
         {
           "title": "谷歌推出Veo 3.1 Lite版本，并在VertexAI平台新增Veo超分辨率升级功能。",
@@ -642,24 +675,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【早报】消费领域，多个利好来袭；多家A股公司被证监会立案",
-          "url": "https://www.cls.cn/detail/2335221",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时11分 ~ 14时46分]"
         }
       ]
     },
