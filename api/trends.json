@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T16:31:32.441294+08:00",
-  "total_titles_processed": 1097,
+  "generated_at": "2026-04-04T17:29:21.197439+08:00",
+  "total_titles_processed": 1174,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "一图看懂｜特朗普“解放日”一周年，关税让美国再次伟大了吗？",
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[03时32分 ~ 16时31分]"
+          "appearance_count": 17,
+          "time_info": "[03时32分 ~ 17时29分]"
         },
         {
           "title": "美国炸毁伊朗最大桥梁 特朗普威胁：将继续打击桥梁和发电厂！",
@@ -84,6 +84,17 @@
           "time_info": "[00时28分 ~ 07时25分]"
         },
         {
+          "title": "凤凰观察：出乎特朗普意料，伊朗正把一手烂牌打得很出色",
+          "url": "https://news.ifeng.com/c/8s2xxMXfWA9",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时49分 ~ 17时29分]"
+        },
+        {
           "title": "美以伊战争丨特朗普称战机被击落不影响与伊朗谈判",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -93,17 +104,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时11分 ~ 09时12分]"
-        },
-        {
-          "title": "凤凰观察：出乎特朗普意料，伊朗正把一手烂牌打得很出色",
-          "url": "https://news.ifeng.com/c/8s2xxMXfWA9",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时49分 ~ 16时31分]"
         },
         {
           "title": "特朗普：美国战机坠毁不会影响与伊朗的谈判",
@@ -252,6 +252,30 @@
           "time_info": "[12时07分 ~ 13时50分]"
         },
         {
+          "title": "特朗普政府人事大换血",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E4%BA%BA%E4%BA%8B%E5%A4%A7%E6%8D%A2%E8%A1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时30分 ~ 17时29分]"
+        },
+        {
+          "title": "二战以来最大军费年增！特朗普政府寻求2027财年国防预算1.5万亿美元，非国防支出压缩10%",
+          "url": "https://wallstreetcn.com/articles/3769222",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时30分 ~ 17时29分]"
+        },
+        {
           "title": "特朗普：美军机被击落不会影响与伊朗谈判",
           "url": "https://wallstreetcn.com/livenews/3082320",
           "source": "华尔街见闻-快讯",
@@ -287,17 +311,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时24分 ~ 05时24分]"
-        },
-        {
-          "title": "特朗普政府人事大换血",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E4%BA%BA%E4%BA%8B%E5%A4%A7%E6%8D%A2%E8%A1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时30分 ~ 16时31分]"
         },
         {
           "title": "特朗普炮轰ABC记者：三流主播又写书瞎编，这家电视台最烂最腐败",
@@ -348,17 +361,6 @@
           "time_info": "[00时29分 ~ 01时26分]"
         },
         {
-          "title": "二战以来最大军费年增！特朗普政府寻求2027财年国防预算1.5万亿美元，非国防支出压缩10%",
-          "url": "https://wallstreetcn.com/articles/3769222",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时30分 ~ 16时31分]"
-        },
-        {
           "title": "特朗普计划拨款1.52亿美元，重启“恶魔岛”监狱",
           "url": "https://wallstreetcn.com/livenews/3082282",
           "source": "华尔街见闻-快讯",
@@ -381,6 +383,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 01时26分]"
+        },
+        {
+          "title": "胡锡进：特朗普想在停战前再捞一笔，遭伊朗沉重打击",
+          "url": "https://news.ifeng.com/c/8s3EHhsM4Il",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
+          "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32901007",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         },
         {
           "title": "如果特朗普休市突袭！开盘第一单该怎么做？",
@@ -449,11 +473,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时49分 ~ 16时31分]"
+          "appearance_count": 7,
+          "time_info": "[13时49分 ~ 17时29分]"
         },
         {
           "title": "天龙三号失利,商业航天栽跟头",
@@ -467,8 +492,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时28分 ~ 16时31分]"
+          "appearance_count": 22,
+          "time_info": "[00时28分 ~ 17时29分]"
         },
         {
           "title": "美国白宫提议将2027年美国航空航天局（NASA）的预算削减23%，以支持国防开支增加。",
@@ -558,8 +583,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时07分 ~ 16时31分]"
+          "appearance_count": 8,
+          "time_info": "[12时07分 ~ 17时29分]"
         },
         {
           "title": "农业成本因伊朗战事上升 土耳其取消部分化肥关税",
@@ -590,8 +615,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时11分 ~ 16时31分]"
+          "appearance_count": 10,
+          "time_info": "[09时11分 ~ 17时29分]"
         },
         {
           "title": "本周A股涨幅榜出炉",
