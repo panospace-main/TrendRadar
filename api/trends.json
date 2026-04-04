@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T19:21:50.846767+08:00",
-  "total_titles_processed": 1317,
+  "generated_at": "2026-04-04T20:31:54.886805+08:00",
+  "total_titles_processed": 1416,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[03时32分 ~ 19时21分]"
+          "appearance_count": 21,
+          "time_info": "[03时32分 ~ 20时31分]"
         },
         {
           "title": "美国炸毁伊朗最大桥梁 特朗普威胁：将继续打击桥梁和发电厂！",
@@ -96,6 +96,18 @@
           "time_info": "[13时49分 ~ 18时24分]"
         },
         {
+          "title": "二战以来最大军费年增！特朗普政府寻求2027财年国防预算1.5万亿美元，非国防支出压缩10%",
+          "url": "https://wallstreetcn.com/articles/3769222",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时30分 ~ 20时31分]"
+        },
+        {
           "title": "美以伊战争丨特朗普称战机被击落不影响与伊朗谈判",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -105,18 +117,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时11分 ~ 09时12分]"
-        },
-        {
-          "title": "二战以来最大军费年增！特朗普政府寻求2027财年国防预算1.5万亿美元，非国防支出压缩10%",
-          "url": "https://wallstreetcn.com/articles/3769222",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时30分 ~ 19时21分]"
         },
         {
           "title": "特朗普：美国战机坠毁不会影响与伊朗的谈判",
@@ -189,6 +189,17 @@
           "time_info": "[03时33分 ~ 07时25分]"
         },
         {
+          "title": "胡锡进：特朗普想在停战前再捞一笔，遭伊朗沉重打击",
+          "url": "https://news.ifeng.com/c/8s3EHhsM4Il",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时29分 ~ 20时31分]"
+        },
+        {
           "title": "据华尔街日报：美国法官驳回总统特朗普政府恢复针对鲍威尔的传票申请。",
           "url": "https://wallstreetcn.com/livenews/3082306",
           "source": "华尔街见闻-快讯",
@@ -228,6 +239,20 @@
           "time_info": "[13时50分 ~ 16时31分]"
         },
         {
+          "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32901007",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时29分 ~ 20时31分]"
+        },
+        {
           "title": "美国总统特朗普签署备忘录，下令向国土安全部（DHS）工作人员（补充）发放薪资。",
           "url": "https://wallstreetcn.com/livenews/3082339",
           "source": "华尔街见闻-快讯",
@@ -239,17 +264,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时22分 ~ 09时12分]"
-        },
-        {
-          "title": "胡锡进：特朗普想在停战前再捞一笔，遭伊朗沉重打击",
-          "url": "https://news.ifeng.com/c/8s3EHhsM4Il",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时29分 ~ 19时21分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-04）",
@@ -298,19 +312,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时24分 ~ 19时21分]"
-        },
-        {
-          "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32901007",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时29分 ~ 19时21分]"
         },
         {
           "title": "特朗普政府人事大换血",
@@ -386,6 +387,18 @@
           "time_info": "[07时25分 ~ 09时12分]"
         },
         {
+          "title": "奥地利副总理：不想卷入特朗普发动的战争",
+          "url": "https://wallstreetcn.com/livenews/3082429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 20时31分]"
+        },
+        {
           "title": "特朗普一句话打回原形，市场为何这么容易上当？｜大师复盘",
           "url": "https://flash.jin10.com/detail/20260404123540502800",
           "source": "金十数据",
@@ -434,17 +447,6 @@
           "time_info": "[00时29分 ~ 01时26分]"
         },
         {
-          "title": "奥地利副总理：不想卷入特朗普发动的战争",
-          "url": "https://wallstreetcn.com/livenews/3082429",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
           "title": "如果特朗普休市突袭！开盘第一单该怎么做？",
           "url": "https://flash.jin10.com/detail/20260403233021951800",
           "source": "金十数据",
@@ -473,7 +475,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -524,11 +526,12 @@
             4,
             5,
             7,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时49分 ~ 19时21分]"
+          "appearance_count": 11,
+          "time_info": "[13时49分 ~ 20时31分]"
         },
         {
           "title": "天龙三号失利,商业航天栽跟头",
@@ -541,11 +544,12 @@
             24,
             25,
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时28分 ~ 19时21分]"
+          "appearance_count": 26,
+          "time_info": "[00时28分 ~ 20时31分]"
         },
         {
           "title": "美国白宫提议将2027年美国航空航天局（NASA）的预算削减23%，以支持国防开支增加。",
@@ -636,8 +640,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时07分 ~ 19时21分]"
+          "appearance_count": 12,
+          "time_info": "[12时07分 ~ 20时31分]"
         },
         {
           "title": "农业成本因伊朗战事上升 土耳其取消部分化肥关税",
@@ -665,11 +669,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时11分 ~ 19时21分]"
+          "appearance_count": 14,
+          "time_info": "[09时11分 ~ 20时31分]"
         },
         {
           "title": "本周A股涨幅榜出炉",
@@ -744,7 +749,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         }
