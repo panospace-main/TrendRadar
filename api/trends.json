@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T14:25:41.582506+08:00",
-  "total_titles_processed": 906,
+  "generated_at": "2026-04-06T16:18:17.214289+08:00",
+  "total_titles_processed": 1029,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 68,
       "titles": [
         {
           "title": "自周三以来“未公开露面”！特朗普“一反常态”低调，周末“不停工作”连海湖庄园都不去了",
@@ -35,11 +35,12 @@
           "url": "https://www.cls.cn/detail/2335478",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 14时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 16时18分]"
         },
         {
           "title": "特朗普想趁机卖油，美媒：结果可能让他后悔莫及",
@@ -58,11 +59,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 14时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 16时18分]"
         },
         {
           "title": "美以伊战争丨特朗普：能在4月6日前与伊朗达成协议",
@@ -111,8 +113,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 14时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 16时18分]"
         },
         {
           "title": "周三演讲“效果不佳”、对“媒体报道”不满、对“战争后果”沮丧！特朗普正考虑“大规模改组”内阁",
@@ -151,6 +153,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时24分 ~ 09时21分]"
+        },
+        {
+          "title": "本周重磅日程：特朗普再发“最后通牒”、中美通胀数据、三星与天孚通信业绩",
+          "url": "https://wallstreetcn.com/articles/3769257",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时21分 ~ 16时18分]"
         },
         {
           "title": "伊朗军方拒绝特朗普“48小时”通牒",
@@ -196,6 +210,17 @@
           "time_info": "[00时25分 ~ 07时24分]"
         },
         {
+          "title": "侮辱伊朗措辞极端、脏话连篇，特朗普被批“精神错乱、疯了”",
+          "url": "https://news.ifeng.com/c/8s65QJ9Vrg8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时36分 ~ 16时18分]"
+        },
+        {
           "title": "伊朗第一副总统：特朗普仍停留在“石器时代”",
           "url": "https://wallstreetcn.com/livenews/3082663",
           "source": "华尔街见闻-快讯",
@@ -225,6 +250,18 @@
           "time_info": "[01时22分 ~ 07时24分]"
         },
         {
+          "title": "“最后通牒”延后一天，特朗普称正与伊朗进行“深入谈判”，4月7日前“很有可能”与伊朗达成协议",
+          "url": "https://wallstreetcn.com/articles/3769299",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时36分 ~ 16时18分]"
+        },
+        {
           "title": "特朗普：若伊朗未在7日晚前开放霍尔木兹海峡将打击其发电厂",
           "url": "https://wallstreetcn.com/livenews/3082668",
           "source": "华尔街见闻-快讯",
@@ -252,18 +289,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时24分 ~ 07时24分]"
-        },
-        {
-          "title": "本周重磅日程：特朗普再发“最后通牒”、中美通胀数据、三星与天孚通信业绩",
-          "url": "https://wallstreetcn.com/articles/3769257",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时21分 ~ 14时25分]"
         },
         {
           "title": "美以伊战争丨特朗普：有望在7日前与伊朗达成协议",
@@ -305,29 +330,6 @@
           "time_info": "[00时25分 ~ 06时20分]"
         },
         {
-          "title": "侮辱伊朗措辞极端、脏话连篇，特朗普被批“精神错乱、疯了”",
-          "url": "https://news.ifeng.com/c/8s65QJ9Vrg8",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 14时25分]"
-        },
-        {
-          "title": "“最后通牒”延后一天，特朗普称正与伊朗进行“深入谈判”，4月7日前“很有可能”与伊朗达成协议",
-          "url": "https://wallstreetcn.com/articles/3769299",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 14时25分]"
-        },
-        {
           "title": "特朗普又发“最后通牒”，油价上涨",
           "url": "https://flash.jin10.com/detail/20260406065306685800",
           "source": "金十数据",
@@ -364,6 +366,20 @@
           "time_info": "[01时22分 ~ 04时21分]"
         },
         {
+          "title": "发帖飙脏话，特朗普“破防”了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32909910",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时21分 ~ 16时18分]"
+        },
+        {
           "title": "特朗普：相信能在6日之前与伊朗达成协议",
           "url": "https://wallstreetcn.com/livenews/3082647",
           "source": "华尔街见闻-快讯",
@@ -388,6 +404,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时25分 ~ 02时28分]"
+        },
+        {
+          "title": "特朗普“飙脏话”威胁打开霍尔木兹海峡，伊朗最高领袖回应“将继续利用这一战略杠杆”，伊朗革命卫队称正备战“波斯湾新秩序”",
+          "url": "https://wallstreetcn.com/articles/3769302",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时36分 ~ 16时18分]"
         },
         {
           "title": "白宫新闻秘书莱维特：应广大媒体的要求，特朗普总统明天的新闻发布会将改在白宫新闻发布室举行，时间为美国东部时间下午1点（北京时间次日凌晨一点）。",
@@ -426,6 +454,30 @@
           "time_info": "[00时25分 ~ 01时22分]"
         },
         {
+          "title": "【早报】特朗普暗示“最后期限”推迟1天，称有望于4月7日前达成协议",
+          "url": "https://www.cls.cn/detail/2335621",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时36分 ~ 16时18分]"
+        },
+        {
+          "title": "特朗普：与伊朗协议有望达成 本周二将是“最终期限”",
+          "url": "https://www.cls.cn/detail/2335633",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时25分 ~ 16时18分]"
+        },
+        {
           "title": "据CNN：美国总统特朗普已经返回白宫。",
           "url": "https://flash.jin10.com/detail/20260406021242247800",
           "source": "金十数据",
@@ -450,19 +502,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时28分 ~ 04时21分]"
-        },
-        {
-          "title": "发帖飙脏话，特朗普“破防”了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32909910",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时21分 ~ 14时25分]"
         },
         {
           "title": "据ABC新闻：美国总统特朗普表示，北约就是纸老虎，纸老虎。他们没有船，什么都没有，普京对他们毫无畏惧。",
@@ -491,16 +530,15 @@
           "time_info": "[02时28分 ~ 04时21分]"
         },
         {
-          "title": "特朗普“飙脏话”威胁打开霍尔木兹海峡，伊朗最高领袖回应“将继续利用这一战略杠杆”，伊朗革命卫队称正备战“波斯湾新秩序”",
-          "url": "https://wallstreetcn.com/articles/3769302",
-          "source": "华尔街见闻",
+          "title": "诺奖得主、国际原子能机构前总干事敦促海湾各国：阻止特朗普",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32909372",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
-            6
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 14时25分]"
+          "appearance_count": 3,
+          "time_info": "[14时25分 ~ 16时18分]"
         },
         {
           "title": "伊朗常驻联合国代表团：特朗普企图将中东拖入无休止战争",
@@ -551,18 +589,6 @@
           "time_info": "[01时22分 ~ 02时28分]"
         },
         {
-          "title": "【早报】特朗普暗示“最后期限”推迟1天，称有望于4月7日前达成协议",
-          "url": "https://www.cls.cn/detail/2335621",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 14时25分]"
-        },
-        {
           "title": "华尔街日报：特朗普称伊朗开放霍尔木兹海峡的最后期限是周二晚间",
           "url": "https://flash.jin10.com/detail/20260406001833283800",
           "source": "金十数据",
@@ -597,6 +623,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时24分]"
+        },
+        {
+          "title": "中东局势牵动市场 特朗普今夜新闻会！日韩股震荡上涨",
+          "url": "https://www.cls.cn/detail/2335649",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 16时18分]"
         },
         {
           "title": "特朗普发帖发了一个时间 媒体：暗示再次推迟“最后通牒”时限",
@@ -635,6 +672,17 @@
           "time_info": "[00时25分 ~ 01时22分]"
         },
         {
+          "title": "特朗普的“最后通牒”让避险光芒失色！国际银价暴跌20%只是“纸面游戏”？| Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260406152016093800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "美国总统特朗普：与伊朗的冲突应该在几天内结束，而不是几周内。",
           "url": "https://flash.jin10.com/detail/20260405235754959800",
           "source": "金十数据",
@@ -644,17 +692,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
-        },
-        {
-          "title": "特朗普：与伊朗协议有望达成 本周二将是“最终期限”",
-          "url": "https://www.cls.cn/detail/2335633",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时25分"
         },
         {
           "title": "伊朗称击落一架美搜救飞机！获救飞行员受伤，特朗普透露更多细节：飞行员跳伞后落到山脉，美军出动数十架飞机，两次营救没有美国人伤亡",
@@ -701,17 +738,6 @@
           "time_info": "09时21分"
         },
         {
-          "title": "诺奖得主、国际原子能机构前总干事敦促海湾各国：阻止特朗普",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32909372",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
           "title": "伊称特朗普的鲁莽正将美国拖入地狱",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E9%B2%81%E8%8E%BD%E6%AD%A3%E5%B0%86%E7%BE%8E%E5%9B%BD%E6%8B%96%E5%85%A5%E5%9C%B0%E7%8B%B1%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -751,7 +777,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -813,9 +839,107 @@
       ]
     },
     {
+      "keyword_group": "航天 航空",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美航天局局长称外星人存在几率相当高",
+          "url": "https://www.toutiao.com/trending/7625525898590191679/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 16时18分]"
+        },
+        {
+          "title": "印尼经济部长：印尼将上调航空燃油附加费。",
+          "url": "https://flash.jin10.com/detail/20260406153842176800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "印度尼西亚提高航空公司燃油附加费。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3082763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "美航天局局长：外星人存在几率相当高",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%88%AA%E5%A4%A9%E5%B1%80%E5%B1%80%E9%95%BF%EF%BC%9A%E5%A4%96%E6%98%9F%E4%BA%BA%E5%AD%98%E5%9C%A8%E5%87%A0%E7%8E%87%E7%9B%B8%E5%BD%93%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时25分 ~ 16时18分]"
+        },
+        {
+          "title": "美航天局长称外星人存在几率相当高",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%88%AA%E5%A4%A9%E5%B1%80%E9%95%BF%E7%A7%B0%E5%A4%96%E6%98%9F%E4%BA%BA%E5%AD%98%E5%9C%A8%E5%87%A0%E7%8E%87%E7%9B%B8%E5%BD%93%E9%AB%98%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 16时18分]"
+        },
+        {
+          "title": "中国兆瓦级氢燃料航空涡桨发动机首飞",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%86%E7%93%A6%E7%BA%A7%E6%B0%A2%E7%87%83%E6%96%99%E8%88%AA%E7%A9%BA%E6%B6%A1%E6%A1%A8%E5%8F%91%E5%8A%A8%E6%9C%BA%E9%A6%96%E9%A3%9E",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时20分]"
+        },
+        {
+          "title": "据以色列媒体：所有以色列航空公司的航班已取消至4月18日。",
+          "url": "https://flash.jin10.com/detail/20260406123940441800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "A股",
       "match_count": 4,
       "titles": [
+        {
+          "title": "应声20CM涨停！A股一季报行情打响，12家上市公司净利最高同比预增超200%",
+          "url": "https://www.cls.cn/detail/2335507",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 16时18分]"
+        },
         {
           "title": "【早报】消费领域，多个利好来袭；多家A股公司被证监会立案",
           "url": "https://www.cls.cn/detail/2335221",
@@ -830,19 +954,6 @@
           "time_info": "[00时24分 ~ 14时25分]"
         },
         {
-          "title": "应声20CM涨停！A股一季报行情打响，12家上市公司净利最高同比预增超200%",
-          "url": "https://www.cls.cn/detail/2335507",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 14时25分]"
-        },
-        {
           "title": "盘中创历史新高A股名单一览：长飞光纤、亨通光电等多只光纤概念股在列",
           "url": "https://www.cls.cn/detail/2335367",
           "source": "财联社热门",
@@ -851,19 +962,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 14时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 16时18分]"
         },
         {
           "title": "A股近期将有73.18亿股限售股解禁，总市值约1090.02亿元",
           "url": "https://m.thepaper.cn/newsDetail_forward_32911415",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时25分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时25分 ~ 16时18分]"
         }
       ]
     },
@@ -920,46 +1032,6 @@
       ]
     },
     {
-      "keyword_group": "航天 航空",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "中国兆瓦级氢燃料航空涡桨发动机首飞",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%86%E7%93%A6%E7%BA%A7%E6%B0%A2%E7%87%83%E6%96%99%E8%88%AA%E7%A9%BA%E6%B6%A1%E6%A1%A8%E5%8F%91%E5%8A%A8%E6%9C%BA%E9%A6%96%E9%A3%9E",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时22分 ~ 06时20分]"
-        },
-        {
-          "title": "美航天局局长：外星人存在几率相当高",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%88%AA%E5%A4%A9%E5%B1%80%E5%B1%80%E9%95%BF%EF%BC%9A%E5%A4%96%E6%98%9F%E4%BA%BA%E5%AD%98%E5%9C%A8%E5%87%A0%E7%8E%87%E7%9B%B8%E5%BD%93%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "据以色列媒体：所有以色列航空公司的航班已取消至4月18日。",
-          "url": "https://flash.jin10.com/detail/20260406123940441800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -991,6 +1063,62 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价再度回落下跌",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%86%8D%E5%BA%A6%E5%9B%9E%E8%90%BD%E4%B8%8B%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 16时18分]"
+        },
+        {
+          "title": "特朗普威胁升级军事行动 金价承压",
+          "url": "https://flash.jin10.com/detail/20260406082712632800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数DXY回落至100下方，日内跌0.19%。",
+          "url": "https://flash.jin10.com/detail/20260406153716422800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "美元指数DXY短线上盘初走高近10点，报100.26。",
+          "url": "https://flash.jin10.com/detail/20260406060610445800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "农业 机械",
       "match_count": 1,
       "titles": [
@@ -1008,6 +1136,23 @@
       ]
     },
     {
+      "keyword_group": "人民币",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "人民币跨境支付系统单日交易额破 1.2 万亿元，3 月日均交易额创过去 12 个月以来最高，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2023763654571501112",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 16时18分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -1017,45 +1162,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时21分 ~ 14时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特朗普威胁升级军事行动 金价承压",
-          "url": "https://flash.jin10.com/detail/20260406082712632800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数DXY短线上盘初走高近10点，报100.26。",
-          "url": "https://flash.jin10.com/detail/20260406060610445800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时24分"
+          "appearance_count": 5,
+          "time_info": "[09时21分 ~ 16时18分]"
         }
       ]
     }
