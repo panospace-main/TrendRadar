@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T19:41:39.266772+08:00",
-  "total_titles_processed": 1304,
+  "generated_at": "2026-04-06T20:45:24.036353+08:00",
+  "total_titles_processed": 1382,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 19时41分]"
+          "appearance_count": 18,
+          "time_info": "[00时24分 ~ 20时45分]"
         },
         {
           "title": "特朗普想趁机卖油，美媒：结果可能让他后悔莫及",
@@ -64,8 +64,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 19时41分]"
+          "appearance_count": 18,
+          "time_info": "[00时24分 ~ 20时45分]"
+        },
+        {
+          "title": "“最后通牒”延后一天，特朗普称正与伊朗进行“深入谈判”，4月7日前“很有可能”与伊朗达成协议",
+          "url": "https://wallstreetcn.com/articles/3769299",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时36分 ~ 20时45分]"
         },
         {
           "title": "特朗普再次威胁：“4月7日将是伊朗的发电厂日和大桥日”，“打开那个该死的海峡”！",
@@ -81,8 +94,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 19时41分]"
+          "appearance_count": 18,
+          "time_info": "[00时24分 ~ 20时45分]"
         },
         {
           "title": "美以伊战争丨特朗普：能在4月6日前与伊朗达成协议",
@@ -132,19 +145,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时24分 ~ 07时24分]"
-        },
-        {
-          "title": "“最后通牒”延后一天，特朗普称正与伊朗进行“深入谈判”，4月7日前“很有可能”与伊朗达成协议",
-          "url": "https://wallstreetcn.com/articles/3769299",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时36分 ~ 19时41分]"
         },
         {
           "title": "周三演讲“效果不佳”、对“媒体报道”不满、对“战争后果”沮丧！特朗普正考虑“大规模改组”内阁",
@@ -254,6 +254,19 @@
           "time_info": "[00时25分 ~ 07时24分]"
         },
         {
+          "title": "特朗普“飙脏话”威胁打开霍尔木兹海峡，伊朗最高领袖回应“将继续利用这一战略杠杆”，伊朗革命卫队称正备战“波斯湾新秩序”",
+          "url": "https://wallstreetcn.com/articles/3769302",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时36分 ~ 20时45分]"
+        },
+        {
           "title": "伊朗议长：特朗普的鲁莽举动正将美国拖入地狱",
           "url": "https://wallstreetcn.com/livenews/3082669",
           "source": "华尔街见闻-快讯",
@@ -282,6 +295,18 @@
           "time_info": "[01时22分 ~ 07时24分]"
         },
         {
+          "title": "【早报】特朗普暗示“最后期限”推迟1天，称有望于4月7日前达成协议",
+          "url": "https://www.cls.cn/detail/2335621",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时36分 ~ 20时45分]"
+        },
+        {
           "title": "特朗普透露美军营救飞行员细节",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%8F%E9%9C%B2%E7%BE%8E%E5%86%9B%E8%90%A5%E6%95%91%E9%A3%9E%E8%A1%8C%E5%91%98%E7%BB%86%E8%8A%82%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -297,17 +322,16 @@
           "time_info": "[00时24分 ~ 07时24分]"
         },
         {
-          "title": "特朗普“飙脏话”威胁打开霍尔木兹海峡，伊朗最高领袖回应“将继续利用这一战略杠杆”，伊朗革命卫队称正备战“波斯湾新秩序”",
-          "url": "https://wallstreetcn.com/articles/3769302",
-          "source": "华尔街见闻",
+          "title": "特朗普：与伊朗协议有望达成 本周二将是“最终期限”",
+          "url": "https://www.cls.cn/detail/2335633",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            6,
-            7
+            9,
+            6
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[12时36分 ~ 19时41分]"
+          "time_info": "[14时25分 ~ 20时45分]"
         },
         {
           "title": "美以伊战争丨特朗普：有望在7日前与伊朗达成协议",
@@ -321,16 +345,19 @@
           "time_info": "[06时20分 ~ 07时24分]"
         },
         {
-          "title": "【早报】特朗普暗示“最后期限”推迟1天，称有望于4月7日前达成协议",
-          "url": "https://www.cls.cn/detail/2335621",
-          "source": "财联社热门",
+          "title": "诺奖得主、国际原子能机构前总干事敦促海湾各国：阻止特朗普",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32909372",
+          "source": "澎湃新闻",
           "ranks": [
+            17,
+            16,
+            15,
             12,
             13
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[12时36分 ~ 19时41分]"
+          "time_info": "[14时25分 ~ 20时45分]"
         },
         {
           "title": "比特币跌幅收窄至大约0.6%，暂报66876美元。 据福克斯新闻报道，美国总统特朗普此前企图向伊朗抗议者们发放枪支弹药。 特朗普认为，库尔德截留了美方向伊朗抗议者们输送的武器。 特朗普宣称，很有可能会在明天（下周一）达成伊朗协议。",
@@ -361,18 +388,6 @@
           "time_info": "[00时25分 ~ 06时20分]"
         },
         {
-          "title": "特朗普：与伊朗协议有望达成 本周二将是“最终期限”",
-          "url": "https://www.cls.cn/detail/2335633",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时25分 ~ 19时41分]"
-        },
-        {
           "title": "特朗普又发“最后通牒”，油价上涨",
           "url": "https://flash.jin10.com/detail/20260406065306685800",
           "source": "金十数据",
@@ -398,18 +413,16 @@
           "time_info": "[09时21分 ~ 17时59分]"
         },
         {
-          "title": "诺奖得主、国际原子能机构前总干事敦促海湾各国：阻止特朗普",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32909372",
-          "source": "澎湃新闻",
+          "title": "中东局势牵动市场 特朗普今夜新闻会！日韩股震荡上涨",
+          "url": "https://www.cls.cn/detail/2335649",
+          "source": "财联社热门",
           "ranks": [
-            17,
-            16,
-            15,
-            12
+            13,
+            10
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[14时25分 ~ 19时41分]"
+          "time_info": "[16时17分 ~ 20时45分]"
         },
         {
           "title": "民主党人批特朗普对伊朗的威胁是“精神错乱”",
@@ -435,18 +448,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时22分 ~ 04时21分]"
-        },
-        {
-          "title": "中东局势牵动市场 特朗普今夜新闻会！日韩股震荡上涨",
-          "url": "https://www.cls.cn/detail/2335649",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时17分 ~ 19时41分]"
         },
         {
           "title": "特朗普：相信能在6日之前与伊朗达成协议",
@@ -523,6 +524,18 @@
           "time_info": "[00时25分 ~ 01时22分]"
         },
         {
+          "title": "专家：特朗普严重践踏国际法",
+          "url": "https://www.toutiao.com/trending/7624815817067380777/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时56分 ~ 20时45分]"
+        },
+        {
           "title": "据CNN：美国总统特朗普已经返回白宫。",
           "url": "https://flash.jin10.com/detail/20260406021242247800",
           "source": "金十数据",
@@ -575,18 +588,6 @@
           "time_info": "[02时28分 ~ 04时21分]"
         },
         {
-          "title": "专家：特朗普严重践踏国际法",
-          "url": "https://www.toutiao.com/trending/7624815817067380777/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时56分 ~ 19时41分]"
-        },
-        {
           "title": "伊朗常驻联合国代表团：特朗普企图将中东拖入无休止战争",
           "url": "https://flash.jin10.com/detail/20260406053401666800",
           "source": "金十数据",
@@ -597,6 +598,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时24分]"
+        },
+        {
+          "title": "特朗普的“最后通牒”让避险光芒失色！国际银价暴跌20%只是“纸面游戏”？| Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260406152016093800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 20时45分]"
         },
         {
           "title": "特朗普披露“营救行动”更多细节，称第二名机组人员“身受重伤”",
@@ -705,17 +718,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 01时22分]"
-        },
-        {
-          "title": "特朗普的“最后通牒”让避险光芒失色！国际银价暴跌20%只是“纸面游戏”？| Live分析更新中",
-          "url": "https://flash.jin10.com/detail/20260406152016093800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
         },
         {
           "title": "美国总统特朗普：与伊朗的冲突应该在几天内结束，而不是几周内。",
@@ -878,7 +880,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -928,11 +930,12 @@
           "ranks": [
             2,
             5,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时17分 ~ 19时41分]"
+          "appearance_count": 6,
+          "time_info": "[16时17分 ~ 20时45分]"
         },
         {
           "title": "印尼经济部长：印尼将上调航空燃油附加费。",
@@ -1095,8 +1098,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 19时41分]"
+          "appearance_count": 18,
+          "time_info": "[00时24分 ~ 20时45分]"
         },
         {
           "title": "【早报】消费领域，多个利好来袭；多家A股公司被证监会立案",
@@ -1120,8 +1123,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 19时41分]"
+          "appearance_count": 18,
+          "time_info": "[00时24分 ~ 20时45分]"
         },
         {
           "title": "A股近期将有73.18亿股限售股解禁，总市值约1090.02亿元",
@@ -1132,11 +1135,12 @@
             13,
             12,
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时25分 ~ 19时41分]"
+          "appearance_count": 7,
+          "time_info": "[14时25分 ~ 20时45分]"
         },
         {
           "title": "A股明天怎么走",
@@ -1148,14 +1152,14 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时59分 ~ 19时41分]"
+          "appearance_count": 4,
+          "time_info": "[17时59分 ~ 20时45分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI首席执行官和首席财务官据称在IPO时机问题上意见分歧。（The Information）",
@@ -1200,9 +1204,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
+        },
+        {
+          "title": "OpenAI发布AI时代产业政策白皮书，呼吁建立公共财富基金与快速响应安全网",
+          "url": "https://wallstreetcn.com/livenews/3082798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         }
       ]
     },
@@ -1313,11 +1328,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时17分 ~ 19时41分]"
+          "appearance_count": 6,
+          "time_info": "[16时17分 ~ 20时45分]"
         }
       ]
     },
