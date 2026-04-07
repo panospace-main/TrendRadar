@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T16:06:07.917283+08:00",
-  "total_titles_processed": 1310,
+  "generated_at": "2026-04-07T17:58:43.947131+08:00",
+  "total_titles_processed": 1457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 146,
+      "match_count": 150,
       "titles": [
         {
           "title": "【早报】中国驻以使馆提醒：远离民用基础设施；特朗普再次警告伊朗",
@@ -56,6 +56,22 @@
           "time_info": "[00时35分 ~ 09时19分]"
         },
         {
+          "title": "特朗普：伊朗停战回应还不够好，要“拿走石油”，7日最终期限不可改，美国该收霍尔木兹通行费",
+          "url": "https://wallstreetcn.com/articles/3769328",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[03时45分 ~ 17时58分]"
+        },
+        {
           "title": "特朗普：与伊朗协议有望达成 本周二将是“最终期限”",
           "url": "https://www.cls.cn/detail/2335633",
           "source": "财联社热门",
@@ -68,21 +84,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时35分 ~ 09时19分]"
-        },
-        {
-          "title": "特朗普：伊朗停战回应还不够好，要“拿走石油”，7日最终期限不可改，美国该收霍尔木兹通行费",
-          "url": "https://wallstreetcn.com/articles/3769328",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时45分 ~ 16时06分]"
         },
         {
           "title": "特朗普“飙脏话”威胁打开霍尔木兹海峡，伊朗最高领袖回应“将继续利用这一战略杠杆”，伊朗革命卫队称正备战“波斯湾新秩序”",
@@ -159,6 +160,29 @@
           "time_info": "[12时25分 ~ 16时06分]"
         },
         {
+          "title": "伊朗回应特朗普最新威胁：绝不退缩",
+          "url": "https://news.ifeng.com/c/8s88buQ3UeO",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时05分 ~ 17时58分]"
+        },
+        {
+          "title": "特朗普再次点名北约、澳大利亚、日本、韩国：都不帮忙",
+          "url": "https://news.ifeng.com/c/8s7g98ajJNp",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时05分 ~ 17时58分]"
+        },
+        {
           "title": "美以伊战争丨威胁轰炸民用设施，特朗普：不担心",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -170,26 +194,33 @@
           "time_info": "[09时18分 ~ 09时19分]"
         },
         {
-          "title": "伊朗回应特朗普最新威胁：绝不退缩",
-          "url": "https://news.ifeng.com/c/8s88buQ3UeO",
-          "source": "凤凰网",
+          "title": "伊方：特朗普只有20个小时，要么屈服要么其盟友将退回石器时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32915034",
+          "source": "澎湃新闻",
           "ranks": [
-            3
+            15,
+            13,
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
+          "appearance_count": 7,
+          "time_info": "[09时18分 ~ 17时58分]"
         },
         {
-          "title": "特朗普再次点名北约、澳大利亚、日本、韩国：都不帮忙",
-          "url": "https://news.ifeng.com/c/8s7g98ajJNp",
-          "source": "凤凰网",
+          "title": "特朗普再发威胁：7日20时是“最后期限”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32914898",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            13,
+            15,
+            14,
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
+          "appearance_count": 7,
+          "time_info": "[09时18分 ~ 17时58分]"
         },
         {
           "title": "特朗普：该由美国收霍尔木兹通行费",
@@ -248,31 +279,15 @@
           "time_info": "00时36分"
         },
         {
-          "title": "伊方：特朗普只有20个小时，要么屈服要么其盟友将退回石器时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32915034",
-          "source": "澎湃新闻",
+          "title": "特朗普设下最后期限之际，美军“末日飞机”升空",
+          "url": "https://news.ifeng.com/c/8s8BIrAcO2o",
+          "source": "凤凰网",
           "ranks": [
-            15,
-            13,
-            10
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时18分 ~ 16时06分]"
-        },
-        {
-          "title": "特朗普再发威胁：7日20时是“最后期限”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32914898",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            15,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时18分 ~ 16时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
         },
         {
           "title": "美国总统特朗普：我不担心那些针对民用基础设施的担忧。",
@@ -317,6 +332,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "特朗普公布营救飞行员细节：调集176架各类飞机、实施欺骗作战，正搜寻媒体泄密者",
+          "url": "https://wallstreetcn.com/articles/3769330",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时25分 ~ 17时58分]"
+        },
+        {
+          "title": "特朗普威胁伊朗“最后期限”，中方表态",
+          "url": "https://www.cls.cn/detail/2336527",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时05分 ~ 17时58分]"
         },
         {
           "title": "以色列总理警告特朗普勿仓促停火",
@@ -428,17 +467,6 @@
           "time_info": "[02时42分 ~ 04时29分]"
         },
         {
-          "title": "特朗普公布营救飞行员细节：调集176架各类飞机、实施欺骗作战，正搜寻媒体泄密者",
-          "url": "https://wallstreetcn.com/articles/3769330",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时25分 ~ 16时06分]"
-        },
-        {
           "title": "美国总统特朗普：美国想要格陵兰岛，但他们不愿把它交给我们。",
           "url": "https://flash.jin10.com/detail/20260407023333995800",
           "source": "金十数据",
@@ -548,6 +576,40 @@
           "time_info": "[12时25分 ~ 16时06分]"
         },
         {
+          "title": "特朗普：一夜之间就能拿下伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32915316",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时13分 ~ 17时58分]"
+        },
+        {
+          "title": "中方回应特朗普威胁一夜击毁伊朗",
+          "url": "https://news.ifeng.com/c/8s8A2GH42fc",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时05分 ~ 17时58分]"
+        },
+        {
+          "title": "停火协议“希望渐灭”？美伊互下“最后通牒”：美以能源打击或已就绪，伊朗称特朗普“只剩20小时”！",
+          "url": "https://wallstreetcn.com/articles/3769368",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时05分 ~ 17时58分]"
+        },
+        {
           "title": "美国总统特朗普谈及攫取伊朗石油，称：“胜利者”享有“战利品”。",
           "url": "https://wallstreetcn.com/livenews/3082931",
           "source": "华尔街见闻-快讯",
@@ -599,17 +661,6 @@
           "time_info": "[09时18分 ~ 12时25分]"
         },
         {
-          "title": "特朗普：一夜之间就能拿下伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32915316",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时13分 ~ 16时06分]"
-        },
-        {
           "title": "特朗普对伊朗再发威胁",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%86%8D%E5%8F%91%E5%A8%81%E8%83%81",
           "source": "bilibili 热搜",
@@ -619,17 +670,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时18分 ~ 09时19分]"
-        },
-        {
-          "title": "中方回应特朗普威胁一夜击毁伊朗",
-          "url": "https://news.ifeng.com/c/8s8A2GH42fc",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
         },
         {
           "title": "特朗普自曝威胁退出北约真相",
@@ -773,17 +813,6 @@
           "time_info": "[01时37分 ~ 02时42分]"
         },
         {
-          "title": "停火协议“希望渐灭”？美伊互下“最后通牒”：美以能源打击或已就绪，伊朗称特朗普“只剩20小时”！",
-          "url": "https://wallstreetcn.com/articles/3769368",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
-        },
-        {
           "title": "特朗普：等伊朗战争结束，就去委内瑞拉竞选总统",
           "url": "https://flash.jin10.com/detail/20260407044624292800",
           "source": "金十数据",
@@ -829,17 +858,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时45分 ~ 04时29分]"
-        },
-        {
-          "title": "特朗普威胁伊朗“最后期限”，中方表态",
-          "url": "https://www.cls.cn/detail/2336527",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
         },
         {
           "title": "标普500指数涨幅重新收窄至不足0.1%。 美国总统特朗普继续宣称，无法让伊朗拥有核武器。 伊朗人“想要我们继续轰炸”。 美军飞行员被手持肩扛式导弹击中。 不希望库尔德武装参与（伊朗战争）。 希望“我不必袭击伊朗发电站和基础设施”。 被问及是否会缩减战争规模，称“我无法告诉你们”。 被问及战争结束问题，称“取决于伊朗的行动”。 伊朗正在真诚地谈判。",
@@ -938,7 +956,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
         },
@@ -974,6 +992,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
+        },
+        {
+          "title": "特朗普：伊朗可在一夜内被击溃，或许就是7日晚，美国摧毁只需四小时",
+          "url": "https://wallstreetcn.com/articles/3769340",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
         },
         {
           "title": "据纽约时报：特朗普设立的和平委员会向哈马斯下达解除武装的最后期限。",
@@ -1051,6 +1080,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
+        },
+        {
+          "title": "中方就特朗普威胁伊朗表态",
+          "url": "https://www.toutiao.com/trending/7624686886321393188/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
         },
         {
           "title": "美国总统特朗普：副总统万斯可能参与面对面会谈。",
@@ -1631,9 +1671,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
+        },
+        {
+          "title": "特朗普“狼来了”式闹剧戏耍市场，交易员今夜如何备战？",
+          "url": "https://flash.jin10.com/detail/20260407171959143800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
         },
         {
           "title": "特朗普：我将于今晚10点与“阿耳忒弥斯”登月计划的宇航员进行通话。",
@@ -1792,11 +1843,12 @@
           "url": "https://www.douyin.com/hot/2457860",
           "source": "抖音",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
+          "appearance_count": 3,
+          "time_info": "[16时05分 ~ 17时58分]"
         },
         {
           "title": "A股体育概念再度拉升，金陵体育涨超15%，中体产业回封涨停，共创草坪、双象股份、舒华体育、力盛体育等跟涨。",
@@ -1871,7 +1923,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
         },
@@ -1914,8 +1966,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时27分 ~ 16时06分]"
+          "appearance_count": 8,
+          "time_info": "[07时27分 ~ 17时58分]"
         },
         {
           "title": "美股收盘：标普纳指连涨四天 存储概念走强希捷收新高",
@@ -2025,8 +2077,96 @@
       ]
     },
     {
+      "keyword_group": "航天 航空",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美公布营救飞行员细节：出动155架各类航空器",
+          "url": "https://news.ifeng.com/c/8s7GD1PzBBA",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时18分 ~ 12时25分]"
+        },
+        {
+          "title": "调集百余架各类航空器、实施欺骗作战，美公布营救飞行员行动细节",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32914521",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            14,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时18分 ~ 17时58分]"
+        },
+        {
+          "title": "美航天局局长称外星人存在几率相当高",
+          "url": "https://www.toutiao.com/trending/7625525898590191679/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时28分 ~ 05时29分]"
+        },
+        {
+          "title": "美公布营救飞行员行动细节，调集百余架各类航空器、实施欺骗作战，正搜寻媒体泄密者",
+          "url": "https://wallstreetcn.com/livenews/3082924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 03时45分]"
+        },
+        {
+          "title": "美国国家航空航天局（NASA）乘员舱按预期在月球周围进入通信中断状态（Comms Blackout）。",
+          "url": "https://wallstreetcn.com/livenews/3083007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "印度政府官员：在伊朗局势紧张之际，航空业正面临严峻的运营和财务困境。",
+          "url": "https://flash.jin10.com/detail/20260407173344136800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "印度航空宣布上调燃油附加费，因全球航油价格大幅上涨。",
+          "url": "https://wallstreetcn.com/livenews/3083318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人民币",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "人民币跨境支付系统单日交易额破 1.2 万亿元，3 月日均交易额创过去 12 个月以来最高，这意味着什么？",
@@ -2098,6 +2238,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.8597，较上一交易日官方收盘价涨206点，较上日夜盘收盘涨262点。",
+          "url": "https://wallstreetcn.com/livenews/3083312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
         }
       ]
     },
@@ -2112,7 +2263,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
         },
@@ -2173,71 +2324,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "航天 航空",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美公布营救飞行员细节：出动155架各类航空器",
-          "url": "https://news.ifeng.com/c/8s7GD1PzBBA",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时18分 ~ 12时25分]"
-        },
-        {
-          "title": "调集百余架各类航空器、实施欺骗作战，美公布营救飞行员行动细节",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32914521",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时18分 ~ 16时06分]"
-        },
-        {
-          "title": "美航天局局长称外星人存在几率相当高",
-          "url": "https://www.toutiao.com/trending/7625525898590191679/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 05时29分]"
-        },
-        {
-          "title": "美公布营救飞行员行动细节，调集百余架各类航空器、实施欺骗作战，正搜寻媒体泄密者",
-          "url": "https://wallstreetcn.com/livenews/3082924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 03时45分]"
-        },
-        {
-          "title": "美国国家航空航天局（NASA）乘员舱按预期在月球周围进入通信中断状态（Comms Blackout）。",
-          "url": "https://wallstreetcn.com/livenews/3083007",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
         }
       ]
     },
