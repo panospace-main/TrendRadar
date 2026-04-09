@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-09T21:02:22.550019+08:00",
-  "total_titles_processed": 1726,
+  "generated_at": "2026-04-09T22:55:39.470324+08:00",
+  "total_titles_processed": 1874,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 92,
+      "match_count": 94,
       "titles": [
+        {
+          "title": "以色列袭击黎巴嫩后霍尔木兹海峡再关闭，伊朗据称将收“过路费”且限量放行，白宫称特朗普反对收费",
+          "url": "https://wallstreetcn.com/articles/3769517",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时10分 ~ 22时55分]"
+        },
         {
           "title": "美副总统万斯：美伊停火为“脆弱休战” 特朗普“急于看到进展”",
           "url": "https://www.cls.cn/detail/2338136",
@@ -18,18 +30,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时08分 ~ 07时31分]"
-        },
-        {
-          "title": "以色列袭击黎巴嫩后霍尔木兹海峡再关闭，伊朗据称将收“过路费”且限量放行，白宫称特朗普反对收费",
-          "url": "https://wallstreetcn.com/articles/3769517",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时10分 ~ 21时02分]"
         },
         {
           "title": "特朗普威胁对向伊朗供武国家加税",
@@ -98,8 +98,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时25分 ~ 21时02分]"
+          "appearance_count": 10,
+          "time_info": "[12时25分 ~ 22时55分]"
         },
         {
           "title": "特朗普：美媒披露的伊方10项停火条款是“假新闻”",
@@ -129,6 +129,19 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时08分 ~ 14时14分]"
+        },
+        {
+          "title": "脆弱的停火：以色列依旧“搅屎棍”，特朗普还是“来回变”",
+          "url": "https://wallstreetcn.com/articles/3769537",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时14分 ~ 22时55分]"
         },
         {
           "title": "美伊停火的关键斡旋者：与特朗普私交甚好的巴基斯坦陆军元帅",
@@ -163,19 +176,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时08分 ~ 14时14分]"
-        },
-        {
-          "title": "脆弱的停火：以色列依旧“搅屎棍”，特朗普还是“来回变”",
-          "url": "https://wallstreetcn.com/articles/3769537",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时14分 ~ 21时02分]"
         },
         {
           "title": "深度特写：特朗普是如何把美国\"拖入\"伊朗战争的？",
@@ -258,6 +258,20 @@
           "time_info": "[16时11分 ~ 21时02分]"
         },
         {
+          "title": "特朗普：美媒披露的伊方10项停火条款是“假新闻”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32932623",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时11分 ~ 22时55分]"
+        },
+        {
           "title": "伊朗终止同美直接外交联系、仍通过调解人沟通，巴基斯坦提议宽限两周、特朗普将回应，报道称很快有好消息",
           "url": "https://wallstreetcn.com/articles/3769420",
           "source": "华尔街见闻",
@@ -282,19 +296,6 @@
           "time_info": "[16时11分 ~ 21时02分]"
         },
         {
-          "title": "特朗普：美媒披露的伊方10项停火条款是“假新闻”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32932623",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时11分 ~ 21时02分]"
-        },
-        {
           "title": "一图看懂｜特朗普扬言“摧毁大桥和发电厂”，美以盯上伊朗经济根基",
           "url": "https://m.thepaper.cn/newsDetail_forward_32918306",
           "source": "澎湃新闻",
@@ -304,6 +305,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时08分 ~ 00时09分]"
+        },
+        {
+          "title": "特朗普：10项停战条款是“假新闻”，美军将“继续驻扎在伊朗境内及其周边”",
+          "url": "https://wallstreetcn.com/articles/3769556",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时44分 ~ 22时55分]"
         },
         {
           "title": "特朗普：若谈判不顺，美国能轻易恢复对伊军事行动，万斯：\"脆弱休战\"基础初步形成",
@@ -318,6 +332,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时10分 ~ 18时03分]"
+        },
+        {
+          "title": "关税战没有赢家！外交部回应特朗普关税言论",
+          "url": "https://www.cls.cn/detail/2339082",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时03分 ~ 22时55分]"
         },
         {
           "title": "美媒：石油行业抵制特朗普的伊朗和平计划",
@@ -387,6 +414,17 @@
           "time_info": "05时34分"
         },
         {
+          "title": "格陵兰岛自治政府总理回应特朗普：我们不是一块冰",
+          "url": "https://flash.jin10.com/detail/20260409223524794800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "WTI原油期货维持3%的涨幅，特朗普：美军将“继续驻扎在伊朗境内及其周边”，直到达成的协议得到全面遵守",
           "url": "https://wallstreetcn.com/livenews/3084759",
           "source": "华尔街见闻-快讯",
@@ -443,18 +481,6 @@
           "time_info": "00时09分"
         },
         {
-          "title": "关税战没有赢家！外交部回应特朗普关税言论",
-          "url": "https://www.cls.cn/detail/2339082",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时03分 ~ 21时02分]"
-        },
-        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普对伊朗发出了一个“非常强大的威胁”。",
           "url": "https://wallstreetcn.com/livenews/3084517",
           "source": "华尔街见闻-快讯",
@@ -477,18 +503,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时31分]"
-        },
-        {
-          "title": "特朗普：10项停战条款是“假新闻”，美军将“继续驻扎在伊朗境内及其周边”",
-          "url": "https://wallstreetcn.com/articles/3769556",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时44分 ~ 21时02分]"
         },
         {
           "title": "美国副总统万斯：特朗普曾提及过解除制裁事宜。他还谈到了经济合作之类的内容。但除非伊朗方面明确承诺停止任何接近制造核武器的活动，否则这种情况是不会发生的。",
@@ -563,6 +577,18 @@
           "time_info": "[07时30分 ~ 09时10分]"
         },
         {
+          "title": "白宫称特朗普考虑“退群”：北约背弃美国人民，没能通过考验",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32931462",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时01分 ~ 22时55分]"
+        },
+        {
           "title": "特朗普称对向伊朗供武国家征收50%关税，中方回应",
           "url": "https://news.ifeng.com/c/8sBUhB6xiS2",
           "source": "凤凰网",
@@ -605,17 +631,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时11分 ~ 16时12分]"
-        },
-        {
-          "title": "白宫称特朗普考虑“退群”：北约背弃美国人民，没能通过考验",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32931462",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
         },
         {
           "title": "中方回应特朗普威胁对向伊朗供武国家加税",
@@ -792,6 +807,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
+        },
+        {
+          "title": "WTI原油日内涨幅达7.5%，报101.52美元/桶。 国家经济委员会主任凯文·哈塞特表示，根据美国1977年《国际紧急经济权力法》（IEEPA），总统特朗普有权颁布新的涉伊关税。 哈塞特宣称，由于美国正处于“冲突状态”，该法案可以被启用，且“这显然属于总统的关税职权范围”。 若特朗普利用该紧急法征收关税，政府将面临一场说服法院其合法性的艰巨挑战，因为最高法院此前曾裁定该法案“并未授权总统征收关税”。",
+          "url": "https://wallstreetcn.com/livenews/3085177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "白宫新闻秘书莱维特：内塔尼亚胡支持特朗普；以色列是关键盟友。",
@@ -1072,7 +1098,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "美伊谈判现逆转信号，美股抹平跌幅，盘后又见TACO，美股指期货大涨，油价大跳水，金银跳涨",
@@ -1092,11 +1118,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时30分 ~ 21时02分]"
+          "appearance_count": 13,
+          "time_info": "[07时30分 ~ 22时55分]"
         },
         {
           "title": "报复性反弹！美伊“停火两周”，美股开盘集体上涨，美光涨超8%，现货钯金涨超9%，油价创近六年最大跌幅",
@@ -1262,9 +1289,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
+        },
+        {
+          "title": "美伊停火持续性存疑 油价反弹美股震荡走弱 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2339594",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "金十图示：2026年04月08日（周三）热门中概股行情一览（美股收盘）",
@@ -1298,6 +1336,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
+        },
+        {
+          "title": "美股开盘：蔚来涨超3%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E8%94%9A%E6%9D%A5%E6%B6%A8%E8%B6%853%25",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "美股三大指数均涨超2% 能源巨头重挫",
@@ -1364,6 +1413,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
+        },
+        {
+          "title": "美股存储概念股盘初续涨，闪迪涨超5%再创历史新高，月内累涨约30%；美光科技、西部数据涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3085161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "中信建投：若美股出现又一波下跌 建议积极增持",
@@ -1450,11 +1510,12 @@
           "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E5%A6%82%E4%BD%95%E5%9C%A8%E6%B2%B9%E5%B8%82%E5%8A%A8%E8%8D%A1%E4%B8%AD%E4%BF%9D%E6%8C%81%E9%9F%A7%E6%80%A7",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
+          "appearance_count": 3,
+          "time_info": "[21时01分 ~ 22时55分]"
         },
         {
           "title": "如何看待A股再现放量大涨",
@@ -1642,6 +1703,116 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "曝ChatGPT6本月发布",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            19,
+            18,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时08分 ~ 09时10分]"
+        },
+        {
+          "title": "OpenAI预计到2030年广告收入将达到1000亿美元，预计今年将产生25亿美元广告收入。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3084981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
+          "title": "OpenAI的CFO Sarah Friar：公司将在IPO中配售股票给散户们。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3084581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时31分]"
+        },
+        {
+          "title": "OpenAI：已暂停英国“星际之门”项目，将在“合适条件”下推进英国计划。",
+          "url": "https://wallstreetcn.com/livenews/3084971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
+          "title": "据AXIOS网站：OpenAI预计到2030年广告收入将达到1000亿美元。",
+          "url": "https://flash.jin10.com/detail/20260409174337065800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
+          "title": "OpenAI因安全风险采取了分阶段推出新模型的策略。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3084962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
+          "title": "据AXIOS网站：OpenAI预计今年广告收入达25亿美元。",
+          "url": "https://flash.jin10.com/detail/20260409174200315800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
+          "title": "据AXIOS网站：OpenAI正在完成一款具备强大网络安全功能的产品，并计划将其仅向一小部分合作伙伴推出。",
+          "url": "https://flash.jin10.com/detail/20260409221331312800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
+          "title": "OpenAI首席财务官表示，OpenAI正筹备上市，将向散户投资者分配IPO股份。",
+          "url": "https://flash.jin10.com/detail/20260409051237886800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人民币",
       "match_count": 8,
       "titles": [
@@ -1744,105 +1915,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "曝ChatGPT6本月发布",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            19,
-            18,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时08分 ~ 09时10分]"
-        },
-        {
-          "title": "OpenAI预计到2030年广告收入将达到1000亿美元，预计今年将产生25亿美元广告收入。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3084981",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时03分"
-        },
-        {
-          "title": "OpenAI的CFO Sarah Friar：公司将在IPO中配售股票给散户们。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3084581",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时34分 ~ 06时31分]"
-        },
-        {
-          "title": "OpenAI：已暂停英国“星际之门”项目，将在“合适条件”下推进英国计划。",
-          "url": "https://wallstreetcn.com/livenews/3084971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时03分"
-        },
-        {
-          "title": "据AXIOS网站：OpenAI预计到2030年广告收入将达到1000亿美元。",
-          "url": "https://flash.jin10.com/detail/20260409174337065800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时03分"
-        },
-        {
-          "title": "OpenAI因安全风险采取了分阶段推出新模型的策略。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3084962",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时03分"
-        },
-        {
-          "title": "据AXIOS网站：OpenAI预计今年广告收入达25亿美元。",
-          "url": "https://flash.jin10.com/detail/20260409174200315800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时03分"
-        },
-        {
-          "title": "OpenAI首席财务官表示，OpenAI正筹备上市，将向散户投资者分配IPO股份。",
-          "url": "https://flash.jin10.com/detail/20260409051237886800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 4,
       "titles": [
@@ -1894,6 +1966,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价走势“先涨后疑”，市场又在重算什么？",
+          "url": "https://flash.jin10.com/detail/20260409115543509800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "美伊停火协议难止冲突，纳指涨0.06%，标普跌0.05%，油价强势反弹，金价4720美元震荡",
+          "url": "https://wallstreetcn.com/articles/3769555",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -1933,26 +2033,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价走势“先涨后疑”，市场又在重算什么？",
-          "url": "https://flash.jin10.com/detail/20260409115543509800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时25分"
+          "time_info": "21时02分"
         }
       ]
     }
