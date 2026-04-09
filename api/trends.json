@@ -1,51 +1,54 @@
 {
-  "generated_at": "2026-04-10T05:39:01.403235+08:00",
-  "total_titles_processed": 609,
+  "generated_at": "2026-04-10T06:31:44.075701+08:00",
+  "total_titles_processed": 657,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 40,
       "titles": [
-        {
-          "title": "以色列袭击黎巴嫩后霍尔木兹海峡再关闭，伊朗据称将收“过路费”且限量放行，白宫称特朗普反对收费",
-          "url": "https://wallstreetcn.com/articles/3769517",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 05时39分]"
-        },
         {
           "title": "脆弱的停火：以色列依旧“搅屎棍”，特朗普还是“来回变”",
           "url": "https://wallstreetcn.com/articles/3769537",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 05时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 06时31分]"
         },
         {
           "title": "停火首日即遇变数：特朗普“反复横跳”，不承认伊朗“10点计划”做基础",
           "url": "https://wallstreetcn.com/articles/3769534",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 05时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 06时31分]"
         },
         {
           "title": "特朗普：10项停战条款是“假新闻”，美军将“继续驻扎在伊朗境内及其周边”",
           "url": "https://wallstreetcn.com/articles/3769556",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 06时31分]"
+        },
+        {
+          "title": "以色列袭击黎巴嫩后霍尔木兹海峡再关闭，伊朗据称将收“过路费”且限量放行，白宫称特朗普反对收费",
+          "url": "https://wallstreetcn.com/articles/3769517",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -62,8 +65,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 05时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 06时31分]"
         },
         {
           "title": "特朗普：美媒披露的伊方10项停火条款是“假新闻”",
@@ -73,8 +76,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 05时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 06时31分]"
         },
         {
           "title": "白宫称特朗普考虑“退群”：北约背弃美国人民，没能通过考验",
@@ -84,8 +87,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 05时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 06时31分]"
         },
         {
           "title": "伊朗战争丨特朗普要求内塔尼亚胡减少打击黎巴嫩",
@@ -105,18 +108,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
-          "title": "美国总统特朗普：无论有没有伊朗的帮助，（来自波斯湾的）石油都会开始流动。",
-          "url": "https://wallstreetcn.com/livenews/3085351",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
         },
@@ -157,6 +149,18 @@
           "time_info": "[04时43分 ~ 05时39分]"
         },
         {
+          "title": "美国总统特朗普：无论有没有伊朗的帮助，（来自波斯湾的）石油都会开始流动。",
+          "url": "https://wallstreetcn.com/livenews/3085351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时31分]"
+        },
+        {
           "title": "伊朗称黎巴嫩停火等停战条款被违反、破坏“谈判基础”，特朗普称停火不含黎，万斯称从未承诺包括",
           "url": "https://wallstreetcn.com/articles/3769515",
           "source": "华尔街见闻",
@@ -178,6 +182,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时43分 ~ 05时39分]"
+        },
+        {
+          "title": "特朗普警告伊朗不要收霍尔木兹海峡通行费",
+          "url": "https://wallstreetcn.com/livenews/3085348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时31分]"
         },
         {
           "title": "特朗普夫人梅拉尼娅：我从未与爱泼斯坦有过关系，爱泼斯坦没有把我介绍给特朗普，这些指控有损我的声誉。",
@@ -264,26 +280,16 @@
           "time_info": "[01时53分 ~ 02时47分]"
         },
         {
-          "title": "特朗普警告伊朗不要收霍尔木兹海峡通行费",
-          "url": "https://wallstreetcn.com/livenews/3085348",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
           "title": "特朗普：伊朗最好不要对霍尔木兹海峡收通行费",
           "url": "https://wallstreetcn.com/livenews/3085341",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时31分]"
         },
         {
           "title": "据消息人士称，俄罗斯总统特使德米特里耶夫正在美国，与美国总统特朗普政府的成员会晤，讨论乌克兰问题和经济合作。德米特里耶夫的此次访问正值美国对俄罗斯石油的制裁豁免将于4月11日到期之际。",
@@ -306,6 +312,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
+        },
+        {
+          "title": "美国总统特朗普：我和内政部长伯古姆很荣幸能够修复华盛顿纪念碑和林肯纪念堂之间曾经美丽的倒影池。我们之前被告知这项工程需要数年时间，但现在只需很短的时间，花费也少得多——而且修复后的倒影池将比建成之时更加美丽。",
+          "url": "https://flash.jin10.com/detail/20260410054701126800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
         },
         {
           "title": "特朗普称已要求内塔尼亚胡在黎巴嫩行动“更低调”",
@@ -341,6 +358,17 @@
           "time_info": "01时53分"
         },
         {
+          "title": "特朗普警告伊朗不要在霍尔木兹海峡收取过路费",
+          "url": "https://flash.jin10.com/detail/20260410054318067800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
           "title": "美媒称特朗普要求内塔尼亚胡减少对黎巴嫩的打击",
           "url": "https://wallstreetcn.com/livenews/3085201",
           "source": "华尔街见闻-快讯",
@@ -363,6 +391,17 @@
           "time_info": "01时53分"
         },
         {
+          "title": "美国总统特朗普：石油很快就会开始流动，无论有没有伊朗的帮助。",
+          "url": "https://flash.jin10.com/detail/20260410052946451800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
           "title": "据NBC新闻：特朗普表示，在会议场合，伊朗领导人的言辞与他们面对媒体时的言论大不相同。他们在会议中的态度要更加理性。",
           "url": "https://flash.jin10.com/detail/20260410011846485800",
           "source": "金十数据",
@@ -372,6 +411,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "美国总统特朗普：《华尔街日报》，世界上最糟糕和最不准确的“社论委员会”之一，声称我“在伊朗宣布了过早的胜利”。实际上，这是一场胜利，根本没有什么“过早”！",
+          "url": "https://flash.jin10.com/detail/20260410052922603800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
         },
         {
           "title": "据NBC新闻：特朗普谈及伊朗时表示，如果他们不达成协议，那将会非常痛苦。",
@@ -421,7 +471,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
@@ -432,8 +482,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 05时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 06时31分]"
         },
         {
           "title": "美伊停火持续性存疑 油价反弹美股震荡走弱 | 今夜看点",
@@ -443,8 +493,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 05时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 06时31分]"
         },
         {
           "title": "美股芯片存储指数收涨超3.5%，与涨9%的成分股闪迪创历史新高，AI软件先驱指数跌约5.1%",
@@ -483,6 +533,18 @@
           "time_info": "[02时47分 ~ 03时58分]"
         },
         {
+          "title": "美股大类资产类ETF多数收涨",
+          "url": "https://wallstreetcn.com/livenews/3085346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时31分]"
+        },
+        {
           "title": "金十图示：2026年04月09日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260410040554889800",
           "source": "金十数据",
@@ -493,6 +555,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时43分 ~ 05时39分]"
+        },
+        {
+          "title": "周四（4月9日），美股降息赢家指数涨1.10%，报91.25点。 “特朗普关税输家”指数涨1.50%，“特朗普金融指数”涨0.95%。 散户抱团概念股指数/迷因股（meme stock）指数跌0.44%。",
+          "url": "https://wallstreetcn.com/livenews/3085334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时31分]"
         },
         {
           "title": "金十图示：2026年04月09日（周四）热门中概股行情一览（美股收盘）",
@@ -519,26 +593,38 @@
           "time_info": "[04时43分 ~ 05时39分]"
         },
         {
-          "title": "美股大类资产类ETF多数收涨",
-          "url": "https://wallstreetcn.com/livenews/3085346",
+          "title": "美股七巨头收盘播报｜英伟达收涨5.6%，Meta涨2.6%",
+          "url": "https://wallstreetcn.com/livenews/3085330",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            22,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时31分]"
         },
         {
-          "title": "周四（4月9日），美股降息赢家指数涨1.10%，报91.25点。 “特朗普关税输家”指数涨1.50%，“特朗普金融指数”涨0.95%。 散户抱团概念股指数/迷因股（meme stock）指数跌0.44%。",
-          "url": "https://wallstreetcn.com/livenews/3085334",
-          "source": "华尔街见闻-快讯",
+          "title": "现货金银、WTI原油周五小幅高开，美股三大股指期货微跌。",
+          "url": "https://flash.jin10.com/detail/20260410060121700800",
+          "source": "金十数据",
           "ranks": [
-            18
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时39分"
+          "time_info": "06时31分"
+        },
+        {
+          "title": "美股收盘：标普纳指连升七天 半导体股持续走强 闪迪涨超9%",
+          "url": "https://www.cls.cn/detail/2339795",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
         },
         {
           "title": "美股开盘：蔚来涨超3%",
@@ -550,17 +636,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜英伟达收涨5.6%，Meta涨2.6%",
-          "url": "https://wallstreetcn.com/livenews/3085330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
         }
       ]
     },
@@ -575,7 +650,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
         },
@@ -633,7 +708,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
         }
@@ -641,8 +716,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "霍尔木兹海峡前途未卜，标普七连涨，半导体指数再新高，美元四连跌",
+          "url": "https://wallstreetcn.com/articles/3769555",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
         {
           "title": "美元指数9日下跌",
           "url": "https://flash.jin10.com/detail/20260410043300021800",
@@ -735,11 +821,12 @@
           "url": "https://wallstreetcn.com/livenews/3085339",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时31分]"
         },
         {
           "title": "金砖国家新开发银行首次在华发行双向回拨机制70亿元人民币熊猫债券",
@@ -808,8 +895,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 05时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 06时31分]"
         },
         {
           "title": "A股如何在油市动荡中保持韧性",
@@ -823,8 +910,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 05时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 06时31分]"
         }
       ]
     },
