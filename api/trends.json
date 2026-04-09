@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T12:25:21.075583+08:00",
-  "total_titles_processed": 1060,
+  "generated_at": "2026-04-09T14:14:57.348084+08:00",
+  "total_titles_processed": 1181,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 74,
+      "match_count": 78,
       "titles": [
         {
           "title": "美副总统万斯：美伊停火为“脆弱休战” 特朗普“急于看到进展”",
@@ -83,11 +83,12 @@
             9,
             8,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时08分 ~ 12时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时08分 ~ 14时14分]"
         },
         {
           "title": "美伊停火的关键斡旋者：与特朗普私交甚好的巴基斯坦陆军元帅",
@@ -116,11 +117,23 @@
           "url": "https://www.zhihu.com/question/2025299647992709378",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时08分 ~ 07时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时08分 ~ 14时14分]"
+        },
+        {
+          "title": "以色列袭击黎巴嫩后霍尔木兹海峡再关闭，伊朗据称将收“过路费”且限量放行，白宫称特朗普反对收费",
+          "url": "https://wallstreetcn.com/articles/3769517",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时10分 ~ 14时14分]"
         },
         {
           "title": "伊朗终止同美直接外交联系、仍通过调解人沟通，巴基斯坦提议宽限两周、特朗普将回应，报道称很快有好消息",
@@ -134,15 +147,18 @@
           "time_info": "[00时08分 ~ 05时34分]"
         },
         {
-          "title": "以色列袭击黎巴嫩后霍尔木兹海峡再关闭，伊朗据称将收“过路费”且限量放行，白宫称特朗普反对收费",
-          "url": "https://wallstreetcn.com/articles/3769517",
+          "title": "深度特写：特朗普是如何把美国\"拖入\"伊朗战争的？",
+          "url": "https://wallstreetcn.com/articles/3769466",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            10,
+            9,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 12时25分]"
+          "appearance_count": 7,
+          "time_info": "[06时30分 ~ 14时14分]"
         },
         {
           "title": "一图看懂｜特朗普扬言“摧毁大桥和发电厂”，美以盯上伊朗经济根基",
@@ -156,18 +172,28 @@
           "time_info": "[00时08分 ~ 00时09分]"
         },
         {
-          "title": "深度特写：特朗普是如何把美国\"拖入\"伊朗战争的？",
-          "url": "https://wallstreetcn.com/articles/3769466",
-          "source": "华尔街见闻",
+          "title": "“北约盟友没帮忙，特朗普打算这样惩罚”",
+          "url": "https://news.ifeng.com/c/8sB098ZojvN",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            9,
-            8,
-            7
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时30分 ~ 12时25分]"
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 14时14分]"
+        },
+        {
+          "title": "特朗普说美媒披露的10项停战条款是“假新闻”",
+          "url": "https://news.ifeng.com/c/8sBBnRWw3el",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 14时14分]"
         },
         {
           "title": "美媒：石油行业抵制特朗普的伊朗和平计划",
@@ -203,17 +229,6 @@
           "time_info": "00时09分"
         },
         {
-          "title": "“北约盟友没帮忙，特朗普打算这样惩罚”",
-          "url": "https://news.ifeng.com/c/8sB098ZojvN",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
           "title": "法国总统马克龙：已告知伊朗总统佩泽希齐扬和美国总统特朗普，他们接受停火的决定是最佳选择。",
           "url": "https://flash.jin10.com/detail/20260409045505102800",
           "source": "金十数据",
@@ -231,18 +246,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "特朗普说美媒披露的10项停战条款是“假新闻”",
-          "url": "https://news.ifeng.com/c/8sBBnRWw3el",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
         },
@@ -253,7 +257,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
         },
@@ -328,6 +332,18 @@
           "time_info": "[03时09分 ~ 04时33分]"
         },
         {
+          "title": "停火首日即遇变数：特朗普“反复横跳”，不承认伊朗“10点计划”做基础",
+          "url": "https://wallstreetcn.com/articles/3769534",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 14时14分]"
+        },
+        {
           "title": "因未获伊朗战争支持，美国总统特朗普考虑惩罚某些北约国家。",
           "url": "https://flash.jin10.com/detail/20260409040702671800",
           "source": "金十数据",
@@ -372,8 +388,19 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时10分 ~ 14时14分]"
+        },
+        {
+          "title": "吹嘘伊朗乞求停火，美防长被打脸：是特朗普先退了",
+          "url": "https://news.ifeng.com/c/8sALx5qaI3W",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时10分 ~ 12时25分]"
+          "time_info": "[12时25分 ~ 14时14分]"
         },
         {
           "title": "特朗普认为是中国促使伊朗同意停火",
@@ -387,6 +414,51 @@
           "time_info": "[00时08分 ~ 00时09分]"
         },
         {
+          "title": "外交部回应特朗普认为是中国促使伊朗同意停火，「中方一直积极致力于促和止战」，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2025238372327723742",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 14时14分]"
+        },
+        {
+          "title": "美媒披露特朗普发动伊朗战争内幕：“全凭直觉”，除万斯外无人反对",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32927020",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 14时14分]"
+        },
+        {
+          "title": "特朗普：所有美国舰船、飞机和军事人员将继续留在伊朗周围",
+          "url": "https://news.ifeng.com/c/8sBFKpB7gj3",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
+          "title": "特朗普：美媒披露的伊方10项停火条款是“假新闻”",
+          "url": "https://www.cls.cn/detail/2338839",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
           "title": "白宫证实特朗普已考虑退出北约",
           "url": "https://flash.jin10.com/detail/20260409023902796800",
           "source": "金十数据",
@@ -396,17 +468,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
-        },
-        {
-          "title": "停火首日即遇变数：特朗普“反复横跳”，不承认伊朗“10点计划”做基础",
-          "url": "https://wallstreetcn.com/articles/3769534",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时25分"
         },
         {
           "title": "市场消息：法国总统马克龙表示希望停火能得到尊重，包括在黎巴嫩。马克龙与伊朗总统佩泽希齐扬和美国总统特朗普进行了交谈。",
@@ -437,18 +498,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "吹嘘伊朗乞求停火，美防长被打脸：是特朗普先退了",
-          "url": "https://news.ifeng.com/c/8sALx5qaI3W",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
         },
@@ -492,9 +542,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
+        },
+        {
+          "title": "脆弱的停火：以色列依旧“搅屎棍”，特朗普还是“来回变”",
+          "url": "https://wallstreetcn.com/articles/3769537",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普对伊朗发出了非常严重的威胁。",
@@ -530,17 +591,6 @@
           "time_info": "07时31分"
         },
         {
-          "title": "外交部回应特朗普认为是中国促使伊朗同意停火，「中方一直积极致力于促和止战」，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2025238372327723742",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
           "title": "报道：特朗普未反对以色列继续对抗真主党",
           "url": "https://wallstreetcn.com/livenews/3084458",
           "source": "华尔街见闻-快讯",
@@ -569,18 +619,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "美媒披露特朗普发动伊朗战争内幕：“全凭直觉”，除万斯外无人反对",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32927020",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
         },
@@ -657,7 +696,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
         },
@@ -836,6 +875,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "特朗普：美军驻留伊朗，违约就“开火”，规模将前所未有",
+          "url": "https://flash.jin10.com/detail/20260409130825168800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
         }
       ]
     },
@@ -889,19 +939,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时30分 ~ 12时25分]"
-        },
-        {
-          "title": "美股三大指数大幅高开 纳指涨3.65%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%A4%A7%E5%B9%85%E9%AB%98%E5%BC%80+%E7%BA%B3%E6%8C%87%E6%B6%A83.65%25",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时59分 ~ 07时31分]"
+          "appearance_count": 5,
+          "time_info": "[07时30分 ~ 14时14分]"
         },
         {
           "title": "美股收盘：三大指数均涨超2% 芯片股全线爆发、能源巨头重挫",
@@ -913,8 +952,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时30分 ~ 12时25分]"
+          "appearance_count": 5,
+          "time_info": "[07时30分 ~ 14时14分]"
+        },
+        {
+          "title": "美股三大指数大幅高开 纳指涨3.65%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%A4%A7%E5%B9%85%E9%AB%98%E5%BC%80+%E7%BA%B3%E6%8C%87%E6%B6%A83.65%25",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时59分 ~ 07时31分]"
         },
         {
           "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创六年最大单日跌幅",
@@ -988,6 +1038,18 @@
           "time_info": "[06时31分 ~ 07时31分]"
         },
         {
+          "title": "又现内幕交易？美伊停火前 神秘资金精准“空原油、多美股”",
+          "url": "https://www.cls.cn/detail/2338764",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 14时14分]"
+        },
+        {
           "title": "金十图示：2026年04月08日（周三）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260409040605113800",
           "source": "金十数据",
@@ -997,17 +1059,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
-        },
-        {
-          "title": "又现内幕交易？美伊停火前 神秘资金精准“空原油、多美股”",
-          "url": "https://www.cls.cn/detail/2338764",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时25分"
         },
         {
           "title": "美股收盘：三大股指集体收涨 金龙指数大涨3%",
@@ -1089,6 +1140,115 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "“莫氏鸡煲”爆红出圈一鸡难求？ A股千亿巨头主动“送鸡”接流量",
+          "url": "https://www.cls.cn/detail/2338241",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 06时31分]"
+        },
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2026-04-09）",
+          "url": "https://flash.jin10.com/detail/20260409090413176800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
+          "title": "A股光纤概念再度活跃，特发信息午后涨停，长江通信此前封板，长飞光纤涨超7%，股价均创历史新高，汇源通信5连板，永鼎股份、光电股份、通光线缆等涨幅靠前。",
+          "url": "https://wallstreetcn.com/livenews/3084819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2460150",
+          "source": "抖音",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 14时14分]"
+        },
+        {
+          "title": "如何看待A股再现放量大涨",
+          "url": "https://www.toutiao.com/trending/7625981091035676708/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 00时09分]"
+        },
+        {
+          "title": "A股电网设备板块局部走低，新能泰山跌停，中利集团跌超9%，亿能电力、泽宇智能、东方电缆跟跌。",
+          "url": "https://flash.jin10.com/detail/20260409133509877800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
+          "title": "A股稀土永磁板块午后再度拉升，英洛华直线涨停，华宏科技此前涨停，九菱科技、华新环保、新莱福、中稀有色、中科磁业跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3084785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
+          "title": "A股午评：三大股指水下盘整 PCB、CPO等算力基建板块维持强势",
+          "url": "https://flash.jin10.com/detail/20260409113353760800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "A股煤化工板块短线拉升，诚志股份涨停，金牛化工、金煤科技、鲁西化工、宝丰能源、华谊集团等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260409130945861800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人民币",
       "match_count": 7,
       "titles": [
@@ -1144,24 +1304,25 @@
           "time_info": "[05时34分 ~ 06时31分]"
         },
         {
+          "title": "大涨超300点，人民币对美元即期汇率升至3年多新高",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32925603",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 14时14分]"
+        },
+        {
           "title": "离岸人民币同业拆息利率多数上行 隔夜拆息创一个月新高",
           "url": "https://flash.jin10.com/detail/20260409114232780800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "大涨超300点，人民币对美元即期汇率升至3年多新高",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32925603",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
         },
@@ -1179,72 +1340,8 @@
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "“莫氏鸡煲”爆红出圈一鸡难求？ A股千亿巨头主动“送鸡”接流量",
-          "url": "https://www.cls.cn/detail/2338241",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时08分 ~ 06时31分]"
-        },
-        {
-          "title": "金十数据整理：A股盘前市场要闻速递（2026-04-09）",
-          "url": "https://flash.jin10.com/detail/20260409090413176800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时10分"
-        },
-        {
-          "title": "如何看待A股再现放量大涨",
-          "url": "https://www.toutiao.com/trending/7625981091035676708/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 00时09分]"
-        },
-        {
-          "title": "A股",
-          "url": "https://www.douyin.com/hot/2460150",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "A股午评：三大股指水下盘整 PCB、CPO等算力基建板块维持强势",
-          "url": "https://flash.jin10.com/detail/20260409113353760800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "航天 航空",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "周三（4月8日），美股行业ETF普遍收涨，半导体ETF涨5.76%，全球航空业ETF涨5.65%，全球科技股指数ETF、科技行业ETF、区域银行ETF、银行业ETF、可选消费ETF、金融业ETF、网络股指数ETF至少涨2.46%，能源业ETF则收跌3.51%。",
@@ -1268,6 +1365,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "国际航协：航油价格翻倍航空业承压 全球多家航司削减航班",
+          "url": "https://wallstreetcn.com/livenews/3084795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
+          "title": "法国航空：暂停迪拜、利雅得、特拉维夫、贝鲁特航线直至5月3日（含当日）。",
+          "url": "https://wallstreetcn.com/livenews/3084793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
         },
         {
           "title": "巴西发布航空燃油免税措施。",
@@ -1406,7 +1525,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
         }
