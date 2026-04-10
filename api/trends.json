@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T15:02:16.332028+08:00",
-  "total_titles_processed": 1225,
+  "generated_at": "2026-04-10T16:16:33.071569+08:00",
+  "total_titles_processed": 1359,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 59,
       "titles": [
         {
           "title": "脆弱的停火：以色列依旧“搅屎棍”，特朗普还是“来回变”",
@@ -72,6 +72,19 @@
           "time_info": "[00时12分 ~ 09时26分]"
         },
         {
+          "title": "美伊“火药味”又浓了？关于霍尔木兹，特朗普和伊朗最高领袖分别说……",
+          "url": "https://www.cls.cn/detail/2339900",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时25分 ~ 16时16分]"
+        },
+        {
           "title": "特朗普：美媒披露的伊方10项停火条款是“假新闻”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32932623",
           "source": "澎湃新闻",
@@ -98,18 +111,6 @@
           "time_info": "[00时12分 ~ 09时26分]"
         },
         {
-          "title": "美伊“火药味”又浓了？关于霍尔木兹，特朗普和伊朗最高领袖分别说……",
-          "url": "https://www.cls.cn/detail/2339900",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时25分 ~ 15时02分]"
-        },
-        {
           "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
           "url": "https://wallstreetcn.com/articles/3769619",
           "source": "华尔街见闻",
@@ -119,8 +120,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时25分 ~ 15时02分]"
+          "appearance_count": 6,
+          "time_info": "[09时25分 ~ 16时16分]"
+        },
+        {
+          "title": "伊朗提出和谈前提：黎巴嫩实现停火！特朗普：已要求以色列“低调”",
+          "url": "https://www.cls.cn/detail/2339892",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时25分 ~ 16时16分]"
         },
         {
           "title": "伊朗战争丨特朗普要求以色列减少打击，以总理：不会",
@@ -180,18 +194,6 @@
           "time_info": "05时39分"
         },
         {
-          "title": "伊朗提出和谈前提：黎巴嫩实现停火！特朗普：已要求以色列“低调”",
-          "url": "https://www.cls.cn/detail/2339892",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时25分 ~ 15时02分]"
-        },
-        {
           "title": "特朗普警告伊朗不要收霍尔木兹海峡通行费 | 环球市场",
           "url": "https://www.cls.cn/detail/2339829",
           "source": "财联社热门",
@@ -241,6 +243,17 @@
           "time_info": "[04时43分 ~ 05时39分]"
         },
         {
+          "title": "拜登儿子约战特朗普儿子：来场笼斗吧",
+          "url": "https://news.ifeng.com/c/8sCrezhn1o8",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时38分 ~ 16时16分]"
+        },
+        {
           "title": "唐宁街：英国首相斯塔默与美国总统特朗普通电话，讨论了关于开放霍尔木兹海峡的计划。",
           "url": "https://wallstreetcn.com/livenews/3085325",
           "source": "华尔街见闻-快讯",
@@ -264,15 +277,16 @@
           "time_info": "[02时47分 ~ 04时43分]"
         },
         {
-          "title": "拜登儿子约战特朗普儿子：来场笼斗吧",
-          "url": "https://news.ifeng.com/c/8sCrezhn1o8",
-          "source": "凤凰网",
+          "title": "美媒称特朗普要求以色列总理内塔尼亚胡减少对黎巴嫩的打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32936449",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            19,
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时38分 ~ 15时02分]"
+          "time_info": "[15时01分 ~ 16时16分]"
         },
         {
           "title": "英国首相府：斯塔默与美国总统特朗普讨论了制定切实可行方案以尽快恢复航运的必要性，并同意不久后再次通话。",
@@ -395,15 +409,15 @@
           "time_info": "[05时39分 ~ 06时31分]"
         },
         {
-          "title": "美媒称特朗普要求以色列总理内塔尼亚胡减少对黎巴嫩的打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32936449",
-          "source": "澎湃新闻",
+          "title": "特朗普，对鲤鱼宣战？",
+          "url": "https://news.ifeng.com/c/8sD4lNUQ8Uf",
+          "source": "凤凰网",
           "ranks": [
-            19
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时01分 ~ 15时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "特朗普警告伊朗：勿对霍尔木兹海峡船只收费",
@@ -684,7 +698,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股收盘：标普纳指连升七天 半导体股持续走强 闪迪涨超9%",
@@ -844,6 +858,28 @@
           "time_info": "[05时39分 ~ 06时31分]"
         },
         {
+          "title": "美股盘前，台积电涨1.37%，公司Q1营收突破万亿大关，3月单月同比激增45%。Lumentum盘前涨超4%，得益于AI需求，公司预计2028年订单将迅速排满。",
+          "url": "https://wallstreetcn.com/livenews/3085705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "停火也拦不住美股散户卖出",
+          "url": "https://wallstreetcn.com/articles/3769606",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
           "title": "美股开盘：蔚来涨超3%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E8%94%9A%E6%9D%A5%E6%B6%A8%E8%B6%853%25",
           "source": "百度热搜",
@@ -920,7 +956,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -931,7 +967,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -942,7 +978,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -953,9 +989,97 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "人民币兑美元中间价报6.8654，下调5点；上一交易日中间价6.8649，上一交易日官方收盘价6.8410，上日夜盘报收6.8305。",
+          "url": "https://wallstreetcn.com/livenews/3085429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "上期所原油期货2605合约夜盘收涨0.25%，报632元人民币/桶。 沪金夜盘收涨0.60%，沪银收涨1.37%。",
+          "url": "https://wallstreetcn.com/livenews/3085286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时47分 ~ 03时58分]"
+        },
+        {
+          "title": "用人民币感受日本物价",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%A8%E4%BA%BA%E6%B0%91%E5%B8%81%E6%84%9F%E5%8F%97%E6%97%A5%E6%9C%AC%E7%89%A9%E4%BB%B7&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            23,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时38分 ~ 15时02分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8305元，较周三夜盘收盘涨55点。成交量493.02亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3085293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时58分 ~ 04时43分]"
+        },
+        {
+          "title": "周四（4月9日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8281元，较周三纽约尾盘涨49点，日内整体交投于6.8417-6.8245元区间。",
+          "url": "https://wallstreetcn.com/livenews/3085339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时31分]"
+        },
+        {
+          "title": "南侨食品：公司2026年3月合并营业收入为人民币2.72亿元，同比减少1.34%。",
+          "url": "https://flash.jin10.com/detail/20260410153542364800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "金砖国家新开发银行首次在华发行双向回拨机制70亿元人民币熊猫债券",
+          "url": "https://wallstreetcn.com/livenews/3085255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时53分"
         }
       ]
     },
@@ -1046,79 +1170,75 @@
       ]
     },
     {
-      "keyword_group": "人民币",
+      "keyword_group": "航天 航空",
       "match_count": 6,
       "titles": [
         {
-          "title": "人民币兑美元中间价报6.8654，下调5点；上一交易日中间价6.8649，上一交易日官方收盘价6.8410，上日夜盘报收6.8305。",
-          "url": "https://wallstreetcn.com/livenews/3085429",
+          "title": "周四（4月9日），美股行业ETF多数收涨，半导体ETF涨1.75%，报430.31美元，突破2月25日所创收盘历史最高位426.16美元。 可选消费ETF涨1.73%，科技行业ETF涨0.27%，全球航空业ETF、网络股指数ETF至多跌0.64%，能源业ETF跌1.24%。",
+          "url": "https://wallstreetcn.com/livenews/3085322",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时39分]"
+        },
+        {
+          "title": "市场消息：沙特航空将于4月11日恢复迪拜、阿布扎比航班。",
+          "url": "https://flash.jin10.com/detail/20260410122001891800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时26分"
+          "time_info": "12时38分"
         },
         {
-          "title": "上期所原油期货2605合约夜盘收涨0.25%，报632元人民币/桶。 沪金夜盘收涨0.60%，沪银收涨1.37%。",
-          "url": "https://wallstreetcn.com/livenews/3085286",
+          "title": "沙特航空将于4月11日恢复迪拜、阿布扎比航班。",
+          "url": "https://wallstreetcn.com/livenews/3085569",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
+          "title": "嫦娥七号探测器已安全运抵中国文昌航天发射场 计划今年下半年择机发射",
+          "url": "https://wallstreetcn.com/livenews/3085702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "据英国金融时报：加拿大正寻求加入由英国、意大利和日本联合开展的“全球作战航空计划”。",
+          "url": "https://flash.jin10.com/detail/20260410120401330800",
+          "source": "金十数据",
+          "ranks": [
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时47分 ~ 03时58分]"
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
-          "title": "用人民币感受日本物价",
-          "url": "https://s.weibo.com/weibo?q=%E7%94%A8%E4%BA%BA%E6%B0%91%E5%B8%81%E6%84%9F%E5%8F%97%E6%97%A5%E6%9C%AC%E7%89%A9%E4%BB%B7&t=31&band_rank=6&Refer=top",
-          "source": "微博",
+          "title": "阿拉斯加航空集团：上调北美地区阿拉斯加航空公司和夏威夷航空公司的航班托运行李费。首件托运行李的费用将上调5美元，第二件托运行李的费用将上调10美元。",
+          "url": "https://flash.jin10.com/detail/20260410035652556800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            23,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时38分 ~ 15时02分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8305元，较周三夜盘收盘涨55点。成交量493.02亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3085293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时58分 ~ 04时43分]"
-        },
-        {
-          "title": "周四（4月9日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8281元，较周三纽约尾盘涨49点，日内整体交投于6.8417-6.8245元区间。",
-          "url": "https://wallstreetcn.com/livenews/3085339",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时39分 ~ 06时31分]"
-        },
-        {
-          "title": "金砖国家新开发银行首次在华发行双向回拨机制70亿元人民币熊猫债券",
-          "url": "https://wallstreetcn.com/livenews/3085255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时53分"
+          "time_info": "04时43分"
         }
       ]
     },
@@ -1193,68 +1313,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "航天 航空",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "周四（4月9日），美股行业ETF多数收涨，半导体ETF涨1.75%，报430.31美元，突破2月25日所创收盘历史最高位426.16美元。 可选消费ETF涨1.73%，科技行业ETF涨0.27%，全球航空业ETF、网络股指数ETF至多跌0.64%，能源业ETF跌1.24%。",
-          "url": "https://wallstreetcn.com/livenews/3085322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时43分 ~ 05时39分]"
-        },
-        {
-          "title": "市场消息：沙特航空将于4月11日恢复迪拜、阿布扎比航班。",
-          "url": "https://flash.jin10.com/detail/20260410122001891800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时38分"
-        },
-        {
-          "title": "沙特航空将于4月11日恢复迪拜、阿布扎比航班。",
-          "url": "https://wallstreetcn.com/livenews/3085569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时38分"
-        },
-        {
-          "title": "据英国金融时报：加拿大正寻求加入由英国、意大利和日本联合开展的“全球作战航空计划”。",
-          "url": "https://flash.jin10.com/detail/20260410120401330800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时38分"
-        },
-        {
-          "title": "阿拉斯加航空集团：上调北美地区阿拉斯加航空公司和夏威夷航空公司的航班托运行李费。首件托运行李的费用将上调5美元，第二件托运行李的费用将上调10美元。",
-          "url": "https://flash.jin10.com/detail/20260410035652556800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时43分"
         }
       ]
     },
