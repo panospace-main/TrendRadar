@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T03:29:05.043480+08:00",
-  "total_titles_processed": 437,
+  "generated_at": "2026-04-12T04:21:29.684068+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 03时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 04时21分]"
         },
         {
           "title": "美伊谈判倒计时！特朗普：若谈不拢将加大打击 霍尔木兹将很快重开",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 03时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 04时21分]"
         },
         {
           "title": "仅3国掏钱，170亿就凑了个零头，特朗普的“和平委员会”要黄？",
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 03时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 04时21分]"
         },
         {
           "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
@@ -48,8 +48,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 03时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 04时21分]"
         },
         {
           "title": "一再遭特朗普嘲讽 英首相：我受够了",
@@ -60,8 +60,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 03时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 04时21分]"
         },
         {
           "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
@@ -71,8 +71,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 03时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 04时21分]"
         },
         {
           "title": "伊朗战争丨特朗普：若谈判不顺，美国准备好“重启”",
@@ -86,6 +86,18 @@
           "time_info": "[00时24分 ~ 00时25分]"
         },
         {
+          "title": "以色列总理内塔尼亚胡：正如特朗普所说，必须清除伊朗的浓缩铀，要么通过协议，要么通过其它方式。",
+          "url": "https://flash.jin10.com/detail/20260412022331554800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 04时21分]"
+        },
+        {
           "title": "特朗普：若与伊谈判进展不顺 美国已准备好“重启”",
           "url": "https://wallstreetcn.com/livenews/3086245",
           "source": "华尔街见闻-快讯",
@@ -96,17 +108,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 01时24分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：正如特朗普所说，必须清除伊朗的浓缩铀，要么通过协议，要么通过其它方式。",
-          "url": "https://flash.jin10.com/detail/20260412022331554800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时29分"
         },
         {
           "title": "特朗普再次发文抨击媒体",
@@ -152,22 +153,24 @@
           "url": "https://wallstreetcn.com/livenews/3086279",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 04时21分]"
         },
         {
           "title": "俄称乌曾企图袭击俄航天发射场",
           "url": "https://flash.jin10.com/detail/20260412023320175800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 04时21分]"
         },
         {
           "title": "印度将柴油出口税从每升21.5卢比上调至每升55.5卢比； 将航空煤油（ATF）出口税从每升29.5卢比上调至每升42卢比； 汽油出口税将继续保持为零。",
@@ -206,8 +209,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 03时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 04时21分]"
         },
         {
           "title": "A股一季报行情热火朝天 11家上市公司净利最高同比预增超500%",
@@ -217,8 +220,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 03时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 04时21分]"
         }
       ]
     },
@@ -234,8 +237,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 03时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 04时21分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -247,8 +250,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 03时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 04时21分]"
         }
       ]
     },
@@ -265,8 +268,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 03时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 04时21分]"
         },
         {
           "title": "李大霄解读美股单周表现",
@@ -274,11 +277,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 03时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 04时21分]"
         }
       ]
     }
