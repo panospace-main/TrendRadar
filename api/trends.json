@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T15:58:15.950511+08:00",
-  "total_titles_processed": 992,
+  "generated_at": "2026-04-12T16:40:39.389019+08:00",
+  "total_titles_processed": 1045,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时24分 ~ 15时58分]"
+          "appearance_count": 20,
+          "time_info": "[00时24分 ~ 16时40分]"
         },
         {
           "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
@@ -30,6 +30,18 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时24分 ~ 09时24分]"
+        },
+        {
+          "title": "伊美14小时谈判“无果”但12日继续，伊朗拒绝美方“共管霍尔木兹海峡”，特朗普称“不在意是否达成协议”",
+          "url": "https://wallstreetcn.com/articles/3769751",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时38分 ~ 16时40分]"
         },
         {
           "title": "仅3国掏钱，170亿就凑了个零头，特朗普的“和平委员会”要黄？",
@@ -80,18 +92,6 @@
           "time_info": "[00时24分 ~ 05时23分]"
         },
         {
-          "title": "伊美14小时谈判“无果”但12日继续，伊朗拒绝美方“共管霍尔木兹海峡”，特朗普称“不在意是否达成协议”",
-          "url": "https://wallstreetcn.com/articles/3769751",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时38分 ~ 15时58分]"
-        },
-        {
           "title": "伊朗战争丨特朗普：若谈判不顺，美国准备好“重启”",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -103,6 +103,17 @@
           "time_info": "[00时24分 ~ 00时25分]"
         },
         {
+          "title": "特朗普、佩泽希齐扬、内塔尼亚胡，同日表态",
+          "url": "https://news.ifeng.com/c/8sG0csY9qWa",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时38分 ~ 16时40分]"
+        },
+        {
           "title": "【特朗普：并不在意美伊会谈能否达成协议】美国总统特朗普11日在白宫接受采访时说，美国与伊朗在伊斯兰堡的谈判有可能达成协议，也有可能达不成协议，但对他来说，“没什么区别”。（央视）",
           "url": "https://wallstreetcn.com/livenews/3086291",
           "source": "华尔街见闻-快讯",
@@ -112,17 +123,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
-        },
-        {
-          "title": "特朗普、佩泽希齐扬、内塔尼亚胡，同日表态",
-          "url": "https://news.ifeng.com/c/8sG0csY9qWa",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时38分 ~ 15时58分]"
         },
         {
           "title": "特朗普：是否与伊朗达成协议对我来说无关紧要",
@@ -158,11 +158,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 15时58分]"
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 16时40分]"
         },
         {
           "title": "美国总统特朗普：（霍尔木兹海峡）水里可能有几枚水雷。",
@@ -398,11 +399,24 @@
           "ranks": [
             9,
             12,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时39分 ~ 15时58分]"
+          "appearance_count": 4,
+          "time_info": "[12时39分 ~ 16时40分]"
+        },
+        {
+          "title": "国内最大！我国复用航天器关键部件研制成功",
+          "url": "https://www.cls.cn/detail/2341426",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时58分 ~ 16时40分]"
         },
         {
           "title": "印度将柴油出口税从每升21.5卢比上调至每升55.5卢比； 将航空煤油（ATF）出口税从每升29.5卢比上调至每升42卢比； 汽油出口税将继续保持为零。",
@@ -423,18 +437,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "国内最大！我国复用航天器关键部件研制成功",
-          "url": "https://www.cls.cn/detail/2341426",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
         },
@@ -453,7 +456,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "锂电池龙头创历史新高 锂矿A股名单及相关产能一览",
@@ -464,8 +467,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时24分 ~ 15时58分]"
+          "appearance_count": 20,
+          "time_info": "[00时24分 ~ 16时40分]"
         },
         {
           "title": "A股一季报行情热火朝天 11家上市公司净利最高同比预增超500%",
@@ -477,8 +480,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时24分 ~ 15时58分]"
+          "appearance_count": 20,
+          "time_info": "[00时24分 ~ 16时40分]"
         },
         {
           "title": "A股全面适用盘后固定价格交易",
@@ -487,15 +490,37 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
+        },
+        {
+          "title": "A股4000点时刻如何跟上投资节奏",
+          "url": "https://www.toutiao.com/trending/7627050049071726601/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "A股交易重要调整来了",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%BA%A4%E6%98%93%E9%87%8D%E8%A6%81%E8%B0%83%E6%95%B4%E6%9D%A5%E4%BA%86%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
@@ -507,8 +532,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时24分 ~ 15时58分]"
+          "appearance_count": 20,
+          "time_info": "[00时24分 ~ 16时40分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -523,12 +548,23 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时24分 ~ 09时24分]"
+        },
+        {
+          "title": "OpenAI CEO住所遭袭",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%20CEO%E4%BD%8F%E6%89%80%E9%81%AD%E8%A2%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
@@ -558,8 +594,36 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时24分 ~ 15时58分]"
+          "appearance_count": 20,
+          "time_info": "[00时24分 ~ 16时40分]"
+        },
+        {
+          "title": "环球下周看点：中东两周停火暂稳市场 美股财报季检验盈利韧性",
+          "url": "https://www.cls.cn/detail/2341358",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "农业 机械",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "机械硬盘现在这么贵是最后的疯狂吗？",
+          "url": "https://www.zhihu.com/question/1967922784308011028",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         }
       ]
     }
