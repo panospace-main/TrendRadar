@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T17:37:12.650805+08:00",
-  "total_titles_processed": 1104,
+  "generated_at": "2026-04-12T18:29:56.553432+08:00",
+  "total_titles_processed": 1159,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "美伊谈判倒计时！特朗普：若谈不拢将加大打击 霍尔木兹将很快重开",
@@ -20,6 +20,18 @@
           "time_info": "[00时24分 ~ 17时37分]"
         },
         {
+          "title": "伊美14小时谈判“无果”但12日继续，伊朗拒绝美方“共管霍尔木兹海峡”，特朗普称“不在意是否达成协议”",
+          "url": "https://wallstreetcn.com/articles/3769751",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时38分 ~ 18时29分]"
+        },
+        {
           "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
           "url": "https://wallstreetcn.com/articles/3769722",
           "source": "华尔街见闻",
@@ -30,18 +42,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时24分 ~ 09时24分]"
-        },
-        {
-          "title": "伊美14小时谈判“无果”但12日继续，伊朗拒绝美方“共管霍尔木兹海峡”，特朗普称“不在意是否达成协议”",
-          "url": "https://wallstreetcn.com/articles/3769751",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时38分 ~ 17时37分]"
         },
         {
           "title": "仅3国掏钱，170亿就凑了个零头，特朗普的“和平委员会”要黄？",
@@ -125,6 +125,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "伊朗回应特朗普：封锁伊朗无法让霍尔木兹海峡“开放”",
+          "url": "https://wallstreetcn.com/livenews/3086370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "特朗普威胁通过控制霍尔木兹海峡打击伊朗经济",
           "url": "https://wallstreetcn.com/livenews/3086335",
           "source": "华尔街见闻-快讯",
@@ -132,11 +143,12 @@
             3,
             10,
             14,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时19分 ~ 17时37分]"
+          "appearance_count": 5,
+          "time_info": "[14时19分 ~ 18时29分]"
         },
         {
           "title": "特朗普：是否与伊朗达成协议对我来说无关紧要",
@@ -207,6 +219,17 @@
           "time_info": "[05时23分 ~ 07时23分]"
         },
         {
+          "title": "英国官员：特朗普的言论让英美关系紧张",
+          "url": "https://news.ifeng.com/c/8sGY3tCnh0U",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 18时29分]"
+        },
+        {
           "title": "美国总统特朗普：（伊朗）他们也许会达成协议，也许不会。",
           "url": "https://flash.jin10.com/detail/20260412045150895800",
           "source": "金十数据",
@@ -231,17 +254,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时23分 ~ 07时23分]"
-        },
-        {
-          "title": "英国官员：特朗普的言论让英美关系紧张",
-          "url": "https://news.ifeng.com/c/8sGY3tCnh0U",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 17时37分]"
         },
         {
           "title": "美国法院再审特朗普关税，10%全球税率面临合法性考验",
@@ -312,6 +324,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        },
+        {
+          "title": "特朗普威胁：如果伊朗拒绝妥协，将控制霍尔木兹海峡打击伊朗经济",
+          "url": "https://wallstreetcn.com/articles/3769762",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "特朗普转发威胁伊朗的报道链接",
@@ -391,6 +414,22 @@
           "time_info": "[03时29分 ~ 09时24分]"
         },
         {
+          "title": "我国复用航天器关键部件研制成功",
+          "url": "https://wallstreetcn.com/livenews/3086326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            12,
+            19,
+            23,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时39分 ~ 18时29分]"
+        },
+        {
           "title": "俄称乌曾企图袭击俄航天发射场",
           "url": "https://flash.jin10.com/detail/20260412023320175800",
           "source": "金十数据",
@@ -405,32 +444,18 @@
           "time_info": "[03时29分 ~ 06时21分]"
         },
         {
-          "title": "我国复用航天器关键部件研制成功",
-          "url": "https://wallstreetcn.com/livenews/3086326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            12,
-            19,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时39分 ~ 17时37分]"
-        },
-        {
           "title": "国内最大！我国复用航天器关键部件研制成功",
           "url": "https://www.cls.cn/detail/2341426",
           "source": "财联社热门",
           "ranks": [
             12,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时58分 ~ 17时37分]"
+          "appearance_count": 5,
+          "time_info": "[15时58分 ~ 18时29分]"
         },
         {
           "title": "印度将柴油出口税从每升21.5卢比上调至每升55.5卢比； 将航空煤油（ATF）出口税从每升29.5卢比上调至每升42卢比； 汽油出口税将继续保持为零。",
@@ -481,8 +506,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时24分 ~ 17时37分]"
+          "appearance_count": 23,
+          "time_info": "[00时24分 ~ 18时29分]"
         },
         {
           "title": "A股一季报行情热火朝天 11家上市公司净利最高同比预增超500%",
@@ -494,19 +519,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时24分 ~ 17时37分]"
+          "appearance_count": 23,
+          "time_info": "[00时24分 ~ 18时29分]"
         },
         {
           "title": "银河证券：油价高位运行、政策持续发力带动下 关注A股三条配置机会",
           "url": "https://flash.jin10.com/detail/20260412171812123800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 18时29分]"
         },
         {
           "title": "A股交易重要调整来了",
@@ -517,8 +543,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时40分 ~ 17时37分]"
+          "appearance_count": 4,
+          "time_info": "[16时40分 ~ 18时29分]"
         },
         {
           "title": "A股4000点时刻如何跟上投资节奏",
@@ -559,8 +585,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时24分 ~ 17时37分]"
+          "appearance_count": 23,
+          "time_info": "[00时24分 ~ 18时29分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -621,8 +647,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时24分 ~ 17时37分]"
+          "appearance_count": 23,
+          "time_info": "[00时24分 ~ 18时29分]"
         },
         {
           "title": "环球下周看点：中东两周停火暂稳市场 美股财报季检验盈利韧性",
@@ -646,11 +672,12 @@
           "url": "https://www.zhihu.com/question/1967922784308011028",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时40分 ~ 17时37分]"
+          "appearance_count": 4,
+          "time_info": "[16时40分 ~ 18时29分]"
         }
       ]
     }
