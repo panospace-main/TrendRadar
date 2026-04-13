@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T17:26:49.789990+08:00",
-  "total_titles_processed": 1215,
+  "generated_at": "2026-04-13T19:09:27.509811+08:00",
+  "total_titles_processed": 1348,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 68,
       "titles": [
         {
           "title": "伊美14小时谈判“无果”但12日继续，伊朗拒绝美方“共管霍尔木兹海峡”，特朗普称“不在意是否达成协议”",
@@ -58,8 +58,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 17时26分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 19时09分]"
         },
         {
           "title": "特朗普威胁：如果伊朗拒绝妥协，将控制霍尔木兹海峡打击伊朗经济",
@@ -72,6 +72,32 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时27分 ~ 07时25分]"
+        },
+        {
+          "title": "特朗普：今晚10点封锁伊朗，大卖美国石油",
+          "url": "https://www.cls.cn/detail/2341979",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 19时09分]"
+        },
+        {
+          "title": "停火岌岌可危？特朗普被曝考虑恢复对伊朗有限军事打击",
+          "url": "https://www.cls.cn/detail/2341889",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 19时09分]"
         },
         {
           "title": "美伊对峙再升级！特朗普罕见承认：11月前油价或维持高位",
@@ -96,6 +122,43 @@
           "time_info": "[12时50分 ~ 15时09分]"
         },
         {
+          "title": "凤凰女记者：面对特朗普封锁海峡威胁，伊朗民间不以为然",
+          "url": "https://news.ifeng.com/c/8sI4OzcFPQr",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 19时09分]"
+        },
+        {
+          "title": "贝森特告知特朗普：如果战争持续8-12周，美国面临油价上涨风险，亚欧将受影响最大",
+          "url": "https://wallstreetcn.com/articles/3769785",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 19时09分]"
+        },
+        {
+          "title": "美伊谈判刚不欢而散，特朗普就下令海军封锁霍尔木兹海峡，有何意图？要效仿委内瑞拉模式吗？会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2026779173369246174",
+          "source": "知乎",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时26分 ~ 19时09分]"
+        },
+        {
           "title": "特朗普：我觉得教皇干得不咋地，我猜他喜欢犯罪",
           "url": "https://news.ifeng.com/c/8sHqM5JFO7f",
           "source": "凤凰网",
@@ -105,19 +168,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时50分 ~ 15时09分]"
-        },
-        {
-          "title": "特朗普：今晚10点封锁伊朗，大卖美国石油",
-          "url": "https://www.cls.cn/detail/2341979",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时50分 ~ 17时26分]"
         },
         {
           "title": "特朗普：将调集更多扫雷艇前往霍尔木兹海峡",
@@ -134,17 +184,15 @@
           "time_info": "[02时33分 ~ 06时24分]"
         },
         {
-          "title": "停火岌岌可危？特朗普被曝考虑恢复对伊朗有限军事打击",
-          "url": "https://www.cls.cn/detail/2341889",
-          "source": "财联社热门",
+          "title": "伊朗战争丨教皇回击特朗普：我并不惧怕",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            5,
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时50分 ~ 17时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         },
         {
           "title": "谈判破裂后，特朗普考虑对伊朗进行有限打击。（华尔街日报）",
@@ -171,26 +219,16 @@
           "time_info": "[09时26分 ~ 15时09分]"
         },
         {
-          "title": "美伊谈判刚不欢而散，特朗普就下令海军封锁霍尔木兹海峡，有何意图？要效仿委内瑞拉模式吗？会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2026779173369246174",
-          "source": "知乎",
+          "title": "美国总统特朗普：封锁伊朗后美国将能大卖石油",
+          "url": "https://www.cls.cn/detail/2342019",
+          "source": "财联社热门",
           "ranks": [
-            6
+            9,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时26分 ~ 17时26分]"
-        },
-        {
-          "title": "凤凰女记者：面对特朗普封锁海峡威胁，伊朗民间不以为然",
-          "url": "https://news.ifeng.com/c/8sI4OzcFPQr",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时26分"
+          "appearance_count": 3,
+          "time_info": "[15时09分 ~ 19时09分]"
         },
         {
           "title": "美国民主党参议员马克·凯利发帖谴责特朗普公开攻击罗马教皇，称特朗普的做法“令人憎恶”。",
@@ -257,19 +295,6 @@
           "time_info": "[02时33分 ~ 05时25分]"
         },
         {
-          "title": "贝森特告知特朗普：如果战争持续8-12周，美国面临油价上涨风险，亚欧将受影响最大",
-          "url": "https://wallstreetcn.com/articles/3769785",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时50分 ~ 17时26分]"
-        },
-        {
           "title": "美媒：特朗普考虑恢复对伊朗的有限军事打击",
           "url": "https://news.ifeng.com/c/8sHT0I0yzy3",
           "source": "凤凰网",
@@ -280,18 +305,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时26分 ~ 15时09分]"
-        },
-        {
-          "title": "美国总统特朗普：封锁伊朗后美国将能大卖石油",
-          "url": "https://www.cls.cn/detail/2342019",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时09分 ~ 17时26分]"
         },
         {
           "title": "伊朗称特朗普威胁封锁霍尔木兹荒谬",
@@ -358,6 +371,40 @@
           "time_info": "[09时26分 ~ 12时50分]"
         },
         {
+          "title": "特朗普重申将封锁进出伊朗港口船只，中方回应",
+          "url": "https://news.ifeng.com/c/8sI7b9TiMxd",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 19时09分]"
+        },
+        {
+          "title": "美媒鼓噪：特朗普让美国利益遭四连击，中俄获利",
+          "url": "https://news.ifeng.com/c/8sI5EiH0EGq",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 19时09分]"
+        },
+        {
+          "title": "特朗普“封锁霍尔木兹”，高盛：股市迎来“最终决战”",
+          "url": "https://wallstreetcn.com/articles/3769786",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 19时09分]"
+        },
+        {
           "title": "伊朗议会国家安全与外交政策委员会主席：美国总统唐纳德·特朗普关于霍尔木兹海峡的要求（对霍尔木兹海峡进行海上封锁））永远不会实现。 他说的是他的愿望，那是些从未实现过、也永远不会实现的要求。",
           "url": "https://flash.jin10.com/detail/20260412234154471800",
           "source": "金十数据",
@@ -368,6 +415,51 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 01时27分]"
+        },
+        {
+          "title": "特朗普威胁若中国向伊朗供武就加征关税，外交部：关税战没有赢家",
+          "url": "https://www.cls.cn/detail/2342208",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 19时09分]"
+        },
+        {
+          "title": "中方回应特朗普威胁加征关税",
+          "url": "https://www.toutiao.com/trending/7628143442782064147/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 19时09分]"
+        },
+        {
+          "title": "中方回应“特朗普称将封锁伊朗港口”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%B0%81%E9%94%81%E4%BC%8A%E6%9C%97%E6%B8%AF%E5%8F%A3%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 19时09分]"
+        },
+        {
+          "title": "中方回应特朗普重申将封锁伊朗港口",
+          "url": "https://www.toutiao.com/trending/7628108023306718761/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 19时09分]"
         },
         {
           "title": "特朗普称美国不允许伊朗通过出售石油赚钱",
@@ -418,15 +510,15 @@
           "time_info": "[00时27分 ~ 01时27分]"
         },
         {
-          "title": "特朗普重申将封锁进出伊朗港口船只，中方回应",
-          "url": "https://news.ifeng.com/c/8sI7b9TiMxd",
-          "source": "凤凰网",
+          "title": "中方回应特朗普威胁加征关税",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E",
+          "source": "百度热搜",
           "ranks": [
-            6
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 19时09分]"
         },
         {
           "title": "特朗普重申对北约非常失望。",
@@ -440,15 +532,15 @@
           "time_info": "09时27分"
         },
         {
-          "title": "美媒鼓噪：特朗普让美国利益遭四连击，中俄获利",
-          "url": "https://news.ifeng.com/c/8sI5EiH0EGq",
-          "source": "凤凰网",
+          "title": "特朗普宣布：今晚10点就封锁！霍尔木兹海峡再次完全中断，两艘船紧急掉头",
+          "url": "https://wallstreetcn.com/articles/3769804",
+          "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时26分"
+          "time_info": "19时09分"
         },
         {
           "title": "市场消息：特朗普称伊朗正处于困境，处境非常艰难。",
@@ -495,26 +587,26 @@
           "time_info": "09时27分"
         },
         {
-          "title": "特朗普“封锁霍尔木兹”，高盛：股市迎来“最终决战”",
-          "url": "https://wallstreetcn.com/articles/3769786",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
-          "title": "特朗普威胁若中国向伊朗供武就加征关税，外交部：关税战没有赢家",
-          "url": "https://www.cls.cn/detail/2342208",
+          "title": "特朗普重申将封锁进出伊朗港口船只 中方回应",
+          "url": "https://www.cls.cn/detail/2342207",
           "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时26分"
+          "time_info": "19时09分"
+        },
+        {
+          "title": "美国民主党人欢呼：今日是欧尔班，11月是特朗普",
+          "url": "https://news.ifeng.com/c/8sIFIKmiRLn",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         },
         {
           "title": "市场消息：特朗普表示，伊朗将在美国封锁计划下被禁止出售石油。",
@@ -526,6 +618,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "特朗普“封锁令”倒计时！霍尔木兹航运再陷中断 150美元油价警报拉响",
+          "url": "https://www.cls.cn/detail/2342301",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         },
         {
           "title": "特朗普放狠话全面封锁霍尔木兹，美军却说只堵伊朗港口，油价暴拉10%",
@@ -550,17 +653,6 @@
           "time_info": "12时50分"
         },
         {
-          "title": "中方回应特朗普威胁加征关税",
-          "url": "https://www.toutiao.com/trending/7628143442782064147/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
           "title": "市场消息：美国总统特朗普称梵蒂冈教皇利奥在犯罪和外交政策方面很软弱。",
           "url": "https://flash.jin10.com/detail/20260413090547316800",
           "source": "金十数据",
@@ -570,28 +662,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
-        },
-        {
-          "title": "中方回应“特朗普称将封锁伊朗港口”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%B0%81%E9%94%81%E4%BC%8A%E6%9C%97%E6%B8%AF%E5%8F%A3%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
-          "title": "中方回应特朗普重申将封锁伊朗港口",
-          "url": "https://www.toutiao.com/trending/7628108023306718761/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时26分"
         },
         {
           "title": "特朗普说海峡全封 美军说只封伊朗港口船只",
@@ -726,17 +796,6 @@
           "time_info": "00时27分"
         },
         {
-          "title": "中方回应特朗普威胁加征关税",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
           "title": "美国总统特朗普：一旦局势平息，石油和天然气的价格最终会降低。",
           "url": "https://flash.jin10.com/detail/20260412222741611800",
           "source": "金十数据",
@@ -751,7 +810,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "锂电池龙头创历史新高 锂矿A股名单及相关产能一览",
@@ -789,6 +848,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[06时24分 ~ 12时50分]"
+        },
+        {
+          "title": "首都在线：向特定对象发行A股股票募集资金不超过15.87亿元",
+          "url": "https://flash.jin10.com/detail/20260413185128694800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         },
         {
           "title": "龙头3连板 本周披露并购重组进展的A股名单一览",
@@ -852,7 +922,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         }
@@ -891,7 +961,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -902,7 +972,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -924,7 +994,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -935,7 +1005,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -946,7 +1016,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -957,7 +1027,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         }
@@ -965,7 +1035,7 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "中国航天不断刷新宇宙级精彩",
@@ -1008,9 +1078,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
+        },
+        {
+          "title": "伊比利亚航空：从6月起，我们将暂时暂停从马德里飞往古巴的直飞航班，因为该地区的局势导致需求大幅下降。",
+          "url": "https://flash.jin10.com/detail/20260413184417330800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         },
         {
           "title": "四川省“十五五”规划纲要：在航空发动机、能源装备、工业母机等领域，加快突破一批创新性、标志性装备",
@@ -1045,6 +1126,18 @@
           "time_info": "[00时27分 ~ 15时09分]"
         },
         {
+          "title": "美国“封锁”逼近，布油破百，美股盘前科技股普跌，黄金回调，铝价四年新高",
+          "url": "https://wallstreetcn.com/articles/3769784",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 19时09分]"
+        },
+        {
           "title": "国际油价开盘跳涨，美股期货跌超1%",
           "url": "https://wallstreetcn.com/livenews/3086498",
           "source": "华尔街见闻-快讯",
@@ -1069,17 +1162,6 @@
           "time_info": "[06时24分 ~ 07时25分]"
         },
         {
-          "title": "美国“封锁”逼近，布油破百，美股盘前科技股普跌，黄金回调，铝价四年新高",
-          "url": "https://wallstreetcn.com/articles/3769784",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
           "title": "美国“封锁”逼近，布油破百，黄金重挫，铝价四年新高，美股期货下跌",
           "url": "https://wallstreetcn.com/articles/3769784",
           "source": "华尔街见闻",
@@ -1094,7 +1176,7 @@
     },
     {
       "keyword_group": "农业 机械",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "机械硬盘现在这么贵是最后的疯狂吗？",
@@ -1117,9 +1199,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
+        },
+        {
+          "title": "抽蒜薹为何无法实现机械化",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8A%BD%E8%92%9C%E8%96%B9%E4%B8%BA%E4%BD%95%E6%97%A0%E6%B3%95%E5%AE%9E%E7%8E%B0%E6%9C%BA%E6%A2%B0%E5%8C%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         }
       ]
     },
