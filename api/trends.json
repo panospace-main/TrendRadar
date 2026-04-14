@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T07:35:13.607421+08:00",
-  "total_titles_processed": 686,
+  "generated_at": "2026-04-14T09:25:22.424057+08:00",
+  "total_titles_processed": 839,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 54,
       "titles": [
         {
           "title": "贝森特告知特朗普：如果战争持续8-12周，美国面临油价上涨风险，亚欧将受影响最大",
@@ -28,8 +28,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 07时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 09时25分]"
+        },
+        {
+          "title": "美媒鼓噪：特朗普让美国利益遭四连击，中俄获利",
+          "url": "https://news.ifeng.com/c/8sI5EiH0EGq",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 09时25分]"
         },
         {
           "title": "特朗普呼吁中国购买美国和委内瑞拉石油，中方回应",
@@ -41,8 +53,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 07时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 09时25分]"
         },
         {
           "title": "伊朗战争丨特朗普威胁击沉靠近封锁线的伊朗船只",
@@ -71,17 +83,6 @@
           "time_info": "[01时51分 ~ 07时35分]"
         },
         {
-          "title": "美媒鼓噪：特朗普让美国利益遭四连击，中俄获利",
-          "url": "https://news.ifeng.com/c/8sI5EiH0EGq",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 07时35分]"
-        },
-        {
           "title": "一个颠覆性观点：制造能源危机，特朗普蓄谋已久！",
           "url": "https://wallstreetcn.com/articles/3769823",
           "source": "华尔街见闻",
@@ -91,8 +92,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 07时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 09时25分]"
         },
         {
           "title": "特朗普宣布：今晚10点就封锁！霍尔木兹海峡再次完全中断，两艘船紧急掉头",
@@ -103,8 +104,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 07时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 09时25分]"
         },
         {
           "title": "布林肯阴阳特朗普：他选择退让或是因为厌倦了“胜利”",
@@ -136,11 +137,12 @@
           "url": "https://news.ifeng.com/c/8sIkl2LlAOK",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时39分 ~ 07时35分]"
+          "appearance_count": 5,
+          "time_info": "[05时39分 ~ 09时25分]"
         },
         {
           "title": "特朗普“封锁令”倒计时！霍尔木兹航运再陷中断 150美元油价警报拉响",
@@ -191,15 +193,38 @@
           "time_info": "06时35分"
         },
         {
+          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
+          "url": "https://wallstreetcn.com/articles/3769872",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
           "title": "美国财政部长贝森特在一份声明中表示，特朗普总统计划提名艾琳・布朗出任财政部国际事务副部长。布朗为现任太平洋投资管理公司董事总经理兼投资组合经理。",
           "url": "https://flash.jin10.com/detail/20260414071808772800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "【早报】中办、国办：推动行业协会商会深化改革；特朗普：已对所有进出伊朗港口船只实施封锁",
+          "url": "https://www.cls.cn/detail/2342892",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时34分 ~ 09时25分]"
         },
         {
           "title": "伊朗强硬回应特朗普封锁威胁",
@@ -252,6 +277,18 @@
           "time_info": "[05时39分 ~ 06时35分]"
         },
         {
+          "title": "美英再现分歧！斯塔默：不支持特朗普封锁霍尔木兹海峡",
+          "url": "https://www.cls.cn/detail/2342601",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时35分 ~ 09时25分]"
+        },
+        {
           "title": "特朗普威胁若中国向伊朗供武就加征关税，外交部：关税战没有赢家",
           "url": "https://www.cls.cn/detail/2342208",
           "source": "财联社热门",
@@ -275,17 +312,6 @@
           "time_info": "[00时06分 ~ 07时35分]"
         },
         {
-          "title": "美英再现分歧！斯塔默：不支持特朗普封锁霍尔木兹海峡",
-          "url": "https://www.cls.cn/detail/2342601",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时35分 ~ 07时35分]"
-        },
-        {
           "title": "美国白宫：特朗普提名共和党前众议员Michelle Steel出任驻韩国大使。",
           "url": "https://flash.jin10.com/detail/20260414050141708800",
           "source": "金十数据",
@@ -296,17 +322,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时35分]"
-        },
-        {
-          "title": "【早报】中办、国办：推动行业协会商会深化改革；特朗普：已对所有进出伊朗港口船只实施封锁",
-          "url": "https://www.cls.cn/detail/2342892",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时34分 ~ 07时35分]"
         },
         {
           "title": "特朗普抨击纽约时报是假新闻。",
@@ -392,6 +407,28 @@
           "time_info": "[07时34分 ~ 07时35分]"
         },
         {
+          "title": "特朗普为何抨击教皇",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E6%8A%A8%E5%87%BB%E6%95%99%E7%9A%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "特朗普发了一张图，让西方大吃一惊",
+          "url": "https://news.ifeng.com/c/8sJFcW7Qqjq",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
           "title": "伊朗国防部发言人：美国总统特朗普任何干涉霍尔木兹海峡和阿曼海的军事企图都将失败。",
           "url": "https://flash.jin10.com/detail/20260413234507827800",
           "source": "金十数据",
@@ -436,6 +473,28 @@
           "time_info": "06时35分"
         },
         {
+          "title": "沙特官员表示，沙特正敦促美国放弃对霍尔木兹海峡的封锁 ，重返谈判桌。沙特担心，特朗普总统封锁霍尔木兹海峡的举动可能导致伊朗局势升级，并扰乱其他重要航道。",
+          "url": "https://flash.jin10.com/detail/20260414091440695800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "特朗普：伊朗“合适的人”致电说“希望达成协议”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32963970",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
           "title": "据英国金融时报：美国总统特朗普提名艾琳·布朗尼出任美国财政部国际事务主管。",
           "url": "https://flash.jin10.com/detail/20260414041925108800",
           "source": "金十数据",
@@ -453,7 +512,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -475,7 +534,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -486,7 +545,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -513,6 +572,17 @@
           "time_info": "01时52分"
         },
         {
+          "title": "美媒：伊朗称最多暂停铀浓缩5年 特朗普拒绝",
+          "url": "https://wallstreetcn.com/livenews/3087247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
           "title": "特朗普：不会接受任何允许伊朗拥有核武器的协议",
           "url": "https://flash.jin10.com/detail/20260414005615622800",
           "source": "金十数据",
@@ -533,6 +603,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "美国总统特朗普将于美东时间周二下午1:30会见众议院议长。 特朗普将于美东时间周二下午5:30会见美国驻华大使。",
+          "url": "https://wallstreetcn.com/livenews/3087246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
         },
         {
           "title": "实物原油价格涨至148.87美元/桶，创历史新高，逼近150美元/桶，投资者关注霍尔木兹海峡危机的恶化。 美国与伊朗上周末会谈结束后，根据特朗普的主张，美军已开始对进出霍尔木兹海峡的船只进行阻截。",
@@ -560,7 +641,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美国“封锁”逼近，美股指低开，石油股上涨，布油破百，黄金回调，铝价四年新高",
@@ -572,6 +653,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时06分 ~ 04时05分]"
+        },
+        {
+          "title": "美股收盘：标普纳指均涨超1% 高速互联、存储、CPU牛股领涨",
+          "url": "https://www.cls.cn/detail/2342867",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时34分 ~ 09时25分]"
         },
         {
           "title": "WTI原油周二开盘持稳，美股股指期货微涨，现货黄金小幅高开。",
@@ -597,17 +690,6 @@
           "time_info": "[04时05分 ~ 05时39分]"
         },
         {
-          "title": "美股收盘：标普纳指均涨超1% 高速互联、存储、CPU牛股领涨",
-          "url": "https://www.cls.cn/detail/2342867",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时34分 ~ 07时35分]"
-        },
-        {
           "title": "美股七巨头收盘播报｜周一（4月13日），美国科技股七巨头（Magnificent 7）指数涨0.91%，报197.22点，尾盘加速上涨，收于日高附近。 “超大”市值科技股指数涨1.66%，报381.51点，整体持续走高，也收于日高附近。",
           "url": "https://wallstreetcn.com/livenews/3087156",
           "source": "华尔街见闻-快讯",
@@ -618,6 +700,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时35分]"
+        },
+        {
+          "title": "大摩：美股处于调整最后阶段",
+          "url": "https://www.toutiao.com/trending/7628030977504084004/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
         },
         {
           "title": "周一（4月13日），美股行业ETF普遍收涨，网络股指数ETF收涨2.38%，科技行业ETF涨2.10%，全球科技股指数ETF涨1.90%，金融业ETF涨1.71%，半导体ETF涨1.48%，银行业ETF涨0.83%，区域银行ETF涨0.65%，日常消费品ETF、公用事业ETF至多跌1.21%。",
@@ -689,7 +782,7 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "知情人士：美国联合航空首席执行官Kirby已向多位美国政府官员提议与竞争对手美国航空进行合并。",
@@ -698,7 +791,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -745,9 +838,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "德国汉莎航空飞行员因劳资纠纷罢工两天",
+          "url": "https://wallstreetcn.com/livenews/3087259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
         },
         {
           "title": "美国航空公司（AAL）美股盘后涨10%。",
@@ -756,9 +860,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "国产航天任务设计工业软件ATK4.0版出炉",
+          "url": "https://flash.jin10.com/detail/20260414091157736800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
         },
         {
           "title": "报道：美联航CEO已就与竞争对手美国航空可能的合并进行游说",
@@ -767,7 +882,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -778,15 +893,122 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "中国航天科技集团等成立航天时代传感科技公司",
+          "url": "https://flash.jin10.com/detail/20260414090437472800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美伊交涉现进展，标普收复冲突以来跌幅，人民币三年新高，油价冲高回落",
+          "url": "https://wallstreetcn.com/articles/3769784",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.8593，上调64点；上一交易日中间价6.8657，上一交易日官方收盘价6.8338，上日夜盘报收6.8300。",
+          "url": "https://wallstreetcn.com/livenews/3087277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "上期所原油期货2605合约夜盘收涨0.65%，报653.40元人民币/桶。 沪金夜盘收跌0.48%，沪银收跌0.19%。",
+          "url": "https://wallstreetcn.com/livenews/3087122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 04时05分]"
+        },
+        {
+          "title": "周一（4月13日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.8197元，较上周五纽约尾盘涨61点，日内整体交投于6.8437-6.8167元区间。",
+          "url": "https://wallstreetcn.com/livenews/3087165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时35分]"
+        },
+        {
+          "title": "2026年4月14日银行间外汇市场人民币汇率中间价",
+          "url": "https://flash.jin10.com/detail/20260414091531082800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "人民币兑美元中间价较上日调升64点至6.8593，中间价升值至2023年3月24日以来最高。",
+          "url": "https://flash.jin10.com/detail/20260414091524504800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8300元，较上周五夜盘收盘涨5点。成交量368.73亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3087125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "离岸人民币兑美元涨至6.8157元，创2023年3月23日以来新高，日内涨约40点。",
+          "url": "https://wallstreetcn.com/livenews/3087249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
         }
       ]
     },
     {
       "keyword_group": "A股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "用“成绩”说话！A股“优等生交卷”，一批个股净利增超10倍",
@@ -794,11 +1016,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 07时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 09时25分]"
         },
         {
           "title": "A股拟全面适用盘后固定价交易",
@@ -813,6 +1036,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时06分 ~ 07时35分]"
+        },
+        {
+          "title": "越疆完成A股IPO辅导验收",
+          "url": "https://flash.jin10.com/detail/20260414091750617800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
         },
         {
           "title": "创新性交易安排渐多，一季度A股并购市场维持活跃态势",
@@ -908,47 +1142,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "上期所原油期货2605合约夜盘收涨0.65%，报653.40元人民币/桶。 沪金夜盘收跌0.48%，沪银收跌0.19%。",
-          "url": "https://wallstreetcn.com/livenews/3087122",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 04时05分]"
-        },
-        {
-          "title": "周一（4月13日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.8197元，较上周五纽约尾盘涨61点，日内整体交投于6.8437-6.8167元区间。",
-          "url": "https://wallstreetcn.com/livenews/3087165",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时39分 ~ 06时35分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8300元，较上周五夜盘收盘涨5点。成交量368.73亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3087125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时05分"
         }
       ]
     },
