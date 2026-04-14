@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T18:07:16.136019+08:00",
-  "total_titles_processed": 1454,
+  "generated_at": "2026-04-14T19:51:46.124869+08:00",
+  "total_titles_processed": 1594,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 63,
       "titles": [
         {
           "title": "贝森特告知特朗普：如果战争持续8-12周，美国面临油价上涨风险，亚欧将受影响最大",
@@ -32,6 +32,18 @@
           "time_info": "[05时39分 ~ 16时21分]"
         },
         {
+          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
+          "url": "https://wallstreetcn.com/articles/3769872",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时25分 ~ 19时51分]"
+        },
+        {
           "title": "特朗普“封锁霍尔木兹”，高盛：股市迎来“最终决战”",
           "url": "https://wallstreetcn.com/articles/3769786",
           "source": "华尔街见闻",
@@ -54,18 +66,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时06分 ~ 09时25分]"
-        },
-        {
-          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
-          "url": "https://wallstreetcn.com/articles/3769872",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时25分 ~ 18时07分]"
         },
         {
           "title": "特朗普呼吁中国购买美国和委内瑞拉石油，中方回应",
@@ -219,6 +219,20 @@
           "time_info": "[18时06分 ~ 18时07分]"
         },
         {
+          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
+          "url": "https://www.toutiao.com/trending/7628414997059784242/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            16,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时37分 ~ 19时51分]"
+        },
+        {
           "title": "意大利总理梅洛尼：特朗普关于教皇的言论不可接受。",
           "url": "https://flash.jin10.com/detail/20260414000431392800",
           "source": "金十数据",
@@ -228,19 +242,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
-        },
-        {
-          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
-          "url": "https://www.toutiao.com/trending/7628414997059784242/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时37分 ~ 18时07分]"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：特朗普表示，教皇利奥应该远离政治。",
@@ -302,6 +303,19 @@
           "time_info": "[00时06分 ~ 03时01分]"
         },
         {
+          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2027301230691596085",
+          "source": "知乎",
+          "ranks": [
+            14,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时26分 ~ 19时51分]"
+        },
+        {
           "title": "美联邦法官驳回特朗普对《华尔街日报》的诽谤诉讼",
           "url": "https://wallstreetcn.com/livenews/3087172",
           "source": "华尔街见闻-快讯",
@@ -324,19 +338,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时35分]"
-        },
-        {
-          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2027301230691596085",
-          "source": "知乎",
-          "ranks": [
-            14,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时26分 ~ 18时07分]"
         },
         {
           "title": "美英再现分歧！斯塔默：不支持特朗普封锁霍尔木兹海峡",
@@ -362,6 +363,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时26分 ~ 18时07分]"
+        },
+        {
+          "title": "特朗普赐两杯“毒酒”，万斯干了",
+          "url": "https://news.ifeng.com/c/8sJrQz1Ewfw",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时06分 ~ 19时51分]"
         },
         {
           "title": "特朗普威胁若中国向伊朗供武就加征关税，外交部：关税战没有赢家",
@@ -397,17 +409,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时25分 ~ 12时38分]"
-        },
-        {
-          "title": "特朗普赐两杯“毒酒”，万斯干了",
-          "url": "https://news.ifeng.com/c/8sJrQz1Ewfw",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时06分 ~ 18时07分]"
         },
         {
           "title": "美国白宫：特朗普提名共和党前众议员Michelle Steel出任驻韩国大使。",
@@ -626,6 +627,17 @@
           "time_info": "01时52分"
         },
         {
+          "title": "法国总统马克龙：我昨日分别同伊朗总统佩泽希齐扬和美国总统特朗普进行了通话。",
+          "url": "https://flash.jin10.com/detail/20260414192650273800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        },
+        {
           "title": "伊朗媒体：特朗普声称“34艘船只通过霍尔木兹海峡”说法不实",
           "url": "https://flash.jin10.com/detail/20260414064137451800",
           "source": "金十数据",
@@ -739,7 +751,7 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "连续成功！这枚火箭又\"一箭8星\"，中国商业航天进入\"专车时代\"",
@@ -751,8 +763,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时26分 ~ 18时07分]"
+          "appearance_count": 5,
+          "time_info": "[14时26分 ~ 19时51分]"
         },
         {
           "title": "14岁初中生自学微积分造航空发动机",
@@ -761,11 +773,12 @@
           "ranks": [
             13,
             5,
-            7
+            7,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时26分 ~ 18时07分]"
+          "appearance_count": 5,
+          "time_info": "[14时26分 ~ 19时51分]"
         },
         {
           "title": "知情人士：美国联合航空首席执行官Kirby已向多位美国政府官员提议与竞争对手美国航空进行合并。",
@@ -777,6 +790,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "阿曼航空表示，将于4月18日起恢复每日飞往迪拜的航班。",
+          "url": "https://flash.jin10.com/detail/20260414194507211800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
         },
         {
           "title": "据美国海军学会新闻网（USNI News）援引两名美国国防官员称，随着伊朗封锁开始，“乔治·H·W·布什”号航空母舰及其护航舰队为避开曼德海峡及胡塞武装，正绕行非洲南部前往美国中央司令部辖区执行行动。",
@@ -876,7 +900,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -901,12 +925,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "欧盟委员会：目前没有证据表明欧盟存在燃料短缺。 航空燃油供应短缺可能在不久的将来发生。",
+          "url": "https://wallstreetcn.com/livenews/3087662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美国“封锁”逼近，美股指低开，石油股上涨，布油破百，黄金回调，铝价四年新高",
@@ -968,13 +1003,24 @@
           "time_info": "[05时39分 ~ 06时35分]"
         },
         {
+          "title": "伊朗谈判现曙光，美股期指拉升，亚太股市集体大涨，油价下挫，金银反弹",
+          "url": "https://wallstreetcn.com/articles/3769897",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        },
+        {
           "title": "贝莱德强势看多美股！地缘风险降温与盈利飙升成关键推手",
           "url": "https://flash.jin10.com/detail/20260414174441223800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -1202,7 +1248,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "美伊交涉现进展，标普收复冲突以来跌幅，人民币三年新高，油价冲高回落",
@@ -1213,8 +1259,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时25分 ~ 18时07分]"
+          "appearance_count": 8,
+          "time_info": "[09时25分 ~ 19时51分]"
         },
         {
           "title": "中国3月新增社融5.23万亿元，新增人民币贷款2.99万亿元，M2同比增长8.5%",
@@ -1274,6 +1320,17 @@
           "time_info": "09时25分"
         },
         {
+          "title": "盛视科技：拟向多家供应商分批采购IT设备及零部件，总金额不超过人民币11亿元。",
+          "url": "https://wallstreetcn.com/livenews/3087688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        },
+        {
           "title": "人民币兑美元中间价较上日调升64点至6.8593，中间价升值至2023年3月24日以来最高。",
           "url": "https://flash.jin10.com/detail/20260414091524504800",
           "source": "金十数据",
@@ -1296,6 +1353,17 @@
           "time_info": "04时05分"
         },
         {
+          "title": "盛松成：人民币发挥国际融资货币功能或迎来有利时机",
+          "url": "https://wallstreetcn.com/livenews/3087673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        },
+        {
           "title": "离岸人民币兑美元涨至6.8157元，创2023年3月23日以来新高，日内涨约40点。",
           "url": "https://wallstreetcn.com/livenews/3087249",
           "source": "华尔街见闻-快讯",
@@ -1313,7 +1381,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         }
@@ -1421,6 +1489,35 @@
       ]
     },
     {
+      "keyword_group": "农业 机械",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "委内瑞拉代总统罗德里格斯任命前国防部长弗拉基米尔·帕德里诺为农业生产与土地部长。",
+          "url": "https://flash.jin10.com/detail/20260414051148670800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时35分]"
+        },
+        {
+          "title": "抽蒜薹为何无法实现机械化",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8A%BD%E8%92%9C%E8%96%B9%E4%B8%BA%E4%BD%95%E6%97%A0%E6%B3%95%E5%AE%9E%E7%8E%B0%E6%9C%BA%E6%A2%B0%E5%8C%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -1445,24 +1542,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农业 机械",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "委内瑞拉代总统罗德里格斯任命前国防部长弗拉基米尔·帕德里诺为农业生产与土地部长。",
-          "url": "https://flash.jin10.com/detail/20260414051148670800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时39分 ~ 06时35分]"
         }
       ]
     },
