@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T07:35:31.216758+08:00",
-  "total_titles_processed": 719,
+  "generated_at": "2026-04-15T09:21:51.799469+08:00",
+  "total_titles_processed": 890,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普赐两杯“毒酒”，万斯干了",
@@ -81,6 +81,50 @@
           "time_info": "[00时02分 ~ 06时37分]"
         },
         {
+          "title": "伊朗战争丨特朗普称美国对伊朗的战争已结束",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "金十查证：特朗普说的是伊朗战争“接近”结束还是已经结束？",
+          "url": "https://flash.jin10.com/detail/20260415090719216800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "特朗普：美国对伊朗的战争已经结束",
+          "url": "https://www.cls.cn/detail/2344245",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "特朗普：伊朗战事“接近结束”，未来两天或重启谈判",
+          "url": "https://flash.jin10.com/detail/20260415090511264800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
           "title": "特朗普暗示美伊“未来两天”或重启伊斯兰堡会谈",
           "url": "https://news.ifeng.com/c/8sKPIktXF3q",
           "source": "凤凰网",
@@ -91,6 +135,29 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时42分 ~ 07时35分]"
+        },
+        {
+          "title": "特朗普最新表态：美国对伊战争已结束 未来两天或重返谈判桌",
+          "url": "https://www.cls.cn/detail/2344264",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "【早报】特朗普：与伊朗会谈可能未来两天内举行；国际油价重挫",
+          "url": "https://www.cls.cn/detail/2344222",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 09时21分]"
         },
         {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：（总统特朗普派兵）封锁霍尔木兹海峡是必要的，太聪明了。",
@@ -118,15 +185,59 @@
           "time_info": "[00时02分 ~ 03时03分]"
         },
         {
+          "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
+          "url": "https://wallstreetcn.com/articles/3769962",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
           "title": "美国副总统万斯：特朗普对伊朗表示，如果你们承诺不拥有核武器，我们将让伊朗实现经济繁荣。",
           "url": "https://flash.jin10.com/detail/20260415063058322800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "特朗普称美国对伊朗的战争已经结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32972732",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "欧洲正加速推进北约应急计划，以防美国总统特朗普退出。",
+          "url": "https://flash.jin10.com/detail/20260415090007347800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "4月15日投资避雷针：特朗普称美国对伊朗的战争已经结束",
+          "url": "https://www.cls.cn/detail/2344265",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "特朗普态度摇摆：先排除、后改口仍倾向巴基斯坦作为美伊谈判地",
@@ -140,15 +251,15 @@
           "time_info": "00时02分"
         },
         {
-          "title": "【早报】特朗普：与伊朗会谈可能未来两天内举行；国际油价重挫",
-          "url": "https://www.cls.cn/detail/2344222",
-          "source": "财联社热门",
+          "title": "特朗普称伊朗非常想达成协议",
+          "url": "https://flash.jin10.com/detail/20260415084453293800",
+          "source": "金十数据",
           "ranks": [
-            13
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时35分"
+          "time_info": "09时21分"
         },
         {
           "title": "美国总统特朗普：正全力推动本周在众议院通过《外国情报监视法》第702条（FISA 702）的“干净延期”。",
@@ -215,12 +326,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "特朗普称伊朗战事“接近结束”",
+          "url": "https://flash.jin10.com/detail/20260415081224997800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "国际油价短线走低，WTI原油期货一度跌至87美元下方，此前特朗普称他认为战争非常接近结束。",
+          "url": "https://wallstreetcn.com/livenews/3088037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "特朗普称伊朗战事“接近结束”",
+          "url": "https://wallstreetcn.com/livenews/3088036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         }
       ]
     },
     {
       "keyword_group": "人民币",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "美伊交涉现进展，标普收复冲突以来跌幅，人民币三年新高，油价冲高回落",
@@ -252,9 +396,20 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 09时21分]"
+        },
+        {
+          "title": "人民币兑美元中间价创2023年3月24日以来新高",
+          "url": "https://wallstreetcn.com/livenews/3088069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时35分"
+          "time_info": "09时21分"
         },
         {
           "title": "上期所原油期货2605合约夜盘收跌2.87%，报633元人民币/桶。 沪金夜盘收涨1.74%，沪银收涨5.36%。",
@@ -266,6 +421,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "财政部将于4月在香港发行155亿元人民币国债",
+          "url": "https://wallstreetcn.com/livenews/3088066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "财政部将于4月在香港发行155亿元人民币国债",
+          "url": "https://flash.jin10.com/detail/20260415090245598800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "周二（4月14日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8108元，较周一纽约尾盘涨89点，日内整体交投于6.8207-6.8059元区间。 日线图上，离岸人民币逼近2023年2月10日顶部6.7898元、当年1月16日顶部6.6975元。",
@@ -305,7 +482,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "美伊和谈预期升温，美股债齐涨，纳指十连涨，原油下挫，黄金升破4800关口",
@@ -317,6 +494,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时42分 ~ 06时37分]"
+        },
+        {
+          "title": "美股收盘：纳指连涨十日 光通信、燃料电池、半导体牛股齐创新高",
+          "url": "https://www.cls.cn/detail/2344205",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "美股收盘：纳指10连阳 光通信、燃料电池、半导体牛股齐创新高",
@@ -376,6 +564,17 @@
           "time_info": "04时42分"
         },
         {
+          "title": "美股收盘：中概股集体大涨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%AD%E6%A6%82%E8%82%A1%E9%9B%86%E4%BD%93%E5%A4%A7%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
           "title": "美股七巨头收盘播报｜周二（4月14日），美国科技股七巨头（Magnificent 7）指数涨2.78%，报202.71点。 “超大”市值科技股指数涨2.73%，报391.92点。",
           "url": "https://wallstreetcn.com/livenews/3087965",
           "source": "华尔街见闻-快讯",
@@ -385,6 +584,87 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "农业 机械",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "央视曝光：7亿建的农业基地不干农业",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%EF%BC%9A7%E4%BA%BF%E5%BB%BA%E7%9A%84%E5%86%9C%E4%B8%9A%E5%9F%BA%E5%9C%B0%E4%B8%8D%E5%B9%B2%E5%86%9C%E4%B8%9A",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 09时21分]"
+        },
+        {
+          "title": "投资超7亿农业实训基地不见农业影子",
+          "url": "https://www.toutiao.com/trending/7628596216565350406/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            14,
+            15,
+            23,
+            27,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时35分]"
+        },
+        {
+          "title": "7个亿的农业实训基地没基地",
+          "url": "https://s.weibo.com/weibo?q=%237%E4%B8%AA%E4%BA%BF%E7%9A%84%E5%86%9C%E4%B8%9A%E5%AE%9E%E8%AE%AD%E5%9F%BA%E5%9C%B0%E6%B2%A1%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            19,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时42分 ~ 07时35分]"
+        },
+        {
+          "title": "央视曝光投资7亿农业基地不干农业",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%8A%95%E8%B5%847%E4%BA%BF%E5%86%9C%E4%B8%9A%E5%9F%BA%E5%9C%B0%E4%B8%8D%E5%B9%B2%E5%86%9C%E4%B8%9A%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "日本2月核心机械订单环比 13.6%，预期 -1.1%，前值 -5.5%。",
+          "url": "https://wallstreetcn.com/livenews/3088041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "日本2月核心机械订单同比 24.7%，预期 8.7%，前值 13.7%。",
+          "url": "https://wallstreetcn.com/livenews/3088040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         }
       ]
     },
@@ -463,6 +743,45 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2026-04-15）",
+          "url": "https://flash.jin10.com/detail/20260415090247136800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "一季度A股IPO市场“量质齐升”，未来产业踊跃“报考”",
+          "url": "https://wallstreetcn.com/livenews/3088010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
+          "title": "A股尾盘急拉是变盘信号吗",
+          "url": "https://www.toutiao.com/trending/7628583142877564479/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "航天 航空",
       "match_count": 3,
       "titles": [
@@ -500,81 +819,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农业 机械",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "央视曝光：7亿建的农业基地不干农业",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%EF%BC%9A7%E4%BA%BF%E5%BB%BA%E7%9A%84%E5%86%9C%E4%B8%9A%E5%9F%BA%E5%9C%B0%E4%B8%8D%E5%B9%B2%E5%86%9C%E4%B8%9A",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 07时35分]"
-        },
-        {
-          "title": "投资超7亿农业实训基地不见农业影子",
-          "url": "https://www.toutiao.com/trending/7628596216565350406/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            14,
-            15,
-            23,
-            27,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 07时35分]"
-        },
-        {
-          "title": "7个亿的农业实训基地没基地",
-          "url": "https://s.weibo.com/weibo?q=%237%E4%B8%AA%E4%BA%BF%E7%9A%84%E5%86%9C%E4%B8%9A%E5%AE%9E%E8%AE%AD%E5%9F%BA%E5%9C%B0%E6%B2%A1%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            19,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时42分 ~ 07时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "一季度A股IPO市场“量质齐升”，未来产业踊跃“报考”",
-          "url": "https://wallstreetcn.com/livenews/3088010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "A股尾盘急拉是变盘信号吗",
-          "url": "https://www.toutiao.com/trending/7628583142877564479/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
         }
       ]
     },
