@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T04:41:56.425550+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2026-04-17T05:34:44.437220+08:00",
+  "total_titles_processed": 554,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普：美伊下次会晤或在本周末举行",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时57分 ~ 04时41分]"
+          "appearance_count": 5,
+          "time_info": "[02时57分 ~ 05时34分]"
         },
         {
           "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 05时34分]"
         },
         {
           "title": "中东和平希望升温！特朗普：以黎领导人周四将进行34年来首次对话",
@@ -50,8 +50,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 05时34分]"
         },
         {
           "title": "伊朗战争丨特朗普：伊朗已同意不拥有核武器",
@@ -60,9 +60,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时34分]"
         },
         {
           "title": "特朗普就访华明确表态，中方回应",
@@ -72,8 +72,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 05时34分]"
         },
         {
           "title": "特朗普称以黎停火10天",
@@ -85,8 +85,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 05时34分]"
         },
         {
           "title": "以色列北部地区委员会负责人：特朗普将伊朗问题引入黎巴嫩局势是不合理的。",
@@ -98,6 +98,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "美国总统特朗普：意大利（在发动伊朗战争方面）不支持我们，我们将来也不会支持他们。",
+          "url": "https://wallstreetcn.com/livenews/3089591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
+        },
+        {
+          "title": "罗马教皇再发声 暗指特朗普操控宗教",
+          "url": "https://flash.jin10.com/detail/20260417051016228800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
         },
         {
           "title": "美国总统特朗普在社交媒体上批评法官“出于政治动机”试图阻止白宫大型宴会厅项目建设，称其行为削弱国家安全。",
@@ -285,6 +307,17 @@
           "time_info": "01时03分"
         },
         {
+          "title": "美国参议院以微弱优势推翻明尼苏达州采矿禁令，法案已递交特朗普",
+          "url": "https://wallstreetcn.com/livenews/3089577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
+        },
+        {
           "title": "据英国金融时报：美国石油行业高管敦促特朗普，应在伊朗提出对霍尔木兹海峡征收“通行费”问题上保持强硬立场。",
           "url": "https://flash.jin10.com/detail/20260417030924363800",
           "source": "金十数据",
@@ -442,8 +475,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 05时34分]"
         },
         {
           "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
@@ -454,8 +487,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 05时34分]"
         },
         {
           "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
@@ -466,63 +499,68 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 05时34分]"
         },
         {
           "title": "周四（4月16日），彭博电动汽车价格回报指数涨2.89%，报3980.01点，北京时间09:30-10:00涨势迅猛，随后持稳于3940点附近，21:30美股开盘后继续扩大涨幅。",
           "url": "https://wallstreetcn.com/livenews/3089568",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时34分]"
         },
         {
           "title": "金十图示：2026年04月16日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260417040757477800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时34分]"
         },
         {
           "title": "金十图示：2026年04月16日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260417040755428800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时34分]"
         },
         {
           "title": "奈飞一季度营收122.5亿美元，分析师预期121.7亿美元。 一季度每股收益（EPS）为1.23美元，上年同期0.66美元。 维持全年营收预期在507亿-517亿美元不变，分析师预期513.7亿美元。 维持全年运营利润率预期在31.5%不变，分析师预期32%。 预计二季度营收125.7亿美元，分析师预期126.4亿美元。 预计二季度EPS为0.78美元，分析师预期0.84美元。 奈飞美股盘后跌9.3%。",
           "url": "https://wallstreetcn.com/livenews/3089565",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时34分]"
         },
         {
           "title": "美股收盘：三大股指小幅收涨 金龙指数涨1.7%",
           "url": "https://flash.jin10.com/detail/20260417040204226800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时34分]"
         },
         {
           "title": "金十图示：2026年04月16日（周四）美股热门股票行情一览（美股盘中）",
@@ -581,11 +619,12 @@
           "url": "https://wallstreetcn.com/livenews/3089571",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时34分]"
         },
         {
           "title": "神舟二十一号航天员乘组圆满完成第三次出舱活动。 航天员张陆累计进行7次出舱活动，刷新了中国航天员个人出舱活动次数的纪录。 神舟二十一号航天员乘组在轨驻留时间将延长约1个月。（新华社）",
@@ -664,6 +703,86 @@
       ]
     },
     {
+      "keyword_group": "人民币",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "上期所原油期货2606合约夜盘收涨1.28%，报639.40元人民币/桶。 沪金夜盘收跌0.57%，沪银收跌1.41%。",
+          "url": "https://wallstreetcn.com/livenews/3089536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 03时58分]"
+        },
+        {
+          "title": "周四（4月16日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8229元，较周三纽约尾盘跌48点，日内整体交投于6.8130-6.8270元区间。",
+          "url": "https://wallstreetcn.com/livenews/3089584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8230元，较周三夜盘收盘跌42点。成交量332.96亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3089542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "据伊朗改革派报纸《Shargh Daily》报道，在经历48天的互联网中断后，谷歌搜索在伊朗已恢复访问，但部分谷歌服务仍无法使用。伊朗半官方通讯社法尔斯通讯社也报道称，“几分钟前，谷歌搜索引擎已重新向用户开放”，但补充称部分用户仍面临连接中断和网络波动问题。",
+          "url": "https://flash.jin10.com/detail/20260417005843333800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时03分"
+        },
+        {
+          "title": "OpenAI推出旨在药物研发的新AI模型，向谷歌发起挑战",
+          "url": "https://wallstreetcn.com/livenews/3089544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时58分 ~ 04时41分]"
+        },
+        {
+          "title": "NiSource美股盘后涨3.7%，该公司宣布与谷歌母公司Alphabet附属公司达成长期能源供应协议，用于后者在美国印第安纳州北部开发和运营大规模数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3089580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
@@ -714,8 +833,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 05时34分]"
         },
         {
           "title": "【焦点复盘】创指再现长阳反包，Token经济概念持续火爆，“宁王”首次跻身A股总市值三甲",
@@ -726,66 +845,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 04时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "上期所原油期货2606合约夜盘收涨1.28%，报639.40元人民币/桶。 沪金夜盘收跌0.57%，沪银收跌1.41%。",
-          "url": "https://wallstreetcn.com/livenews/3089536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时57分 ~ 03时58分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8230元，较周三夜盘收盘跌42点。成交量332.96亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3089542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "据伊朗改革派报纸《Shargh Daily》报道，在经历48天的互联网中断后，谷歌搜索在伊朗已恢复访问，但部分谷歌服务仍无法使用。伊朗半官方通讯社法尔斯通讯社也报道称，“几分钟前，谷歌搜索引擎已重新向用户开放”，但补充称部分用户仍面临连接中断和网络波动问题。",
-          "url": "https://flash.jin10.com/detail/20260417005843333800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
-        },
-        {
-          "title": "OpenAI推出旨在药物研发的新AI模型，向谷歌发起挑战",
-          "url": "https://wallstreetcn.com/livenews/3089544",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时58分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 05时34分]"
         }
       ]
     },
