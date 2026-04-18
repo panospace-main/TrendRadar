@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-18T18:31:53.286791+08:00",
-  "total_titles_processed": 1317,
+  "generated_at": "2026-04-18T19:27:27.484189+08:00",
+  "total_titles_processed": 1382,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 85,
+      "match_count": 86,
       "titles": [
+        {
+          "title": "伊朗发声：特朗普7项声明“均不属实”，绝不放弃控制霍尔木兹海峡，拒绝将浓缩铀运往国外，不接受临时停火",
+          "url": "https://wallstreetcn.com/articles/3770301",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时24分 ~ 19时27分]"
+        },
         {
           "title": "特朗普确认伊朗开放霍尔木兹，称海峡局势结束、美封锁将持续至达成协议，料协议“一两天内”达成",
           "url": "https://wallstreetcn.com/articles/3770269",
@@ -17,20 +29,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[04时35分 ~ 18时31分]"
+          "appearance_count": 15,
+          "time_info": "[04时35分 ~ 19时27分]"
         },
         {
-          "title": "伊朗发声：特朗普7项声明“均不属实”，绝不放弃控制霍尔木兹海峡，拒绝将浓缩铀运往国外，不接受临时停火",
-          "url": "https://wallstreetcn.com/articles/3770301",
-          "source": "华尔街见闻",
+          "title": "特朗普：伊朗不会拥有核武器",
+          "url": "https://news.ifeng.com/c/8sQ6YK3SkJH",
+          "source": "凤凰网",
           "ranks": [
-            4,
             3
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[12时24分 ~ 18时31分]"
+          "time_info": "[14时06分 ~ 19时27分]"
         },
         {
           "title": "特朗普证实伊朗宣布开放霍尔木兹海峡",
@@ -42,19 +53,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时42分 ~ 18时31分]"
-        },
-        {
-          "title": "特朗普：伊朗不会拥有核武器",
-          "url": "https://news.ifeng.com/c/8sQ6YK3SkJH",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时06分 ~ 18时31分]"
+          "appearance_count": 20,
+          "time_info": "[00时42分 ~ 19时27分]"
         },
         {
           "title": "特朗普：北约“纸老虎”离远点儿，一点用没有",
@@ -69,6 +69,20 @@
           "time_info": "[00时42分 ~ 06时28分]"
         },
         {
+          "title": "特朗普强称“伊朗让步了”，伊朗“他撒谎”，投资者：“他在与市场谈判，完全无视伊朗”",
+          "url": "https://wallstreetcn.com/articles/3770302",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时24分 ~ 19时27分]"
+        },
+        {
           "title": "特朗普最兴奋的一天：三个细节，信息量很大",
           "url": "https://news.ifeng.com/c/8sPvCLdNSdV",
           "source": "凤凰网",
@@ -79,6 +93,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时18分 ~ 16时37分]"
+        },
+        {
+          "title": "特朗普称若伊不达成停火或发动打击",
+          "url": "https://www.cls.cn/detail/2348194",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时06分 ~ 19时27分]"
         },
         {
           "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
@@ -93,31 +119,6 @@
           "time_info": "[00时42分 ~ 07时31分]"
         },
         {
-          "title": "特朗普强称“伊朗让步了”，伊朗“他撒谎”，投资者：“他在与市场谈判，完全无视伊朗”",
-          "url": "https://wallstreetcn.com/articles/3770302",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时24分 ~ 18时31分]"
-        },
-        {
-          "title": "特朗普称若伊不达成停火或发动打击",
-          "url": "https://www.cls.cn/detail/2348194",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时06分 ~ 18时31分]"
-        },
-        {
           "title": "特朗普：以色列，适可而止",
           "url": "https://news.ifeng.com/c/8sPsxH8Oocr",
           "source": "凤凰网",
@@ -126,8 +127,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时18分 ~ 18时31分]"
+          "appearance_count": 11,
+          "time_info": "[09时18分 ~ 19时27分]"
         },
         {
           "title": "心心念念的大房子不让造，特朗普暴怒开喷",
@@ -143,6 +144,20 @@
           "time_info": "[00时42分 ~ 14时07分]"
         },
         {
+          "title": "特朗普：美国已禁止以色列这样做，适可而止",
+          "url": "https://www.cls.cn/detail/2348149",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时24分 ~ 19时27分]"
+        },
+        {
           "title": "特朗普确认伊朗开放霍尔木兹海峡",
           "url": "https://m.thepaper.cn/newsDetail_forward_32994886",
           "source": "澎湃新闻",
@@ -154,20 +169,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时42分 ~ 09时18分]"
-        },
-        {
-          "title": "特朗普：美国已禁止以色列这样做，适可而止",
-          "url": "https://www.cls.cn/detail/2348149",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时24分 ~ 18时31分]"
         },
         {
           "title": "伊朗开放霍尔木兹特朗普发帖说谢谢",
@@ -187,6 +188,17 @@
           "time_info": "[00时42分 ~ 07时31分]"
         },
         {
+          "title": "前白宫律师爆料：特朗普表现出典型的痴呆症状",
+          "url": "https://news.ifeng.com/c/8sQQLEAQZYu",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时38分 ~ 19时27分]"
+        },
+        {
           "title": "伊朗战争丨特朗普：伊朗同意永不关闭霍尔木兹海峡",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -198,15 +210,15 @@
           "time_info": "[00时42分 ~ 05时33分]"
         },
         {
-          "title": "前白宫律师爆料：特朗普表现出典型的痴呆症状",
-          "url": "https://news.ifeng.com/c/8sQQLEAQZYu",
+          "title": "美媒：特朗普的支持者受够了，历史性联盟已瓦解",
+          "url": "https://news.ifeng.com/c/8sQIOdLMh3T",
           "source": "凤凰网",
           "ranks": [
-            5
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时38分 ~ 18时31分]"
+          "appearance_count": 7,
+          "time_info": "[15时53分 ~ 19时27分]"
         },
         {
           "title": "美媒：以总理对特朗普“禁止”轰炸黎巴嫩帖文感震惊",
@@ -260,17 +272,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时24分 ~ 16时37分]"
-        },
-        {
-          "title": "美媒：特朗普的支持者受够了，历史性联盟已瓦解",
-          "url": "https://news.ifeng.com/c/8sQIOdLMh3T",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时53分 ~ 18时31分]"
         },
         {
           "title": "伊朗议长：绝不放弃控制霍尔木兹海峡 特朗普妄言摧毁伊朗文明已失败",
@@ -715,6 +716,17 @@
           "time_info": "12时24分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-18）",
+          "url": "https://flash.jin10.com/detail/20260418183631999800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
           "title": "特朗普确认伊朗开放霍尔木兹海峡，称海上封锁将持续至敲定协议，美媒称美伊或周日会谈",
           "url": "https://wallstreetcn.com/articles/3770269",
           "source": "华尔街见闻",
@@ -1041,8 +1053,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时31分 ~ 18时31分]"
+          "appearance_count": 12,
+          "time_info": "[07时31分 ~ 19时27分]"
         },
         {
           "title": "美股三大期指集体走高 奈飞盘前大跌近10% | 今夜看点",
@@ -1244,11 +1256,12 @@
             13,
             11,
             12,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时42分 ~ 18时31分]"
+          "appearance_count": 20,
+          "time_info": "[00时42分 ~ 19时27分]"
         },
         {
           "title": "欧盟因伊朗战争威胁供应拟推动航空燃料多元化",
@@ -1322,6 +1335,61 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "一图看懂 | A股七姐妹vs美股七姐妹，今年谁更能涨？",
+          "url": "https://www.cls.cn/detail/2347485",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 07时31分]"
+        },
+        {
+          "title": "A股新股王诞生了",
+          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E6%96%B0%E8%82%A1%E7%8E%8B%E8%AF%9E%E7%94%9F%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            15,
+            14,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时24分 ~ 19时27分]"
+        },
+        {
+          "title": "A股新“股王”登场！科创板企业源杰科技股价超越贵州茅台 创始人身家超150亿",
+          "url": "https://www.cls.cn/detail/2347720",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "A股一周最熊股5天跌33%",
+          "url": "https://www.toutiao.com/trending/7629163186146672682/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "农业 机械",
       "match_count": 4,
       "titles": [
@@ -1369,50 +1437,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "一图看懂 | A股七姐妹vs美股七姐妹，今年谁更能涨？",
-          "url": "https://www.cls.cn/detail/2347485",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 07时31分]"
-        },
-        {
-          "title": "A股新股王诞生了",
-          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E6%96%B0%E8%82%A1%E7%8E%8B%E8%AF%9E%E7%94%9F%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            15,
-            14,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时24分 ~ 18时31分]"
-        },
-        {
-          "title": "A股新“股王”登场！科创板企业源杰科技股价超越贵州茅台 创始人身家超150亿",
-          "url": "https://www.cls.cn/detail/2347720",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
         }
       ]
     },
@@ -1492,8 +1516,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时24分 ~ 18时31分]"
+          "appearance_count": 10,
+          "time_info": "[12时24分 ~ 19时27分]"
         }
       ]
     },
