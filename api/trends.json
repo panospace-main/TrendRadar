@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T06:34:29.050931+08:00",
-  "total_titles_processed": 611,
+  "generated_at": "2026-04-21T07:34:29.450441+08:00",
+  "total_titles_processed": 675,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普：若有突破进展，愿同伊朗高级别领导人会面",
@@ -15,19 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 06时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 07时34分]"
         },
         {
           "title": "特朗普：若有突破进展 愿同伊朗高级别领导人会面",
           "url": "https://wallstreetcn.com/articles/3770404",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 06时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 07时34分]"
         },
         {
           "title": "消息人士：巴基斯坦陆军参谋长同特朗普通话",
@@ -37,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 06时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 07时34分]"
         },
         {
           "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
@@ -201,6 +202,50 @@
           "time_info": "[01时50分 ~ 02时51分]"
         },
         {
+          "title": "特朗普：新协议将比伊核协议好得多，停火“极不可能”延长",
+          "url": "https://flash.jin10.com/detail/20260421065026687800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "伊朗议长：特朗普妄图将谈判桌变成投降桌",
+          "url": "https://news.ifeng.com/c/8sUi19J5Hpg",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "特朗普威胁停火到期将开炸",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E5%81%9C%E7%81%AB%E5%88%B0%E6%9C%9F%E5%B0%86%E5%BC%80%E7%82%B8%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "特朗普：延长停火极不可能 在达成“协议”前不会解除对伊朗的封锁",
+          "url": "https://www.cls.cn/detail/2350029",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
           "title": "特朗普：没有压力达成伊朗协议 不会被外界催促",
           "url": "https://flash.jin10.com/detail/20260421015345641800",
           "source": "金十数据",
@@ -229,7 +274,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
         },
@@ -240,7 +285,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
         },
@@ -262,7 +307,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
         },
@@ -344,11 +389,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 06时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 07时34分]"
         },
         {
           "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
@@ -357,20 +403,33 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时34分]"
         },
         {
           "title": "高盛交易员：美股已经做好本周回调的准备",
           "url": "https://wallstreetcn.com/articles/3770364",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时54分 ~ 06时34分]"
+          "appearance_count": 6,
+          "time_info": "[03时54分 ~ 07时34分]"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收跌 市场聚焦美伊紧张局势",
+          "url": "https://www.cls.cn/detail/2350040",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时34分]"
         },
         {
           "title": "Snap美股盘后跌2.8%，该公司CFO Derek Andersen离职。",
@@ -454,17 +513,6 @@
           "time_info": "04时36分"
         },
         {
-          "title": "美股收盘：三大指数小幅收跌 市场聚焦美伊紧张局势",
-          "url": "https://www.cls.cn/detail/2350040",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
           "title": "美股大类资产类ETF涨跌各异，布油基金收涨超4.3%，新兴市场ETF、黄金ETF至多跌超0.8%",
           "url": "https://wallstreetcn.com/livenews/3091321",
           "source": "华尔街见闻-快讯",
@@ -490,7 +538,7 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "中央层面树立和践行正确政绩观学习教育工作专班、中央纪委办公厅公开通报中国航空器材集团有限公司任宇、赵保辉等政绩观扭曲错位、欺瞒组织、侵害群众利益等问题",
@@ -502,8 +550,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 06时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 07时34分]"
         },
         {
           "title": "沪指涨近0.8%，商业航天、光纤集体爆发，立讯精密涨停，恒科指涨0.5%，AI应用大涨、群核科技飙涨100%",
@@ -513,8 +561,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 06时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 07时34分]"
         },
         {
           "title": "一图看懂 | 商业航天概念股再度走强 密集催化引爆行情",
@@ -537,11 +585,12 @@
             13,
             12,
             11,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时51分 ~ 06时34分]"
+          "appearance_count": 7,
+          "time_info": "[02时51分 ~ 07时34分]"
         },
         {
           "title": "邮件显示，主要低成本航空公司的首席执行官们寻求暂时减免美国燃油税和安保费。（路透）",
@@ -554,6 +603,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时54分 ~ 04时36分]"
+        },
+        {
+          "title": "阿拉斯加航空因燃油成本冲击行业而暂停2026年业绩指引",
+          "url": "https://wallstreetcn.com/livenews/3091353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时34分]"
         },
         {
           "title": "美国联邦航空管理局（FAA）要求蓝色起源对新格伦火箭事故展开调查。",
@@ -580,17 +641,6 @@
           "time_info": "[03时54分 ~ 04时36分]"
         },
         {
-          "title": "阿拉斯加航空因燃油成本冲击行业而暂停2026年业绩指引",
-          "url": "https://wallstreetcn.com/livenews/3091353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
           "title": "惠誉：（关于美国信用风险）面向消费的行业、房地产、航空业将面临最为严峻的次生冲击压力。",
           "url": "https://flash.jin10.com/detail/20260421012231288800",
           "source": "金十数据",
@@ -600,6 +650,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "力拓集团：航空燃料、氢氧化钠及其他业务投入的供应未受到任何干扰。",
+          "url": "https://flash.jin10.com/detail/20260421063815031800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
         },
         {
           "title": "商业航天概念大爆发",
@@ -721,6 +782,38 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "A股突现重大资产重组新模式",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%AA%81%E7%8E%B0%E9%87%8D%E5%A4%A7%E8%B5%84%E4%BA%A7%E9%87%8D%E7%BB%84%E6%96%B0%E6%A8%A1%E5%BC%8F%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            23,
+            22,
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时50分 ~ 07时34分]"
+        },
+        {
+          "title": "年报季透视A股：逾1700家上市公司拟分红",
+          "url": "https://wallstreetcn.com/livenews/3091373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "农业 机械",
       "match_count": 2,
       "titles": [
@@ -749,26 +842,6 @@
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股突现重大资产重组新模式",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%AA%81%E7%8E%B0%E9%87%8D%E5%A4%A7%E8%B5%84%E4%BA%A7%E9%87%8D%E7%BB%84%E6%96%B0%E6%A8%A1%E5%BC%8F%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            23,
-            22,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时50分 ~ 06时34分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -777,11 +850,12 @@
           "url": "https://flash.jin10.com/detail/20260421060257230800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时34分]"
         }
       ]
     },
