@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T18:11:18.360042+08:00",
-  "total_titles_processed": 1400,
+  "generated_at": "2026-04-21T19:54:06.002258+08:00",
+  "total_titles_processed": 1542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普：若有突破进展 愿同伊朗高级别领导人会面",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时54分 ~ 18时11分]"
+          "appearance_count": 17,
+          "time_info": "[00时54分 ~ 19时54分]"
         },
         {
           "title": "特朗普：若有突破进展，愿同伊朗高级别领导人会面",
@@ -42,6 +42,46 @@
           "time_info": "[00时54分 ~ 07时34分]"
         },
         {
+          "title": "特朗普称21日美伊谈判、如未达成协议“几无可能”延长停火，伊朗最高领袖重申三大立场",
+          "url": "https://wallstreetcn.com/articles/3770427",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时24分 ~ 19时54分]"
+        },
+        {
+          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
+          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时24分 ~ 19时54分]"
+        },
+        {
+          "title": "美伊局势会如何演绎？特朗普面前有五条路 最危险的通往200美元油价！",
+          "url": "https://www.cls.cn/detail/2350258",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时40分 ~ 19时54分]"
+        },
+        {
           "title": "美伊停火倒计时？特朗普敲定21日“二轮谈判”，伊朗仍未点头答应！",
           "url": "https://www.cls.cn/detail/2350106",
           "source": "财联社热门",
@@ -53,19 +93,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时24分 ~ 16时27分]"
-        },
-        {
-          "title": "特朗普称21日美伊谈判、如未达成协议“几无可能”延长停火，伊朗最高领袖重申三大立场",
-          "url": "https://wallstreetcn.com/articles/3770427",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时24分 ~ 18时11分]"
         },
         {
           "title": "特朗普撇清：以色列可说不动我",
@@ -80,18 +107,6 @@
           "time_info": "[12时40分 ~ 18时11分]"
         },
         {
-          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
-          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时24分 ~ 18时11分]"
-        },
-        {
           "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
           "url": "https://news.ifeng.com/c/8sSpivPG8Fy",
           "source": "凤凰网",
@@ -101,20 +116,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时54分 ~ 02时51分]"
-        },
-        {
-          "title": "美伊局势会如何演绎？特朗普面前有五条路 最危险的通往200美元油价！",
-          "url": "https://www.cls.cn/detail/2350258",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时40分 ~ 18时11分]"
         },
         {
           "title": "伊朗战争丨特朗普亲信坦言：79岁的他正在失控",
@@ -128,13 +129,24 @@
           "time_info": "[16时27分 ~ 18时11分]"
         },
         {
+          "title": "特朗普一顿迷惑操作搞懵美媒，美官员：只会添乱",
+          "url": "https://news.ifeng.com/c/8sVY7G7Z8bE",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 19时54分]"
+        },
+        {
           "title": "路透社/益普索调查：美国总统特朗普的支持率维持在上个月的最低水平36%。仅有16%的美国人支持美国退出北约。",
           "url": "https://flash.jin10.com/detail/20260421180105869800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -264,6 +276,19 @@
           "time_info": "[05时38分 ~ 06时34分]"
         },
         {
+          "title": "事关煤、气、油、电！特朗普动用“战时权力”",
+          "url": "https://www.cls.cn/detail/2350491",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 19时54分]"
+        },
+        {
           "title": "特朗普感谢伊朗迫使船只转而从美国进口石油",
           "url": "https://flash.jin10.com/detail/20260421022932707800",
           "source": "金十数据",
@@ -277,6 +302,17 @@
           "time_info": "[02时51分 ~ 04时36分]"
         },
         {
+          "title": "凤凰女记者：巴外长不断给伊朗做工作，特朗普态度成关键",
+          "url": "https://news.ifeng.com/c/8sVQzCFVrqc",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时11分 ~ 19时54分]"
+        },
+        {
           "title": "美国总统特朗普“重申”：如果不达成伊朗协议，美军就不会解除对霍尔木兹海峡的封锁。 封锁正在摧毁伊朗。",
           "url": "https://wallstreetcn.com/livenews/3091283",
           "source": "华尔街见闻-快讯",
@@ -288,18 +324,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时51分 ~ 04时36分]"
-        },
-        {
-          "title": "事关煤、气、油、电！特朗普动用“战时权力”",
-          "url": "https://www.cls.cn/detail/2350491",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 18时11分]"
         },
         {
           "title": "特朗普称正在赢得战争 在达成“协议”前不会解除对伊朗的封锁",
@@ -357,17 +381,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
-        },
-        {
-          "title": "凤凰女记者：巴外长不断给伊朗做工作，特朗普态度成关键",
-          "url": "https://news.ifeng.com/c/8sVQzCFVrqc",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时11分"
         },
         {
           "title": "据英国金融时报：特朗普的“和平委员会”已与迪拜环球港务集团就加沙重建事宜举行了会谈。",
@@ -447,6 +460,17 @@
           "time_info": "06时34分"
         },
         {
+          "title": "特朗普称伊朗已多次违反停火协议",
+          "url": "https://wallstreetcn.com/livenews/3091787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "最新民调显示，特朗普当前支持率为 37% ，超六成美国人反对扩大对伊军事行动，这一数据意味什么？",
           "url": "https://www.zhihu.com/question/2029573491297395870",
           "source": "知乎",
@@ -491,6 +515,28 @@
           "time_info": "00时54分"
         },
         {
+          "title": "特朗普：伊朗已多次违反停火协议。",
+          "url": "https://wallstreetcn.com/livenews/3091781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
+          "title": "特朗普称伊朗已多次违反停火协议",
+          "url": "https://flash.jin10.com/detail/20260421191658606800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "特朗普成油市最大操盘手？对冲基金高管感叹：他已改变“游戏规则”！",
           "url": "https://flash.jin10.com/detail/20260421083040883800",
           "source": "金十数据",
@@ -519,7 +565,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -546,6 +592,17 @@
           "time_info": "00时54分"
         },
         {
+          "title": "特朗普敦促弗吉尼亚州选民在重新划分选区问题上投“反对票”。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3091774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "美国白宫：特朗普签署与大规模能源及能源相关基础设施有关的决定。",
           "url": "https://flash.jin10.com/detail/20260421042232218800",
           "source": "金十数据",
@@ -557,15 +614,37 @@
           "time_info": "05时38分"
         },
         {
+          "title": "美、布两油短线上扬0.8美元，特朗普称伊朗多次违反停火协议。",
+          "url": "https://flash.jin10.com/detail/20260421191151143800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-21）",
           "url": "https://flash.jin10.com/detail/20260421174329067800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗多次违反停火协议！",
+          "url": "https://flash.jin10.com/detail/20260421190959229800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "美国白宫：特朗普签署与国防生产法案相关的国内石油生产方面的文件；签署与天然气传输、加工、储存及液化天然气能力相关的备忘录。",
@@ -593,7 +672,7 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "中央层面树立和践行正确政绩观学习教育工作专班、中央纪委办公厅公开通报中国航空器材集团有限公司任宇、赵保辉等政绩观扭曲错位、欺瞒组织、侵害群众利益等问题",
@@ -658,7 +737,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -699,6 +778,17 @@
           "time_info": "[03时54分 ~ 04时36分]"
         },
         {
+          "title": "【焦点复盘】创业板指深V反转迎四连阳，算力硬件股现极致分化，商业航天概念强者恒强",
+          "url": "https://www.cls.cn/detail/2350801",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 19时54分]"
+        },
+        {
           "title": "备忘录显示，捷蓝航空首席执行官表示，公司并未考虑申请破产。",
           "url": "https://flash.jin10.com/detail/20260421025841452800",
           "source": "金十数据",
@@ -711,13 +801,24 @@
           "time_info": "[03时54分 ~ 04时36分]"
         },
         {
+          "title": "【数据看盘】机构活跃度明显下降 北向资金联手量化抢筹商业航天人气股",
+          "url": "https://www.cls.cn/detail/2350838",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 19时54分]"
+        },
+        {
           "title": "欧盟交通专员：我们正在努力寻找欧洲的替代航空燃料供应，例如美国生产的航空燃料。",
           "url": "https://flash.jin10.com/detail/20260421175900718800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -728,7 +829,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -824,7 +925,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
@@ -835,8 +936,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时34分 ~ 18时11分]"
+          "appearance_count": 10,
+          "time_info": "[06时34分 ~ 19时54分]"
         },
         {
           "title": "美伊谈判悬而未决，美股低开，油价涨幅收窄，黄金小幅走软",
@@ -895,7 +996,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -910,6 +1011,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时38分 ~ 06时34分]"
+        },
+        {
+          "title": "中东局势缓和叠加沃什听证会预期，美股期指回暖，半导体股普涨，油价续跌",
+          "url": "https://wallstreetcn.com/articles/3770463",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 19时54分]"
         },
         {
           "title": "伊朗谈判曙光提振全球股市，美股期指上涨，韩国综指新高，半导体股领涨，油价续跌",
@@ -998,7 +1110,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -1179,6 +1291,78 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "据华尔街日报：OpenAI正在与包括埃森哲、凯捷和普华永道在内的咨询公司合作，帮助将Codex销售给企业。",
+          "url": "https://flash.jin10.com/detail/20260421193335407800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI表示Codex每周活跃用户数达到了400万，较两周前的300万有所增加。上个月用户超过200万。",
+          "url": "https://flash.jin10.com/detail/20260421193249889800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI正与咨询公司合作，推进其Codex的销售。",
+          "url": "https://flash.jin10.com/detail/20260421193119519800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
+          "title": "如何看待 OpenAI 近期小范围内测的 GPT-image-2 生图模型？",
+          "url": "https://www.zhihu.com/question/2028780908405170838",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 12时41分]"
+        },
+        {
+          "title": "OpenAI正与顾问合作销售Codex。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3091798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
+          "title": "腾讯云宣布开源OpenAI、Manus同款Agent底座",
+          "url": "https://wallstreetcn.com/livenews/3091685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -1273,34 +1457,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时34分 ~ 07时34分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何看待 OpenAI 近期小范围内测的 GPT-image-2 生图模型？",
-          "url": "https://www.zhihu.com/question/2028780908405170838",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
-        },
-        {
-          "title": "腾讯云宣布开源OpenAI、Manus同款Agent底座",
-          "url": "https://wallstreetcn.com/livenews/3091685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时11分"
         }
       ]
     },
