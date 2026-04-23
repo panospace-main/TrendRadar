@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T07:38:50.746783+08:00",
-  "total_titles_processed": 703,
+  "generated_at": "2026-04-23T09:28:56.331022+08:00",
+  "total_titles_processed": 850,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普延长与伊朗停火，外交部回应",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 07时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时03分 ~ 09时28分]"
         },
         {
           "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
@@ -55,6 +55,20 @@
           "time_info": "[00时03分 ~ 04时02分]"
         },
         {
+          "title": "特朗普称最快周五或重启美伊和谈，伊朗称他“又说谎”，以媒称停火期26日结束",
+          "url": "https://wallstreetcn.com/articles/3770634",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时58分 ~ 09时28分]"
+        },
+        {
           "title": "伊朗战争丨伊朗否认举行美伊新谈判：特朗普又说谎了",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -71,11 +85,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 07时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时03分 ~ 09时28分]"
         },
         {
           "title": "美媒：特朗普再给伊朗3至5天停火时间",
@@ -88,20 +103,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时03分 ~ 02时58分]"
-        },
-        {
-          "title": "特朗普称最快周五或重启美伊和谈，伊朗称他“又说谎”，以媒称停火期26日结束",
-          "url": "https://wallstreetcn.com/articles/3770634",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时58分 ~ 07时38分]"
         },
         {
           "title": "伊朗战争丨特朗普：何时结束冲突，目前没有时间表",
@@ -169,6 +170,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "伊朗：特朗普又说谎了",
+          "url": "https://news.ifeng.com/c/8sXbZA8ZMyL",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "伊朗否认举行美伊新谈判，指特朗普“又说谎了”",
@@ -254,6 +266,18 @@
           "time_info": "[01时52分 ~ 02时58分]"
         },
         {
+          "title": "卢拉讽刺：快给特朗普颁诺贝尔奖，这样就不用生活在战争中了",
+          "url": "https://news.ifeng.com/c/8sXQUmwnG6C",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时38分 ~ 09时28分]"
+        },
+        {
           "title": "美国总统特朗普：昨晚在弗吉尼亚州发生了一场被操纵的选举！一整天共和党人都处于领先，势头令人难以置信，直到最后关头，果不其然，出现了大规模的“邮寄选票投递”！",
           "url": "https://flash.jin10.com/detail/20260423013625710800",
           "source": "金十数据",
@@ -307,7 +331,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
         },
@@ -343,17 +367,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
-        },
-        {
-          "title": "卢拉讽刺：快给特朗普颁诺贝尔奖，这样就不用生活在战争中了",
-          "url": "https://news.ifeng.com/c/8sXQUmwnG6C",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时38分"
         },
         {
           "title": "以媒：特朗普设定对伊朗停火期限26日结束",
@@ -428,7 +441,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
         },
@@ -464,6 +477,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "特朗普：何时结束同伊朗冲突目前“没有时间表”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33032152",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普因停火延长而拥有灵活性。",
@@ -542,6 +566,19 @@
           "time_info": "[00时03分 ~ 04时02分]"
         },
         {
+          "title": "美股收盘：纳指涨1.64%创历史新高 中东停火延长及稳健财报提振市场情绪",
+          "url": "https://www.cls.cn/detail/2352859",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时38分 ~ 09时28分]"
+        },
+        {
           "title": "美股尾盘走高，标普500指数涨幅扩大至1%。",
           "url": "https://flash.jin10.com/detail/20260423035203410800",
           "source": "金十数据",
@@ -564,18 +601,6 @@
           "time_info": "04时02分"
         },
         {
-          "title": "美股收盘：纳指涨1.64%创历史新高 中东停火延长及稳健财报提振市场情绪",
-          "url": "https://www.cls.cn/detail/2352859",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时38分 ~ 07时38分]"
-        },
-        {
           "title": "周三（4月22日），美股存储芯片与硬件供应链指数涨4.27%，报144.77点，创收盘历史新高。 信息科技指数涨2.79%，报333.55点，创收盘历史新高。 人工智能（AI）赢家指数涨3.38%，报351.50点。 AI软件先驱指数涨2.64%，报102.66点。",
           "url": "https://wallstreetcn.com/livenews/3092846",
           "source": "华尔街见闻-快讯",
@@ -594,7 +619,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
         },
@@ -693,7 +718,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
         },
@@ -715,7 +740,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
         },
@@ -753,11 +778,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时03分 ~ 09时28分]"
+        },
+        {
+          "title": "首批2名外籍航天员为巴基斯坦籍",
+          "url": "https://www.douyin.com/hot/2475418",
+          "source": "抖音",
+          "ranks": [
+            9,
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 07时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时03分 ~ 09时28分]"
         },
         {
           "title": "英雄航天员陈冬肩章已更为少将军衔",
@@ -784,19 +822,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 07时38分]"
-        },
-        {
-          "title": "首批2名外籍航天员为巴基斯坦籍",
-          "url": "https://www.douyin.com/hot/2475418",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 07时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时03分 ~ 09时28分]"
         },
         {
           "title": "中国空间站将迎来首位外籍航天员",
@@ -805,11 +832,26 @@
           "ranks": [
             17,
             14,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 07时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时03分 ~ 09时28分]"
+        },
+        {
+          "title": "首位外籍航天员将进入中国空间站",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A6%96%E4%BD%8D%E5%A4%96%E7%B1%8D%E8%88%AA%E5%A4%A9%E5%91%98%E5%B0%86%E8%BF%9B%E5%85%A5%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            11,
+            17,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时41分 ~ 09时28分]"
         },
         {
           "title": "市场消息：作为5亿美元援助计划的一部分，美国政府可能持有精神航空至多90%的股份。",
@@ -832,19 +874,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
-        },
-        {
-          "title": "首位外籍航天员将进入中国空间站",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A6%96%E4%BD%8D%E5%A4%96%E7%B1%8D%E8%88%AA%E5%A4%A9%E5%91%98%E5%B0%86%E8%BF%9B%E5%85%A5%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时41分 ~ 07时38分]"
         },
         {
           "title": "首批2名外籍航天员为巴基斯坦籍",
@@ -894,6 +923,165 @@
       ]
     },
     {
+      "keyword_group": "人民币",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美官员称“阿联酋要求互换货币，威胁改用人民币”，阿联酋否认",
+          "url": "https://news.ifeng.com/c/8sX6bqLo5NT",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 07时38分]"
+        },
+        {
+          "title": "人民币对美元中间价报6.8650，下调15个基点。前一交易日中间价报6.8635，在岸人民币16:30收盘价报6.8219，夜盘收报6.8288。",
+          "url": "https://wallstreetcn.com/livenews/3092945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "上期所原油期货2606合约夜盘收涨0.70%，报630元人民币/桶。 沪金夜盘收跌0.19%，沪银收涨0.65%。",
+          "url": "https://wallstreetcn.com/livenews/3092794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 04时02分]"
+        },
+        {
+          "title": "周三（4月22日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.8320元，较周二纽约尾盘跌34点，日内整体交投于6.8217-6.8331元区间。",
+          "url": "https://wallstreetcn.com/livenews/3092851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时42分 ~ 06时39分]"
+        },
+        {
+          "title": "2026年4月23日银行间外汇市场人民币汇率中间价",
+          "url": "https://flash.jin10.com/detail/20260423091535583800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "中国3月Swift人民币在全球支付中占比 3.1%，前值 2.74%。",
+          "url": "https://wallstreetcn.com/livenews/3092934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "中国3月Swift人民币在全球支付中占比 3.1%，前值2.74%。",
+          "url": "https://flash.jin10.com/detail/20260423090008737800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8288元，较周二夜盘收盘涨28点。成交量383.35亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3092799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "四家A股公司同日被立案 均涉信披违法违规|速读公告",
+          "url": "https://www.cls.cn/detail/2352729",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时03分 ~ 09时28分]"
+        },
+        {
+          "title": "A股均价创11年新高！两大板块成“主攻手”，股价跃升标的盘点，这些获融资客重仓",
+          "url": "https://www.cls.cn/detail/2352288",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 06时39分]"
+        },
+        {
+          "title": "外资一季度显著加仓A股市场",
+          "url": "https://wallstreetcn.com/livenews/3092889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2026-04-23）",
+          "url": "https://flash.jin10.com/detail/20260423090730320800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "A股两则利好",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%B8%A4%E5%88%99%E5%88%A9%E5%A5%BD%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 5,
       "titles": [
@@ -913,11 +1101,12 @@
           "url": "https://www.cls.cn/detail/2352843",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时38分 ~ 09时28分]"
         },
         {
           "title": "ServiceNOW一季度营收37.7亿美元，分析师预期37.4亿美元。 一季度剩余待偿还债务126.4亿美元，预计将在二季度增长19%。 公司与谷歌云在AI Agents（AI智能体）领域合作。 预计全年订阅营收157.4亿-157.8亿美元，分析师预期155.4亿美元。 预计二季度订阅用户营收38.2亿美元左右，分析师预期37.5亿美元。 ServiceNOW（NOW）美股盘后重挫12.9%。",
@@ -955,101 +1144,8 @@
       ]
     },
     {
-      "keyword_group": "人民币",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美官员称“阿联酋要求互换货币，威胁改用人民币”，阿联酋否认",
-          "url": "https://news.ifeng.com/c/8sX6bqLo5NT",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 07时38分]"
-        },
-        {
-          "title": "上期所原油期货2606合约夜盘收涨0.70%，报630元人民币/桶。 沪金夜盘收跌0.19%，沪银收涨0.65%。",
-          "url": "https://wallstreetcn.com/livenews/3092794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时58分 ~ 04时02分]"
-        },
-        {
-          "title": "周三（4月22日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.8320元，较周二纽约尾盘跌34点，日内整体交投于6.8217-6.8331元区间。",
-          "url": "https://wallstreetcn.com/livenews/3092851",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时42分 ~ 06时39分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8288元，较周二夜盘收盘涨28点。成交量383.35亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3092799",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "四家A股公司同日被立案 均涉信披违法违规|速读公告",
-          "url": "https://www.cls.cn/detail/2352729",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 07时38分]"
-        },
-        {
-          "title": "A股均价创11年新高！两大板块成“主攻手”，股价跃升标的盘点，这些获融资客重仓",
-          "url": "https://www.cls.cn/detail/2352288",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时03分 ~ 06时39分]"
-        },
-        {
-          "title": "外资一季度显著加仓A股市场",
-          "url": "https://wallstreetcn.com/livenews/3092889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时38分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI在ChatGPT引入Workspace Agents。",
@@ -1075,6 +1171,17 @@
           "time_info": "00时04分"
         },
         {
+          "title": "软银寻求以OpenAI股票作抵押，申请100亿美元保证金贷款。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3092928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "OpenAI：在ChatGPT中引入工作空间助手。",
           "url": "https://flash.jin10.com/detail/20260423014529135800",
           "source": "金十数据",
@@ -1084,6 +1191,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "软银寻求以OpenAI股份为抵押的100亿美元保证金贷款",
+          "url": "https://flash.jin10.com/detail/20260423084403730800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         }
       ]
     },
@@ -1124,11 +1242,12 @@
           "url": "https://www.cls.cn/detail/2352894",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时38分 ~ 09时28分]"
         }
       ]
     }
