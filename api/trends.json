@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T20:16:14.270045+08:00",
-  "total_titles_processed": 1303,
+  "generated_at": "2026-04-27T22:56:54.310741+08:00",
+  "total_titles_processed": 1481,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 70,
       "titles": [
         {
           "title": "现场视频丨突发安全事件，特朗普紧急撤离白宫记者晚宴",
@@ -100,6 +100,18 @@
           "time_info": "[00时31分 ~ 09时31分]"
         },
         {
+          "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
+          "url": "https://news.ifeng.com/c/8sf2y52FJcG",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时59分 ~ 22时56分]"
+        },
+        {
           "title": "特朗普否认枪击事件与伊朗战争有关",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%A6%E8%AE%A4%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E6%9C%89%E5%85%B3",
           "source": "bilibili 热搜",
@@ -160,18 +172,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时31分 ~ 13时00分]"
-        },
-        {
-          "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
-          "url": "https://news.ifeng.com/c/8sf2y52FJcG",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时59分 ~ 20时16分]"
         },
         {
           "title": "枪击案发生时，坐在特朗普旁边的华裔女记者是谁？",
@@ -254,8 +254,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时31分 ~ 20时16分]"
+          "appearance_count": 21,
+          "time_info": "[00时31分 ~ 22时56分]"
         },
         {
           "title": "特朗普夫人反应迅速",
@@ -289,6 +289,17 @@
           "time_info": "[00时32分 ~ 07时31分]"
         },
         {
+          "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
+          "url": "https://news.ifeng.com/c/8sfY3xvuykb",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时15分 ~ 22时56分]"
+        },
+        {
           "title": "特朗普：枪击案嫌疑人留下字条",
           "url": "https://news.ifeng.com/c/8seILG9U4yn",
           "source": "凤凰网",
@@ -311,17 +322,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时31分 ~ 15时34分]"
-        },
-        {
-          "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
-          "url": "https://news.ifeng.com/c/8sfY3xvuykb",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时15分 ~ 20时16分]"
         },
         {
           "title": "美国参议员汤姆·蒂利斯（Thom Tillis）：总统特朗普在发动伊朗战争方面需要清晰的战略目标。",
@@ -517,6 +517,20 @@
           "time_info": "[01时32分 ~ 05时29分]"
         },
         {
+          "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时34分 ~ 22时56分]"
+        },
+        {
           "title": "今晨7:00 特朗普采访将播出",
           "url": "https://flash.jin10.com/detail/20260427034708194800",
           "source": "金十数据",
@@ -540,19 +554,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时27分]"
-        },
-        {
-          "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时34分 ~ 20时16分]"
         },
         {
           "title": "特朗普：枪击案嫌疑人留下呼吁袭击政府官员的字条",
@@ -678,13 +679,24 @@
           "time_info": "[00时32分 ~ 01时32分]"
         },
         {
+          "title": "美国第一夫人梅拉尼娅·特朗普：（关于吉米·基梅尔笑称梅拉尼娅看起来像寡妇）是美国广播公司ABC采取立场的时候了。",
+          "url": "https://flash.jin10.com/detail/20260427222640325800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
           "title": "白宫贸易顾问纳瓦罗：特朗普政府正在调查肉类价格高企问题。",
           "url": "https://wallstreetcn.com/livenews/3094993",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时16分"
         },
@@ -717,7 +729,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时16分"
         },
@@ -868,7 +880,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "7只A股周末集中宣布：将被实施退市风险警示",
@@ -949,8 +961,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时15分 ~ 20时16分]"
+          "appearance_count": 3,
+          "time_info": "[20时15分 ~ 22时56分]"
         },
         {
           "title": "A股前董事长疑涉美国性侵丑闻",
@@ -1007,6 +1019,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
+        },
+        {
+          "title": "A股“新股王”，一季度业绩抵去年全年",
+          "url": "https://www.cls.cn/detail/2357060",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "A股今日85股涨停",
@@ -1067,8 +1090,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "美伊谈判僵局难解，美股开盘小幅下跌，高通涨7%，微软跌约1%，布油日内涨2%",
+          "url": "https://wallstreetcn.com/articles/3770961",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
         {
           "title": "美股财报季进入关键周：“五巨头”将集中亮相 近1/3标普500成分股公布业绩",
           "url": "https://www.cls.cn/detail/2356401",
@@ -1094,6 +1128,18 @@
           "time_info": "[06时27分 ~ 07时31分]"
         },
         {
+          "title": "对冲基金两年来最快速度抛售科技股，美股内部已现裂痕",
+          "url": "https://wallstreetcn.com/articles/3770942",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时15分 ~ 22时56分]"
+        },
+        {
           "title": "美股三大股指期货周一小幅低开0.2%。",
           "url": "https://flash.jin10.com/detail/20260427060114579800",
           "source": "金十数据",
@@ -1104,17 +1150,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时31分]"
-        },
-        {
-          "title": "对冲基金两年来最快速度抛售科技股，美股内部已现裂痕",
-          "url": "https://wallstreetcn.com/articles/3770942",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时15分 ~ 20时16分]"
         },
         {
           "title": "美伊冲突都没带崩美股？“巴菲特指标”冲破200%关键门槛，似有大跌之兆！",
@@ -1139,15 +1174,37 @@
           "time_info": "18时05分"
         },
         {
+          "title": "美股三大指数集体低开 高通涨逾6%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E9%AB%98%E9%80%9A%E6%B6%A8%E9%80%BE6%25",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
           "title": "高通美股盘前涨超14%。",
           "url": "https://wallstreetcn.com/livenews/3094965",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时16分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF多数上涨，区域银行ETF、能源业ETF涨超1%，银行业ETF涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3095065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "威瑞森第一季度调整后EBITDA 134亿美元，预估131.4亿美元。 第一季度营运收入344.4亿美元，预估348亿美元。 第一季度调整后每股收益1.28美元，预估1.21美元。 威瑞森仍然预测全年自由现金流至少215亿美元，市场预估214.3亿美元。 威瑞森预计全年调整后每股收益4.95美元至4.99美元，市场预估4.90美元，此前预估4.9美元-4.95美元。 威瑞森仍然预测全年资本支出160亿美元至165亿美元。 威瑞森仍然预测全年营业现金流375亿美元至380亿美元。 威瑞森美股盘前涨超3%。",
@@ -1156,9 +1213,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时16分"
+        },
+        {
+          "title": "美股盘初：三大股指小幅下跌，高通涨约7%，微软跌约1%",
+          "url": "https://wallstreetcn.com/livenews/3095061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         }
       ]
     },
@@ -1207,7 +1275,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时16分"
         },
@@ -1235,7 +1303,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时16分"
         },
@@ -1246,7 +1314,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时16分"
         },
@@ -1315,8 +1383,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2357129",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
         {
           "title": "郭明錤：OpenAI正与联发科及高通合作开发手机处理器，预计2028年量产。",
           "url": "https://flash.jin10.com/detail/20260427115755863800",
@@ -1352,7 +1431,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时16分"
         }
