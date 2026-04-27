@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T05:45:35.995441+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2026-04-28T06:40:40.114439+08:00",
+  "total_titles_processed": 587,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时40分]"
         },
         {
           "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时40分]"
         },
         {
           "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
@@ -37,8 +37,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时40分]"
         },
         {
           "title": "白宫遭枪击,特朗普紧急撤离",
@@ -49,8 +49,30 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时40分]"
+        },
+        {
+          "title": "美媒：特朗普对伊朗的提议持怀疑态度 但没有断然拒绝",
+          "url": "https://flash.jin10.com/detail/20260428062503291800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
+          "title": "报道：特朗普对伊朗的霍尔木兹海峡方案持怀疑态度",
+          "url": "https://wallstreetcn.com/livenews/3095255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
         },
         {
           "title": "英国国王查尔斯三世抵达白宫，即将会见总统特朗普。",
@@ -58,11 +80,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            14
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时52分 ~ 05时45分]"
+          "appearance_count": 3,
+          "time_info": "[04时52分 ~ 06时40分]"
         },
         {
           "title": "美国白宫：特朗普关于伊朗问题的底线没有改变",
@@ -106,11 +129,12 @@
           "source": "金十数据",
           "ranks": [
             10,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时52分 ~ 05时45分]"
+          "appearance_count": 3,
+          "time_info": "[04时52分 ~ 06时40分]"
         },
         {
           "title": "伊朗战争丨特朗普及其国安团队开会讨论伊朗新提案",
@@ -119,9 +143,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 06时40分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普今天与团队讨论了伊朗的建议。 很快就会听到特朗普对于伊朗的态度。",
@@ -144,6 +168,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "特朗普取消更多风能租赁项目以刺激油气投资",
+          "url": "https://flash.jin10.com/detail/20260428052935112800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
         },
         {
           "title": "白宫：特朗普及其国安团队开会讨论伊朗新提案",
@@ -412,7 +447,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美伊谈判僵局难解，美股开盘小幅下跌，高通涨7%，微软跌约1%，布油日内涨2%",
@@ -433,8 +468,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时40分]"
+        },
+        {
+          "title": "美股收盘：“双英”+三大内存股收创纪录 标普纳指再刷新高",
+          "url": "https://www.cls.cn/detail/2357399",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
         },
         {
           "title": "美股大类资产类ETF涨跌各异",
@@ -442,11 +488,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时52分 ~ 05时45分]"
+          "appearance_count": 3,
+          "time_info": "[04时52分 ~ 06时40分]"
         },
         {
           "title": "美股三大指数集体低开 高通涨逾6%",
@@ -466,11 +513,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时52分 ~ 05时45分]"
+          "appearance_count": 3,
+          "time_info": "[04时52分 ~ 06时40分]"
         },
         {
           "title": "Rambus一季度调整后每股收益（EPS）为0.55美元，运营利润率34%。 预计二季度产品营收0.95亿-1.01亿美元，合同与其他收入0.19亿-0.25亿美元，许可订单0.76亿-0.82亿美元。 Rambus美股盘后涨4%。",
@@ -488,7 +536,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "一季度业绩大爆发！7家A股上市公司净利同比增超10倍",
@@ -498,8 +546,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时40分]"
         },
         {
           "title": "A股活化石“000004”锁定退市",
@@ -512,8 +560,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时40分]"
         },
         {
           "title": "A股“新股王”，一季度业绩抵去年全年",
@@ -524,8 +572,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时40分]"
         },
         {
           "title": "A股两家行业龙头同遭立案",
@@ -539,19 +587,84 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时40分]"
         },
         {
           "title": "十大券商看后市｜A股有望延续震荡上行格局，警惕因分化带来的市场波动",
           "url": "https://m.thepaper.cn/newsDetail_forward_33059765",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时40分]"
+        },
+        {
+          "title": "上证报：“市退”首超“面退”，A股多元化出清格局加速成形",
+          "url": "https://wallstreetcn.com/livenews/3095259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "航天 航空",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美国交通部长达菲：国会必须介入，为低成本航空公司提供25亿美元的援助。",
+          "url": "https://flash.jin10.com/detail/20260428054921696800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
+          "title": "周一（4月27日），美股行业ETF涨跌各异，全球航空业ETF收跌1.81%，日常消费品ETF跌1.07%，可选消费ETF跌0.72%，半导体ETF跌0.04%。 科技行业ETF、全球科技股指数ETF至多涨0.31%，银行业ETF涨1.39%，区域银行ETF涨1.71%。",
+          "url": "https://wallstreetcn.com/livenews/3095225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时52分 ~ 06时40分]"
+        },
+        {
+          "title": "美国财长贝森特警告那些与伊朗航空公司合作的企业。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3095221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时52分 ~ 05时45分]"
+        },
+        {
+          "title": "美国航空公司出售11.4亿美元债券，为32架飞机融资。",
+          "url": "https://wallstreetcn.com/livenews/3095247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
         }
       ]
     },
@@ -559,6 +672,18 @@
       "keyword_group": "人民币",
       "match_count": 4,
       "titles": [
+        {
+          "title": "周一（4月27日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.8262元，较上周五纽约尾盘涨84点，日内整体交投于6.8386-6.8193元区间。",
+          "url": "https://wallstreetcn.com/livenews/3095237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 06时40分]"
+        },
         {
           "title": "上期所原油期货2606合约夜盘收涨1.10%，报654.50元人民币/桶。 沪金夜盘收跌0.66%，沪银收跌0.70%。",
           "url": "https://wallstreetcn.com/livenews/3095182",
@@ -569,17 +694,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
-        },
-        {
-          "title": "周一（4月27日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.8262元，较上周五纽约尾盘涨84点，日内整体交投于6.8386-6.8193元区间。",
-          "url": "https://wallstreetcn.com/livenews/3095237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
         },
         {
           "title": "智飞生物全年营收89.6亿元人民币，分析师预估106.2亿元。",
@@ -627,11 +741,12 @@
           "source": "金十数据",
           "ranks": [
             14,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时52分 ~ 05时45分]"
+          "appearance_count": 3,
+          "time_info": "[04时52分 ~ 06时40分]"
         },
         {
           "title": "周一（4月27日）纽约尾盘，ICE美元指数跌0.07%，报98.461点，日内交投区间为98.644-98.214点，整体呈现出V形走势。 彭博美元指数跌0.10%，报1195.71点，日内交投区间为1198.01-1193.14点，也呈现出两波V形走势。 美元兑日元涨0.01%，报159.40日元，日内交投区间为159.68-159.10日元。",
@@ -659,39 +774,20 @@
       ]
     },
     {
-      "keyword_group": "航天 航空",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周一（4月27日），美股行业ETF涨跌各异，全球航空业ETF收跌1.81%，日常消费品ETF跌1.07%，可选消费ETF跌0.72%，半导体ETF跌0.04%。 科技行业ETF、全球科技股指数ETF至多涨0.31%，银行业ETF涨1.39%，区域银行ETF涨1.71%。",
-          "url": "https://wallstreetcn.com/livenews/3095225",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时52分 ~ 05时45分]"
-        },
-        {
-          "title": "美国财长贝森特警告那些与伊朗航空公司合作的企业。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3095221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时52分 ~ 05时45分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "科技巨头财报周前夕，美股高位徘徊，英伟达续涨4%，油价攀升施压市场，美债下挫",
+          "url": "https://wallstreetcn.com/articles/3770961",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
         {
           "title": "大摩认为沃什将带来长期机制变革风险，加剧美债市场波动",
           "url": "https://wallstreetcn.com/livenews/3095212",
@@ -718,6 +814,37 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2357129",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时40分]"
+        },
+        {
+          "title": "OpenAI：ChatGPT企业版和API平台已获得FedRAMP 20X中等级别授权。美国联邦机构现在可以在我们的FedRAMP环境中访问我们最强大的模型，包括GPT‑5.5。美国联邦机构很快可以通过 FedRAMP ChatGPT企业工作区访问他们的Codex云环境，并利用Codex应用。",
+          "url": "https://flash.jin10.com/detail/20260428054512315800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "农业 机械",
       "match_count": 1,
       "titles": [
@@ -731,25 +858,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2357129",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时45分]"
         }
       ]
     },
