@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T20:11:12.305816+08:00",
-  "total_titles_processed": 1401,
+  "generated_at": "2026-04-29T23:03:11.570076+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 48,
       "titles": [
         {
           "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
@@ -24,6 +24,17 @@
           "time_info": "[01时29分 ~ 15时59分]"
         },
         {
+          "title": "英国国王当面嘲讽美国，特朗普表情亮了",
+          "url": "https://v.ifeng.com/c/8sfYAqkf9J7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时02分 ~ 23时03分]"
+        },
+        {
           "title": "特朗普解散国家科学委员会引震动，学者：将对美基础科研生态造成长期伤害",
           "url": "https://m.thepaper.cn/newsDetail_forward_33069415",
           "source": "澎湃新闻",
@@ -39,6 +50,17 @@
           "time_info": "[01时29分 ~ 13时19分]"
         },
         {
+          "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
+          "url": "https://news.ifeng.com/c/8sijEznYe70",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时02分 ~ 23时03分]"
+        },
+        {
           "title": "特朗普被曝准备长期封锁伊朗！一文读懂：背后有哪些考量？",
           "url": "https://www.cls.cn/detail/2359134",
           "source": "财联社热门",
@@ -52,26 +74,15 @@
           "time_info": "[13时19分 ~ 20时11分]"
         },
         {
-          "title": "英国国王当面嘲讽美国，特朗普表情亮了",
-          "url": "https://v.ifeng.com/c/8sfYAqkf9J7",
+          "title": "特朗普公布持枪造型，威胁伊朗“放聪明点”",
+          "url": "https://news.ifeng.com/c/8siqYiXyeAp",
           "source": "凤凰网",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时02分 ~ 20时11分]"
-        },
-        {
-          "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
-          "url": "https://news.ifeng.com/c/8sijEznYe70",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时02分 ~ 20时11分]"
+          "appearance_count": 2,
+          "time_info": "[23时02分 ~ 23时03分]"
         },
         {
           "title": "特朗普爆伊朗“崩溃”请求开海峡！伊朗却宣布绝对控制，要求缴纳通行费",
@@ -252,6 +263,17 @@
           "time_info": "[09时53分 ~ 09时54分]"
         },
         {
+          "title": "英国查尔斯国王当面嘲讽特朗普，要不是英国，美国现在说的是法语，这是个什么梗？特朗普台下尬笑可能在想啥？",
+          "url": "https://www.zhihu.com/question/2032828585195434245",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时02分 ~ 23时03分]"
+        },
+        {
           "title": "查尔斯国王给特朗普送了口钟",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9F%A5%E5%B0%94%E6%96%AF%E5%9B%BD%E7%8E%8B%E7%BB%99%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%81%E4%BA%86%E5%8F%A3%E9%92%9F%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -284,6 +306,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时53分 ~ 09时54分]"
+        },
+        {
+          "title": "特朗普再次无视英王室规矩拍国王肩膀",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%AC%A1%E6%97%A0%E8%A7%86%E8%8B%B1%E7%8E%8B%E5%AE%A4%E8%A7%84%E7%9F%A9%E6%8B%8D%E5%9B%BD%E7%8E%8B%E8%82%A9%E8%86%80%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时02分 ~ 23时03分]"
         },
         {
           "title": "伊朗战争丨受战事影响，特朗普支持率跌至任内新低",
@@ -541,8 +574,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时44分 ~ 20时11分]"
+          "appearance_count": 10,
+          "time_info": "[07时44分 ~ 23时03分]"
+        },
+        {
+          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
+          "url": "https://wallstreetcn.com/articles/3771151",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[06时46分 ~ 23时03分]"
         },
         {
           "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
@@ -556,19 +603,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时29分 ~ 09时54分]"
-        },
-        {
-          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
-          "url": "https://wallstreetcn.com/articles/3771151",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时46分 ~ 20时11分]"
         },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘初跌1.2%，半导体集体回调，WTI涨破百元大关，金银下挫",
@@ -608,6 +642,19 @@
           "time_info": "[06时46分 ~ 13时19分]"
         },
         {
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时59分 ~ 23时03分]"
+        },
+        {
           "title": "埃隆·马斯克在加州联邦法院的OpenAI案庭审中出庭作证。",
           "url": "https://flash.jin10.com/detail/20260429030025624800",
           "source": "金十数据",
@@ -641,18 +688,6 @@
           "time_info": "06时46分"
         },
         {
-          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
-          "url": "https://wallstreetcn.com/articles/3771182",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时59分 ~ 20时11分]"
-        },
-        {
           "title": "OpenAI：华尔街日报的报道是标题党，公司各项业务“火力全开”",
           "url": "https://wallstreetcn.com/livenews/3095943",
           "source": "华尔街见闻-快讯",
@@ -663,6 +698,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时29分 ~ 03时18分]"
+        },
+        {
+          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032593268840600541",
+          "source": "知乎",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时10分 ~ 23时03分]"
         },
         {
           "title": "报道：OpenAI预计用户将大规模转向更廉价的ChatGPT订阅层级",
@@ -749,17 +796,6 @@
           "time_info": "[06时46分 ~ 07时44分]"
         },
         {
-          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032593268840600541",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时10分 ~ 20时11分]"
-        },
-        {
           "title": "马斯克称奥尔特曼是“小偷”，OpenAI反驳",
           "url": "https://news.ifeng.com/c/8sifWoWmOAa",
           "source": "凤凰网",
@@ -796,7 +832,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "A股稀土永磁板块盘初上扬，西磁科技涨超10%，北方稀土、中稀有色、科隆股份、立中集团、中国稀土跟涨。",
@@ -875,6 +911,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时19分 ~ 15时59分]"
+        },
+        {
+          "title": "A股放量上涨 全市场超百股涨停",
+          "url": "https://www.toutiao.com/trending/7633785740467683354/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时02分 ~ 23时03分]"
         },
         {
           "title": "A股体育概念走高，比音勒芬、共创草坪涨停，亚泰集团、舒华体育、三夫户外等涨幅居前。",
@@ -1148,7 +1195,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时11分"
         }
@@ -1156,7 +1203,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "Silicon Motion Technology Corp.（SIMO）美股盘后涨14%，二季度销售指引超过分析师预期。",
@@ -1216,6 +1263,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时59分 ~ 05时53分]"
+        },
+        {
+          "title": "市场静待联储决策及巨头财报，美股低开，存储芯片股大涨，布油日内涨5%，金银下跌",
+          "url": "https://wallstreetcn.com/articles/3771214",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时02分 ~ 23时03分]"
         },
         {
           "title": "周二（4月28日），美股行业ETF涨跌各异，半导体ETF收跌2.97%，全球科技股指数ETF、科技行业ETF、网络股指数ETF跌1.81%-0.98%. 银行业ETF、区域银行ETF则至多收涨0.43%，能源业ETF涨1.66%。",
@@ -1348,7 +1406,7 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "航天发展：2026年第一季度净亏损1.1亿元",
@@ -1357,7 +1415,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时11分"
         },
@@ -1382,6 +1440,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "国际航协：中东战事致3月全球航空货运需求下跌",
+          "url": "https://wallstreetcn.com/livenews/3096765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         }
       ]
     },
@@ -1396,7 +1465,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时11分"
         },
