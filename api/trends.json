@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T13:19:25.318407+08:00",
-  "total_titles_processed": 946,
+  "generated_at": "2026-04-29T15:59:23.000217+08:00",
+  "total_titles_processed": 1095,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
@@ -16,11 +16,12 @@
             13,
             11,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时29分 ~ 13时19分]"
+          "appearance_count": 11,
+          "time_info": "[01时29分 ~ 15时59分]"
         },
         {
           "title": "特朗普解散国家科学委员会引震动，学者：将对美基础科研生态造成长期伤害",
@@ -60,6 +61,19 @@
           "time_info": "07时44分"
         },
         {
+          "title": "美伊极致拉扯：伊朗或因特朗普不满调整方案，美国禁止向伊缴纳“通行费”！",
+          "url": "https://www.cls.cn/detail/2358925",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 15时59分]"
+        },
+        {
           "title": "美国参议院否决限制特朗普对古巴动武的决议",
           "url": "https://wallstreetcn.com/livenews/3096062",
           "source": "华尔街见闻-快讯",
@@ -82,6 +96,18 @@
           "time_info": "03时18分"
         },
         {
+          "title": "特朗普被曝准备长期封锁伊朗！一文读懂：背后有哪些考量？",
+          "url": "https://www.cls.cn/detail/2359134",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 15时59分]"
+        },
+        {
           "title": "因与特朗普分歧加剧，美驻乌临时代办将离任",
           "url": "https://wallstreetcn.com/livenews/3096049",
           "source": "华尔街见闻-快讯",
@@ -92,6 +118,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时46分 ~ 07时44分]"
+        },
+        {
+          "title": "纪念建国250周年，美国将发行印有特朗普肖像的护照(图)",
+          "url": "https://news.ifeng.com/c/8si2qqUHRAp",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 15时59分]"
         },
         {
           "title": "据CBS：特朗普政府要求对移民申请者进行更严格的安全审查。",
@@ -106,51 +144,17 @@
           "time_info": "[06时46分 ~ 07时44分]"
         },
         {
-          "title": "伊朗战争丨特朗普：要准备好长期封锁伊朗",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 13时19分]"
-        },
-        {
-          "title": "纪念建国250周年，美国将发行印有特朗普肖像的护照(图)",
-          "url": "https://news.ifeng.com/c/8si2qqUHRAp",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 13时19分]"
-        },
-        {
-          "title": "美伊极致拉扯：伊朗或因特朗普不满调整方案，美国禁止向伊缴纳“通行费”！",
-          "url": "https://www.cls.cn/detail/2358925",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 13时19分]"
-        },
-        {
           "title": "美最新民调显示特朗普支持率跌至任内新低 | 环球市场",
           "url": "https://www.cls.cn/detail/2358895",
           "source": "财联社热门",
           "ranks": [
             9,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 13时19分]"
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 15时59分]"
         },
         {
           "title": "特朗普再次无视英国王室规矩",
@@ -158,7 +162,19 @@
           "source": "抖音",
           "ranks": [
             14,
-            10
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 15时59分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普：要准备好长期封锁伊朗",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -186,6 +202,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时53分 ~ 09时54分]"
+        },
+        {
+          "title": "特朗普：美国准备长期封锁伊朗",
+          "url": "https://www.cls.cn/detail/2358979",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 15时59分]"
         },
         {
           "title": "美国将发行印有特朗普肖像的护照",
@@ -219,17 +247,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
-        },
-        {
-          "title": "特朗普被曝准备长期封锁伊朗！一文读懂：背后有哪些考量？",
-          "url": "https://www.cls.cn/detail/2359134",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
         },
         {
           "title": "美国驻乌克兰大使将因与美国总统特朗普的分歧而离职。",
@@ -287,15 +304,15 @@
           "time_info": "07时44分"
         },
         {
-          "title": "特朗普：美国准备长期封锁伊朗",
-          "url": "https://www.cls.cn/detail/2358979",
+          "title": "美最新民调显示：特朗普支持率跌至任内新低",
+          "url": "https://www.cls.cn/detail/2358886",
           "source": "财联社热门",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时19分"
+          "time_info": "15时59分"
         },
         {
           "title": "特朗普回应德国总理嘲笑：他根本不懂自己在说什么",
@@ -315,7 +332,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -364,6 +381,17 @@
           "time_info": "03时18分"
         },
         {
+          "title": "英国王嘲讽美国特朗普表情亮了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E7%8E%8B%E5%98%B2%E8%AE%BD%E7%BE%8E%E5%9B%BD%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E6%83%85%E4%BA%AE%E4%BA%86%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时59分"
+        },
+        {
           "title": "消息人士透露，美国情报部门正在研判伊朗对特朗普宣布获胜可能做出的反应。官员们认为，尽管军事选项依然存在，但冲突大规模升级的可能性已有所降低。",
           "url": "https://flash.jin10.com/detail/20260429022426041800",
           "source": "金十数据",
@@ -386,6 +414,17 @@
           "time_info": "09时54分"
         },
         {
+          "title": "特朗普对德国总理涉伊朗言论不满",
+          "url": "https://www.toutiao.com/trending/7633736555437506611/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时59分"
+        },
+        {
           "title": "美国财长贝森特在声明中表示，总统特朗普打算提名G·亨特·麦克马斯特二世（G. Hunter McMaster II）担任主管金融市场的助理部长。",
           "url": "https://wallstreetcn.com/livenews/3096080",
           "source": "华尔街见闻-快讯",
@@ -399,8 +438,235 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 20,
+      "titles": [
+        {
+          "title": "A股稀土永磁板块盘初上扬，西磁科技涨超10%，北方稀土、中稀有色、科隆股份、立中集团、中国稀土跟涨。",
+          "url": "https://flash.jin10.com/detail/20260429094632720800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "A股体育概念股震荡拉升，舒华体育、共创草坪、三人行涨停，三夫户外、中体产业、双象股份、金陵体育纷纷走强。",
+          "url": "https://wallstreetcn.com/livenews/3096121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "A股PCB板块震荡走高，光莆股份、日联科技双双20cm涨停，铜冠铜箔涨超9%，瑞华泰、迅捷兴、中富电路、奕东电子等个股跟涨。日前，覆铜板行业龙头建滔集团旗下广东建滔积层板销售有限公司发布正式涨价通知，从即日起上调FR-4覆铜板及PP半固化片价格，调整幅度为10%。",
+          "url": "https://flash.jin10.com/detail/20260429094536196800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "A股电池产业链午后持续走强，鹏辉能源触及20cm涨停，德方纳米、丰元股份、龙蟠科技此前涨停，石大胜华、恩捷股份涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260429131042352800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
+          "title": "A股食品等消费股盘初走强，安井食品、天味食品、百润股份、西麦食品涨停，良品铺子、盐津铺子、黑芝麻、万辰集团跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3096118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "A股地产股早盘走强，绿地控股、金融街涨停，荣盛发展、金地集团、福星股份、华夏幸福跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3096113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "一夜16家！A股大批个股集中“戴帽”",
+          "url": "https://www.cls.cn/detail/2357584",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 15时59分]"
+        },
+        {
+          "title": "A股体育概念走高，比音勒芬、共创草坪涨停，亚泰集团、舒华体育、三夫户外等涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260429094319599800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "A股锂矿概念低开高走，德方纳米涨超8%，天华新能、西部矿业、永兴材料、国城矿业、雅化集团等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260429094314465800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "A股光伏设备板块盘初上扬，苏州固锝涨停，同享科技涨超15%，艾罗能源、锦浪科技、固德威、高测股份、酉立智能跟涨。",
+          "url": "https://flash.jin10.com/detail/20260429093959959800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "A股地产股盘初走强，金融街、绿地控股双双涨停，荣盛发展涨超7%，金地集团、福星股份、华发股份、信达地产等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260429093947819800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "A股旅游酒店板块盘初冲高，大连圣亚涨超6%，首旅酒店、长白山、三峡旅游、锦江酒店、丽江股份等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260429093813875800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "A股电池板块反复活跃，丰元股份涨停，德方纳米、宏工科技、鹏辉能源、铜冠铜箔、中伟新材跟涨。",
+          "url": "https://flash.jin10.com/detail/20260429093632724800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "A股收评：沪指涨0.71%重回4100点",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E6%B2%AA%E6%8C%87%E6%B6%A80.71%25%E9%87%8D%E5%9B%9E4100%E7%82%B9",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时59分"
+        },
+        {
+          "title": "A股游戏股盘初拉升，天娱数科涨停，游族网络、慈星股份、汤姆猫、富春股份、北纬科技跟涨。",
+          "url": "https://flash.jin10.com/detail/20260429093215241800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "癌症药物研发公司Erasca股价暴跌55% 一名患者因药物副作用去世",
+          "url": "https://flash.jin10.com/detail/20260429021301478800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "比亚迪AH股齐涨，A股涨超2%，H股涨超3%；公司表示，受存储硬件成本大涨影响，部分车型选装天神之眼B辅助驾驶激光版的价格将从9900元上调为12000元。",
+          "url": "https://flash.jin10.com/detail/20260429093200199800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "A股收盘：创业板指低开高走涨超2%，全市场超百股涨停",
+          "url": "https://wallstreetcn.com/livenews/3096297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时59分"
+        },
+        {
+          "title": "A股迎大反转",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%BF%8E%E5%A4%A7%E5%8F%8D%E8%BD%AC%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时59分"
+        },
+        {
+          "title": "A股低迷原因找到了",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%BD%8E%E8%BF%B7%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
@@ -416,6 +682,17 @@
           "time_info": "[01时29分 ~ 09时54分]"
         },
         {
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时44分 ~ 15时59分]"
+        },
+        {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘初跌1.2%，半导体集体回调，WTI涨破百元大关，金银下挫",
           "url": "https://wallstreetcn.com/articles/3771095",
           "source": "华尔街见闻",
@@ -425,17 +702,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时29分 ~ 05时53分]"
-        },
-        {
-          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
-          "url": "https://wallstreetcn.com/articles/3771095",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时44分 ~ 13时19分]"
         },
         {
           "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
@@ -462,6 +728,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时46分 ~ 13时19分]"
+        },
+        {
+          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
+          "url": "https://wallstreetcn.com/articles/3771151",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时46分 ~ 15时59分]"
         },
         {
           "title": "埃隆·马斯克在加州联邦法院的OpenAI案庭审中出庭作证。",
@@ -495,18 +774,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
-        },
-        {
-          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
-          "url": "https://wallstreetcn.com/articles/3771151",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时46分 ~ 13时19分]"
         },
         {
           "title": "OpenAI：华尔街日报的报道是标题党，公司各项业务“火力全开”",
@@ -605,6 +872,17 @@
           "time_info": "[06时46分 ~ 07时44分]"
         },
         {
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时59分"
+        },
+        {
           "title": "市场分析：科技股抛售潮折射出OpenAI的巨大影响力",
           "url": "https://flash.jin10.com/detail/20260429025003263800",
           "source": "金十数据",
@@ -629,199 +907,6 @@
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "A股稀土永磁板块盘初上扬，西磁科技涨超10%，北方稀土、中稀有色、科隆股份、立中集团、中国稀土跟涨。",
-          "url": "https://flash.jin10.com/detail/20260429094632720800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "A股体育概念股震荡拉升，舒华体育、共创草坪、三人行涨停，三夫户外、中体产业、双象股份、金陵体育纷纷走强。",
-          "url": "https://wallstreetcn.com/livenews/3096121",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "A股PCB板块震荡走高，光莆股份、日联科技双双20cm涨停，铜冠铜箔涨超9%，瑞华泰、迅捷兴、中富电路、奕东电子等个股跟涨。日前，覆铜板行业龙头建滔集团旗下广东建滔积层板销售有限公司发布正式涨价通知，从即日起上调FR-4覆铜板及PP半固化片价格，调整幅度为10%。",
-          "url": "https://flash.jin10.com/detail/20260429094536196800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "A股电池产业链午后持续走强，鹏辉能源触及20cm涨停，德方纳米、丰元股份、龙蟠科技此前涨停，石大胜华、恩捷股份涨幅居前。",
-          "url": "https://flash.jin10.com/detail/20260429131042352800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
-          "title": "A股食品等消费股盘初走强，安井食品、天味食品、百润股份、西麦食品涨停，良品铺子、盐津铺子、黑芝麻、万辰集团跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3096118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "A股地产股早盘走强，绿地控股、金融街涨停，荣盛发展、金地集团、福星股份、华夏幸福跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3096113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "A股体育概念走高，比音勒芬、共创草坪涨停，亚泰集团、舒华体育、三夫户外等涨幅居前。",
-          "url": "https://flash.jin10.com/detail/20260429094319599800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "A股锂矿概念低开高走，德方纳米涨超8%，天华新能、西部矿业、永兴材料、国城矿业、雅化集团等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260429094314465800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "A股光伏设备板块盘初上扬，苏州固锝涨停，同享科技涨超15%，艾罗能源、锦浪科技、固德威、高测股份、酉立智能跟涨。",
-          "url": "https://flash.jin10.com/detail/20260429093959959800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "A股地产股盘初走强，金融街、绿地控股双双涨停，荣盛发展涨超7%，金地集团、福星股份、华发股份、信达地产等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260429093947819800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "一夜16家！A股大批个股集中“戴帽”",
-          "url": "https://www.cls.cn/detail/2357584",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
-          "title": "A股旅游酒店板块盘初冲高，大连圣亚涨超6%，首旅酒店、长白山、三峡旅游、锦江酒店、丽江股份等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260429093813875800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "A股电池板块反复活跃，丰元股份涨停，德方纳米、宏工科技、鹏辉能源、铜冠铜箔、中伟新材跟涨。",
-          "url": "https://flash.jin10.com/detail/20260429093632724800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "A股游戏股盘初拉升，天娱数科涨停，游族网络、慈星股份、汤姆猫、富春股份、北纬科技跟涨。",
-          "url": "https://flash.jin10.com/detail/20260429093215241800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "癌症药物研发公司Erasca股价暴跌55% 一名患者因药物副作用去世",
-          "url": "https://flash.jin10.com/detail/20260429021301478800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时18分"
-        },
-        {
-          "title": "比亚迪AH股齐涨，A股涨超2%，H股涨超3%；公司表示，受存储硬件成本大涨影响，部分车型选装天神之眼B辅助驾驶激光版的价格将从9900元上调为12000元。",
-          "url": "https://flash.jin10.com/detail/20260429093200199800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "A股低迷原因找到了",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%BD%8E%E8%BF%B7%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时44分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人民币",
       "match_count": 10,
       "titles": [
@@ -832,11 +917,12 @@
           "ranks": [
             3,
             12,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时29分 ~ 13时19分]"
+          "appearance_count": 11,
+          "time_info": "[01时29分 ~ 15时59分]"
         },
         {
           "title": "上期所原油期货2606合约夜盘收涨1.33%，报668.40元人民币/桶。 沪金夜盘收跌1.31%，沪银收跌2.35%。",
@@ -856,7 +942,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -901,7 +987,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -1063,11 +1149,12 @@
             27,
             26,
             25,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时29分 ~ 13时19分]"
+          "appearance_count": 10,
+          "time_info": "[01时29分 ~ 15时59分]"
         },
         {
           "title": "体检迟到两分钟被取消事业单位入职资格，法院判决人社局机械执法，责令重新处置，如何从法律角度解读？",
@@ -1078,8 +1165,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 13时19分]"
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 15时59分]"
         },
         {
           "title": "张柱任农业农村部党组书记",
@@ -1093,6 +1180,18 @@
           "time_info": "[01时29分 ~ 03时18分]"
         },
         {
+          "title": "张柱任农业农村部党组书记",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33071887",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时44分 ~ 15时59分]"
+        },
+        {
           "title": "美国农业部长Rollins：USDA（农业部）寻求与化肥工厂CF Industries氨工厂相关的许可。",
           "url": "https://wallstreetcn.com/livenews/3096013",
           "source": "华尔街见闻-快讯",
@@ -1104,24 +1203,13 @@
           "time_info": "05时53分"
         },
         {
-          "title": "张柱任农业农村部党组书记",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33071887",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时44分"
-        },
-        {
           "title": "农业农村部：全力推动扩大农业农村有效投资",
           "url": "https://wallstreetcn.com/livenews/3096196",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         }
@@ -1185,6 +1273,35 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "影响金价的关键因素是什么",
+          "url": "https://www.douyin.com/hot/2482875",
+          "source": "抖音",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 15时59分]"
+        },
+        {
+          "title": "全球央行在一季度金价大幅波动期间“大量购入”黄金",
+          "url": "https://wallstreetcn.com/livenews/3096314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -1211,23 +1328,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时29分 ~ 03时18分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "影响金价的关键因素是什么",
-          "url": "https://www.douyin.com/hot/2482875",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
         }
       ]
     }
