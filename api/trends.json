@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T22:14:18.504269+08:00",
-  "total_titles_processed": 1589,
+  "generated_at": "2026-05-01T23:46:05.386810+08:00",
+  "total_titles_processed": 1705,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 67,
+      "match_count": 71,
       "titles": [
         {
           "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
@@ -54,11 +54,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时55分 ~ 22时14分]"
+          "appearance_count": 13,
+          "time_info": "[09时55分 ~ 23时46分]"
         },
         {
           "title": "特朗普政府为何要说对伊战争已结束？原因揭晓",
@@ -107,6 +108,17 @@
           "time_info": "[13时34分 ~ 16时02分]"
         },
         {
+          "title": "特朗普回应伊朗赴美踢世界杯：我没意见",
+          "url": "https://news.ifeng.com/c/8slyIPscfsJ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时47分 ~ 23时46分]"
+        },
+        {
           "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33082398",
           "source": "澎湃新闻",
@@ -121,6 +133,20 @@
           "time_info": "[00时17分 ~ 09时55分]"
         },
         {
+          "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时47分 ~ 23时46分]"
+        },
+        {
           "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
           "url": "https://m.thepaper.cn/newsDetail_forward_33081850",
           "source": "澎湃新闻",
@@ -132,6 +158,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时17分 ~ 09时55分]"
+        },
+        {
+          "title": "郑丽文拟访美盼见特朗普，黄国昌回应",
+          "url": "https://news.ifeng.com/c/8sm9eTtZoPK",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时01分 ~ 23时46分]"
         },
         {
           "title": "特朗普称美国结束对伊朗战争",
@@ -149,17 +186,6 @@
           "time_info": "[13时34分 ~ 19时02分]"
         },
         {
-          "title": "特朗普回应伊朗赴美踢世界杯：我没意见",
-          "url": "https://news.ifeng.com/c/8slyIPscfsJ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时47分 ~ 22时14分]"
-        },
-        {
           "title": "还是不解气，特朗普又炮轰默茨",
           "url": "https://news.ifeng.com/c/8skrGhZKZnd",
           "source": "凤凰网",
@@ -169,19 +195,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时22分 ~ 09时55分]"
-        },
-        {
-          "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时47分 ~ 22时14分]"
         },
         {
           "title": "特朗普，居然这都能搞错？",
@@ -226,17 +239,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
-        },
-        {
-          "title": "郑丽文拟访美盼见特朗普，黄国昌回应",
-          "url": "https://news.ifeng.com/c/8sm9eTtZoPK",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时01分 ~ 22时14分]"
         },
         {
           "title": "美国总统特朗普签署许可，授权通过输油管线Bridger Pipeline将加拿大石油供应到怀俄明州。 这将在美国联邦政府层面为跨境的Bridger项目建设、衔接、运营扫清障碍。",
@@ -343,6 +345,17 @@
           "time_info": "[06时41分 ~ 07时43分]"
         },
         {
+          "title": "屡遭暗杀还不考虑穿防弹衣？特朗普：穿着显胖",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33088375",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时45分 ~ 23时46分]"
+        },
+        {
           "title": "特朗普：只有少数人知晓美伊谈判实际进展",
           "url": "https://wallstreetcn.com/livenews/3097733",
           "source": "华尔街见闻-快讯",
@@ -353,6 +366,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时41分 ~ 07时43分]"
+        },
+        {
+          "title": "总统能上太空吗？特朗普现场发问，NASA局长：可以安排",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33088692",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时45分 ~ 23时46分]"
         },
         {
           "title": "白宫：美国总统特朗普签署国会山移交的预算拨款草案为法律，从而结束国土安全部（DHS）的停摆状态。",
@@ -431,6 +455,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "德国副总理：我们不需要特朗普的建议",
+          "url": "https://wallstreetcn.com/livenews/3097945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "特朗普称他可能需要打破伊朗停火协议",
@@ -587,6 +622,17 @@
           "time_info": "19时02分"
         },
         {
+          "title": "美国能源部长赖特：作为特朗普“和平管道”议程的一部分，中欧和东欧正在讨论多个管道项目，以促进繁荣与安全。",
+          "url": "https://flash.jin10.com/detail/20260501225206321800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "特朗普称只有他和少数几个人知道伊朗谈判的真实情况。",
           "url": "https://flash.jin10.com/detail/20260501032430305800",
           "source": "金十数据",
@@ -604,7 +650,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时14分"
         },
@@ -747,7 +793,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时14分"
         },
@@ -777,7 +823,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "经济数据与财报提振市场情绪，美股高开，日元跳涨，油价高位回落，金银上涨",
@@ -887,6 +933,17 @@
           "time_info": "[07时43分 ~ 09时55分]"
         },
         {
+          "title": "伊朗提新谈判方案，美股高开高走，苹果绩后一度涨近6%，美油盘中跌超5%",
+          "url": "https://wallstreetcn.com/articles/3771459",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时45分 ~ 23时46分]"
+        },
+        {
           "title": "Sandisk第三财季营收59.5亿美元，分析师预期47.2亿美元。第三财季调整后每股收益（EPS）为23.41美元，分析师预期14.51美元。预计第四财季营收77.5亿-82.5亿美元，分析师预期66.5亿美元。预计第四财季调整后EPS为30-33美元，分析师预期24.6美元。Sandisk美股盘后跌8%。",
           "url": "https://wallstreetcn.com/livenews/3097714",
           "source": "华尔街见闻-快讯",
@@ -916,7 +973,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时14分"
         },
@@ -938,7 +995,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时14分"
         },
@@ -949,7 +1006,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时14分"
         },
@@ -998,6 +1055,17 @@
           "time_info": "09时55分"
         },
         {
+          "title": "美股存储板块走高，美光科技(MU.O)涨5.07%，闪迪(SNDK.O)涨4.03%，西部数据(WDC.O)转涨，希捷科技(STX.O)涨5.32%。",
+          "url": "https://flash.jin10.com/detail/20260501222150341800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "西部数据第三财季净营收33.4亿美元，同比增长45%，分析师预期32.3亿美元。 第三财季GAAP毛利润率50.2%，非GAAP毛利率50.5%。 预计第四财季营收将同比增长36%-44%。 预计第四财季运营开支3.85亿-3.95亿美元，预计调整后毛利润率51%-52%。 西部数据（WDC）美股盘后跌超6.44%。",
           "url": "https://wallstreetcn.com/livenews/3097700",
           "source": "华尔街见闻-快讯",
@@ -1012,7 +1080,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
@@ -1024,8 +1092,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时41分 ~ 22时14分]"
+          "appearance_count": 16,
+          "time_info": "[06时41分 ~ 23时46分]"
         },
         {
           "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
@@ -1038,8 +1106,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时41分 ~ 22时14分]"
+          "appearance_count": 16,
+          "time_info": "[06时41分 ~ 23时46分]"
+        },
+        {
+          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
+          "url": "https://wallstreetcn.com/articles/3771450",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时47分 ~ 23时46分]"
         },
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -1053,19 +1135,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时17分 ~ 07时43分]"
-        },
-        {
-          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
-          "url": "https://wallstreetcn.com/articles/3771450",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时47分 ~ 22时14分]"
         },
         {
           "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
@@ -1129,6 +1198,17 @@
           "time_info": "[07时42分 ~ 09时55分]"
         },
         {
+          "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
+          "url": "https://wallstreetcn.com/articles/3771451",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时45分 ~ 23时46分]"
+        },
+        {
           "title": "谷歌A收涨10%，创收盘历史新高。",
           "url": "https://wallstreetcn.com/livenews/3097696",
           "source": "华尔街见闻-快讯",
@@ -1160,6 +1240,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "航天 航空",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "伊朗对美国航空设备造成28亿美元损失",
+          "url": "https://flash.jin10.com/detail/20260501131245062800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时35分"
+        },
+        {
+          "title": "航空公司Spirit Airlines准备关闭，该公司没能（与特朗普政府）达成一份救助协议。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3097947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "印度政府：柴油出口关税为每升23卢比；航空煤油出口关税为每升33卢比。",
+          "url": "https://flash.jin10.com/detail/20260501013314216800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "精神航空准备停止运营",
+          "url": "https://flash.jin10.com/detail/20260501230523970800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "美国能源信息署（EIA）：美国2月石油与石油产品需求创2025年8月份以来新高。 2月航空燃油需求创一年新低。 2月精炼燃油需求创四年新高。",
+          "url": "https://wallstreetcn.com/livenews/3097639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时03分"
         }
       ]
     },
@@ -1335,45 +1476,6 @@
       ]
     },
     {
-      "keyword_group": "航天 航空",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "伊朗对美国航空设备造成28亿美元损失",
-          "url": "https://flash.jin10.com/detail/20260501131245062800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时35分"
-        },
-        {
-          "title": "印度政府：柴油出口关税为每升23卢比；航空煤油出口关税为每升33卢比。",
-          "url": "https://flash.jin10.com/detail/20260501013314216800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时03分"
-        },
-        {
-          "title": "美国能源信息署（EIA）：美国2月石油与石油产品需求创2025年8月份以来新高。 2月航空燃油需求创一年新低。 2月精炼燃油需求创四年新高。",
-          "url": "https://wallstreetcn.com/livenews/3097639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时03分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人民币",
       "match_count": 3,
       "titles": [
@@ -1387,11 +1489,12 @@
             19,
             20,
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时17分 ~ 22时14分]"
+          "appearance_count": 20,
+          "time_info": "[00时17分 ~ 23时46分]"
         },
         {
           "title": "周四（4月30日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8320元，较周三纽约尾盘涨154点，日内整体交投于6.8479-6.8279元区间。 日线图上，4月2日，离岸人民币微跌至6.9042元，随后持续走高，4月14日达到6.8059元，月内绝大部分时间都交投于6.85元上方。",
@@ -1444,8 +1547,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时01分 ~ 22时14分]"
+          "appearance_count": 7,
+          "time_info": "[19时01分 ~ 23时46分]"
         },
         {
           "title": "周四（4月30日）纽约尾盘，美国10年期基准国债收益率下跌6.11个基点，刷新日低至4.3686%，4月份累计上涨5.41个基点，整体交投于4.2243%-4.4339%区间，4月17日跳水至期内底部，随后持续回升。 两年期美债收益率下跌8.20个基点，刷新日低至3.8648%，4月份累涨7.59个基点，整体交投于3.6768%-3.9510%区间。",
