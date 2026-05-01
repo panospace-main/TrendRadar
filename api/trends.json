@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T19:02:09.894894+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2026-05-01T20:54:08.475822+08:00",
+  "total_titles_processed": 1481,
   "failed_sources": [],
   "trends": [
     {
@@ -45,8 +45,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[04时22分 ~ 19时02分]"
+          "appearance_count": 15,
+          "time_info": "[04时22分 ~ 20时54分]"
+        },
+        {
+          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
+          "url": "https://www.cls.cn/detail/2361654",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时55分 ~ 20时54分]"
         },
         {
           "title": "特朗普政府为何要说对伊战争已结束？原因揭晓",
@@ -93,18 +105,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时34分 ~ 16时02分]"
-        },
-        {
-          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
-          "url": "https://www.cls.cn/detail/2361654",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时55分 ~ 19时02分]"
         },
         {
           "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
@@ -177,9 +177,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
+        },
+        {
+          "title": "特朗普回应伊朗赴美踢世界杯：我没意见",
+          "url": "https://news.ifeng.com/c/8slyIPscfsJ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时47分 ~ 20时54分]"
         },
         {
           "title": "特朗普家族支持的无人机公司与美国签署武器采购协议",
@@ -202,6 +213,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时47分 ~ 20时54分]"
         },
         {
           "title": "美国总统特朗普签署许可，授权通过输油管线Bridger Pipeline将加拿大石油供应到怀俄明州。 这将在美国联邦政府层面为跨境的Bridger项目建设、衔接、运营扫清障碍。",
@@ -251,33 +274,22 @@
           "time_info": "[13时34分 ~ 16时02分]"
         },
         {
+          "title": "郑丽文拟访美盼见特朗普，黄国昌回应",
+          "url": "https://news.ifeng.com/c/8sm9eTtZoPK",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时01分 ~ 20时54分]"
+        },
+        {
           "title": "伊朗战争丨特朗普晒图：霍尔木兹海峡被更名为“特朗普海峡”",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时47分 ~ 19时02分]"
-        },
-        {
-          "title": "特朗普回应伊朗赴美踢世界杯：我没意见",
-          "url": "https://news.ifeng.com/c/8slyIPscfsJ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时47分 ~ 19时02分]"
-        },
-        {
-          "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -328,17 +340,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时41分 ~ 07时43分]"
-        },
-        {
-          "title": "郑丽文拟访美盼见特朗普，黄国昌回应",
-          "url": "https://news.ifeng.com/c/8sm9eTtZoPK",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
         },
         {
           "title": "特朗普：只有少数人知晓美伊谈判实际进展",
@@ -580,7 +581,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -753,7 +754,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "经济数据与财报提振市场情绪，美股高开，日元跳涨，油价高位回落，金银上涨",
@@ -779,13 +780,24 @@
           "time_info": "04时22分"
         },
         {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3097909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "埃克森美孚第一季度收入及其他收益851.4亿美元。 第一季度调整后每股收益1.16美元，预估0.96美元。 埃克森美孚美股盘前涨近2%。",
           "url": "https://wallstreetcn.com/livenews/3097873",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -869,7 +881,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -880,7 +892,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -894,6 +906,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "苹果美股盘前涨幅扩大至逾4%。",
+          "url": "https://wallstreetcn.com/livenews/3097892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "苹果公司第二财季营收1111.8亿美元，分析师预期1096.6亿美元。 第二财季产品营收802.1亿美元，分析师预期81.3亿美元。 第二财季iPhone营收569.9亿美元，创历史新高，分析师预期569.8亿美元；iPhone 17“需求极其强劲”。 第二财季iPad营收69.1亿美元，分析师预期66.5亿美元。 第二财季Mac营收84亿美元，分析师预期81.3亿美元。 第二财季可穿戴设备、居家、周边营收79亿美元，分析师预期77.2亿美元。 第二财季服务营收309.8亿美元，分析师预期303.7亿美元。 第二财季美国营收450.9亿美元，分析师预期458.2亿美元。 第二财季大中华区营收205亿美元，分析师预期189.1亿美元。 第二财季每股收益（EPS）为2.01美元，分析师预期1.96美元。 苹果美股盘后涨0.6%，瞬间转而跌超1.2%，随后又迅速转而涨超1%。",
@@ -944,8 +967,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时41分 ~ 19时02分]"
+          "appearance_count": 13,
+          "time_info": "[06时41分 ~ 20时54分]"
         },
         {
           "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
@@ -954,11 +977,12 @@
           "ranks": [
             11,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时41分 ~ 19时02分]"
+          "appearance_count": 13,
+          "time_info": "[06时41分 ~ 20时54分]"
         },
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -972,6 +996,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时17分 ~ 07时43分]"
+        },
+        {
+          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
+          "url": "https://wallstreetcn.com/articles/3771450",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时47分 ~ 20时54分]"
         },
         {
           "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
@@ -996,18 +1033,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时34分 ~ 16时02分]"
-        },
-        {
-          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
-          "url": "https://wallstreetcn.com/articles/3771450",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时47分 ~ 19时02分]"
         },
         {
           "title": "谷歌公司：开始在配置谷歌的乘用车推广Gemini。",
@@ -1224,7 +1249,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -1304,11 +1329,12 @@
             18,
             19,
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时17分 ~ 19时02分]"
+          "appearance_count": 17,
+          "time_info": "[00时17分 ~ 20时54分]"
         },
         {
           "title": "周四（4月30日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8320元，较周三纽约尾盘涨154点，日内整体交投于6.8479-6.8279元区间。 日线图上，4月2日，离岸人民币微跌至6.9042元，随后持续走高，4月14日达到6.8059元，月内绝大部分时间都交投于6.85元上方。",
@@ -1352,6 +1378,18 @@
           "time_info": "[00时17分 ~ 06时41分]"
         },
         {
+          "title": "狼终于来了！日本两年来首度干预，日元飙升，油价、美股和美债“联动”",
+          "url": "https://wallstreetcn.com/articles/3771452",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时01分 ~ 20时54分]"
+        },
+        {
           "title": "周四（4月30日）纽约尾盘，美国10年期基准国债收益率下跌6.11个基点，刷新日低至4.3686%，4月份累计上涨5.41个基点，整体交投于4.2243%-4.4339%区间，4月17日跳水至期内底部，随后持续回升。 两年期美债收益率下跌8.20个基点，刷新日低至3.8648%，4月份累涨7.59个基点，整体交投于3.6768%-3.9510%区间。",
           "url": "https://wallstreetcn.com/livenews/3097736",
           "source": "华尔街见闻-快讯",
@@ -1362,17 +1400,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时41分 ~ 07时43分]"
-        },
-        {
-          "title": "狼终于来了！日本两年来首度干预，日元飙升，油价、美股和美债“联动”",
-          "url": "https://wallstreetcn.com/articles/3771452",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
         }
       ]
     },
