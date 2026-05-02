@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T07:42:25.252084+08:00",
-  "total_titles_processed": 644,
+  "generated_at": "2026-05-02T09:45:12.450110+08:00",
+  "total_titles_processed": 755,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 80,
+      "match_count": 90,
       "titles": [
         {
           "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
@@ -22,17 +22,31 @@
           "time_info": "[00时44分 ~ 07时42分]"
         },
         {
+          "title": "伊朗经调解方转交谈判新方案，特朗普称“不满意”、告知国会与伊敌对行动“结束”",
+          "url": "https://wallstreetcn.com/articles/3771465",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时42分 ~ 09时45分]"
+        },
+        {
           "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
           "url": "https://www.cls.cn/detail/2361654",
           "source": "财联社热门",
           "ranks": [
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 07时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 09时45分]"
         },
         {
           "title": "屡遭暗杀还不考虑穿防弹衣？特朗普：穿着显胖",
@@ -43,8 +57,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 07时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 09时45分]"
         },
         {
           "title": "总统能上太空吗？特朗普现场发问，NASA局长：可以安排",
@@ -55,20 +69,30 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 07时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 09时45分]"
         },
         {
-          "title": "伊朗经调解方转交谈判新方案，特朗普称“不满意”、告知国会与伊敌对行动“结束”",
-          "url": "https://wallstreetcn.com/articles/3771465",
-          "source": "华尔街见闻",
+          "title": "德副总理：不需要特朗普指点，他该先关注自己捅出的篓子",
+          "url": "https://news.ifeng.com/c/8smXkOIlSF7",
+          "source": "凤凰网",
           "ranks": [
-            5,
-            4
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时42分 ~ 07时42分]"
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普：说我们没赢，这是叛国",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
         },
         {
           "title": "特朗普称，伊朗最新方案让人不满意。WTI原油5分钟内上涨0.67美元/桶，报101.72美元/桶。",
@@ -126,6 +150,19 @@
           "time_info": "00时44分"
         },
         {
+          "title": "美国总统特朗普正将大约5000名美军士兵撤出美国。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3098071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时43分 ~ 09时45分]"
+        },
+        {
           "title": "美国总统特朗普：（关于伊朗）我感到不满。",
           "url": "https://flash.jin10.com/detail/20260502003003874800",
           "source": "金十数据",
@@ -157,18 +194,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
-        },
-        {
-          "title": "美国总统特朗普正将大约5000名美军士兵撤出美国。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3098071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时43分 ~ 07时42分]"
         },
         {
           "title": "德国副总理：我们不需要特朗普的建议",
@@ -265,6 +290,19 @@
           "time_info": "[04时55分 ~ 06时40分]"
         },
         {
+          "title": "美国总统特朗普：已经告知德国，美方将把汽车关税提高至25%。 德国没有遵守我们的贸易协议。 欧盟没有遵守与美国的贸易协议。",
+          "url": "https://wallstreetcn.com/livenews/3098062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时40分 ~ 09时45分]"
+        },
+        {
           "title": "美国总统特朗普：将迎来一位出色的美联储主席。",
           "url": "https://wallstreetcn.com/livenews/3098059",
           "source": "华尔街见闻-快讯",
@@ -275,6 +313,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时43分 ~ 07时42分]"
+        },
+        {
+          "title": "伊朗战争会再次影响访华行程吗？特朗普答凤凰记者问",
+          "url": "https://news.ifeng.com/c/8snAXIe1Bbr",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
         },
         {
           "title": "伊朗经调解方转交谈判新方案，特朗普称“不满意”、告知国会与伊战事已“结束”",
@@ -310,6 +359,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时01分 ~ 04时55分]"
+        },
+        {
+          "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
+          "url": "https://www.cls.cn/detail/2362026",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
+        },
+        {
+          "title": "顶住特朗普压力，美国两大能源巨头拒绝提高石油产量",
+          "url": "https://wallstreetcn.com/articles/3771461",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
         },
         {
           "title": "特朗普称美国和伊朗正在通过电话进行谈判",
@@ -371,16 +442,15 @@
           "time_info": "[01时49分 ~ 02时56分]"
         },
         {
-          "title": "美国总统特朗普：已经告知德国，美方将把汽车关税提高至25%。 德国没有遵守我们的贸易协议。 欧盟没有遵守与美国的贸易协议。",
-          "url": "https://wallstreetcn.com/livenews/3098062",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普称全球油价将断崖式暴跌",
+          "url": "https://www.douyin.com/hot/2485953",
+          "source": "抖音",
           "ranks": [
-            13,
-            17
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时40分 ~ 07时42分]"
+          "time_info": "[09时44分 ~ 09时45分]"
         },
         {
           "title": "美国总统特朗普：美国现在生产和卖出的石油更多了。",
@@ -449,7 +519,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -474,6 +544,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "特朗普称美国“几乎能立即接管”古巴",
+          "url": "https://flash.jin10.com/detail/20260502084948231800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "特朗普声称美国“几乎能立即”接管古巴",
+          "url": "https://wallstreetcn.com/livenews/3098094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "美国总统特朗普：（关于对欧盟汽车的关税）将迫使公司将生产转移至美国。",
@@ -575,6 +667,17 @@
           "time_info": "00时44分"
         },
         {
+          "title": "美国总统特朗普：（关于伊朗）我们不会提前离开，问题会再次出现。",
+          "url": "https://flash.jin10.com/detail/20260502080736827800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
           "title": "特朗普不发邀请函，非盟委员会主席：没有南非的G20峰会将“毫无意义”",
           "url": "https://wallstreetcn.com/livenews/3097958",
           "source": "华尔街见闻-快讯",
@@ -606,6 +709,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "美国总统特朗普：已经销售1亿桶委内瑞拉石油。 多家大型美国石油公司正前往委内瑞拉。",
+          "url": "https://wallstreetcn.com/livenews/3098088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "美国总统特朗普：不确定我们是否能达成协议。",
@@ -939,22 +1053,24 @@
           "url": "https://flash.jin10.com/detail/20260502040603336800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时55分 ~ 07时42分]"
+          "appearance_count": 5,
+          "time_info": "[04时55分 ~ 09时45分]"
         },
         {
           "title": "金十图示：2026年05月01日（周五）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260502040600017800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时55分 ~ 07时42分]"
+          "appearance_count": 5,
+          "time_info": "[04时55分 ~ 09时45分]"
         },
         {
           "title": "金十图示：2026年05月01日（周五）热门中概股行情一览（美股盘中）",
@@ -968,17 +1084,6 @@
           "time_info": "00时44分"
         },
         {
-          "title": "美股存储芯片指数涨3.5%创收盘历史新高，成分股闪迪、希捷、美光领跑",
-          "url": "https://wallstreetcn.com/livenews/3098084",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
           "title": "游戏驿站（GME）美股盘后涨4%，报道称该公司考虑收购eBay。",
           "url": "https://wallstreetcn.com/livenews/3098073",
           "source": "华尔街见闻-快讯",
@@ -988,17 +1093,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周五（5月1日），美国科技股七巨头（Magnificent 7）指数涨1.01%，报215.12点，早盘曾达到216.83点——突破4月27日所创收盘历史最高位215.24点，本周累计上涨0.91%。 “超大”市值科技股指数涨1.26%，报426.01点，突破2025年10月29日所创收盘历史最高位422.72点，刷新盘中历史高位至428.31点，本周累涨1.08%。",
-          "url": "https://wallstreetcn.com/livenews/3098081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时42分"
         },
         {
           "title": "伊朗提新谈判方案，美股高开高走，苹果绩后一度涨近6%，美油盘中跌超5%",
@@ -1012,27 +1106,53 @@
           "time_info": "00时44分"
         },
         {
+          "title": "美股收盘，道指初步收跌0.31%、标普500指数涨0.29%、纳指涨0.89%。因Q1财报靓丽，苹果(AAPL.O)收涨3.24%、闪迪(SNDK.O)涨8.25%。英特尔(INTC.O)涨5.44%，收盘价为99.62美元创下新高。",
+          "url": "https://flash.jin10.com/detail/20260502040111732800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时55分 ~ 09时45分]"
+        },
+        {
           "title": "游戏驿站（GME）美股盘后涨4%，报道称该公司考虑收购eBay。 eBay盘后涨幅扩大至13%。",
           "url": "https://wallstreetcn.com/livenews/3098073",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            7
+            7,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时40分 ~ 07时42分]"
+          "appearance_count": 3,
+          "time_info": "[06时40分 ~ 09时45分]"
         },
         {
-          "title": "美股收盘，道指初步收跌0.31%、标普500指数涨0.29%、纳指涨0.89%。因Q1财报靓丽，苹果(AAPL.O)收涨3.24%、闪迪(SNDK.O)涨8.25%。英特尔(INTC.O)涨5.44%，收盘价为99.62美元创下新高。",
-          "url": "https://flash.jin10.com/detail/20260502040111732800",
-          "source": "金十数据",
+          "title": "美股存储芯片指数涨3.5%创收盘历史新高，成分股闪迪、希捷、美光领跑",
+          "url": "https://wallstreetcn.com/livenews/3098084",
+          "source": "华尔街见闻-快讯",
           "ranks": [
+            2,
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时55分 ~ 07时42分]"
+          "appearance_count": 2,
+          "time_info": "[07时42分 ~ 09时45分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周五（5月1日），美国科技股七巨头（Magnificent 7）指数涨1.01%，报215.12点，早盘曾达到216.83点——突破4月27日所创收盘历史最高位215.24点，本周累计上涨0.91%。 “超大”市值科技股指数涨1.26%，报426.01点，突破2025年10月29日所创收盘历史最高位422.72点，刷新盘中历史高位至428.31点，本周累涨1.08%。",
+          "url": "https://wallstreetcn.com/livenews/3098081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时42分 ~ 09时45分]"
         },
         {
           "title": "周五（5月1日），彭博电动汽车价格回报指数涨0.27%，报4065.97点，全天主要高位震荡、美股开盘以来呈现出V形走势，本周累计上涨2.48%。",
@@ -1073,7 +1193,7 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "美国总统特朗普：（关于精神航空）将于周五晚些时候发布公告。",
@@ -1122,16 +1242,28 @@
           "time_info": "[04时55分 ~ 07时42分]"
         },
         {
+          "title": "知情人士透露，特朗普政府与精神航空控股公司（Spirit Aviation Holdings Inc.）之间的谈判已经结束，未能达成救助这家陷入困境的航空公司的协议。上述人士表示，该航司正准备在纽约时间周六凌晨3点左右停止运营。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3098096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
           "title": "因燃料成本撤回2026年业绩指引，加拿大航空股价下跌",
           "url": "https://wallstreetcn.com/livenews/3098070",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            10
+            10,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时43分 ~ 07时42分]"
+          "appearance_count": 4,
+          "time_info": "[05时43分 ~ 09时45分]"
         },
         {
           "title": "航空公司Spirit Airlines预计将于美东时间周六03:00左右停止运营。（华尔街日报）",
@@ -1158,6 +1290,17 @@
           "time_info": "[02时56分 ~ 04时01分]"
         },
         {
+          "title": "精神航空目前预计将于美东时间周六凌晨3点左右停止运营。",
+          "url": "https://flash.jin10.com/detail/20260502041619727800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
           "title": "美联航：若精神航空发生停运，将准备支持其客户和员工。",
           "url": "https://flash.jin10.com/detail/20260502005533303800",
           "source": "金十数据",
@@ -1180,22 +1323,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 07时42分]"
-        },
-        {
-          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
-          "url": "https://www.cls.cn/detail/2361634",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 07时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 09时45分]"
         },
         {
           "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
@@ -1210,6 +1343,18 @@
           "time_info": "[00时44分 ~ 06时40分]"
         },
         {
+          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
+          "url": "https://www.cls.cn/detail/2361634",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 09时45分]"
+        },
+        {
           "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
           "url": "https://wallstreetcn.com/articles/3771451",
           "source": "华尔街见闻",
@@ -1219,8 +1364,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 07时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 09时45分]"
         },
         {
           "title": "美国国会山成员们下周将会见科技巨头们的代表。 英伟达、谷歌公司、Anthropic、Meta、特斯拉、英特尔、应用材料的代表们将与议员们见面。（Axios）",
@@ -1251,8 +1396,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 07时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 09时45分]"
         },
         {
           "title": "短端美债收益率本周累涨约10个基点",
@@ -1260,11 +1405,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时40分 ~ 07时42分]"
+          "appearance_count": 3,
+          "time_info": "[06时40分 ~ 09时45分]"
         },
         {
           "title": "周五（5月1日）纽约尾盘，美国10年期基准国债收益率跌0.08个基点，报4.3698%，北京时间21:48涨至4.4029%刷新日高，随后跳水——22:24刷新日低至4.3408%，本周累计上涨6.91个基点，4月27-40日持续走高、亚太午盘达到4.4339%，随后持续回吐涨幅。 两年期美债收益率涨0.86个基点，报3.8775%，21:48涨至3.9022%刷新日高、22:22跌至3.8424%刷新日低，本周累涨9.92个基点，4月29日纽约中午曾涨至3.9510%。",
@@ -1288,11 +1434,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353910&amp;topic_name=%E4%BA%BA%E6%B0%91%E5%B8%81%E5%86%92%E5%85%85%E6%97%A5%E5%85%83%3F%E6%97%A5%E7%BD%91%E5%8F%8B%E5%8F%88%E7%88%86%E5%85%B8",
           "source": "贴吧",
           "ranks": [
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 07时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 09时45分]"
         },
         {
           "title": "周五（5月1日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.8310元，较周四纽约尾盘涨10点，日内整体交投于6.8360-6.8233元区间。",
@@ -1300,11 +1447,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时43分 ~ 07时42分]"
+          "appearance_count": 4,
+          "time_info": "[05时43分 ~ 09时45分]"
         }
       ]
     },
@@ -1317,11 +1465,12 @@
           "url": "https://wallstreetcn.com/livenews/3098085",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时42分 ~ 09时45分]"
         },
         {
           "title": "美元指数本周跌超0.3%",
