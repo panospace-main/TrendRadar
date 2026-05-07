@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T19:14:08.645385+08:00",
-  "total_titles_processed": 1305,
+  "generated_at": "2026-05-07T20:29:28.755222+08:00",
+  "total_titles_processed": 1414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "中方再回应特朗普访华",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时22分 ~ 19时14分]"
+          "appearance_count": 7,
+          "time_info": "[13时22分 ~ 20时29分]"
         },
         {
           "title": "【早报】油价大幅跳水！特朗普：美伊“很有可能”达成协议；以军在停火期间突袭贝鲁特",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时47分 ~ 16时14分]"
+        },
+        {
+          "title": "美全力以赴，赶在7月4日前改好卡塔尔赠送的特朗普专机",
+          "url": "https://news.ifeng.com/c/8svoq7iNUv4",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时13分 ~ 20时29分]"
         },
         {
           "title": "为什么特朗普“不得不”常买中国货",
@@ -81,15 +92,18 @@
           "time_info": "[13时22分 ~ 16时14分]"
         },
         {
-          "title": "美全力以赴，赶在7月4日前改好卡塔尔赠送的特朗普专机",
-          "url": "https://news.ifeng.com/c/8svoq7iNUv4",
-          "source": "凤凰网",
+          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
+          "url": "https://wallstreetcn.com/articles/3771687",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            10,
+            8,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时13分 ~ 19时14分]"
+          "appearance_count": 7,
+          "time_info": "[13时22分 ~ 20时29分]"
         },
         {
           "title": "伊朗战争丨特朗普预估美伊“一周”达成协议",
@@ -114,19 +128,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时21分 ~ 07时48分]"
-        },
-        {
-          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
-          "url": "https://wallstreetcn.com/articles/3771687",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时22分 ~ 19时14分]"
         },
         {
           "title": "美国总统特朗普：我认为油价会涨到200到250美元。现在是100美元。即使涨到200美元，也值得。",
@@ -169,8 +170,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时13分 ~ 19时14分]"
+          "appearance_count": 5,
+          "time_info": "[16时13分 ~ 20时29分]"
         },
         {
           "title": "市场消息：据一位知情人士透露，特朗普政府正在研究利用美国军事基地及国防部其他场所地下的石油资源，以补充国家日益减少的应急储备。",
@@ -317,6 +318,17 @@
           "time_info": "13时23分"
         },
         {
+          "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
+          "url": "https://wallstreetcn.com/articles/3771704",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：将在周三晚些时候与美国总统特朗普通话。",
           "url": "https://flash.jin10.com/detail/20260507005926962800",
           "source": "金十数据",
@@ -414,6 +426,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "美国总统特朗普：真材实料——黄金——位于迈阿密多拉尔。由伟大的美国爱国者们打造。",
+          "url": "https://flash.jin10.com/detail/20260507201615968800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "美国总统特朗普：我们将攫取伊朗的浓缩铀。",
@@ -779,8 +802,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时40分 ~ 19时14分]"
+          "appearance_count": 11,
+          "time_info": "[06时40分 ~ 20时29分]"
         },
         {
           "title": "美股收盘：纳指、标普再创新高 AMD、康宁接力暴涨 中概股表现亮眼",
@@ -871,11 +894,12 @@
           "url": "https://wallstreetcn.com/articles/3771706",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 20时29分]"
         },
         {
           "title": "康宁公司（GLW）维持超过14%的涨幅，持稳于185美元附近，美股盘初曾达到195.81美元——盘中涨幅超过20.79%。 英伟达拟向该公司投资高达32亿美元，签署大规模光纤协议并新建三座AI专用工厂。",
@@ -936,7 +960,7 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "中国航天员中心招募卧床实验志愿者：最高拿7万元，但不能玩手机",
@@ -1003,11 +1027,12 @@
             4,
             12,
             22,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时52分 ~ 19时14分]"
+          "appearance_count": 8,
+          "time_info": "[09时52分 ~ 20时29分]"
         },
         {
           "title": "中国航天招卧床志愿者 最高补助7万",
@@ -1016,11 +1041,34 @@
           "ranks": [
             10,
             14,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时22分 ~ 19时14分]"
+          "appearance_count": 7,
+          "time_info": "[13时22分 ~ 20时29分]"
+        },
+        {
+          "title": "欧盟委员会指导草案：地方燃料短缺可能使航空公司免于支付因航班取消而产生的赔偿。",
+          "url": "https://flash.jin10.com/detail/20260507202519112800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
+          "title": "欧盟委员会指导草案：欧盟未报告出现航空燃油短缺。",
+          "url": "https://flash.jin10.com/detail/20260507202449866800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "伊朗战争冲击利润 阿联酋航空奖金缩水",
@@ -1029,9 +1077,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
+        },
+        {
+          "title": "金螳螂：公司目前未从事商业航天核心产业（含火箭研制、卫星制造、发射服务等），亦未开展数据中心算力运营业务。公司仅以装饰及机电主业为上述领域提供基础设施配套服务，目前仅承接少量商业航天发射场配套工程及数据中心施工项目，施工范围含办公楼、餐厅、公寓楼、机电工程等，合计占营收比例不足1%，对业绩无重大影响。",
+          "url": "https://wallstreetcn.com/livenews/3099980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "法国总统马克龙：“戴高乐”号航空母舰的前沿部署正是出于这一背景。近期事态清楚地表明，这样一支任务部队将发挥怎样的积极作用。",
@@ -1070,7 +1129,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "上期所原油期货2606合约夜盘收跌5.11%，报633.20元人民币/桶。 沪金夜盘收涨0.98%，沪银收涨2.80%。",
@@ -1082,6 +1141,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "碧桂园在港交所公告，4月单月共实现归属公司股东权益的合同销售金额约人民币25.0亿元，归属公司股东权益的合同销售建筑面积约34万平方米。",
+          "url": "https://wallstreetcn.com/livenews/3099989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "人民币兑美元中间价时隔逾三年首次升破6.85关口",
@@ -1181,6 +1251,36 @@
       ]
     },
     {
+      "keyword_group": "农业 机械",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "2000飙至30万！美农业部长甩锅：怪中国",
+          "url": "https://news.ifeng.com/c/8stvW3IMKAo",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[01时21分 ~ 20时29分]"
+        },
+        {
+          "title": "成都：积极发展现代种业 大力发展智慧农业",
+          "url": "https://flash.jin10.com/detail/20260507200203780800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -1219,11 +1319,12 @@
           "ranks": [
             9,
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 19时14分]"
+          "appearance_count": 6,
+          "time_info": "[09时52分 ~ 20时29分]"
         },
         {
           "title": "2/10年期美债收益率跌超7个基点，追随国际油价下跌的表现",
@@ -1263,25 +1364,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农业 机械",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "2000飙至30万！美农业部长甩锅：怪中国",
-          "url": "https://news.ifeng.com/c/8stvW3IMKAo",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时21分 ~ 19时14分]"
         }
       ]
     },
