@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T13:23:01.756934+08:00",
-  "total_titles_processed": 963,
+  "generated_at": "2026-05-07T16:14:17.120103+08:00",
+  "total_titles_processed": 1132,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "中方再回应特朗普访华",
@@ -19,6 +19,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时21分 ~ 09时52分]"
+        },
+        {
+          "title": "【早报】油价大幅跳水！特朗普：美伊“很有可能”达成协议；以军在停火期间突袭贝鲁特",
+          "url": "https://www.cls.cn/detail/2364367",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时47分 ~ 16时14分]"
         },
         {
           "title": "为什么特朗普“不得不”常买中国货",
@@ -47,6 +59,28 @@
           "time_info": "[03时20分 ~ 09时52分]"
         },
         {
+          "title": "伊朗战争丨特朗普突然叫停“自由计划”内幕披露",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时22分 ~ 16时14分]"
+        },
+        {
+          "title": "为特朗普庆生，白宫将举办“自由250”格斗赛",
+          "url": "https://news.ifeng.com/c/8svZidpLu1e",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时22分 ~ 16时14分]"
+        },
+        {
           "title": "伊朗战争丨特朗普预估美伊“一周”达成协议",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -71,38 +105,15 @@
           "time_info": "[01时21分 ~ 07时48分]"
         },
         {
-          "title": "【早报】油价大幅跳水！特朗普：美伊“很有可能”达成协议；以军在停火期间突袭贝鲁特",
-          "url": "https://www.cls.cn/detail/2364367",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时47分 ~ 13时23分]"
-        },
-        {
-          "title": "伊朗战争丨特朗普突然叫停“自由计划”内幕披露",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "title": "美全力以赴，赶在7月4日前改好卡塔尔赠送的特朗普专机",
+          "url": "https://news.ifeng.com/c/8svoq7iNUv4",
           "source": "凤凰网",
           "ranks": [
-            1
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时22分 ~ 13时23分]"
-        },
-        {
-          "title": "为特朗普庆生，白宫将举办“自由250”格斗赛",
-          "url": "https://news.ifeng.com/c/8svZidpLu1e",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 13时23分]"
+          "time_info": "[16时13分 ~ 16时14分]"
         },
         {
           "title": "美国总统特朗普：我认为油价会涨到200到250美元。现在是100美元。即使涨到200美元，也值得。",
@@ -138,6 +149,29 @@
           "time_info": "03时20分"
         },
         {
+          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
+          "url": "https://wallstreetcn.com/articles/3771687",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时22分 ~ 16时14分]"
+        },
+        {
+          "title": "为什么特朗普、孙宇晨、傅盛纷纷入局 AI 中转站卖 Token 了？",
+          "url": "https://www.zhihu.com/question/2035667399110653049",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时13分 ~ 16时14分]"
+        },
+        {
           "title": "市场消息：据一位知情人士透露，特朗普政府正在研究利用美国军事基地及国防部其他场所地下的石油资源，以补充国家日益减少的应急储备。",
           "url": "https://flash.jin10.com/detail/20260507054528380800",
           "source": "金十数据",
@@ -148,17 +182,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时40分 ~ 07时48分]"
-        },
-        {
-          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
-          "url": "https://wallstreetcn.com/articles/3771687",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 13时23分]"
         },
         {
           "title": "特朗普称暂停自由计划行动",
@@ -211,7 +234,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -277,7 +300,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -442,7 +465,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -538,7 +561,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
@@ -561,8 +584,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时21分 ~ 13时23分]"
+          "appearance_count": 13,
+          "time_info": "[01时21分 ~ 16时14分]"
         },
         {
           "title": "A股半导体板块午后持续走高，华虹公司涨超10%创新高，澜起科技、阿石创、诚邦股份、裕太微涨幅居前。",
@@ -571,7 +594,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -593,7 +616,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -615,7 +638,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -641,6 +664,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时40分 ~ 07时48分]"
+        },
+        {
+          "title": "A股连续两日超百股涨停",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E8%BF%9E%E7%BB%AD%E4%B8%A4%E6%97%A5%E8%B6%85%E7%99%BE%E8%82%A1%E6%B6%A8%E5%81%9C",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时13分 ~ 16时14分]"
         },
         {
           "title": "A股光伏设备板块盘初拉升，安彩高科直线涨停，连城数控、钧达股份、迈为股份、拉普拉斯等多股涨超5%。",
@@ -723,7 +757,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
@@ -733,8 +767,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时40分 ~ 13时23分]"
+          "appearance_count": 8,
+          "time_info": "[06时40分 ~ 16时14分]"
+        },
+        {
+          "title": "美股收盘：纳指、标普再创新高 AMD、康宁接力暴涨 中概股表现亮眼",
+          "url": "https://www.cls.cn/detail/2364348",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时47分 ~ 16时14分]"
         },
         {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
@@ -747,19 +795,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时21分 ~ 05时03分]"
-        },
-        {
-          "title": "美股收盘：纳指、标普再创新高 AMD、康宁接力暴涨 中概股表现亮眼",
-          "url": "https://www.cls.cn/detail/2364348",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时47分 ~ 13时23分]"
         },
         {
           "title": "美伊停战预期升温 美股期指齐涨 原油大跌 | 今夜看点",
@@ -783,6 +818,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
+        },
+        {
+          "title": "美股盘前，ARM跌超4%，公司Q4财季营收同比增长20.2%。",
+          "url": "https://wallstreetcn.com/livenews/3099863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
         },
         {
           "title": "美股行业ETF多数收涨，半导体ETF涨约5.2%，能源业ETF跌超4.1%",
@@ -818,6 +864,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "国际油价短线跳水，布伦特原油日内跌幅达3.0%，报98.1美元/桶。 美股股指期货快速拉升，纳指期货日内涨幅扩大至0.3%。 美元指数短线走低，日内跌0.16%。",
+          "url": "https://wallstreetcn.com/livenews/3099839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
         },
         {
           "title": "金十图示：2026年05月06日（周三）美股热门股票行情一览（美股收盘）",
@@ -866,11 +923,12 @@
             12,
             13,
             9,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时21分 ~ 13时23分]"
+          "appearance_count": 13,
+          "time_info": "[01时21分 ~ 16时14分]"
         },
         {
           "title": "中国航天招志愿者最新消息：能玩手机",
@@ -920,22 +978,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            12
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时52分 ~ 13时23分]"
+          "appearance_count": 5,
+          "time_info": "[09时52分 ~ 16时14分]"
         },
         {
           "title": "中国航天招卧床志愿者 最高补助7万",
           "url": "https://www.toutiao.com/trending/7635880618395536938/",
           "source": "今日头条",
           "ranks": [
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 13时23分]"
+          "appearance_count": 4,
+          "time_info": "[13时22分 ~ 16时14分]"
         },
         {
           "title": "法国总统马克龙：“戴高乐”号航空母舰的前沿部署正是出于这一背景。近期事态清楚地表明，这样一支任务部队将发挥怎样的积极作用。",
@@ -955,7 +1015,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -974,7 +1034,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "上期所原油期货2606合约夜盘收跌5.11%，报633.20元人民币/桶。 沪金夜盘收涨0.98%，沪银收涨2.80%。",
@@ -1008,6 +1068,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
+        },
+        {
+          "title": "离岸人民币兑美元升破6.8，创2023年2月来新高。",
+          "url": "https://wallstreetcn.com/livenews/3099837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
         },
         {
           "title": "周三（5月6日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.8132元，较周二纽约尾盘涨138点，日内整体交投于6.8283-6.8049元区间。",
@@ -1110,11 +1181,12 @@
           "url": "https://wallstreetcn.com/articles/3771684",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
+          "appearance_count": 3,
+          "time_info": "[09时52分 ~ 16时14分]"
         },
         {
           "title": "2/10年期美债收益率跌超7个基点，追随国际油价下跌的表现",
@@ -1167,11 +1239,12 @@
           "source": "凤凰网",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时21分 ~ 13时23分]"
+          "appearance_count": 13,
+          "time_info": "[01时21分 ~ 16时14分]"
         }
       ]
     },
