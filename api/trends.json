@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T06:52:29.061787+08:00",
-  "total_titles_processed": 563,
+  "generated_at": "2026-05-08T07:43:57.708120+08:00",
+  "total_titles_processed": 615,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 32,
       "titles": [
         {
           "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时32分 ~ 06时52分]"
+          "appearance_count": 8,
+          "time_info": "[01时32分 ~ 07时43分]"
         },
         {
           "title": "伊朗战争丨特朗普与教皇争吵后，鲁比奥访问梵蒂冈",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时32分 ~ 06时52分]"
+          "appearance_count": 8,
+          "time_info": "[01时32分 ~ 07时43分]"
         },
         {
           "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
@@ -49,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时32分 ~ 06时52分]"
+          "appearance_count": 8,
+          "time_info": "[01时32分 ~ 07时43分]"
         },
         {
           "title": "美国总统特朗普：已同意给欧盟委员会主席冯德莱恩时间至美国建国250周年纪念日；否则，很遗憾，他们的关税将立即大幅上调。",
@@ -64,26 +64,15 @@
           "time_info": "03时24分"
         },
         {
-          "title": "美国总统特朗普：如果伊朗不迅速签署协议，那么在将来，我们将会以更猛烈、更激烈的手段来对付他们。",
-          "url": "https://flash.jin10.com/detail/20260508063613403800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时52分"
-        },
-        {
-          "title": "美国总统特朗普：三艘驱逐舰没有受到损坏，但伊朗攻击者遭受了重大损失。",
-          "url": "https://flash.jin10.com/detail/20260508063514510800",
-          "source": "金十数据",
+          "title": "特朗普回应打击伊朗：只是轻微敲打",
+          "url": "https://news.ifeng.com/c/8swugAgjYdA",
+          "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时52分"
+          "time_info": "07时43分"
         },
         {
           "title": "美国总统特朗普：与欧盟委员会主席冯德莱恩的通话非常愉快。",
@@ -97,15 +86,28 @@
           "time_info": "03时24分"
         },
         {
-          "title": "美国总统特朗普：三艘世界级的美国驱逐舰刚刚成功通过霍尔木兹海峡，期间遭到攻击。",
-          "url": "https://flash.jin10.com/detail/20260508063506045800",
+          "title": "美国总统特朗普：如果伊朗不迅速签署协议，那么在将来，我们将会以更猛烈、更激烈的手段来对付他们。",
+          "url": "https://flash.jin10.com/detail/20260508063613403800",
           "source": "金十数据",
           "ranks": [
-            3
+            1,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时43分]"
+        },
+        {
+          "title": "美国总统特朗普：三艘驱逐舰没有受到损坏，但伊朗攻击者遭受了重大损失。",
+          "url": "https://flash.jin10.com/detail/20260508063514510800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时43分]"
         },
         {
           "title": "美国高级官员：特朗普与伊朗的停火还没有结束。（福克斯新闻）",
@@ -118,6 +120,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时58分 ~ 05时49分]"
+        },
+        {
+          "title": "美国总统特朗普：三艘世界级的美国驱逐舰刚刚成功通过霍尔木兹海峡，期间遭到攻击。",
+          "url": "https://flash.jin10.com/detail/20260508063506045800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时43分]"
         },
         {
           "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
@@ -135,11 +149,36 @@
           "url": "https://flash.jin10.com/detail/20260508062437973800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时43分]"
+        },
+        {
+          "title": "美国总统特朗普：对伊朗目标的军事袭击就是一个“小剐蹭”（love tap）而已。 停火协议正在推进之中，停火是有效的。（ABC新闻）",
+          "url": "https://wallstreetcn.com/livenews/3100240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时43分]"
+        },
+        {
+          "title": "美国、巴西两国首脑华盛顿会晤，卢拉认为：特朗普不会对即将到来的巴西选举产任何影响",
+          "url": "https://wallstreetcn.com/livenews/3100233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时43分]"
         },
         {
           "title": "美国总统特朗普：会见巴西总统卢拉的情况非常不错。",
@@ -151,17 +190,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
-        },
-        {
-          "title": "美国总统特朗普：对伊朗目标的军事袭击就是一个“小剐蹭”（love tap）而已。 停火协议正在推进之中，停火是有效的。（ABC新闻）",
-          "url": "https://wallstreetcn.com/livenews/3100240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时52分"
         },
         {
           "title": "特朗普政府正寻求重启“自由计划”，最早可能在本周实施",
@@ -186,26 +214,59 @@
           "time_info": "05时49分"
         },
         {
-          "title": "美国、巴西两国首脑华盛顿会晤，卢拉认为：特朗普不会对即将到来的巴西选举产任何影响",
-          "url": "https://wallstreetcn.com/livenews/3100233",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时52分"
-        },
-        {
           "title": "特朗普的10%关税遭遇法律挫折 但裁决不具普遍性",
           "url": "https://flash.jin10.com/detail/20260508061022135800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
+        },
+        {
+          "title": "美伊又在霍尔木兹海峡交火！特朗普：停火还在，这只是“小惩罚”",
+          "url": "https://flash.jin10.com/detail/20260508064900117800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "特朗普：美伊停火仍有效，3艘美军舰穿越霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3100247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "特朗普称美驱逐舰成功穿过海峡 威胁伊朗迅速达成协议",
+          "url": "https://flash.jin10.com/detail/20260508064638405800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "美法院：特朗普政府的全球进口关税缺乏法律依据",
+          "url": "https://wallstreetcn.com/livenews/3100246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "特朗普会见巴西总统卢拉讨论关税等问题",
@@ -214,9 +275,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗由疯狂的领导人掌控，如果有机会使用核武器，他们会毫不犹豫地这样做——但他们永远不会有这个机会。",
+          "url": "https://flash.jin10.com/detail/20260508063727794800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "市场消息：美国贸易法院裁定特朗普提出的10%全球关税提案不成立。",
@@ -258,7 +330,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -283,12 +355,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        },
+        {
+          "title": "特朗普的10%全球关税遭遇法律挫折 但裁决不具普遍性",
+          "url": "https://flash.jin10.com/detail/20260508061022135800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
@@ -318,11 +401,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时32分 ~ 06时52分]"
+          "appearance_count": 8,
+          "time_info": "[01时32分 ~ 07时43分]"
         },
         {
           "title": "美伊接近重启谈判 美股再冲新高 布油跌破97美元 | 今夜看点",
@@ -336,6 +420,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时32分 ~ 06时52分]"
+        },
+        {
+          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，金银冲高回落",
+          "url": "https://wallstreetcn.com/articles/3771708",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "金十图示：2026年05月07日（周四）美股热门股票行情一览（美股盘中）",
@@ -355,9 +450,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
+          "url": "https://www.cls.cn/detail/2365503",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "金十图示：2026年05月07日（周四）热门中概股行情一览（美股盘中）",
@@ -417,61 +523,8 @@
       ]
     },
     {
-      "keyword_group": "航天 航空",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "航天员中心招募卧床实验志愿者最高获 7 万元报酬，为何要求无网络依赖等不良嗜好？",
-          "url": "https://www.zhihu.com/question/2035397510773129769",
-          "source": "知乎",
-          "ranks": [
-            14,
-            9,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时32分 ~ 06时52分]"
-        },
-        {
-          "title": "周四（5月7日），美股行业ETF普遍收跌，生物科技指数ETF跌2.17%，能源业ETF跌1.84%，半导体ETF跌1.76%，网络股指数ETF涨1.14%，全球航空业ETF涨1.28%。",
-          "url": "https://wallstreetcn.com/livenews/3100189",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
-          "title": "印度航天到底有多离谱",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E8%88%AA%E5%A4%A9%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E7%A6%BB%E8%B0%B1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时52分"
-        },
-        {
-          "title": "中国航天招卧床志愿者 最高补助7万",
-          "url": "https://www.toutiao.com/trending/7635880618395536938/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
@@ -479,11 +532,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时24分 ~ 06时52分]"
+          "appearance_count": 7,
+          "time_info": "[03时24分 ~ 07时43分]"
         },
         {
           "title": "OpenAI与博通的AI芯片交易遭遇180亿美元融资障碍。（The Information）",
@@ -495,6 +549,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "OpenAI推出新模型，以供网络安全团队使用",
+          "url": "https://flash.jin10.com/detail/20260508065544953800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "博通(AVGO.O)股价小幅走低，下跌3.6%，报410美元。有报道称博通与OpenAI的交易因融资问题受阻。",
@@ -517,6 +582,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "航天 航空",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "航天员中心招募卧床实验志愿者最高获 7 万元报酬，为何要求无网络依赖等不良嗜好？",
+          "url": "https://www.zhihu.com/question/2035397510773129769",
+          "source": "知乎",
+          "ranks": [
+            14,
+            9,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时32分 ~ 07时43分]"
+        },
+        {
+          "title": "印度航天到底有多离谱",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E8%88%AA%E5%A4%A9%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E7%A6%BB%E8%B0%B1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时43分]"
+        },
+        {
+          "title": "中国航天招卧床志愿者 最高补助7万",
+          "url": "https://www.toutiao.com/trending/7635880618395536938/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时32分 ~ 07时43分]"
+        },
+        {
+          "title": "周四（5月7日），美股行业ETF普遍收跌，生物科技指数ETF跌2.17%，能源业ETF跌1.84%，半导体ETF跌1.76%，网络股指数ETF涨1.14%，全球航空业ETF涨1.28%。",
+          "url": "https://wallstreetcn.com/livenews/3100189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时58分"
         }
       ]
     },
@@ -573,19 +693,49 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时32分 ~ 06时52分]"
+          "appearance_count": 8,
+          "time_info": "[01时32分 ~ 07时43分]"
         },
         {
           "title": "上证报调查：近七成投资者看涨二季度，A股配置意愿保持稳定",
           "url": "https://wallstreetcn.com/livenews/3100244",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "亚太盘初，标普500股指期货跌0.3%，纳指期货跌0.4%。黄金价格大致持平，暂报4690美元/盎司，WTI原油期货持平，暂报97.77美元/桶，布伦特原油期货涨0.2%，暂报103.50美元。据新华社报道，伊朗南部一海军基地遭美以袭击，美媒称美军空袭伊朗港口。",
+          "url": "https://wallstreetcn.com/livenews/3100231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时43分]"
+        },
+        {
+          "title": "全球最大黄金买家之一波兰央行：计划增持105吨黄金，金价短线拉升",
+          "url": "https://wallstreetcn.com/articles/3771769",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时52分"
+          "time_info": "07时43分"
         }
       ]
     },
@@ -629,25 +779,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时32分 ~ 06时52分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "亚太盘初，标普500股指期货跌0.3%，纳指期货跌0.4%。黄金价格大致持平，暂报4690美元/盎司，WTI原油期货持平，暂报97.77美元/桶，布伦特原油期货涨0.2%，暂报103.50美元。据新华社报道，伊朗南部一海军基地遭美以袭击，美媒称美军空袭伊朗港口。",
-          "url": "https://wallstreetcn.com/livenews/3100231",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时52分"
+          "appearance_count": 8,
+          "time_info": "[01时32分 ~ 07时43分]"
         }
       ]
     },
