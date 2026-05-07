@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T07:48:15.511804+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2026-05-07T09:52:58.791191+08:00",
+  "total_titles_processed": 775,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "中方再回应特朗普访华",
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时21分 ~ 07时48分]"
+          "appearance_count": 9,
+          "time_info": "[01时21分 ~ 09时52分]"
         },
         {
           "title": "为什么特朗普“不得不”常买中国货",
@@ -28,8 +29,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时21分 ~ 07时48分]"
+          "appearance_count": 9,
+          "time_info": "[01时21分 ~ 09时52分]"
+        },
+        {
+          "title": "特朗普：如果伊朗同意美方条款，“史诗怒火”行动将宣告结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33102780",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时20分 ~ 09时52分]"
         },
         {
           "title": "伊朗战争丨特朗普预估美伊“一周”达成协议",
@@ -56,19 +71,6 @@
           "time_info": "[01时21分 ~ 07时48分]"
         },
         {
-          "title": "特朗普：如果伊朗同意美方条款，“史诗怒火”行动将宣告结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33102780",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时20分 ~ 07时48分]"
-        },
-        {
           "title": "美国总统特朗普：我认为油价会涨到200到250美元。现在是100美元。即使涨到200美元，也值得。",
           "url": "https://flash.jin10.com/detail/20260507031148642800",
           "source": "金十数据",
@@ -78,6 +80,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "【早报】油价大幅跳水！特朗普：美伊“很有可能”达成协议；以军在停火期间突袭贝鲁特",
+          "url": "https://www.cls.cn/detail/2364367",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时47分 ~ 09时52分]"
         },
         {
           "title": "美国总统特朗普：针对伊朗的军事行动取得了令人难以置信的成果。",
@@ -100,17 +114,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
-        },
-        {
-          "title": "【早报】油价大幅跳水！特朗普：美伊“很有可能”达成协议；以军在停火期间突袭贝鲁特",
-          "url": "https://www.cls.cn/detail/2364367",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时47分 ~ 07时48分]"
         },
         {
           "title": "市场消息：据一位知情人士透露，特朗普政府正在研究利用美国军事基地及国防部其他场所地下的石油资源，以补充国家日益减少的应急储备。",
@@ -164,7 +167,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
         },
@@ -356,6 +359,17 @@
           "time_info": "05时03分"
         },
         {
+          "title": "为什么特朗普“不得不”常买中国货",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E4%B8%8D%E5%BE%97%E4%B8%8D%E2%80%9D%E5%B8%B8%E4%B9%B0%E4%B8%AD%E5%9B%BD%E8%B4%A7",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
           "title": "法国总统马克龙：我已邀请伊朗总统抓住这一机会，并打算与特朗普总统讨论此事。",
           "url": "https://flash.jin10.com/detail/20260507004637007800",
           "source": "金十数据",
@@ -433,6 +447,17 @@
           "time_info": "05时03分"
         },
         {
+          "title": "美国白宫：特朗普将在美东时间周四下午4点（北京时间周五凌晨4点）签署一项行政命令。",
+          "url": "https://flash.jin10.com/detail/20260507092321203800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
           "title": "美国总统特朗普：伊朗希望达成一份协议。",
           "url": "https://wallstreetcn.com/livenews/3099498",
           "source": "华尔街见闻-快讯",
@@ -442,6 +467,158 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
+          "url": "https://www.cls.cn/detail/2363932",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时21分 ~ 09时52分]"
+        },
+        {
+          "title": "A股大涨，成交破3.2万亿！科创50飙涨超5%，算力、存储芯片集体爆发，寒武纪、海光信息创新高",
+          "url": "https://wallstreetcn.com/articles/3771617",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时21分 ~ 09时52分]"
+        },
+        {
+          "title": "A股商业航天概念板块反复活跃，金螳螂走出12天10板，宇环数控4天3板，炼石航空涨停，上海港湾、德恩精工、春晖智控、理工导航等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260507094211928800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "A股工业气体概念板块盘初震荡走弱，水发燃气封跌停，蜀道装备、诚志股份、华特气体、广钢气体、金宏气体跟跌。",
+          "url": "https://flash.jin10.com/detail/20260507094014459800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "A股存储芯片板块直线拉升，朗科科技涨超13%，续创历史新高，怡亚通封板涨停，德明利涨超9%，江波龙、香农芯创、开普云、时空科技跟涨。",
+          "url": "https://flash.jin10.com/detail/20260507093828295800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "机构调研摸底A股公司二季度经营，一批公司报喜订单及产能情况",
+          "url": "https://wallstreetcn.com/livenews/3099599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时40分 ~ 07时48分]"
+        },
+        {
+          "title": "A股光伏设备板块盘初拉升，安彩高科直线涨停，连城数控、钧达股份、迈为股份、拉普拉斯等多股涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260507093736315800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "A股电力板块盘初拉升，大唐发电封板涨停，大连热电、华电辽能涨超6%，协鑫能科、节能风电跟涨。",
+          "url": "https://flash.jin10.com/detail/20260507093545305800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "A股煤化工概念板块盘初下跌，诚志股份、宝丰能源跌超5%，*ST瑞茂一字跌停，华鲁恒升、卫星化学、泸天化等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260507093525785800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "A股算力租赁板块延续强势，中嘉博创、润建股份封板涨停，东阳光两连板，朗科科技、安诺其、航锦科技、美利云等跟涨",
+          "url": "https://flash.jin10.com/detail/20260507093243410800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "A股黄金概念板块竞价活跃，福达合金一字涨停，中金岭南高开近4%，盛达资源、金诚信、招金黄金、湖南白银等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260507092951651800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "A股光纤概念板块竞价高开，通鼎互联一字涨停，特发信息涨超8%、太辰光高开涨超7%，飞凯材料、罗博特科、长飞光纤等多股均高开涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260507092808612800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "A股开盘，上证指数涨0.2%，深证成指涨0.53%，创业板指涨0.79%。",
+          "url": "https://flash.jin10.com/detail/20260507092518073800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
         }
       ]
     },
@@ -469,30 +646,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时40分 ~ 07时48分]"
+          "appearance_count": 4,
+          "time_info": "[06时40分 ~ 09时52分]"
         },
         {
           "title": "美股收盘：纳指、标普再创新高 AMD、康宁接力暴涨 中概股表现亮眼",
           "url": "https://www.cls.cn/detail/2364348",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时47分 ~ 07时48分]"
-        },
-        {
-          "title": "Snap收涨0.33%，美股盘后跌9.17%。",
-          "url": "https://wallstreetcn.com/livenews/3099620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时48分"
+          "appearance_count": 3,
+          "time_info": "[07时47分 ~ 09时52分]"
         },
         {
           "title": "美伊停战预期升温 美股期指齐涨 原油大跌 | 今夜看点",
@@ -503,8 +670,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 06时40分]"
+          "appearance_count": 7,
+          "time_info": "[01时21分 ~ 09时52分]"
+        },
+        {
+          "title": "Snap收涨0.33%，美股盘后跌9.17%。",
+          "url": "https://wallstreetcn.com/livenews/3099620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时48分"
         },
         {
           "title": "美股行业ETF多数收涨，半导体ETF涨约5.2%，能源业ETF跌超4.1%",
@@ -578,7 +756,7 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "中国航天招志愿者最新消息：能玩手机",
@@ -588,11 +766,12 @@
             16,
             10,
             8,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时21分 ~ 07时48分]"
+          "appearance_count": 9,
+          "time_info": "[01时21分 ~ 09时52分]"
         },
         {
           "title": "中国航天员中心招募卧床实验志愿者：最高拿7万元，但不能玩手机",
@@ -600,22 +779,24 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时21分 ~ 07时48分]"
+          "appearance_count": 9,
+          "time_info": "[01时21分 ~ 09时52分]"
         },
         {
           "title": "14岁神童手搓航空发动机",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354015&amp;topic_name=14%E5%B2%81%E7%A5%9E%E7%AB%A5%E6%89%8B%E6%90%93%E8%88%AA%E7%A9%BA%E5%8F%91%E5%8A%A8%E6%9C%BA",
           "source": "贴吧",
           "ranks": [
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时21分 ~ 07时48分]"
+          "appearance_count": 9,
+          "time_info": "[01时21分 ~ 09时52分]"
         },
         {
           "title": "航天员中心招募卧床志愿者",
@@ -628,8 +809,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时20分 ~ 07时48分]"
+          "appearance_count": 7,
+          "time_info": "[03时20分 ~ 09时52分]"
+        },
+        {
+          "title": "印度航天到底有多离谱",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E8%88%AA%E5%A4%A9%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E7%A6%BB%E8%B0%B1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
         },
         {
           "title": "法国总统马克龙：“戴高乐”号航空母舰的前沿部署正是出于这一背景。近期事态清楚地表明，这样一支任务部队将发挥怎样的积极作用。",
@@ -652,6 +844,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "上期所原油期货2606合约夜盘收跌5.11%，报633.20元人民币/桶。 沪金夜盘收涨0.98%，沪银收涨2.80%。",
+          "url": "https://wallstreetcn.com/livenews/3099526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "人民币兑美元中间价时隔逾三年首次升破6.85关口",
+          "url": "https://wallstreetcn.com/livenews/3099657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间03:00收报6.8133，较上一交易日夜盘收盘涨177点。",
+          "url": "https://wallstreetcn.com/livenews/3099534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
+          "title": "周三（5月6日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.8132元，较周二纽约尾盘涨138点，日内整体交投于6.8283-6.8049元区间。",
+          "url": "https://wallstreetcn.com/livenews/3099577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时40分"
         }
       ]
     },
@@ -689,7 +931,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
         },
@@ -703,87 +945,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
-          "url": "https://www.cls.cn/detail/2363932",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时21分 ~ 07时48分]"
-        },
-        {
-          "title": "A股大涨，成交破3.2万亿！科创50飙涨超5%，算力、存储芯片集体爆发，寒武纪、海光信息创新高",
-          "url": "https://wallstreetcn.com/articles/3771617",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时21分 ~ 07时48分]"
-        },
-        {
-          "title": "机构调研摸底A股公司二季度经营，一批公司报喜订单及产能情况",
-          "url": "https://wallstreetcn.com/livenews/3099599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时40分 ~ 07时48分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "上期所原油期货2606合约夜盘收跌5.11%，报633.20元人民币/桶。 沪金夜盘收涨0.98%，沪银收涨2.80%。",
-          "url": "https://wallstreetcn.com/livenews/3099526",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "在岸人民币兑美元北京时间03:00收报6.8133，较上一交易日夜盘收盘涨177点。",
-          "url": "https://wallstreetcn.com/livenews/3099534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时40分"
-        },
-        {
-          "title": "周三（5月6日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.8132元，较周二纽约尾盘涨138点，日内整体交投于6.8283-6.8049元区间。",
-          "url": "https://wallstreetcn.com/livenews/3099577",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时40分"
         }
       ]
     },
@@ -812,6 +973,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "警报响起！30年期美债收益率再逼5%警戒线，美股的狂欢还能维持多久？",
+          "url": "https://wallstreetcn.com/articles/3771684",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "2/10年期美债收益率跌超7个基点，追随国际油价下跌的表现",
+          "url": "https://wallstreetcn.com/livenews/3099537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时03分"
         }
       ]
     },
@@ -855,8 +1044,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时21分 ~ 07时48分]"
+          "appearance_count": 9,
+          "time_info": "[01时21分 ~ 09时52分]"
         }
       ]
     },
@@ -874,23 +1063,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "2/10年期美债收益率跌超7个基点，追随国际油价下跌的表现",
-          "url": "https://wallstreetcn.com/livenews/3099537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
         }
       ]
     }
