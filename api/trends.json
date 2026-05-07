@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T20:29:28.755222+08:00",
-  "total_titles_processed": 1414,
+  "generated_at": "2026-05-07T23:29:47.435763+08:00",
+  "total_titles_processed": 1587,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 57,
       "titles": [
         {
           "title": "中方再回应特朗普访华",
@@ -30,6 +30,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[13时22分 ~ 20时29分]"
+        },
+        {
+          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
+          "url": "https://wallstreetcn.com/articles/3771687",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时22分 ~ 23时29分]"
         },
         {
           "title": "【早报】油价大幅跳水！特朗普：美伊“很有可能”达成协议；以军在停火期间突袭贝鲁特",
@@ -92,20 +107,6 @@
           "time_info": "[13时22分 ~ 16时14分]"
         },
         {
-          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
-          "url": "https://wallstreetcn.com/articles/3771687",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时22分 ~ 20时29分]"
-        },
-        {
           "title": "伊朗战争丨特朗普预估美伊“一周”达成协议",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -130,6 +131,17 @@
           "time_info": "[01时21分 ~ 07时48分]"
         },
         {
+          "title": "伊朗战争丨特朗普与教皇争吵后，鲁比奥访问梵蒂冈",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "美国总统特朗普：我认为油价会涨到200到250美元。现在是100美元。即使涨到200美元，也值得。",
           "url": "https://flash.jin10.com/detail/20260507031148642800",
           "source": "金十数据",
@@ -150,6 +162,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
+          "url": "https://news.ifeng.com/c/8swPaRUXu6L",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "美国总统特朗普：伊朗拥有核武器将使世界面临被“挟持”的风险。",
@@ -186,6 +209,18 @@
           "time_info": "[06时40分 ~ 07时48分]"
         },
         {
+          "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
+          "url": "https://wallstreetcn.com/articles/3771704",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时29分 ~ 23时29分]"
+        },
+        {
           "title": "特朗普盟友访华对中美关系有何影响",
           "url": "https://www.toutiao.com/trending/7636787672865833002/",
           "source": "今日头条",
@@ -206,6 +241,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时47分 ~ 07时48分]"
+        },
+        {
+          "title": "特朗普访华前瞻——台湾怎么办？",
+          "url": "https://news.ifeng.com/c/8swQYqpheqc",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "美国总统特朗普：对伊朗问题从不设最后期限，协议终将达成，但不会设定最后期限。",
@@ -274,6 +320,17 @@
           "time_info": "03时20分"
         },
         {
+          "title": "市场消息：美国总统特朗普抨击世界杯1000美元的票价，并表示“说实话，我不会花这么多钱买票。”",
+          "url": "https://flash.jin10.com/detail/20260507231901114800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "据福克斯新闻，美国总统特朗普对与伊朗问题的框架持乐观态度。在被问及对伊朗行动时间表时，特朗普回应称“一周”。 标普500指数目前涨超1.2%，道指涨572点、涨幅1.1%，纳指涨1.7%。",
           "url": "https://wallstreetcn.com/livenews/3099521",
           "source": "华尔街见闻-快讯",
@@ -318,17 +375,6 @@
           "time_info": "13时23分"
         },
         {
-          "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
-          "url": "https://wallstreetcn.com/articles/3771704",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
-        },
-        {
           "title": "以色列总理内塔尼亚胡：将在周三晚些时候与美国总统特朗普通话。",
           "url": "https://flash.jin10.com/detail/20260507005926962800",
           "source": "金十数据",
@@ -371,6 +417,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "市场消息：巴西总统卢拉抵达白宫，将会晤特朗普。",
+          "url": "https://flash.jin10.com/detail/20260507231431701800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "美国总统特朗普：过去24小时与伊朗的谈判非常顺利。",
@@ -434,7 +491,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -596,7 +653,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
@@ -734,6 +791,17 @@
           "time_info": "09时52分"
         },
         {
+          "title": "A股总市值突破120万亿大关，创业板刷新逾10年新高，算力硬件再爆发，恒科指大涨3%，离岸人民币升破6.8",
+          "url": "https://wallstreetcn.com/articles/3771709",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "A股煤化工概念板块盘初下跌，诚志股份、宝丰能源跌超5%，*ST瑞茂一字跌停，华鲁恒升、卫星化学、泸天化等跟跌。",
           "url": "https://flash.jin10.com/detail/20260507093525785800",
           "source": "金十数据",
@@ -792,7 +860,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
@@ -802,8 +870,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时40分 ~ 20时29分]"
+          "appearance_count": 12,
+          "time_info": "[06时40分 ~ 23时29分]"
         },
         {
           "title": "美股收盘：纳指、标普再创新高 AMD、康宁接力暴涨 中概股表现亮眼",
@@ -866,6 +934,17 @@
           "time_info": "16时14分"
         },
         {
+          "title": "等待伊朗回应和平协议，美股小幅高开，苹果股价创新高，美油跌4%，白银大涨5%重回80美元",
+          "url": "https://wallstreetcn.com/articles/3771708",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "美股行业ETF多数收涨，半导体ETF涨约5.2%，能源业ETF跌超4.1%",
           "url": "https://wallstreetcn.com/livenews/3099560",
           "source": "华尔街见闻-快讯",
@@ -875,6 +954,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
+          "url": "https://wallstreetcn.com/articles/3771706",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时13分 ~ 23时29分]"
         },
         {
           "title": "为什么美股在大涨特涨，巴菲特等金融专家却在持续减持？",
@@ -890,16 +982,15 @@
           "time_info": "[01时21分 ~ 06时40分]"
         },
         {
-          "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
-          "url": "https://wallstreetcn.com/articles/3771706",
-          "source": "华尔街见闻",
+          "title": "美伊接近重启谈判 美股再冲新高 布油跌破97美元 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2365305",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            7
+            9
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时13分 ~ 20时29分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "康宁公司（GLW）维持超过14%的涨幅，持稳于185美元附近，美股盘初曾达到195.81美元——盘中涨幅超过20.79%。 英伟达拟向该公司投资高达32亿美元，签署大规模光纤协议并新建三座AI专用工厂。",
@@ -960,7 +1051,7 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "中国航天员中心招募卧床实验志愿者：最高拿7万元，但不能玩手机",
@@ -1055,7 +1146,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -1066,7 +1157,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -1082,13 +1173,24 @@
           "time_info": "19时14分"
         },
         {
+          "title": "航天员中心招募卧床实验志愿者最高获 7 万元报酬，为何要求无网络依赖等不良嗜好？",
+          "url": "https://www.zhihu.com/question/2035397510773129769",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "金螳螂：公司目前未从事商业航天核心产业（含火箭研制、卫星制造、发射服务等），亦未开展数据中心算力运营业务。公司仅以装饰及机电主业为上述领域提供基础设施配套服务，目前仅承接少量商业航天发射场配套工程及数据中心施工项目，施工范围含办公楼、餐厅、公寓楼、机电工程等，合计占营收比例不足1%，对业绩无重大影响。",
           "url": "https://wallstreetcn.com/livenews/3099980",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -1149,7 +1251,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -1251,38 +1353,8 @@
       ]
     },
     {
-      "keyword_group": "农业 机械",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "2000飙至30万！美农业部长甩锅：怪中国",
-          "url": "https://news.ifeng.com/c/8stvW3IMKAo",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时21分 ~ 20时29分]"
-        },
-        {
-          "title": "成都：积极发展现代种业 大力发展智慧农业",
-          "url": "https://flash.jin10.com/detail/20260507200203780800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "如果有游戏将所有氪金价格变为十分之一，会不会迎来盈利大涨？「1 人充 100 元」和「100 人充 1 元」谁赢？",
@@ -1296,6 +1368,17 @@
           "time_info": "[01时21分 ~ 07时48分]"
         },
         {
+          "title": "金价破4700追不追",
+          "url": "https://www.toutiao.com/trending/7637144466515578431/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "金价涨2.8%，逼近4700美元",
           "url": "https://wallstreetcn.com/livenews/3099570",
           "source": "华尔街见闻-快讯",
@@ -1305,6 +1388,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "农业 机械",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "2000飙至30万！美农业部长甩锅：怪中国",
+          "url": "https://news.ifeng.com/c/8stvW3IMKAo",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[01时21分 ~ 23时29分]"
+        },
+        {
+          "title": "成都：积极发展现代种业 大力发展智慧农业",
+          "url": "https://flash.jin10.com/detail/20260507200203780800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         }
       ]
     },
