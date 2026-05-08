@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T20:06:13.664685+08:00",
-  "total_titles_processed": 1489,
+  "generated_at": "2026-05-08T22:59:24.946411+08:00",
+  "total_titles_processed": 1677,
   "failed_sources": [],
   "trends": [
     {
@@ -62,8 +62,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时22分 ~ 20时06分]"
+          "appearance_count": 5,
+          "time_info": "[18时22分 ~ 22时59分]"
         },
         {
           "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
@@ -78,18 +78,6 @@
           "time_info": "[01时32分 ~ 07时43分]"
         },
         {
-          "title": "中方回应何时发布特朗普访华消息",
-          "url": "https://www.toutiao.com/trending/7637034985857810475/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时18分 ~ 20时06分]"
-        },
-        {
           "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2035771230985380677",
           "source": "知乎",
@@ -97,22 +85,37 @@
             7,
             10,
             11,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时49分 ~ 20时06分]"
+          "appearance_count": 8,
+          "time_info": "[12时49分 ~ 22时59分]"
+        },
+        {
+          "title": "中方回应何时发布特朗普访华消息",
+          "url": "https://www.toutiao.com/trending/7637034985857810475/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时18分 ~ 22时59分]"
         },
         {
           "title": "特朗普全球关税又受阻！122关税被指缺乏依据，后续也能退款？",
           "url": "https://news.ifeng.com/c/8sxspkZXRqe",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时05分 ~ 20时06分]"
+          "appearance_count": 3,
+          "time_info": "[20时05分 ~ 22时59分]"
         },
         {
           "title": "美国总统特朗普：已同意给欧盟委员会主席冯德莱恩时间至美国建国250周年纪念日；否则，很遗憾，他们的关税将立即大幅上调。",
@@ -242,6 +245,17 @@
           "time_info": "[06时52分 ~ 07时43分]"
         },
         {
+          "title": "美国贸易法院裁定特朗普10%全球关税无效",
+          "url": "https://wallstreetcn.com/articles/3771788",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时57分 ~ 22时59分]"
+        },
+        {
           "title": "晚宴枪击事件后，特朗普再为白宫宴会厅项目辩护",
           "url": "https://news.ifeng.com/c/8sxEzEFSGYq",
           "source": "凤凰网",
@@ -252,17 +266,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时49分 ~ 16时18分]"
-        },
-        {
-          "title": "美国贸易法院裁定特朗普10%全球关税无效",
-          "url": "https://wallstreetcn.com/articles/3771788",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时57分 ~ 20时06分]"
         },
         {
           "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
@@ -385,7 +388,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
         },
@@ -646,7 +649,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "中东资金如何增持A股？阿布达比投资局现身66股前十大流通股东",
@@ -674,6 +677,17 @@
           "time_info": "[01时32分 ~ 07时43分]"
         },
         {
+          "title": "一家精神病院竟现身A股公司前十大股东 负责人回应",
+          "url": "https://flash.jin10.com/detail/20260508223033185800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "上证报调查：近七成投资者看涨二季度，A股配置意愿保持稳定",
           "url": "https://wallstreetcn.com/livenews/3100244",
           "source": "华尔街见闻-快讯",
@@ -697,6 +711,17 @@
           "time_info": "[18时22分 ~ 20时06分]"
         },
         {
+          "title": "A股先行赔付第六单！清越科技连续三年造假，拟罚1.73亿濒临退市",
+          "url": "https://www.cls.cn/detail/2366454",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "A股创业板指拉升翻红，开盘一度跌超1%。",
           "url": "https://flash.jin10.com/detail/20260508094438891800",
           "source": "金十数据",
@@ -717,6 +742,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "高盛：超配中国，A股优于H股，将沪深300目标位设于5300点",
+          "url": "https://wallstreetcn.com/articles/3771813",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "A股港口航运板块盘初拉升，海通发展盘中创新高，北部湾港涨停，唐山港、中谷物流、辽港股份、秦港股份、厦门港务跟涨。",
@@ -750,6 +786,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "“台湾病例与邮轮事件无关联” A股“汉坦病毒”概念躁动背后有几分真实需求？",
+          "url": "https://www.cls.cn/detail/2366511",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "A股房地产板块盘初活跃，京投发展盘中创新高，华联控股涨停，三湘印象、西藏城投、宁波富达、滨江集团、津投城开跟涨。",
@@ -909,7 +956,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
@@ -1038,6 +1085,17 @@
           "time_info": "04时58分"
         },
         {
+          "title": "美股三大指数集体高开 百度涨超5%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%855%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "金十图示：2026年05月07日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260508040600558800",
           "source": "金十数据",
@@ -1073,120 +1131,8 @@
       ]
     },
     {
-      "keyword_group": "航天 航空",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "航天员中心招募卧床实验志愿者最高获 7 万元报酬，为何要求无网络依赖等不良嗜好？",
-          "url": "https://www.zhihu.com/question/2035397510773129769",
-          "source": "知乎",
-          "ranks": [
-            14,
-            9,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时32分 ~ 09时57分]"
-        },
-        {
-          "title": "市场消息：大韩航空将暂停飞往迪拜的航班延长至8月2日。",
-          "url": "https://flash.jin10.com/detail/20260508161631640800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
-        },
-        {
-          "title": "【每日收评】三大指数震荡调整，商业航天、机器人概念联袂爆发，两市成交额连续三日突破3万亿",
-          "url": "https://www.cls.cn/detail/2366145",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时22分 ~ 20时06分]"
-        },
-        {
-          "title": "5月8日投资避雷针：12天10板人气股提示风险 仅承接少量商业航天发射场配套工程",
-          "url": "https://www.cls.cn/detail/2365556",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时49分 ~ 16时18分]"
-        },
-        {
-          "title": "中国航天招卧床志愿者 最高补助7万",
-          "url": "https://www.toutiao.com/trending/7635880618395536938/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            29,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时32分 ~ 09时57分]"
-        },
-        {
-          "title": "印度航天到底有多离谱",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E8%88%AA%E5%A4%A9%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E7%A6%BB%E8%B0%B1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 07时43分]"
-        },
-        {
-          "title": "周四（5月7日），美股行业ETF普遍收跌，生物科技指数ETF跌2.17%，能源业ETF跌1.84%，半导体ETF跌1.76%，网络股指数ETF涨1.14%，全球航空业ETF涨1.28%。",
-          "url": "https://wallstreetcn.com/livenews/3100189",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
-          "title": "国泰航空：自5月16日起下调客运燃油附加费。",
-          "url": "https://wallstreetcn.com/livenews/3100599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "欧盟委员会：指导意见明确了现有欧盟关于燃料加价义务、燃料附加费、机场时刻、公共服务义务和航空旅客权利的规定。",
-          "url": "https://flash.jin10.com/detail/20260508180605119800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人民币",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
@@ -1197,8 +1143,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时57分 ~ 20时06分]"
+          "appearance_count": 9,
+          "time_info": "[09时57分 ~ 22时59分]"
         },
         {
           "title": "香港1.7亿人民币拿下世界杯转播权",
@@ -1272,13 +1218,24 @@
           "time_info": "09时57分"
         },
         {
+          "title": "离岸人民币汇率升破 6.80 关口，有哪些原因？还会继续升么？",
+          "url": "https://www.zhihu.com/question/2036025399935775604",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "巴基斯坦拟首次发行熊猫债 规模至多为17.5亿元人民币",
           "url": "https://wallstreetcn.com/livenews/3100660",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
         },
@@ -1292,6 +1249,119 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "航天 航空",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "航天员中心招募卧床实验志愿者最高获 7 万元报酬，为何要求无网络依赖等不良嗜好？",
+          "url": "https://www.zhihu.com/question/2035397510773129769",
+          "source": "知乎",
+          "ranks": [
+            14,
+            9,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时32分 ~ 09时57分]"
+        },
+        {
+          "title": "市场消息：大韩航空将暂停飞往迪拜的航班延长至8月2日。",
+          "url": "https://flash.jin10.com/detail/20260508161631640800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "【每日收评】三大指数震荡调整，商业航天、机器人概念联袂爆发，两市成交额连续三日突破3万亿",
+          "url": "https://www.cls.cn/detail/2366145",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时22分 ~ 22时59分]"
+        },
+        {
+          "title": "5月8日投资避雷针：12天10板人气股提示风险 仅承接少量商业航天发射场配套工程",
+          "url": "https://www.cls.cn/detail/2365556",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时49分 ~ 16时18分]"
+        },
+        {
+          "title": "中国航天招卧床志愿者 最高补助7万",
+          "url": "https://www.toutiao.com/trending/7635880618395536938/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            29,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时32分 ~ 09时57分]"
+        },
+        {
+          "title": "印度航天到底有多离谱",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E8%88%AA%E5%A4%A9%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E7%A6%BB%E8%B0%B1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时43分]"
+        },
+        {
+          "title": "周四（5月7日），美股行业ETF普遍收跌，生物科技指数ETF跌2.17%，能源业ETF跌1.84%，半导体ETF跌1.76%，网络股指数ETF涨1.14%，全球航空业ETF涨1.28%。",
+          "url": "https://wallstreetcn.com/livenews/3100189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时58分"
+        },
+        {
+          "title": "国泰航空：自5月16日起下调客运燃油附加费。",
+          "url": "https://wallstreetcn.com/livenews/3100599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "欧盟委员会：指导意见明确了现有欧盟关于燃料加价义务、燃料附加费、机场时刻、公共服务义务和航空旅客权利的规定。",
+          "url": "https://flash.jin10.com/detail/20260508180605119800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         }
       ]
     },
@@ -1386,8 +1456,58 @@
       ]
     },
     {
+      "keyword_group": "农业 机械",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "科技赋能中国农业加速跑",
+          "url": "https://www.douyin.com/hot/2492301",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时18分 ~ 20时06分]"
+        },
+        {
+          "title": "2000飙至30万！美农业部长甩锅：怪中国",
+          "url": "https://news.ifeng.com/c/8stvW3IMKAo",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时32分 ~ 09时57分]"
+        },
+        {
+          "title": "美国农业部长罗林斯：美国的肥料供应充足，关注点在于价格。",
+          "url": "https://flash.jin10.com/detail/20260508222749796800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
+          "title": "美国农业部长罗林斯：（谈肥料）我们将看到价格下跌。",
+          "url": "https://flash.jin10.com/detail/20260508222737329800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "全球最大黄金买家之一波兰央行：计划增持105吨黄金，金价短线拉升",
@@ -1426,12 +1546,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时52分 ~ 07时43分]"
+        },
+        {
+          "title": "金价今年会涨至5200美元吗",
+          "url": "https://www.toutiao.com/trending/7637144858989170214/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "分析师：中东局势缓和预期打压美元与美债收益率",
@@ -1456,6 +1587,17 @@
           "time_info": "09时57分"
         },
         {
+          "title": "新债王Gundlach押注小概率事件，将部分高票息美债替换为低票息品种",
+          "url": "https://wallstreetcn.com/livenews/3100783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "周四（5月7日）纽约尾盘，美国10年期国债收益率涨4.1个基点，报4.393%，北京时间20:55前后刷新日低至4.316%，随后显著回升。 两年期美债收益率涨4.6个基点，报3.916%；30年期美债收益率涨2.9个基点，报4.972%。",
           "url": "https://wallstreetcn.com/livenews/3100167",
           "source": "华尔街见闻-快讯",
@@ -1465,34 +1607,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农业 机械",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "科技赋能中国农业加速跑",
-          "url": "https://www.douyin.com/hot/2492301",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时18分 ~ 20时06分]"
-        },
-        {
-          "title": "2000飙至30万！美农业部长甩锅：怪中国",
-          "url": "https://news.ifeng.com/c/8stvW3IMKAo",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时32分 ~ 09时57分]"
         }
       ]
     },
@@ -1535,7 +1649,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
         }
