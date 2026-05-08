@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T18:23:10.038511+08:00",
-  "total_titles_processed": 1360,
+  "generated_at": "2026-05-08T20:06:13.664685+08:00",
+  "total_titles_processed": 1489,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 56,
       "titles": [
         {
           "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
@@ -55,6 +55,17 @@
           "time_info": "[07时43分 ~ 16时18分]"
         },
         {
+          "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
+          "url": "https://www.cls.cn/detail/2366051",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 20时06分]"
+        },
+        {
           "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
           "url": "https://wallstreetcn.com/articles/3771704",
           "source": "华尔街见闻",
@@ -67,15 +78,41 @@
           "time_info": "[01时32分 ~ 07时43分]"
         },
         {
-          "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
-          "url": "https://www.cls.cn/detail/2366051",
-          "source": "财联社热门",
+          "title": "中方回应何时发布特朗普访华消息",
+          "url": "https://www.toutiao.com/trending/7637034985857810475/",
+          "source": "今日头条",
           "ranks": [
-            3
+            27,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时18分 ~ 20时06分]"
+        },
+        {
+          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2035771230985380677",
+          "source": "知乎",
+          "ranks": [
+            7,
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时49分 ~ 20时06分]"
+        },
+        {
+          "title": "特朗普全球关税又受阻！122关税被指缺乏依据，后续也能退款？",
+          "url": "https://news.ifeng.com/c/8sxspkZXRqe",
+          "source": "凤凰网",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时22分 ~ 18时23分]"
+          "time_info": "[20时05分 ~ 20时06分]"
         },
         {
           "title": "美国总统特朗普：已同意给欧盟委员会主席冯德莱恩时间至美国建国250周年纪念日；否则，很遗憾，他们的关税将立即大幅上调。",
@@ -117,7 +154,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -134,18 +171,6 @@
           "time_info": "[12时49分 ~ 18时23分]"
         },
         {
-          "title": "中方回应何时发布特朗普访华消息",
-          "url": "https://www.toutiao.com/trending/7637034985857810475/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时18分 ~ 18时23分]"
-        },
-        {
           "title": "英伟达CEO黄仁勋：若受邀，将随特朗普一同访问中国",
           "url": "https://wallstreetcn.com/livenews/3100397",
           "source": "华尔街见闻-快讯",
@@ -157,17 +182,16 @@
           "time_info": "12时49分"
         },
         {
-          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2035771230985380677",
-          "source": "知乎",
+          "title": "中美双方就特朗普访华保持沟通",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%8F%8C%E6%96%B9%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BF%9D%E6%8C%81%E6%B2%9F%E9%80%9A",
+          "source": "百度热搜",
           "ranks": [
-            7,
-            10,
-            11
+            20,
+            16
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时49分 ~ 18时23分]"
+          "time_info": "[16时18分 ~ 20时06分]"
         },
         {
           "title": "美国总统特朗普：如果伊朗不迅速签署协议，那么在将来，我们将会以更猛烈、更激烈的手段来对付他们。",
@@ -230,16 +254,15 @@
           "time_info": "[12时49分 ~ 16时18分]"
         },
         {
-          "title": "中美双方就特朗普访华保持沟通",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%8F%8C%E6%96%B9%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BF%9D%E6%8C%81%E6%B2%9F%E9%80%9A",
-          "source": "百度热搜",
+          "title": "美国贸易法院裁定特朗普10%全球关税无效",
+          "url": "https://wallstreetcn.com/articles/3771788",
+          "source": "华尔街见闻",
           "ranks": [
-            20,
-            16
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时18分 ~ 18时23分]"
+          "time_info": "[09时57分 ~ 20时06分]"
         },
         {
           "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
@@ -286,6 +309,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时52分 ~ 07时43分]"
+        },
+        {
+          "title": "卢拉：和特朗普见面就像“一见钟情”，希望保持下去",
+          "url": "https://v.ifeng.com/c/8svJjy07D4M",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时05分 ~ 20时06分]"
         },
         {
           "title": "局势升级！美伊在霍尔木兹交火 特朗普：停火仍有效，只是“轻微敲打”",
@@ -345,15 +379,15 @@
           "time_info": "03时24分"
         },
         {
-          "title": "美国贸易法院裁定特朗普10%全球关税无效",
-          "url": "https://wallstreetcn.com/articles/3771788",
-          "source": "华尔街见闻",
+          "title": "德国副总理：德国将推动建立新的联盟以对抗特朗普。 德国和欧盟必须防范“勒索”。 欧盟应进一步与英国和加拿大开展合作。",
+          "url": "https://wallstreetcn.com/livenews/3100672",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时57分"
+          "time_info": "20时06分"
         },
         {
           "title": "特朗普：美伊停火仍有效",
@@ -538,7 +572,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -659,8 +693,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 18时23分]"
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 20时06分]"
         },
         {
           "title": "A股创业板指拉升翻红，开盘一度跌超1%。",
@@ -1068,6 +1102,17 @@
           "time_info": "16时18分"
         },
         {
+          "title": "【每日收评】三大指数震荡调整，商业航天、机器人概念联袂爆发，两市成交额连续三日突破3万亿",
+          "url": "https://www.cls.cn/detail/2366145",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 20时06分]"
+        },
+        {
           "title": "5月8日投资避雷针：12天10板人气股提示风险 仅承接少量商业航天发射场配套工程",
           "url": "https://www.cls.cn/detail/2365556",
           "source": "财联社热门",
@@ -1091,17 +1136,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时32分 ~ 09时57分]"
-        },
-        {
-          "title": "【每日收评】三大指数震荡调整，商业航天、机器人概念联袂爆发，两市成交额连续三日突破3万亿",
-          "url": "https://www.cls.cn/detail/2366145",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 18时23分]"
         },
         {
           "title": "印度航天到底有多离谱",
@@ -1133,7 +1167,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -1144,7 +1178,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         }
@@ -1152,18 +1186,19 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
           "url": "https://wallstreetcn.com/articles/3771708",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时57分 ~ 18时23分]"
+          "appearance_count": 8,
+          "time_info": "[09时57分 ~ 20时06分]"
         },
         {
           "title": "香港1.7亿人民币拿下世界杯转播权",
@@ -1171,11 +1206,25 @@
           "source": "今日头条",
           "ranks": [
             1,
-            5
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时49分 ~ 20时06分]"
+        },
+        {
+          "title": "中国香港以约 1.7 亿元人民币拿下世界杯转播权，这个价格如何？如何理解 FIFA 的差别化定价策略？",
+          "url": "https://www.zhihu.com/question/2036031105539601030",
+          "source": "知乎",
+          "ranks": [
+            16,
+            4,
+            11
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时49分 ~ 18时23分]"
+          "time_info": "[16时18分 ~ 20时06分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8068元，较周三夜盘收盘涨65点。成交量5659.8亿美元。",
@@ -1200,18 +1249,6 @@
           "time_info": "03时24分"
         },
         {
-          "title": "中国香港以约 1.7 亿元人民币拿下世界杯转播权，这个价格如何？如何理解 FIFA 的差别化定价策略？",
-          "url": "https://www.zhihu.com/question/2036031105539601030",
-          "source": "知乎",
-          "ranks": [
-            16,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时18分 ~ 18时23分]"
-        },
-        {
           "title": "周四（5月7日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8078元，较周三纽约尾盘涨54点，日内整体交投于6.8135-6.7957元区间，亚太尾盘至美股早盘曾涨穿6.8元。",
           "url": "https://wallstreetcn.com/livenews/3100216",
           "source": "华尔街见闻-快讯",
@@ -1233,6 +1270,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "巴基斯坦拟首次发行熊猫债 规模至多为17.5亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3100660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时06分"
         },
         {
           "title": "离岸人民币同业拆息利率全线反弹",
@@ -1348,22 +1396,24 @@
           "ranks": [
             10,
             8,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时43分 ~ 18时23分]"
+          "appearance_count": 9,
+          "time_info": "[07时43分 ~ 20时06分]"
         },
         {
           "title": "中国央行连续第18个月增持黄金，国际金价升破4700美元后贵不贵？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33109633",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 18时23分]"
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 20时06分]"
         },
         {
           "title": "亚太盘初，标普500股指期货跌0.3%，纳指期货跌0.4%。黄金价格大致持平，暂报4690美元/盎司，WTI原油期货持平，暂报97.77美元/桶，布伦特原油期货涨0.2%，暂报103.50美元。据新华社报道，伊朗南部一海军基地遭美以袭击，美媒称美军空袭伊朗港口。",
@@ -1390,7 +1440,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -1423,6 +1473,17 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "科技赋能中国农业加速跑",
+          "url": "https://www.douyin.com/hot/2492301",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时18分 ~ 20时06分]"
+        },
+        {
           "title": "2000飙至30万！美农业部长甩锅：怪中国",
           "url": "https://news.ifeng.com/c/8stvW3IMKAo",
           "source": "凤凰网",
@@ -1432,17 +1493,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时32分 ~ 09时57分]"
-        },
-        {
-          "title": "科技赋能中国农业加速跑",
-          "url": "https://www.douyin.com/hot/2492301",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时18分 ~ 18时23分]"
         }
       ]
     },
@@ -1471,6 +1521,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "欧盟委员会发言人：我们将给予谷歌更多时间，以解决与数字市场法案相关的委员会关切。",
+          "url": "https://flash.jin10.com/detail/20260508191200528800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时06分"
         }
       ]
     }
