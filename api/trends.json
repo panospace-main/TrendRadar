@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T18:46:30.146304+08:00",
-  "total_titles_processed": 1231,
+  "generated_at": "2026-05-09T19:41:16.813192+08:00",
+  "total_titles_processed": 1297,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普全球关税又受阻！122关税被指缺乏依据，后续也能退款？",
@@ -53,8 +53,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时51分 ~ 18时46分]"
+          "appearance_count": 8,
+          "time_info": "[09时51分 ~ 19时41分]"
+        },
+        {
+          "title": "近60万买家斥资6000万美元预购特朗普手机，却没人知道发货时间",
+          "url": "https://news.ifeng.com/c/8sytAKXfO4y",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时01分 ~ 19时41分]"
         },
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
@@ -117,15 +128,28 @@
           "time_info": "00时10分"
         },
         {
-          "title": "近60万买家斥资6000万美元预购特朗普手机，却没人知道发货时间",
-          "url": "https://news.ifeng.com/c/8sytAKXfO4y",
-          "source": "凤凰网",
+          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
+          "url": "https://wallstreetcn.com/articles/3771883",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时01分 ~ 18时46分]"
+          "time_info": "[17时07分 ~ 19时41分]"
+        },
+        {
+          "title": "特朗普称俄乌 9 日起停火三天，互换千名战俘，俄乌为何同意特朗普的提议？各方背后有着怎样的考量？",
+          "url": "https://www.zhihu.com/question/2036400046988579032",
+          "source": "知乎",
+          "ranks": [
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时07分 ~ 19时41分]"
         },
         {
           "title": "特朗普说或把部分驻德美军转移至波兰",
@@ -146,29 +170,6 @@
           "ranks": [
             8,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时07分 ~ 18时46分]"
-        },
-        {
-          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
-          "url": "https://wallstreetcn.com/articles/3771883",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时07分 ~ 18时46分]"
-        },
-        {
-          "title": "特朗普称俄乌 9 日起停火三天，互换千名战俘，俄乌为何同意特朗普的提议？各方背后有着怎样的考量？",
-          "url": "https://www.zhihu.com/question/2036400046988579032",
-          "source": "知乎",
-          "ranks": [
-            14,
-            16
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -208,6 +209,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时45分 ~ 09时51分]"
+        },
+        {
+          "title": "特朗普再遭司法重拳，全面关税政策走到尽头？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260509175807708800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 19时41分]"
         },
         {
           "title": "戴尔股价涨幅扩大至9.1%，特朗普推销该公司产品",
@@ -329,17 +342,6 @@
           "time_info": "13时01分"
         },
         {
-          "title": "特朗普再遭司法重拳，全面关税政策走到尽头？丨Hi，今天怎么看？",
-          "url": "https://flash.jin10.com/detail/20260509175807708800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
           "title": "美国总统特朗普：可能会（在霍尔木兹海峡通航问题上）重拾“自由计划”。 可能会是一个“加强版的自由计划”（project freedom plus）。 如果伊朗不签署协议，美方可能重启“自由计划”。",
           "url": "https://wallstreetcn.com/livenews/3100956",
           "source": "华尔街见闻-快讯",
@@ -437,6 +439,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-09）",
+          "url": "https://flash.jin10.com/detail/20260509182305293800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "戴尔(DELL.N)持续走高，涨幅一度扩大至近14%，股价刷新历史新高至262.97美元。此前特朗普在白宫玫瑰园发表讲话时劝观众去买戴尔电脑，说“它们很棒”。",
@@ -551,8 +564,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时51分 ~ 18时46分]"
+          "appearance_count": 8,
+          "time_info": "[09时51分 ~ 19时41分]"
         },
         {
           "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
@@ -563,8 +576,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时45分 ~ 18时46分]"
+          "appearance_count": 9,
+          "time_info": "[07时45分 ~ 19时41分]"
         },
         {
           "title": "美股收盘：三大股指收涨 英特尔涨近14%",
@@ -728,6 +741,19 @@
           "time_info": "[00时10分 ~ 07时45分]"
         },
         {
+          "title": "字节跳动已将今年的AI基础设施支出计划增加25%至2,000亿元人民币。（南华早报）",
+          "url": "https://wallstreetcn.com/livenews/3101029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时08分 ~ 19时41分]"
+        },
+        {
           "title": "周五（5月8日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7971元，较周四纽约尾盘涨116点，日内整体交投于6.8099-6.7955元区间，逼近2023年2月9日尾盘报价6.7922元、当年1月16日顶部6.6975元。 本周，离岸人民币累计上涨大约340点，涨幅0.50%。",
           "url": "https://wallstreetcn.com/livenews/3100926",
           "source": "华尔街见闻-快讯",
@@ -741,16 +767,28 @@
           "time_info": "[05时49分 ~ 07时45分]"
         },
         {
-          "title": "字节跳动已将今年的AI基础设施支出计划增加25%至2,000亿元人民币。（南华早报）",
-          "url": "https://wallstreetcn.com/livenews/3101029",
+          "title": "五一档口碑大爆影片《给阿嬷的情书》总票房预测超 3 亿人民币，你觉得能达成吗？",
+          "url": "https://www.zhihu.com/question/2035299158689412232",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时46分 ~ 19时41分]"
+        },
+        {
+          "title": "员工人均奖金达610万人民币？SK海力士回应",
+          "url": "https://wallstreetcn.com/livenews/3101041",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            21
+            11,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时08分 ~ 18时46分]"
+          "time_info": "[18时46分 ~ 19时41分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8005元，较周四夜盘收盘涨63点。成交量419.71亿美元。",
@@ -762,17 +800,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
-        },
-        {
-          "title": "员工人均奖金达610万人民币？SK海力士回应",
-          "url": "https://wallstreetcn.com/livenews/3101041",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时46分"
         },
         {
           "title": "中国4月贸易帐(按人民币计) 5856.9亿人民币，前值 3547.5亿人民币。",
@@ -792,7 +819,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -828,17 +855,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
-        },
-        {
-          "title": "五一档口碑大爆影片《给阿嬷的情书》总票房预测超 3 亿人民币，你觉得能达成吗？",
-          "url": "https://www.zhihu.com/question/2035299158689412232",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时46分"
         }
       ]
     },
@@ -860,6 +876,19 @@
           "time_info": "[00时10分 ~ 18时46分]"
         },
         {
+          "title": "“精神病院炒股，成A股公司前十大股东”，最新回应",
+          "url": "https://www.cls.cn/detail/2366667",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时51分 ~ 19时41分]"
+        },
+        {
           "title": "A股先行赔付第六单！清越科技连续三年造假，拟罚1.73亿濒临退市",
           "url": "https://www.cls.cn/detail/2366454",
           "source": "财联社热门",
@@ -871,19 +900,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时10分 ~ 13时02分]"
-        },
-        {
-          "title": "“精神病院炒股，成A股公司前十大股东”，最新回应",
-          "url": "https://www.cls.cn/detail/2366667",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时51分 ~ 18时46分]"
         },
         {
           "title": "高盛：超配中国，A股优于H股，将沪深300目标位设于5300点",
@@ -914,7 +930,7 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "巴西航空公司AZUL首席财务官表示，预计今年因航空燃油价格上涨将带来10亿雷亚尔的损失。",
@@ -940,6 +956,17 @@
           "time_info": "[00时10分 ~ 07时45分]"
         },
         {
+          "title": "如何看待我国航天商业化发展道路",
+          "url": "https://www.toutiao.com/trending/7637739338234596906/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 19时41分]"
+        },
+        {
           "title": "中信建投：AI算力与商业航天迎来产业加速期",
           "url": "https://flash.jin10.com/detail/20260509122338306800",
           "source": "金十数据",
@@ -949,6 +976,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        },
+        {
+          "title": "西班牙内政部长：欧盟已为剩余的欧洲公民提供了两架额外的飞机。正在与荷兰准备应急计划，针对来自非欧盟国家且没有可用航空运输的公民。",
+          "url": "https://flash.jin10.com/detail/20260509183622449800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         }
       ]
     },
@@ -1005,8 +1043,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时01分 ~ 17时08分]"
+          "appearance_count": 6,
+          "time_info": "[13时01分 ~ 19时41分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -1017,8 +1055,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时07分 ~ 18时46分]"
+          "appearance_count": 5,
+          "time_info": "[17时07分 ~ 19时41分]"
         },
         {
           "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
@@ -1028,8 +1066,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时07分 ~ 17时08分]"
+          "appearance_count": 4,
+          "time_info": "[17时07分 ~ 19时41分]"
         }
       ]
     },
