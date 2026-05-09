@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T22:13:47.211514+08:00",
-  "total_titles_processed": 1467,
+  "generated_at": "2026-05-09T23:41:40.749454+08:00",
+  "total_titles_processed": 1535,
   "failed_sources": [],
   "trends": [
     {
@@ -57,17 +57,6 @@
           "time_info": "[00时10分 ~ 13时02分]"
         },
         {
-          "title": "近60万买家斥资6000万美元预购特朗普手机，却没人知道发货时间",
-          "url": "https://news.ifeng.com/c/8sytAKXfO4y",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时01分 ~ 20时52分]"
-        },
-        {
           "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
           "url": "https://wallstreetcn.com/articles/3771883",
           "source": "华尔街见闻",
@@ -77,8 +66,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时07分 ~ 22时13分]"
+          "appearance_count": 9,
+          "time_info": "[17时07分 ~ 23时41分]"
+        },
+        {
+          "title": "近60万买家斥资6000万美元预购特朗普手机，却没人知道发货时间",
+          "url": "https://news.ifeng.com/c/8sytAKXfO4y",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时01分 ~ 20时52分]"
         },
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
@@ -141,6 +141,19 @@
           "time_info": "00时10分"
         },
         {
+          "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
+          "url": "https://wallstreetcn.com/articles/3771870",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时07分 ~ 23时41分]"
+        },
+        {
           "title": "特朗普称俄乌 9 日起停火三天，互换千名战俘，俄乌为何同意特朗普的提议？各方背后有着怎样的考量？",
           "url": "https://www.zhihu.com/question/2036400046988579032",
           "source": "知乎",
@@ -175,19 +188,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时01分 ~ 20时52分]"
-        },
-        {
-          "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
-          "url": "https://wallstreetcn.com/articles/3771870",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时07分 ~ 22时13分]"
         },
         {
           "title": "美国总统特朗普打算罢免食品药品管理局（FDA）官员Makary。（华尔街日报）",
@@ -564,11 +564,12 @@
           "url": "https://wallstreetcn.com/articles/3771825",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时51分 ~ 22时13分]"
+          "appearance_count": 12,
+          "time_info": "[09时51分 ~ 23时41分]"
         },
         {
           "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
@@ -579,8 +580,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时45分 ~ 22时13分]"
+          "appearance_count": 13,
+          "time_info": "[07时45分 ~ 23时41分]"
         },
         {
           "title": "美股收盘：三大股指收涨 英特尔涨近14%",
@@ -875,8 +876,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时51分 ~ 22时13分]"
+          "appearance_count": 12,
+          "time_info": "[09时51分 ~ 23时41分]"
         },
         {
           "title": "“台湾病例与邮轮事件无关联” A股“汉坦病毒”概念躁动背后有几分真实需求？",
@@ -1005,11 +1006,24 @@
           "ranks": [
             7,
             8,
-            9
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时07分 ~ 23时41分]"
+        },
+        {
+          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
+          "url": "https://wallstreetcn.com/articles/3771878",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[17时07分 ~ 22时13分]"
+          "time_info": "[17时07分 ~ 23时41分]"
         },
         {
           "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
@@ -1024,27 +1038,16 @@
           "time_info": "[13时01分 ~ 20时52分]"
         },
         {
-          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
-          "url": "https://wallstreetcn.com/articles/3771878",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时07分 ~ 22时13分]"
-        },
-        {
           "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
           "url": "https://www.zhihu.com/question/2036152296388523178",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 23时41分]"
         }
       ]
     },
