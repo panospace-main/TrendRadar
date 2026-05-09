@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T19:41:16.813192+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2026-05-09T20:52:14.084827+08:00",
+  "total_titles_processed": 1383,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时10分 ~ 09时51分]"
+        },
+        {
+          "title": "受够了！德国喊话多国组建对抗特朗普新联盟",
+          "url": "https://news.ifeng.com/c/8syALbeUOvl",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时51分 ~ 20时52分]"
         },
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
@@ -44,19 +57,6 @@
           "time_info": "[00时10分 ~ 13时02分]"
         },
         {
-          "title": "受够了！德国喊话多国组建对抗特朗普新联盟",
-          "url": "https://news.ifeng.com/c/8syALbeUOvl",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时51分 ~ 19时41分]"
-        },
-        {
           "title": "近60万买家斥资6000万美元预购特朗普手机，却没人知道发货时间",
           "url": "https://news.ifeng.com/c/8sytAKXfO4y",
           "source": "凤凰网",
@@ -64,8 +64,20 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时01分 ~ 20时52分]"
+        },
+        {
+          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
+          "url": "https://wallstreetcn.com/articles/3771883",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[13时01分 ~ 19时41分]"
+          "time_info": "[17时07分 ~ 20时52分]"
         },
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
@@ -128,18 +140,6 @@
           "time_info": "00时10分"
         },
         {
-          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
-          "url": "https://wallstreetcn.com/articles/3771883",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时07分 ~ 19时41分]"
-        },
-        {
           "title": "特朗普称俄乌 9 日起停火三天，互换千名战俘，俄乌为何同意特朗普的提议？各方背后有着怎样的考量？",
           "url": "https://www.zhihu.com/question/2036400046988579032",
           "source": "知乎",
@@ -164,6 +164,18 @@
           "time_info": "[09时51分 ~ 13时02分]"
         },
         {
+          "title": "俄方同意特朗普提出的停火方案",
+          "url": "https://www.toutiao.com/trending/7637290812788162601/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时01分 ~ 20时52分]"
+        },
+        {
           "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
           "url": "https://wallstreetcn.com/articles/3771870",
           "source": "华尔街见闻",
@@ -174,17 +186,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时07分 ~ 18时46分]"
-        },
-        {
-          "title": "俄方同意特朗普提出的停火方案",
-          "url": "https://www.toutiao.com/trending/7637290812788162601/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
           "title": "美国总统特朗普打算罢免食品药品管理局（FDA）官员Makary。（华尔街日报）",
@@ -447,7 +448,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -564,8 +565,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时51分 ~ 19时41分]"
+          "appearance_count": 10,
+          "time_info": "[09时51分 ~ 20时52分]"
         },
         {
           "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
@@ -576,8 +577,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时45分 ~ 19时41分]"
+          "appearance_count": 11,
+          "time_info": "[07时45分 ~ 20时52分]"
         },
         {
           "title": "美股收盘：三大股指收涨 英特尔涨近14%",
@@ -863,6 +864,19 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "“精神病院炒股，成A股公司前十大股东”，最新回应",
+          "url": "https://www.cls.cn/detail/2366667",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时51分 ~ 20时52分]"
+        },
+        {
           "title": "“台湾病例与邮轮事件无关联” A股“汉坦病毒”概念躁动背后有几分真实需求？",
           "url": "https://www.cls.cn/detail/2366511",
           "source": "财联社热门",
@@ -874,19 +888,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时10分 ~ 18时46分]"
-        },
-        {
-          "title": "“精神病院炒股，成A股公司前十大股东”，最新回应",
-          "url": "https://www.cls.cn/detail/2366667",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时51分 ~ 19时41分]"
         },
         {
           "title": "A股先行赔付第六单！清越科技连续三年造假，拟罚1.73亿濒临退市",
@@ -967,6 +968,18 @@
           "time_info": "[19时40分 ~ 19时41分]"
         },
         {
+          "title": "西班牙内政部长：欧盟已为剩余的欧洲公民提供了两架额外的飞机。正在与荷兰准备应急计划，针对来自非欧盟国家且没有可用航空运输的公民。",
+          "url": "https://flash.jin10.com/detail/20260509183622449800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 20时52分]"
+        },
+        {
           "title": "中信建投：AI算力与商业航天迎来产业加速期",
           "url": "https://flash.jin10.com/detail/20260509122338306800",
           "source": "金十数据",
@@ -976,17 +989,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
-        },
-        {
-          "title": "西班牙内政部长：欧盟已为剩余的欧洲公民提供了两架额外的飞机。正在与荷兰准备应急计划，针对来自非欧盟国家且没有可用航空运输的公民。",
-          "url": "https://flash.jin10.com/detail/20260509183622449800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时41分"
         }
       ]
     },
@@ -1043,8 +1045,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时01分 ~ 19时41分]"
+          "appearance_count": 8,
+          "time_info": "[13时01分 ~ 20时52分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -1052,11 +1054,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时07分 ~ 19时41分]"
+          "appearance_count": 7,
+          "time_info": "[17时07分 ~ 20时52分]"
         },
         {
           "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
@@ -1066,8 +1069,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时07分 ~ 19时41分]"
+          "appearance_count": 6,
+          "time_info": "[17时07分 ~ 20时52分]"
         }
       ]
     },
