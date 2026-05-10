@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T22:16:51.468567+08:00",
-  "total_titles_processed": 1281,
+  "generated_at": "2026-05-10T23:42:55.279270+08:00",
+  "total_titles_processed": 1359,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
@@ -183,9 +183,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
+        },
+        {
+          "title": "美国总统特朗普：委内瑞拉现在是一个非常幸福的国家。他们曾经痛苦，现在却很快乐。现在的石油产量巨大。",
+          "url": "https://flash.jin10.com/detail/20260510231829313800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "媒体：特朗普还有一场“硬仗”",
@@ -208,6 +219,131 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
+        },
+        {
+          "title": "特朗普：美方一直在监控伊朗埋在废墟下的浓缩铀",
+          "url": "https://flash.jin10.com/detail/20260510222748266800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
+          "title": "美国总统特朗普：我并没有说针对伊朗的敌对行动已经结束，但我说过他们被击败了。",
+          "url": "https://flash.jin10.com/detail/20260510221423480800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
+          "title": "美国总统特朗普：如果有人靠近伊朗掩埋在废墟下的浓缩铀，我们会知道，并且会将其炸毁。",
+          "url": "https://flash.jin10.com/detail/20260510221333169800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
+          "title": "美国总统特朗普：我们正在监测伊朗掩埋在废墟下的浓缩铀，美国太空部队将接管相关任务。",
+          "url": "https://flash.jin10.com/detail/20260510221311512800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "“精神病院炒股，成A股公司前十大股东”，最新回应",
+          "url": "https://www.cls.cn/detail/2366667",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 06时33分]"
+        },
+        {
+          "title": "A股新主线终于浮出水面",
+          "url": "https://www.toutiao.com/trending/7637893630325165622/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            4,
+            9,
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 07时37分]"
+        },
+        {
+          "title": "申万宏源：A股赚钱效应累积正在质变",
+          "url": "https://www.toutiao.com/trending/7638180405157822506/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时52分 ~ 23时42分]"
+        },
+        {
+          "title": "谁是A股核心主线",
+          "url": "https://www.toutiao.com/trending/7637892314240650790/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时43分]"
+        },
+        {
+          "title": "下周A股追还是撤",
+          "url": "https://www.toutiao.com/trending/7637841347948318249/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 04时34分]"
+        },
+        {
+          "title": "A股900亿红包来了！工行、农行下周同日派息",
+          "url": "https://www.cls.cn/detail/2367236",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         }
       ]
     },
@@ -215,6 +351,19 @@
       "keyword_group": "航天 航空",
       "match_count": 6,
       "titles": [
+        {
+          "title": "俄私营航天企业拟建超轻型火箭发射场",
+          "url": "https://wallstreetcn.com/livenews/3101135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时42分 ~ 23时42分]"
+        },
         {
           "title": "伊朗伊斯兰革命卫队航空航天部队指挥官：航空航天部队的导弹和无人机已锁定敌人，我们正等待发射命令。",
           "url": "https://flash.jin10.com/detail/20260510041530086800",
@@ -227,19 +376,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时34分 ~ 07时37分]"
-        },
-        {
-          "title": "俄私营航天企业拟建超轻型火箭发射场",
-          "url": "https://wallstreetcn.com/livenews/3101135",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时42分 ~ 22时16分]"
         },
         {
           "title": "俄私营航天企业拟建超轻型火箭发射场",
@@ -354,8 +490,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时52分 ~ 22时16分]"
+          "appearance_count": 4,
+          "time_info": "[20时52分 ~ 23时42分]"
         },
         {
           "title": "如何理解「马斯克一边告 OpenAI，一边把算力租给 Claude」的操作？",
@@ -367,75 +503,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "“精神病院炒股，成A股公司前十大股东”，最新回应",
-          "url": "https://www.cls.cn/detail/2366667",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 06时33分]"
-        },
-        {
-          "title": "A股新主线终于浮出水面",
-          "url": "https://www.toutiao.com/trending/7637893630325165622/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            4,
-            9,
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 07时37分]"
-        },
-        {
-          "title": "申万宏源：A股赚钱效应累积正在质变",
-          "url": "https://www.toutiao.com/trending/7638180405157822506/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时52分 ~ 22时16分]"
-        },
-        {
-          "title": "谁是A股核心主线",
-          "url": "https://www.toutiao.com/trending/7637892314240650790/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时43分]"
-        },
-        {
-          "title": "下周A股追还是撤",
-          "url": "https://www.toutiao.com/trending/7637841347948318249/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 04时34分]"
         }
       ]
     },
@@ -466,8 +533,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时29分 ~ 22时16分]"
+          "appearance_count": 11,
+          "time_info": "[13时29分 ~ 23时42分]"
         },
         {
           "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
