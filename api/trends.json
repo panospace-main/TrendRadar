@@ -1,234 +1,33 @@
 {
-  "generated_at": "2026-05-12T21:52:21.207624+08:00",
-  "total_titles_processed": 1430,
+  "generated_at": "2026-05-13T00:32:42.249080+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 11,
       "titles": [
         {
-          "title": "外交部介绍特朗普访华安排和中方期待",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%AE%89%E6%8E%92%E5%92%8C%E4%B8%AD%E6%96%B9%E6%9C%9F%E5%BE%85",
-          "source": "百度热搜",
+          "title": "特朗普访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时49分 ~ 07时46分]"
-        },
-        {
-          "title": "美国总统特朗普将于5月13日至15日访华",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33154395",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时49分 ~ 07时46分]"
+          "appearance_count": 1,
+          "time_info": "00时32分"
         },
         {
-          "title": "美国总统特朗普将于 5 月 13 日至 15 日访华，有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2037095315845664890",
-          "source": "知乎",
-          "ranks": [
-            3,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时49分 ~ 07时46分]"
-        },
-        {
-          "title": "美国总统特朗普将对中国进行国事访问",
-          "url": "https://wallstreetcn.com/articles/3771944",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时49分 ~ 07时46分]"
-        },
-        {
-          "title": "外交部介绍特朗普访华具体安排",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%85%B7%E4%BD%93%E5%AE%89%E6%8E%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            13,
-            24,
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时49分 ~ 21时52分]"
-        },
-        {
-          "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
-          "url": "https://www.zhihu.com/question/2037161087863353508",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时57分 ~ 21时52分]"
-        },
-        {
-          "title": "外交部介绍特朗普访华安排和中方期待",
-          "url": "https://www.toutiao.com/trending/7638111822163496490/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            2,
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时49分 ~ 09时57分]"
-        },
-        {
-          "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
-          "url": "https://wallstreetcn.com/articles/3771940",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时49分 ~ 07时46分]"
-        },
-        {
-          "title": "【早报】特朗普将访华，中方回应；京沪高铁：部分线路涨价",
-          "url": "https://www.cls.cn/detail/2368498",
+          "title": "马斯克库克随特朗普访华",
+          "url": "https://www.cls.cn/detail/2369414",
           "source": "财联社热门",
           "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时46分 ~ 16时23分]"
-        },
-        {
-          "title": "特朗普5月13日至15日访华",
-          "url": "https://www.toutiao.com/trending/7638433306853281331/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时49分 ~ 07时46分]"
-        },
-        {
-          "title": "外交部介绍特朗普访华具体安排和中方期待",
-          "url": "https://wallstreetcn.com/articles/3771976",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时49分 ~ 09时57分]"
-        },
-        {
-          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
-          "url": "https://wallstreetcn.com/articles/3772005",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时46分 ~ 21时52分]"
-        },
-        {
-          "title": "特朗普：中国是一个令人惊叹的国家",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BB%A4%E4%BA%BA%E6%83%8A%E5%8F%B9%E7%9A%84%E5%9B%BD%E5%AE%B6",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时57分 ~ 16时23分]"
-        },
-        {
-          "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时32分 ~ 21时52分]"
-        },
-        {
-          "title": "美国参议院少数党领袖：特朗普将美国拖入战争 民主党将继续推动撤军",
-          "url": "https://flash.jin10.com/detail/20260512074149753800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时46分"
-        },
-        {
-          "title": "据华盛顿邮报：特朗普最早可能在周一签署一项关于人工智能安全的行政命令。",
-          "url": "https://flash.jin10.com/detail/20260512013750764800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
-        },
-        {
-          "title": "特朗普政府请求法院暂停执行针对10%全球关税的裁决",
-          "url": "https://wallstreetcn.com/livenews/3101903",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时46分"
-        },
-        {
-          "title": "特朗普称封锁致伊朗经济崩溃，断言伊朗“100%”会放弃核武器",
-          "url": "https://flash.jin10.com/detail/20260512214840065800",
-          "source": "金十数据",
-          "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时52分"
+          "time_info": "00时32分"
         },
         {
           "title": "特朗普访华有哪些重要议题",
@@ -237,1318 +36,264 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时52分"
-        },
-        {
-          "title": "白银价格大涨逾7% 特朗普称停火协议已岌岌可危 | 环球市场",
-          "url": "https://www.cls.cn/detail/2368480",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时46分 ~ 16时23分]"
-        },
-        {
-          "title": "美国总统特朗普：我们需要更多关税。",
-          "url": "https://flash.jin10.com/detail/20260512042137003800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时10分"
-        },
-        {
-          "title": "美国总统特朗普：船只正驶往得州和路易斯安那州，准备装载石油。",
-          "url": "https://flash.jin10.com/detail/20260512214708855800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时52分"
+          "time_info": "00时32分"
         },
         {
           "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
           "url": "https://m.thepaper.cn/newsDetail_forward_33157149",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            15,
-            8,
-            6
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时32分 ~ 21时52分]"
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "特朗普政府预计：与伊朗战争相关的原油停产规模将在5月达到峰值，约为1,080万桶/日",
+          "url": "https://wallstreetcn.com/livenews/3102420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
+          "url": "https://wallstreetcn.com/articles/3772005",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
         },
         {
           "title": "美国总统特朗普：非常期待中国之行",
           "url": "https://m.thepaper.cn/newsDetail_forward_33160584",
           "source": "澎湃新闻",
           "ranks": [
-            18,
-            12,
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时32分 ~ 21时52分]"
+          "appearance_count": 1,
+          "time_info": "00时32分"
         },
         {
           "title": "特朗普对古巴无能狂怒：几个月了，为啥他们还没政权崩溃",
           "url": "https://news.ifeng.com/c/8t4CJqYob72",
           "source": "凤凰网",
           "ranks": [
-            4,
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 21时52分]"
+          "appearance_count": 1,
+          "time_info": "00时32分"
         },
         {
-          "title": "特朗普金卡遇冷 白宫商业鬼才现原形",
-          "url": "https://www.toutiao.com/trending/7638642573942197823/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时49分 ~ 03时27分]"
-        },
-        {
-          "title": "特朗普访华传递了哪些信号",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BC%A0%E9%80%92%E4%BA%86%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 19时13分]"
-        },
-        {
-          "title": "报道称马斯克、库克、贝莱德、美光CEO等将随特朗普访华，黄仁勋缺席",
-          "url": "https://wallstreetcn.com/articles/3772030",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 21时52分]"
-        },
-        {
-          "title": "特朗普称正在认真考虑「将委内瑞拉纳为美国第 51 个州」，意在 40 万亿美元的石油财富，有可能实现吗？",
-          "url": "https://www.zhihu.com/question/2037474314413238203",
+          "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
+          "url": "https://www.zhihu.com/question/2037161087863353508",
           "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时32分 ~ 13时33分]"
-        },
-        {
-          "title": "如何看待特朗普撮合英特尔重新回到苹果核心供应链中？",
-          "url": "https://www.zhihu.com/question/2037109518547380076",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时32分 ~ 13时33分]"
-        },
-        {
-          "title": "美国总统特朗普：失败的《纽约时报》，这是世界上最糟糕的报纸之一，订阅量每小时都在流失。",
-          "url": "https://flash.jin10.com/detail/20260512184945160800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "芝加哥小麦期货涨约2.8%，特朗普口头打压牛肉价格",
-          "url": "https://wallstreetcn.com/livenews/3101822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时27分"
-        },
-        {
-          "title": "美国总统特朗普：必须换种方式来征收关税，效率会低一些，但我能征得更多。",
-          "url": "https://flash.jin10.com/detail/20260512214543328800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时52分"
-        },
-        {
-          "title": "分析：特朗普暂停征收燃油税或每月损失数十亿美元税收",
-          "url": "https://flash.jin10.com/detail/20260512062007324800",
-          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时45分"
+          "time_info": "00时32分"
         },
         {
-          "title": "美国总统特朗普：非常期待中国之行",
-          "url": "https://wallstreetcn.com/livenews/3101894",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时46分"
-        },
-        {
-          "title": "马斯克库克随特朗普访华",
-          "url": "https://www.cls.cn/detail/2369414",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时52分"
-        },
-        {
-          "title": "特朗普政府请求法院暂停执行针对10%全球关税的裁决",
-          "url": "https://flash.jin10.com/detail/20260512071238628800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时46分"
-        },
-        {
-          "title": "白宫新闻副秘书Kelly：美国总统特朗普对伊朗局势拥有各种选项。",
-          "url": "https://wallstreetcn.com/livenews/3101813",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时27分"
-        },
-        {
-          "title": "特朗普金卡翻车",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%91%E5%8D%A1%E7%BF%BB%E8%BD%A6%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "美国总统特朗普考虑对伊朗采取军事行动，周一会见了国家安全团队。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3101788",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
-        },
-        {
-          "title": "特朗普称访华行程将非常精彩",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%AE%BF%E5%8D%8E%E8%A1%8C%E7%A8%8B%E5%B0%86%E9%9D%9E%E5%B8%B8%E7%B2%BE%E5%BD%A9%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
+          "title": "特朗普访华期间是否会讨论台湾和香港有关问题？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33162926",
+          "source": "澎湃新闻",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时23分"
-        },
+          "time_info": "00时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "农业 机械",
+      "match_count": 6,
+      "titles": [
         {
-          "title": "美国总统特朗普：伊朗现在的领导层中有温和派，他们急切地想达成协议。然后还有一群疯子，这群疯子们想战斗到底。",
-          "url": "https://flash.jin10.com/detail/20260512010045688800",
+          "title": "【金十期货整理：USDA 5月报告重点数据一览】金十期货5月13日讯，美国农业部公布5月供需报告，主要数据如下： <span class=\"section-news\">1. 美国2026/27年度大豆期末库存预期为3.10亿蒲式耳，低于路透预期的3.61亿蒲式耳；</span> <span class=\"section-news\">2. 美国2026/27年度玉米期末库存预期为19.57亿蒲式耳，高于路透预期的19.22亿蒲式耳；</span> <span class=\"section-news\">3. 美国2026/27年度小麦期末库存预期为7.62亿蒲式耳，低于路透预期的8.20亿蒲式耳；</span> <span class=\"section-news\">4. 全球2026/27年度大豆期末库存预期为1.2478亿吨，低于路透预期的1.2608亿吨；</span> <span class=\"section-news\">5. 全球2026/27年度玉米期末库存预期为2.7754亿吨，低于路透预期的2.8848亿吨；</span> <span class=\"section-news\">6. 全球2026/27年度小麦期末库存预期为2.7504亿吨，低于路透预期的2.8055亿吨；</span> <span class=\"section-news\">7. 美国2026/27年度大豆产量预期为44.35亿蒲式耳，略低于路透预期的44.44亿蒲式耳；</span> <span class=\"section-news\">8. 美国2026/27年度玉米产量预期为159.95亿蒲式耳，高于路透预期的159.26亿蒲式耳。</span> <span class=\"section-news\">9. 美国农业部在报告中称，2026/27年度美国大豆供应、压榨和出口预计高于上一年度，但期末库存下降；美国玉米供应、总使用量和期末库存预计下降，价格预期上升；全球玉米期末库存预计降至2.775亿吨，若兑现将为2013/14年度以来最低。</span>",
+          "url": "https://flash.jin10.com/detail/20260513001304067800",
           "source": "金十数据",
           "ranks": [
-            17
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时49分"
+          "time_info": "00时32分"
         },
         {
-          "title": "媒体频频泄密如列席战情室 特朗普要求展开调查",
-          "url": "https://flash.jin10.com/detail/20260512060026125800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时45分"
-        },
-        {
-          "title": "白宫官员：美国总统特朗普将于周一签署行政命令，允许增加牛肉进口，并支持美国牛群规模的恢复。",
-          "url": "https://wallstreetcn.com/livenews/3101809",
+          "title": "CBOT小麦期货上涨，美国农业部（USDA）预计美国冬小麦产量将锐减25%。",
+          "url": "https://wallstreetcn.com/livenews/3102419",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时27分"
+          "time_info": "00时32分"
         },
         {
-          "title": "“命悬一线”！特朗普宣布美伊停火濒临崩溃，正权衡对伊朗恢复军事行动",
-          "url": "https://flash.jin10.com/detail/20260512065204690800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时46分"
-        },
-        {
-          "title": "美国总统特朗普：（关于伊朗）我们不必急于做任何事情。",
-          "url": "https://flash.jin10.com/detail/20260512213621074800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时52分"
-        },
-        {
-          "title": "受邀陪特朗普访华的企业与华有何渊源",
-          "url": "https://www.toutiao.com/trending/7638696162195308570/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "据华尔街日报：消息人士称，美国总统特朗普上个月在伊朗战争相关事件后，曾私下向代理司法部长抱怨媒体泄密问题。代理司法部长承诺将申请传票，目标涉及报道国家安全新闻的记者相关记录。",
-          "url": "https://flash.jin10.com/detail/20260512054116878800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时45分"
-        },
-        {
-          "title": "美国总统特朗普重申伊朗不能拥有核武器。",
-          "url": "https://flash.jin10.com/detail/20260512213608268800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时52分"
-        },
-        {
-          "title": "美国官员：特朗普召集高层 研判对伊重新动武",
-          "url": "https://flash.jin10.com/detail/20260512004738890800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗问题只是时间问题。",
-          "url": "https://flash.jin10.com/detail/20260512213559184800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时52分"
-        },
-        {
-          "title": "美国总统特朗普谈Hantavirus：这种疾病早就存在了。",
-          "url": "https://wallstreetcn.com/livenews/3101781",
+          "title": "美国农业部（USDA）：预计美国期末棉花库存390万捆，分析师预期420万捆，USDA之前预计440万捆。",
+          "url": "https://wallstreetcn.com/livenews/3102416",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时49分"
+          "time_info": "00时32分"
         },
         {
-          "title": "美国总统特朗普：伊朗强硬派领导人早晚会屈服，我将与他们继续“周旋”，直到他们愿意跟我达成协议。",
-          "url": "https://flash.jin10.com/detail/20260512004359495800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
-        },
-        {
-          "title": "美国参议院少数党领袖舒默：参议院共和党上周公布的720亿美元和解法案充分暴露了他们的优先事项：在毫无监管约束的情况下向ICE和边境巡逻队注入数百万美元资金，同时动用10亿美元纳税人钱款为特朗普修建金碧辉煌的宴会厅，而帮助美国民众应对不断攀升的生活成本的拨款却是零。这是可耻的，民主党人将动用我们手中的一切工具来阻止这项法案。",
-          "url": "https://flash.jin10.com/detail/20260512064933935800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时46分"
-        },
-        {
-          "title": "美国总统特朗普：肯·格里芬是一位了不起的商人。他缴纳了大量税款，纽约市失去他将是个坏消息。",
-          "url": "https://flash.jin10.com/detail/20260512213544140800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时52分"
-        },
-        {
-          "title": "据路透社/益普索调查：特朗普支持率在触及任内最低水平后，从34%升至36%。",
-          "url": "https://flash.jin10.com/detail/20260512021918353800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时27分"
-        },
-        {
-          "title": "美国总统特朗普：非常期待中国之行",
-          "url": "https://flash.jin10.com/detail/20260512064331490800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时46分"
-        },
-        {
-          "title": "美国总统特朗普：与伊朗达成外交解决方案的可能性仍然存在。",
-          "url": "https://wallstreetcn.com/livenews/3101777",
+          "title": "美国农业部（USDA）：预计美国期末小麦总库存7.62亿蒲式耳，分析师预期8.4472亿蒲式耳，USDA之前预计9.38亿蒲式耳。",
+          "url": "https://wallstreetcn.com/livenews/3102415",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时49分"
+          "time_info": "00时32分"
         },
         {
-          "title": "美国总统特朗普最快将于周一签署关于AI安全的命令。（华盛顿邮报）",
-          "url": "https://wallstreetcn.com/livenews/3101803",
+          "title": "美国农业部（USDA）：预计美国期末玉米库存19.57亿蒲式耳，分析师预期19.4250亿蒲式耳，USDA之前预计21.27亿蒲式耳。",
+          "url": "https://wallstreetcn.com/livenews/3102414",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时27分"
+          "time_info": "00时32分"
         },
         {
-          "title": "特朗普推迟降低牛肉进口关税。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3101929",
+          "title": "美国农业部（USDA）：预计美国期末大豆库存3.10亿蒲式耳，分析师预期3.6605亿蒲式耳，USDA之前预计3.50亿蒲式耳。",
+          "url": "https://wallstreetcn.com/livenews/3102413",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "据路透社/益普索调查：66%的美国人表示特朗普没有清楚解释美国在伊朗战争中的目标。",
-          "url": "https://flash.jin10.com/detail/20260512021907048800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时27分"
-        },
-        {
-          "title": "美国总统特朗普：将暂停实施联邦汽油税。 如有必要，将尽可能长时间地暂停。",
-          "url": "https://wallstreetcn.com/livenews/3101776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
-        },
-        {
-          "title": "白宫副新闻秘书凯利：特朗普对伊朗问题并不着急，所有选项都在考虑之中。",
-          "url": "https://flash.jin10.com/detail/20260512021148583800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时27分"
-        },
-        {
-          "title": "白宫官员：特朗普周一将签署行政命令，允许增加牛肉进口并支持美国牛群存栏恢复。",
-          "url": "https://flash.jin10.com/detail/20260512020630622800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时27分"
-        },
-        {
-          "title": "特朗普：“停火协议已岌岌可危”，正处于“生命维持”状态",
-          "url": "https://wallstreetcn.com/livenews/3101771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
+          "time_info": "00时32分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "美国通胀超预期，美股低开，科技股普跌，英伟达股价续创新高，美伊僵局致布油涨3%",
+          "url": "https://wallstreetcn.com/articles/3772040",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
         {
           "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
           "url": "https://wallstreetcn.com/articles/3771942",
           "source": "华尔街见闻",
           "ranks": [
-            1,
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时45分 ~ 21时52分]"
-        },
-        {
-          "title": "美股收盘：标普500指数再创新高 存储、光通信延续逼空行情",
-          "url": "https://www.cls.cn/detail/2368457",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时45分 ~ 16时23分]"
-        },
-        {
-          "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2368275",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时49分 ~ 09时57分]"
-        },
-        {
-          "title": "美伊局势僵持，美股盘初涨跌互现，英特尔、美光、高通、AMD股价齐创历史新高，现货白银涨7%站上85美元，布油再回100美元上方",
-          "url": "https://wallstreetcn.com/articles/3771942",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 05时10分]"
+          "appearance_count": 1,
+          "time_info": "00时32分"
         },
         {
           "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
           "url": "https://wallstreetcn.com/articles/3772023",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时32分 ~ 21时52分]"
-        },
-        {
-          "title": "美国通胀超预期，美股低开，科技股普跌，美伊僵局致布油涨3%",
-          "url": "https://wallstreetcn.com/articles/3772040",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时52分"
-        },
-        {
-          "title": "GitLab美股盘后跌7%，该公司计划裁员。",
-          "url": "https://wallstreetcn.com/livenews/3101855",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
-        },
-        {
-          "title": "Hims & Hers Health美股盘后跌9.7%。",
-          "url": "https://wallstreetcn.com/livenews/3101854",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
-        },
-        {
-          "title": "周二美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3102340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时52分"
-        },
-        {
-          "title": "周一（5月11日），美股人工智能（AI）赢家指数涨1.97%，报400.80点，成分股Lumentum涨16.52%，高意公司Coherent涨13.25%，康宁公司涨10.94%涨幅第三大，戴尔、超微电脑领跌。 AI软件先驱指数跌0.75%，报105.26点，成分股C3.ai收跌3.95%，Datadog则涨1.08%。",
-          "url": "https://wallstreetcn.com/livenews/3101858",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时10分 ~ 06时45分]"
-        },
-        {
-          "title": "周一（5月11日），美股存储芯片与硬件供应链指数涨3.36%，报194.70点，再次创收盘历史新高。 成分股西部数据涨7.46%，希捷科技涨6.56%，美光科技涨6.50%，闪迪跌0.95%。",
-          "url": "https://wallstreetcn.com/livenews/3101856",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时10分 ~ 06时45分]"
-        },
-        {
-          "title": "美股芯片板块狂飙暗藏风险 散户此刻大举冲入引发担忧",
-          "url": "https://www.cls.cn/detail/2368431",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时45分 ~ 13时33分]"
-        },
-        {
-          "title": "美股正重演2000年泡沫破灭剧本？“大空头”再发警告：纳指100将迎重大逆转！",
-          "url": "https://www.cls.cn/detail/2368550",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时32分 ~ 16时23分]"
-        },
-        {
-          "title": "金十图示：2026年05月12日（周二）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260512214618436800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时52分"
-        },
-        {
-          "title": "美股大类资产类ETF多数收涨，布油基金涨3.6%",
-          "url": "https://wallstreetcn.com/livenews/3101851",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
-        },
-        {
-          "title": "美股盘前，科技股多数走低，美光科技跌超2%，英特尔跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3102138",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "能源业ETF收涨超2.6%，与半导体ETF领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3101849",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
-        },
-        {
-          "title": "金十图示：2026年05月11日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260512040533688800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
-        },
-        {
-          "title": "周一（5月11日），美股信息科技指数收涨2.30%，报397.38点，再创收盘历史新高。 成分股Lumentum Holdings Inc.（LITE）收涨16.52%领跑，创2025年11月以来最大单日涨幅；IonQ涨15.54%，高意公司/相干公司Coherent涨13.25%，Credo科技集团涨11.52%，康宁公司涨10.94%，高通涨8.42%表现第六，SoundHound则收跌4.84%跌幅第五大，Workday跌5.01%，戴尔科技跌5.15%，超微电脑跌5.23%，IREN跌9.89%。",
-          "url": "https://wallstreetcn.com/livenews/3101844",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
-        },
-        {
-          "title": "美股“融涨”警报拉响！1999年互联网泡沫的剧本又要重演了？",
-          "url": "https://flash.jin10.com/detail/20260512184546356800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "金十图示：2026年05月11日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260512040519288800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
-        },
-        {
-          "title": "美股费城半导体指数收涨2.6%，与标普、纳指创收盘历史新高，银行指数跌超1.1%",
-          "url": "https://wallstreetcn.com/livenews/3101840",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
-        },
-        {
-          "title": "美股收盘：三大股指小幅收涨 大型芯片股齐创新高",
-          "url": "https://flash.jin10.com/detail/20260512040122104800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
-        },
-        {
-          "title": "腾讯音乐美股盘前涨超10%，公司第一季度营收79亿元，同比增长7.3%。",
-          "url": "https://wallstreetcn.com/livenews/3102216",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 23,
-      "titles": [
-        {
-          "title": "十大券商看后市｜A股向上趋势不改，以波段思维应对事件窗口",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33153911",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时49分 ~ 07时46分]"
-        },
-        {
-          "title": "A股史诗级爆发原因",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8F%B2%E8%AF%97%E7%BA%A7%E7%88%86%E5%8F%91%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时49分 ~ 07时46分]"
-        },
-        {
-          "title": "A股三大指数集体翻绿，全市场下跌个股超3800只。",
-          "url": "https://flash.jin10.com/detail/20260512093938245800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "A股电力板块反复活跃，大唐发电5连板，韶能股份直线涨停，甘肃能源、华电辽能、赣能股份、晋控电力、深南电A等纷纷走高。",
-          "url": "https://wallstreetcn.com/livenews/3101958",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "A股猪肉板块盘初走低，华统股份跌超5%，立华股份、金新农、正邦科技、京基智农、罗牛山、海大集团跟跌。",
-          "url": "https://flash.jin10.com/detail/20260512093823831800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "A股稀土永磁板块震荡走低，华宏科技、北方稀土、西磁科技跌超6%，盛和资源、中国稀土、有研新材跟跌。",
-          "url": "https://flash.jin10.com/detail/20260512130901594800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时33分"
-        },
-        {
-          "title": "A股创新药概念局部异动，津药药业午后涨停，恒瑞医药涨超7%，泽璟制药、益方生物、博瑞医药、科伦药业等纷纷冲高。",
-          "url": "https://wallstreetcn.com/livenews/3102036",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时33分"
-        },
-        {
-          "title": "A股航空发动机板块午后走低，飞沃科技、神剑股份跌超8%，航亚科技、隆达股份跌超7%，博云新材、广联航空跟跌。",
-          "url": "https://flash.jin10.com/detail/20260512130732605800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时33分"
-        },
-        {
-          "title": "A股光通信概念股延续涨势，红板科技4连板，可川科技一字涨停，光电股份、星网锐捷、方正科技、中富电路涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3101954",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "港股恒瑞医药涨超14%，A股恒瑞医药涨超6%。公司与BMS达成全球重磅合作，携手开发13款早期创新药。",
-          "url": "https://wallstreetcn.com/livenews/3102035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时33分"
-        },
-        {
-          "title": "CPO龙头强势晋级！A股首次5只千元股同框，这些板块涌现最多",
-          "url": "https://www.cls.cn/detail/2369188",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 21时52分]"
-        },
-        {
-          "title": "学者：A股涨说明经济真的在复苏",
-          "url": "https://www.toutiao.com/trending/7638599674026266139/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 05时10分]"
-        },
-        {
-          "title": "A股资产备受基金青睐，“专业买手”连续加仓6个月",
-          "url": "https://wallstreetcn.com/livenews/3101887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时45分 ~ 07时46分]"
-        },
-        {
-          "title": "A股重回4200点 国家队买了谁",
-          "url": "https://www.toutiao.com/trending/7638837837990743606/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时32分 ~ 16时23分]"
-        },
-        {
-          "title": "A股连续4天百股涨停",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E8%BF%9E%E7%BB%AD4%E5%A4%A9%E7%99%BE%E8%82%A1%E6%B6%A8%E5%81%9C",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时49分 ~ 03时27分]"
-        },
-        {
-          "title": "港股恒瑞医药(01276.HK)涨超14%，A股恒瑞医药涨超6%。消息面上，公司与BMS达成全球重磅合作，携手开发13款早期创新药。",
-          "url": "https://flash.jin10.com/detail/20260512130153947800",
-          "source": "金十数据",
-          "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时33分"
+          "time_info": "00时32分"
         },
         {
-          "title": "A股存储芯片板块今日调整，华特气体跌超6%，恒烁股份、澜起科技、金宏气体、神工股份跌超5%，东芯股份、有研新材跟跌。",
-          "url": "https://flash.jin10.com/detail/20260512093727397800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "A股CPO板块盘初活跃，红板科技、可传科技双双涨停，德科立涨超13%，太辰光、源杰科技、方正科技 跟涨。",
-          "url": "https://flash.jin10.com/detail/20260512093314117800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "A股重回4200点 国家队买了谁",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E9%87%8D%E5%9B%9E4200%E7%82%B9+%E5%9B%BD%E5%AE%B6%E9%98%9F%E4%B9%B0%E4%BA%86%E8%B0%81",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "A股黄金概念盘初走强，福达合金、兴业银锡、宝鼎科技涨超5%，湖南白银、白银有色、江西铜业跟涨。",
-          "url": "https://flash.jin10.com/detail/20260512093153652800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "A股开盘，上证指数涨0.1%，深证成指涨0.34%，创业板指涨0.46%。黄金概念、盐湖提锂、CPO板块涨幅居前。",
-          "url": "https://flash.jin10.com/detail/20260512092517305800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "A股收盘：沪指跌0.25%",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%B2%AA%E6%8C%87%E8%B7%8C0.25%25",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "A股券商板块异动拉升，长城证券涨停，锦龙股份、长江证券、东方证券、财通证券、财达证券跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3102000",
+          "title": "算力热潮暂歇：美股芯片与半导体设备股同步回落",
+          "url": "https://wallstreetcn.com/livenews/3102400",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7963元，较上周五夜盘收盘涨42点。成交量378.74亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3101825",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时27分 ~ 05时10分]"
-        },
-        {
-          "title": "周一（5月11日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.7919元，较上周五纽约尾盘涨52点，日内整体交投于6.8009-6.7899元区间。",
-          "url": "https://wallstreetcn.com/livenews/3101867",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时45分 ~ 07时46分]"
-        },
-        {
-          "title": "上期所原油期货2606合约夜盘收涨0.11%，报633.30元人民币/桶。 沪金夜盘收涨0.45%，沪银收涨6.41%。",
-          "url": "https://wallstreetcn.com/livenews/3101817",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时27分"
-        },
-        {
-          "title": "人民币兑美元中间价报6.8426，上调41点；上一交易日中间价6.8467，上一交易日官方收盘价6.7954，上日夜盘报收6.7963。",
-          "url": "https://wallstreetcn.com/livenews/3101941",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "京东集团第一季度净营收3,156.9亿元人民币，同比增长4.9%，预估3,114.3亿元人民币。 第一季度调整后EBITDA 80.2亿元人民币，同比下降41%，预估44.6亿元人民币。 第一季度调整后每ADS收益 5.12元人民币，预估3.57元人民币。 第一季度经调整EBITDA利润率2.5％，上年同期4.6％，预估1.38％。 京东集团美股盘前涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3102215",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "00时32分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌：首次发现黑客借助AI开发“零日”漏洞攻击工具",
-          "url": "https://wallstreetcn.com/livenews/3101797",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时49分 ~ 03时27分]"
-        },
-        {
-          "title": "谷歌：公司与苹果公司正在为RCS推出端到端加密，默认保护安卓与iPhone用户之间的聊天安全。",
-          "url": "https://flash.jin10.com/detail/20260512012012349800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周一（5月11日），美国科技股七巨头（Magnificent 7）指数跌0.29%，报223.79点。成分股谷歌母公司Alphabet收跌3%，创3月份以来最大单日跌幅。 “超大”市值科技股指数跌0.13%，报454.22点。",
-          "url": "https://wallstreetcn.com/livenews/3101843",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.58%，暂报3038.63点。 MarketVectorTM数字资产100中盘指数跌1.03%，报3295.16点。 MarketVector数字资产100指数涨0.11%，报16122.26点。 目前，Solana涨1.08%，狗狗币涨0.11%，XRP跌0.75%。 比特币涨0.22%，暂报81582.41美元；以太坊跌1.42%，暂报2329.94美元。",
-          "url": "https://wallstreetcn.com/livenews/3101792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
-        },
-        {
-          "title": "周一（5月11日）纽约尾盘，ICE美元指数涨0.06%，报97.955点，日内交投区间为98.153-97.805点，亚太午盘刷新日高，之后逐步回撤，纽约早间转跌、北京时间22:43刷新日低。 彭博美元指数涨0.10%，报1189.10点，日内交投区间为1190.88-1187.80点。",
-          "url": "https://wallstreetcn.com/livenews/3101835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
-        },
-        {
-          "title": "美元指数11日上涨",
-          "url": "https://flash.jin10.com/detail/20260512032542198800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "航天 航空",
       "match_count": 2,
       "titles": [
         {
-          "title": "美国联邦航空管理局批准波音(BA.N)关于MD-11飞机在发生有关联合包裹(UPS.N)空难事件后复飞的计划。",
-          "url": "https://flash.jin10.com/detail/20260512031336244800",
-          "source": "金十数据",
+          "title": "SpaceX与谷歌洽谈太空轨道的数据中心合作事宜，谷歌还与其他火箭发射公司接触。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3102418",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            27
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时27分 ~ 05时10分]"
+          "appearance_count": 1,
+          "time_info": "00时32分"
         },
         {
-          "title": "美国海军：美国海军福特号航母打击群（CVN 78）在响应国家号召后，正式启程回家。今天，来自航母航空联队（CVW）8的各个中队开始回到各自基地。旗舰和驱逐舰中队（DESRON）2的舰艇将在接下来的几天内抵达，正式结束此次部署。",
-          "url": "https://flash.jin10.com/detail/20260512023919796800",
+          "title": "据华尔街日报：SpaceX与谷歌正就探索在轨数据中心进行洽谈。",
+          "url": "https://flash.jin10.com/detail/20260513000754050800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时27分"
+          "time_info": "00时32分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Bain & Co.投资OpenAI Deployment Company。",
-          "url": "https://wallstreetcn.com/livenews/3101802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时49分 ~ 03时27分]"
-        },
-        {
-          "title": "OpenAI CEO Sam Altman：说到那些对我而言已经跨过某个临界点的东西，新版ChatGPT模型、个性风格以及个性化的组合，现在感觉已经像是一种全新的东西了。",
-          "url": "https://flash.jin10.com/detail/20260512065650611800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "瑞银仍预计金价年底达到每盎司5600美元 银价料达到100美元",
-          "url": "https://wallstreetcn.com/livenews/3102015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时33分"
-        },
-        {
-          "title": "现货白银日内涨幅扩大至7%，报85.97美元/盎司。现货黄金价格涨0.35%，报4731.85美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3101773",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农业 机械",
+      "keyword_group": "A股",
       "match_count": 1,
       "titles": [
         {
-          "title": "挖掘机量价齐涨，工程机械行业景气度攀升",
-          "url": "https://wallstreetcn.com/livenews/3101896",
-          "source": "华尔街见闻-快讯",
+          "title": "CPO龙头强势晋级！A股首次5只千元股同框，这些板块涌现最多",
+          "url": "https://www.cls.cn/detail/2369188",
+          "source": "财联社热门",
           "ranks": [
-            9
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时46分"
+          "time_info": "00时32分"
         }
       ]
     },
@@ -1557,15 +302,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "油价推升通胀风险 “沃什交易”在美债市场退潮",
-          "url": "https://wallstreetcn.com/livenews/3102221",
+          "title": "“债券卫士”Yardeni对美债收益率上涨并不惊慌，称贝森特不会坐视其无度攀升",
+          "url": "https://wallstreetcn.com/livenews/3102394",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "00时32分"
         }
       ]
     }
