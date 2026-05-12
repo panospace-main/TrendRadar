@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-12T07:46:52.712452+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2026-05-12T09:57:22.994269+08:00",
+  "total_titles_processed": 749,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 45,
       "titles": [
+        {
+          "title": "外交部介绍特朗普访华具体安排",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%85%B7%E4%BD%93%E5%AE%89%E6%8E%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时49分 ~ 09时57分]"
+        },
         {
           "title": "外交部介绍特朗普访华安排和中方期待",
           "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%AE%89%E6%8E%92%E5%92%8C%E4%B8%AD%E6%96%B9%E6%9C%9F%E5%BE%85",
@@ -62,11 +73,12 @@
           "ranks": [
             4,
             2,
-            1
+            1,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时49分 ~ 07时46分]"
+          "appearance_count": 7,
+          "time_info": "[01时49分 ~ 09时57分]"
         },
         {
           "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
@@ -75,17 +87,6 @@
           "ranks": [
             4,
             3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时49分 ~ 07时46分]"
-        },
-        {
-          "title": "外交部介绍特朗普访华具体安排",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%85%B7%E4%BD%93%E5%AE%89%E6%8E%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -113,8 +114,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时49分 ~ 07时46分]"
+          "appearance_count": 7,
+          "time_info": "[01时49分 ~ 09时57分]"
+        },
+        {
+          "title": "【早报】特朗普将访华，中方回应；京沪高铁：部分线路涨价",
+          "url": "https://www.cls.cn/detail/2368498",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时46分 ~ 09时57分]"
+        },
+        {
+          "title": "特朗普：中国是一个令人惊叹的国家",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BB%A4%E4%BA%BA%E6%83%8A%E5%8F%B9%E7%9A%84%E5%9B%BD%E5%AE%B6",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
         },
         {
           "title": "美国参议院少数党领袖：特朗普将美国拖入战争 民主党将继续推动撤军",
@@ -123,7 +147,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -145,18 +169,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时46分"
-        },
-        {
-          "title": "【早报】特朗普将访华，中方回应；京沪高铁：部分线路涨价",
-          "url": "https://www.cls.cn/detail/2368498",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -172,6 +185,17 @@
           "time_info": "05时10分"
         },
         {
+          "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
+          "url": "https://www.zhihu.com/question/2037161087863353508",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
           "title": "特朗普金卡遇冷 白宫商业鬼才现原形",
           "url": "https://www.toutiao.com/trending/7638642573942197823/",
           "source": "今日头条",
@@ -184,6 +208,30 @@
           "time_info": "[01时49分 ~ 03时27分]"
         },
         {
+          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
+          "url": "https://wallstreetcn.com/articles/3772005",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时46分 ~ 09时57分]"
+        },
+        {
+          "title": "白银价格大涨逾7% 特朗普称停火协议已岌岌可危 | 环球市场",
+          "url": "https://www.cls.cn/detail/2368480",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时46分 ~ 09时57分]"
+        },
+        {
           "title": "芝加哥小麦期货涨约2.8%，特朗普口头打压牛肉价格",
           "url": "https://wallstreetcn.com/livenews/3101822",
           "source": "华尔街见闻-快讯",
@@ -193,28 +241,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
-        },
-        {
-          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
-          "url": "https://wallstreetcn.com/articles/3772005",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时46分"
-        },
-        {
-          "title": "白银价格大涨逾7% 特朗普称停火协议已岌岌可危 | 环球市场",
-          "url": "https://www.cls.cn/detail/2368480",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时46分"
         },
         {
           "title": "分析：特朗普暂停征收燃油税或每月损失数十亿美元税收",
@@ -234,7 +260,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -245,7 +271,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -259,6 +285,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        },
+        {
+          "title": "特朗普金卡翻车",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%91%E5%8D%A1%E7%BF%BB%E8%BD%A6%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
         },
         {
           "title": "美国总统特朗普考虑对伊朗采取军事行动，周一会见了国家安全团队。（Axios）",
@@ -311,7 +348,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -366,7 +403,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -388,7 +425,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -413,6 +450,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        },
+        {
+          "title": "特朗普推迟降低牛肉进口关税。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3101929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
         },
         {
           "title": "据路透社/益普索调查：66%的美国人表示特朗普没有清楚解释美国在伊朗战争中的目标。",
@@ -476,6 +524,19 @@
       "match_count": 16,
       "titles": [
         {
+          "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2368275",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时49分 ~ 09时57分]"
+        },
+        {
           "title": "美伊局势僵持，美股盘初涨跌互现，英特尔、美光、高通、AMD股价齐创历史新高，现货白银涨7%站上85美元，布油再回100美元上方",
           "url": "https://wallstreetcn.com/articles/3771942",
           "source": "华尔街见闻",
@@ -487,19 +548,6 @@
           "time_info": "[01时49分 ~ 05时10分]"
         },
         {
-          "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2368275",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时49分 ~ 07时46分]"
-        },
-        {
           "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
           "url": "https://wallstreetcn.com/articles/3771942",
           "source": "华尔街见闻",
@@ -507,8 +555,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时45分 ~ 07时46分]"
+          "appearance_count": 3,
+          "time_info": "[06时45分 ~ 09时57分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 存储、光通信延续逼空行情",
@@ -519,8 +567,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时45分 ~ 07时46分]"
+          "appearance_count": 3,
+          "time_info": "[06时45分 ~ 09时57分]"
         },
         {
           "title": "GitLab美股盘后跌7%，该公司计划裁员。",
@@ -569,6 +617,18 @@
           "time_info": "[05时10分 ~ 06时45分]"
         },
         {
+          "title": "美股芯片板块狂飙暗藏风险 散户此刻大举冲入引发担忧",
+          "url": "https://www.cls.cn/detail/2368431",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时45分 ~ 09时57分]"
+        },
+        {
           "title": "美股大类资产类ETF多数收涨，布油基金涨3.6%",
           "url": "https://wallstreetcn.com/livenews/3101851",
           "source": "华尔街见闻-快讯",
@@ -589,17 +649,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
-        },
-        {
-          "title": "美股芯片板块狂飙暗藏风险 散户此刻大举冲入引发担忧",
-          "url": "https://www.cls.cn/detail/2368431",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时45分"
         },
         {
           "title": "金十图示：2026年05月11日（周一）美股热门股票行情一览（美股收盘）",
@@ -660,7 +709,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 5,
+      "match_count": 13,
       "titles": [
         {
           "title": "十大券商看后市｜A股向上趋势不改，以波段思维应对事件窗口",
@@ -685,6 +734,50 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时49分 ~ 07时46分]"
+        },
+        {
+          "title": "A股三大指数集体翻绿，全市场下跌个股超3800只。",
+          "url": "https://flash.jin10.com/detail/20260512093938245800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "A股电力板块反复活跃，大唐发电5连板，韶能股份直线涨停，甘肃能源、华电辽能、赣能股份、晋控电力、深南电A等纷纷走高。",
+          "url": "https://wallstreetcn.com/livenews/3101958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "A股猪肉板块盘初走低，华统股份跌超5%，立华股份、金新农、正邦科技、京基智农、罗牛山、海大集团跟跌。",
+          "url": "https://flash.jin10.com/detail/20260512093823831800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "A股光通信概念股延续涨势，红板科技4连板，可川科技一字涨停，光电股份、星网锐捷、方正科技、中富电路涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3101954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
         },
         {
           "title": "学者：A股涨说明经济真的在复苏",
@@ -722,12 +815,56 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时49分 ~ 03时27分]"
+        },
+        {
+          "title": "A股存储芯片板块今日调整，华特气体跌超6%，恒烁股份、澜起科技、金宏气体、神工股份跌超5%，东芯股份、有研新材跟跌。",
+          "url": "https://flash.jin10.com/detail/20260512093727397800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "A股CPO板块盘初活跃，红板科技、可传科技双双涨停，德科立涨超13%，太辰光、源杰科技、方正科技 跟涨。",
+          "url": "https://flash.jin10.com/detail/20260512093314117800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "A股黄金概念盘初走强，福达合金、兴业银锡、宝鼎科技涨超5%，湖南白银、白银有色、江西铜业跟涨。",
+          "url": "https://flash.jin10.com/detail/20260512093153652800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "A股开盘，上证指数涨0.1%，深证成指涨0.34%，创业板指涨0.46%。黄金概念、盐湖提锂、CPO板块涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260512092517305800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
         }
       ]
     },
     {
       "keyword_group": "人民币",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7963元，较上周五夜盘收盘涨42点。成交量378.74亿美元。",
@@ -763,6 +900,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.8426，上调41点；上一交易日中间价6.8467，上一交易日官方收盘价6.7954，上日夜盘报收6.7963。",
+          "url": "https://wallstreetcn.com/livenews/3101941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
         }
       ]
     },
@@ -897,7 +1045,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         }
@@ -914,7 +1062,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         }
