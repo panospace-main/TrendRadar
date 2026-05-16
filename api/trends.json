@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T06:36:42.191195+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-05-17T07:41:24.006533+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时41分]"
         },
         {
           "title": "特朗普警告台独",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时41分]"
         },
         {
           "title": "听到特朗普这句话，台湾当局该醒了",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时41分]"
         },
         {
           "title": "特朗普在「空军一号」接受采访，释放大量关于贸易、台湾、伊朗等议题信号，哪些内容值得关注？",
@@ -51,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时41分]"
         },
         {
           "title": "“不考虑美国人经济状况”，特朗普：完美的表态，我可以再说一遍",
@@ -62,8 +62,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时41分]"
         },
         {
           "title": "特朗普警告台湾不要试图走向“独立”",
@@ -73,8 +73,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时41分]"
         },
         {
           "title": "外交部就特朗普访华情况答记者问",
@@ -83,11 +83,12 @@
           "ranks": [
             14,
             12,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时41分]"
         },
         {
           "title": "特朗普谈中国行：巨大成功 非常精彩",
@@ -97,8 +98,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时41分]"
         },
         {
           "title": "特朗普结束访华后，明确表示「不希望看到（台湾）有人走向独立」，这一表态有多关键？",
@@ -108,8 +109,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时41分]"
         },
         {
           "title": "特朗普：如果不能达成和平协议，伊朗将面临“非常糟糕的处境”",
@@ -123,8 +124,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时47分 ~ 06时36分]"
+          "appearance_count": 6,
+          "time_info": "[02时47分 ~ 07时41分]"
         },
         {
           "title": "美国总统特朗普：从白宫通往椭圆形办公室的步道上，原本是破旧的石板地面。如今，通往椭圆形办公室的步道已铺设了全新的花岗岩地面，取代了原有的石板地面。",
@@ -149,8 +150,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时39分 ~ 06时36分]"
+          "appearance_count": 3,
+          "time_info": "[05时39分 ~ 07时41分]"
         },
         {
           "title": "据白宫随行记者团消息，美国总统特朗普今天在弗吉尼亚州斯特林的斯特林国家高尔夫俱乐部。",
@@ -198,11 +199,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时41分]"
         },
         {
           "title": "下周A股将有53家公司有限售股份解禁，总解禁市值达591.05亿元",
@@ -214,8 +216,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 06时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 07时41分]"
         },
         {
           "title": "A股正在告别“讲故事时代”",
@@ -252,11 +254,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时41分]"
         },
         {
           "title": "凯文·沃什上任美联储主席首日，美股全线走低，金银大幅下挫，国际油价拉升，沃什的新政预期有多悲观？",
@@ -271,14 +274,14 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时46分 ~ 06时36分]"
+          "appearance_count": 8,
+          "time_info": "[01时46分 ~ 07时41分]"
         }
       ]
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "伯克希尔“新王新气象”：Q1减仓零售、油气，加仓谷歌，还建仓了航空",
@@ -289,8 +292,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时41分]"
+        },
+        {
+          "title": "伯克希尔Q1清仓亚马逊 买入达美航空和Alphabet股票",
+          "url": "https://www.cls.cn/detail/2373044",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         }
       ]
     },
@@ -305,11 +319,12 @@
           "ranks": [
             10,
             9,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时41分]"
         }
       ]
     },
@@ -327,8 +342,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 06时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 07时41分]"
         }
       ]
     },
@@ -342,11 +357,12 @@
           "source": "微博",
           "ranks": [
             30,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 06时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 07时41分]"
         }
       ]
     },
@@ -362,8 +378,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时41分]"
         }
       ]
     }
