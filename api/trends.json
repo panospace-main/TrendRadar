@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T16:09:06.955724+08:00",
-  "total_titles_processed": 842,
+  "generated_at": "2026-05-17T18:17:53.010649+08:00",
+  "total_titles_processed": 961,
   "failed_sources": [],
   "trends": [
     {
@@ -15,20 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时44分 ~ 16时09分]"
-        },
-        {
-          "title": "特朗普警告台独",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E5%8F%B0%E7%8B%AC%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时44分 ~ 16时09分]"
+          "appearance_count": 16,
+          "time_info": "[00时44分 ~ 18时17分]"
         },
         {
           "title": "听到特朗普这句话，台湾当局该醒了",
@@ -40,6 +28,19 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时44分 ~ 13时44分]"
+        },
+        {
+          "title": "特朗普警告台独",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E5%8F%B0%E7%8B%AC%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时44分 ~ 18时17分]"
         },
         {
           "title": "特朗普在「空军一号」接受采访，释放大量关于贸易、台湾、伊朗等议题信号，哪些内容值得关注？",
@@ -64,8 +65,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时57分 ~ 16时09分]"
+          "appearance_count": 7,
+          "time_info": "[09时57分 ~ 18时17分]"
         },
         {
           "title": "“不考虑美国人经济状况”，特朗普：完美的表态，我可以再说一遍",
@@ -75,8 +76,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时44分 ~ 16时09分]"
+          "appearance_count": 16,
+          "time_info": "[00时44分 ~ 18时17分]"
         },
         {
           "title": "特朗普警告台湾不要试图走向“独立”",
@@ -115,8 +116,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时44分 ~ 16时09分]"
+          "appearance_count": 16,
+          "time_info": "[00时44分 ~ 18时17分]"
         },
         {
           "title": "特朗普谈中国行：巨大成功 非常精彩",
@@ -156,6 +157,19 @@
           "time_info": "09时58分"
         },
         {
+          "title": "台舆论称特朗普不许台独视美为靠山",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E8%88%86%E8%AE%BA%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E8%AE%B8%E5%8F%B0%E7%8B%AC%E8%A7%86%E7%BE%8E%E4%B8%BA%E9%9D%A0%E5%B1%B1%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时43分 ~ 18时17分]"
+        },
+        {
           "title": "结束中美元首北京会晤数小时后，特朗普警告“台独”",
           "url": "https://wallstreetcn.com/livenews/3104824",
           "source": "华尔街见闻-快讯",
@@ -167,18 +181,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时58分 ~ 16时09分]"
-        },
-        {
-          "title": "台舆论称特朗普不许台独视美为靠山",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E8%88%86%E8%AE%BA%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E8%AE%B8%E5%8F%B0%E7%8B%AC%E8%A7%86%E7%BE%8E%E4%B8%BA%E9%9D%A0%E5%B1%B1%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时43分 ~ 16时09分]"
         },
         {
           "title": "美国总统特朗普：从白宫通往椭圆形办公室的步道上，原本是破旧的石板地面。如今，通往椭圆形办公室的步道已铺设了全新的花岗岩地面，取代了原有的石板地面。",
@@ -219,6 +221,29 @@
           "time_info": "[05时39分 ~ 07时41分]"
         },
         {
+          "title": "特朗普访华后续观察",
+          "url": "https://www.douyin.com/hot/2502108",
+          "source": "抖音",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时08分 ~ 18时17分]"
+        },
+        {
+          "title": "岛内称特朗普警告“台独”重击赖当局",
+          "url": "https://www.toutiao.com/trending/7640276210946179115/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时08分 ~ 18时17分]"
+        },
+        {
           "title": "特朗普结束访华回国途中，高市早苗迫不及待通电话",
           "url": "https://flash.jin10.com/detail/20260517131605700800",
           "source": "金十数据",
@@ -231,17 +256,6 @@
           "time_info": "[13时44分 ~ 16时09分]"
         },
         {
-          "title": "特朗普访华后续观察",
-          "url": "https://www.douyin.com/hot/2502108",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时08分 ~ 16时09分]"
-        },
-        {
           "title": "特朗普黄仁勋同款美食",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%BB%84%E4%BB%81%E5%8B%8B%E5%90%8C%E6%AC%BE%E7%BE%8E%E9%A3%9F",
           "source": "bilibili 热搜",
@@ -251,17 +265,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时43分 ~ 13时44分]"
-        },
-        {
-          "title": "岛内称特朗普警告“台独”重击赖当局",
-          "url": "https://www.toutiao.com/trending/7640276210946179115/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时08分 ~ 16时09分]"
         },
         {
           "title": "据白宫随行记者团消息，美国总统特朗普今天在弗吉尼亚州斯特林的斯特林国家高尔夫俱乐部。",
@@ -354,8 +357,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时57分 ~ 16时09分]"
+          "appearance_count": 7,
+          "time_info": "[09时57分 ~ 18时17分]"
         },
         {
           "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
@@ -363,11 +366,63 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时43分 ~ 16时09分]"
+          "appearance_count": 5,
+          "time_info": "[13时43分 ~ 18时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "航天 航空",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "伯克希尔“新王新气象”：Q1减仓零售、油气，加仓谷歌，还建仓了航空",
+          "url": "https://wallstreetcn.com/articles/3772402",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 09时58分]"
+        },
+        {
+          "title": "民航局局长宋志勇会见美国航空企业",
+          "url": "https://wallstreetcn.com/livenews/3104870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "伯克希尔Q1清仓亚马逊 买入达美航空和Alphabet股票",
+          "url": "https://www.cls.cn/detail/2373044",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
+          "title": "商业航天概念股巨力索具遭证监会立案，涉嫌信披误导性陈述，过去半年股价涨 3 倍，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2038931761447564255",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         }
       ]
     },
@@ -385,8 +440,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时44分 ~ 16时09分]"
+          "appearance_count": 16,
+          "time_info": "[00时44分 ~ 18时17分]"
         },
         {
           "title": "下周A股将有53家公司有限售股份解禁，总解禁市值达591.05亿元",
@@ -417,68 +472,8 @@
       ]
     },
     {
-      "keyword_group": "航天 航空",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伯克希尔“新王新气象”：Q1减仓零售、油气，加仓谷歌，还建仓了航空",
-          "url": "https://wallstreetcn.com/articles/3772402",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 09时58分]"
-        },
-        {
-          "title": "伯克希尔Q1清仓亚马逊 买入达美航空和Alphabet股票",
-          "url": "https://www.cls.cn/detail/2373044",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
-          "url": "https://www.cls.cn/detail/2373036",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时44分 ~ 16时09分]"
-        },
-        {
-          "title": "30年美债没守住5%“生死线”！美银Hartnett：“地狱之门”已打开，6月初是“卖出窗口”",
-          "url": "https://wallstreetcn.com/articles/3772363",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时43分 ~ 16时09分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "农业 机械",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "央视农业解读心机商标现象",
@@ -494,6 +489,50 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时44分 ~ 09时58分]"
+        },
+        {
+          "title": "十四届全国政协常委、农业和农村委员会副主任王晓东接受审查调查。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3104864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
+          "url": "https://www.cls.cn/detail/2373036",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时44分 ~ 18时17分]"
+        },
+        {
+          "title": "30年美债没守住5%“生死线”！美银Hartnett：“地狱之门”已打开，6月初是“卖出窗口”",
+          "url": "https://wallstreetcn.com/articles/3772363",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时43分 ~ 18时17分]"
         }
       ]
     },
