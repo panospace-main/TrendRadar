@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T14:44:21.419800+08:00",
-  "total_titles_processed": 940,
+  "generated_at": "2026-05-18T18:56:54.129296+08:00",
+  "total_titles_processed": 1143,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普刚结束访华，普京便宣布访华，为什么选在这个时间？背后可能有哪些深意？",
@@ -53,11 +53,12 @@
           "url": "https://news.ifeng.com/c/8tDfE3dOA2C",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 14时44分]"
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 18时56分]"
         },
         {
           "title": "伊朗还剩多少导弹？特朗普称仅18%，伊方称有120%",
@@ -65,11 +66,45 @@
           "source": "凤凰网",
           "ranks": [
             3,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 14时44分]"
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 18时56分]"
+        },
+        {
+          "title": "外交部发言人就美国总统特朗普涉台表态答记者问",
+          "url": "https://www.cls.cn/detail/2374157",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
+          "title": "外交部回应特朗普涉台表态",
+          "url": "https://news.ifeng.com/c/8tEEErjEHHh",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
+          "title": "特朗普连发15张图分享中国记忆",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%9E%E5%8F%9115%E5%BC%A0%E5%9B%BE%E5%88%86%E4%BA%AB%E4%B8%AD%E5%9B%BD%E8%AE%B0%E5%BF%86%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         },
         {
           "title": "特朗普此次访华，会对资本市场产生哪些影响？哪些产业受影响更为显著？",
@@ -84,17 +119,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时52分 ~ 07时48分]"
-        },
-        {
-          "title": "特朗普涉台“四不”示警“台独”",
-          "url": "https://www.toutiao.com/trending/7641033902121058340/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时44分"
         },
         {
           "title": "美国总统特朗普在社媒上分享了一张人工智能生成的与外星人的合照。",
@@ -114,9 +138,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
+        },
+        {
+          "title": "伊朗回应特朗普威胁：我们知道如何应对",
+          "url": "https://news.ifeng.com/c/8tEGnREugMl",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
+          "title": "外交部回应特朗普涉台表态",
+          "url": "https://www.douyin.com/hot/2503354",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         },
         {
           "title": "特朗普称：如果伊朗不迅速行动，“将一无所有”",
@@ -157,6 +203,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时53分 ~ 04时51分]"
+        },
+        {
+          "title": "特朗普涉台“四不”示警“台独”",
+          "url": "https://news.ifeng.com/c/8tDfE3dO9u7",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 18时56分]"
+        },
+        {
+          "title": "特朗普涉台“四不”示警“台独”",
+          "url": "https://www.toutiao.com/trending/7641033902121058340/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 18时56分]"
         },
         {
           "title": "美国参议员格雷厄姆敦促特朗普恢复对伊朗的打击",
@@ -278,15 +348,37 @@
           "time_info": "06时43分"
         },
         {
-          "title": "特朗普涉台“四不”示警“台独”",
-          "url": "https://news.ifeng.com/c/8tDfE3dO9u7",
-          "source": "凤凰网",
+          "title": "内塔尼亚胡与特朗普通话“讨论重启对伊战事可能性”，阿联酋关键核电站遭袭",
+          "url": "https://wallstreetcn.com/articles/3772466",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时44分"
+          "time_info": "18时56分"
+        },
+        {
+          "title": "特朗普警告伊朗：“时钟正滴答作响”",
+          "url": "https://www.cls.cn/detail/2373911",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
+          "title": "特朗普连发15张图分享中国记忆",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%9E%E5%8F%9115%E5%BC%A0%E5%9B%BE%E5%88%86%E4%BA%AB%E4%B8%AD%E5%9B%BD%E8%AE%B0%E5%BF%86",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         },
         {
           "title": "特朗普威胁伊朗：时间在流逝 赶快行动",
@@ -309,6 +401,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "中方回应特朗普涉台表态",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         },
         {
           "title": "美国总统特朗普：对伊朗来说，时间在流逝，他们最好迅速行动，否则将一无所剩。",
@@ -355,6 +458,17 @@
           "time_info": "02时53分"
         },
         {
+          "title": "美媒：特朗普盟友敦促其在AI模型发布前进行测试和审查",
+          "url": "https://flash.jin10.com/detail/20260518182739773800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
           "title": "特朗普向伊朗发出武力威胁 下周二讨论军事行动选项",
           "url": "https://flash.jin10.com/detail/20260518012607481800",
           "source": "金十数据",
@@ -369,7 +483,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "龙头6天4板 本周披露并购重组进展的A股名单一览",
@@ -382,6 +496,28 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时44分 ~ 07时48分]"
+        },
+        {
+          "title": "中金公司：拟换股吸收合并东兴证券、信达证券，中金公司的A股换股价格为36.68元/股，东兴证券的A股换股价格为16.05元/股，信达证券的A股换股价格为19.11元/股。",
+          "url": "https://wallstreetcn.com/livenews/3105362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
+          "title": "中金公司：公司的A股换股价格为36.68元/股",
+          "url": "https://flash.jin10.com/detail/20260518184543883800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         },
         {
           "title": "A股煤炭开采加工板块短线拉升，辽宁能源涨停，郑州煤电、兖矿能源、兰花科创、晋控煤业、昊华能源等跟涨。",
@@ -423,7 +559,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -434,7 +570,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -456,7 +592,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -472,6 +608,17 @@
           "time_info": "10时10分"
         },
         {
+          "title": "最高涨价30%？半导体调价函挂错A股公司 天微电子澄清乌龙",
+          "url": "https://wallstreetcn.com/livenews/3105325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
           "title": "A股科创板整体暴涨",
           "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E7%A7%91%E5%88%9B%E6%9D%BF%E6%95%B4%E4%BD%93%E6%9A%B4%E6%B6%A8&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -485,60 +632,8 @@
       ]
     },
     {
-      "keyword_group": "航天 航空",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "民航局局长宋志勇会见美国航空企业",
-          "url": "https://wallstreetcn.com/livenews/3104870",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 04时01分]"
-        },
-        {
-          "title": "演员杨子家族旗下公司巨力索具被立案调查，此前称累计获上千万元商业航天订单，会有何影响？涉嫌误导投资吗？",
-          "url": "https://www.zhihu.com/question/2038933502192612725",
-          "source": "知乎",
-          "ranks": [
-            19,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 14时44分]"
-        },
-        {
-          "title": "5月18日投资避雷针：涉嫌信息披露误导性陈述 这只商业航天人气股被证监会立案",
-          "url": "https://www.cls.cn/detail/2373593",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时44分"
-        },
-        {
-          "title": "瑞安航空：由于中东冲突，霍尔木兹海峡的不确定性依然存在。欧洲的航空燃料供应充足。",
-          "url": "https://flash.jin10.com/detail/20260518140825853800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时44分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "30年美债没守住5%“生死线”！美银Hartnett：“地狱之门”已打开，6月初是“卖出窗口”",
@@ -557,11 +652,23 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时43分 ~ 14时44分]"
+          "appearance_count": 6,
+          "time_info": "[06时43分 ~ 18时56分]"
+        },
+        {
+          "title": "全线雪崩！美债抛售加剧 “债券义警”正倒逼美联储加息？",
+          "url": "https://www.cls.cn/detail/2374021",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         },
         {
           "title": "美股不祥信号浮现？美债收益率狂飙 一文解析背后三大推手",
@@ -570,9 +677,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 18时56分]"
         },
         {
           "title": "高盛：伊朗冲突持续与供应冲击，削弱美债分散风险能力",
@@ -581,7 +688,59 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "航天 航空",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "演员杨子家族旗下公司巨力索具被立案调查，此前称累计获上千万元商业航天订单，会有何影响？涉嫌误导投资吗？",
+          "url": "https://www.zhihu.com/question/2038933502192612725",
+          "source": "知乎",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 18时56分]"
+        },
+        {
+          "title": "民航局局长宋志勇会见美国航空企业",
+          "url": "https://wallstreetcn.com/livenews/3104870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 04时01分]"
+        },
+        {
+          "title": "5月18日投资避雷针：涉嫌信息披露误导性陈述 这只商业航天人气股被证监会立案",
+          "url": "https://www.cls.cn/detail/2373593",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时44分"
+        },
+        {
+          "title": "瑞安航空：由于中东冲突，霍尔木兹海峡的不确定性依然存在。欧洲的航空燃料供应充足。",
+          "url": "https://flash.jin10.com/detail/20260518140825853800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         }
@@ -666,7 +825,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         }
@@ -695,8 +854,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 14时44分]"
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 18时56分]"
         }
       ]
     },
@@ -705,24 +864,25 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "金价银价大跌原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 18时56分]"
+        },
+        {
           "title": "印度限金令催生恐慌性抢购潮，高盛：年底金价仍看至5400美元",
           "url": "https://wallstreetcn.com/articles/3772448",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时44分"
-        },
-        {
-          "title": "金价银价大跌原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         }
@@ -739,7 +899,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         }
