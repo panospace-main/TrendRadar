@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T14:39:42.532347+08:00",
-  "total_titles_processed": 987,
+  "generated_at": "2026-05-19T18:32:08.490010+08:00",
+  "total_titles_processed": 1176,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 63,
       "titles": [
         {
           "title": "外交部回应特朗普涉台表态",
@@ -57,6 +57,19 @@
           "time_info": "[01时25分 ~ 07时56分]"
         },
         {
+          "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
+          "url": "https://wallstreetcn.com/articles/3772569",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时08分 ~ 18时32分]"
+        },
+        {
           "title": "特朗普谈入股英特尔：后悔当初只拿10%股份，“应该多要一点”",
           "url": "https://www.cls.cn/detail/2374617",
           "source": "财联社热门",
@@ -98,16 +111,26 @@
           "time_info": "[01时25分 ~ 07时56分]"
         },
         {
-          "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
-          "url": "https://wallstreetcn.com/articles/3772569",
-          "source": "华尔街见闻",
+          "title": "沃什上任在即！特朗普“撤回”降息压力：伊朗战争结束前无法确定利率前景",
+          "url": "https://www.cls.cn/detail/2375112",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时08分 ~ 14时39分]"
+          "time_info": "[18时31分 ~ 18时32分]"
+        },
+        {
+          "title": "特朗普暗示日本过头了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%97%E7%A4%BA%E6%97%A5%E6%9C%AC%E8%BF%87%E5%A4%B4%E4%BA%86%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
         },
         {
           "title": "特朗普访华整晚都在谈台湾问题",
@@ -215,6 +238,17 @@
           "time_info": "[01时25分 ~ 06时47分]"
         },
         {
+          "title": "特朗普连发15张图分享“中国记忆”",
+          "url": "https://news.ifeng.com/c/8tFAH622lBt",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时08分 ~ 18时32分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗知道“很快会发生什么”。 不会对伊朗做出让步。 （关于伊朗铀浓缩问题）我现在对啥（选项）也不持开放态度。 伊朗比以往任何时候都更希望达成协议。 “不久”就会达成伊朗协议。（纽约邮报）",
           "url": "https://wallstreetcn.com/livenews/3105539",
           "source": "华尔街见闻-快讯",
@@ -237,17 +271,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时25分 ~ 10时08分]"
-        },
-        {
-          "title": "特朗普连发15张图分享“中国记忆”",
-          "url": "https://news.ifeng.com/c/8tFAH622lBt",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时08分 ~ 14时39分]"
         },
         {
           "title": "特朗普：中东盟友请求推迟对伊打击以促成协议",
@@ -349,7 +372,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -404,7 +427,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -528,6 +551,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
+        },
+        {
+          "title": "美国贸易代表办公室：为庆祝美国建国250周年，特朗普将于12月14日至15日在佛罗里达州迈阿密的特朗普国家多拉尔高尔夫度假村举办峰会。",
+          "url": "https://flash.jin10.com/detail/20260519180734540800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "沃什周五将宣誓就任美联储主席 宣誓仪式由特朗普主持",
@@ -698,18 +732,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
           "url": "https://wallstreetcn.com/articles/3772473",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时47分 ~ 14时39分]"
+          "appearance_count": 7,
+          "time_info": "[06时47分 ~ 18时32分]"
         },
         {
           "title": "美伊局势缓和，美股高开，半导体股普涨，油价回落，黄金小幅上涨",
@@ -851,13 +886,24 @@
           "time_info": "05时02分"
         },
         {
+          "title": "美股股指期货跌幅扩大，纳指期货跌0.8%，触及日内低点，标普500指数期货跌超0.5%，道指期货跌0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3105955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
           "title": "美股创近百年最大分化！指数在狂欢，多数成份股却在逆行",
           "url": "https://flash.jin10.com/detail/20260519140355448800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         }
@@ -865,7 +911,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "A股新“股王”联讯仪器，提示4大风险",
@@ -891,6 +937,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
+        },
+        {
+          "title": "William O’Neil恢复跟踪三花智控A股，评级买进。",
+          "url": "https://wallstreetcn.com/livenews/3105977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "A股燃气板块短线走强，贵州燃气2连板，佛燃能源、大众公用、胜通能源、皖天然气、深圳燃气跟涨。",
@@ -926,6 +983,17 @@
           "time_info": "10时08分"
         },
         {
+          "title": "A股行情主线正在悄悄换血吗",
+          "url": "https://www.toutiao.com/trending/7641514997922663955/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
+        },
+        {
           "title": "A股CPO、MLCC等算力硬件股短线拉升，弘信电子20cm涨停走出两连板，风华高科涨超9%，金字火腿、中贝通信、国瓷材料跟涨。",
           "url": "https://flash.jin10.com/detail/20260519094104033800",
           "source": "金十数据",
@@ -943,7 +1011,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -1006,7 +1074,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美债收益率破5%有何影响",
@@ -1026,9 +1094,32 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
+        },
+        {
+          "title": "花旗称30年期美债收益率的下一关键位可能在5.5%",
+          "url": "https://wallstreetcn.com/livenews/3105975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
+          "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
+          "url": "https://wallstreetcn.com/articles/3772572",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时39分 ~ 18时32分]"
         },
         {
           "title": "美国10年期国债期货上涨10个跳动点（ticks），30年期美债期货涨13个跳动点。",
@@ -1054,17 +1145,6 @@
           "time_info": "05时02分"
         },
         {
-          "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
-          "url": "https://wallstreetcn.com/articles/3772572",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        },
-        {
           "title": "日本官员质疑抛美债撑日元操作 担忧干预可能适得其反",
           "url": "https://flash.jin10.com/detail/20260519055948313800",
           "source": "金十数据",
@@ -1082,7 +1162,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -1096,6 +1176,100 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "UBS将中国巨石评级上调至买进，目标价43元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3105976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
+          "title": "上期所原油期货2606合约夜盘收涨2.37%，报682元人民币/桶。 沪金夜盘收涨0.04%，沪银收涨0.85%。",
+          "url": "https://wallstreetcn.com/livenews/3105559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "顺丰控股：4月速运物流业务、供应链及国际业务合计收入为人民币253.76亿元，同比增长6.11%。",
+          "url": "https://wallstreetcn.com/livenews/3105970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
+          "title": "顺丰控股：4月速运物流业务、供应链及国际业务合计收入为人民币253.76亿元，同比增长6.11%",
+          "url": "https://flash.jin10.com/detail/20260519181429249800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.8375，上调60点；上一交易日中间价6.8435，上一交易日官方收盘价6.7979，上日夜盘报收6.7995。",
+          "url": "https://wallstreetcn.com/livenews/3105698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "贝壳(02423.HK)：2026年第一季度经调整净利润为人民币16.11亿元（2.34亿美元），同比增加15.7%。",
+          "url": "https://flash.jin10.com/detail/20260519180204583800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
+          "title": "中国财政部：财政部将于2026年5月25日当周在香港特别行政区发行人民币绿色主权债券，规模不超过60亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3105937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
+          "title": "哔哩哔哩(BILI.O)2026年第一季度营收为人民币74.7亿元，上年同期为70.03亿元。",
+          "url": "https://flash.jin10.com/detail/20260519180026486800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         }
       ]
     },
@@ -1200,7 +1374,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -1211,37 +1385,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "上期所原油期货2606合约夜盘收涨2.37%，报682元人民币/桶。 沪金夜盘收涨0.04%，沪银收涨0.85%。",
-          "url": "https://wallstreetcn.com/livenews/3105559",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时23分"
-        },
-        {
-          "title": "人民币兑美元中间价报6.8375，上调60点；上一交易日中间价6.8435，上一交易日官方收盘价6.7979，上日夜盘报收6.7995。",
-          "url": "https://wallstreetcn.com/livenews/3105698",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
         }
       ]
     },
@@ -1254,11 +1400,12 @@
           "url": "https://www.cls.cn/detail/2374982",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时39分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时39分 ~ 18时32分]"
         },
         {
           "title": "戴尔：谷歌与戴尔合作，在戴尔PowerEdge XE9780服务器上通过谷歌分布式云推出Gemini 3闪存模型。",
@@ -1278,6 +1425,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "现货黄金一度跌破4500美元，机构现分歧：摩根大通下调金价预测、高盛仍唱多",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33194540",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时08分 ~ 18时32分]"
+        },
+        {
           "title": "金价跳水 黑金首饰受追捧",
           "url": "https://www.toutiao.com/trending/7640315819964645412/",
           "source": "今日头条",
@@ -1287,18 +1447,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
-        },
-        {
-          "title": "现货黄金一度跌破4500美元，机构现分歧：摩根大通下调金价预测、高盛仍唱多",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33194540",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时08分 ~ 14时39分]"
         }
       ]
     },
