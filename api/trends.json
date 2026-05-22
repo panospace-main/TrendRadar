@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T06:52:16.199239+08:00",
-  "total_titles_processed": 551,
+  "generated_at": "2026-05-23T07:57:44.749995+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普声称要与赖清德通话，美媒分析后果",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 06时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 07时57分]"
         },
         {
           "title": "俄方称，普京与特朗普有可能 11 月在中国见面，美俄关系是否有望迎来转机？中国在这其中会扮演怎样的角色？",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 06时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 07时57分]"
         },
         {
           "title": "特朗普将强制要求申请绿卡的外国人回国申请",
@@ -121,6 +122,19 @@
           "time_info": "[04时27分 ~ 06时52分]"
         },
         {
+          "title": "美国总统特朗普：伊朗永远不会拥有核武器，他们知道这一点。",
+          "url": "https://wallstreetcn.com/livenews/3108245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时57分 ~ 07时57分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗非常渴望达成和解。",
           "url": "https://wallstreetcn.com/livenews/3108228",
           "source": "华尔街见闻-快讯",
@@ -131,18 +145,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 05时57分]"
-        },
-        {
-          "title": "美国总统特朗普：伊朗永远不会拥有核武器，他们知道这一点。",
-          "url": "https://wallstreetcn.com/livenews/3108245",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 06时52分]"
         },
         {
           "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
@@ -211,6 +213,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "特朗普：告诉沃什放手去做，预计他是位伟大的美联储主席，希望他完全独立",
+          "url": "https://wallstreetcn.com/articles/3772950",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
         },
         {
           "title": "美国总统特朗普称赞托马斯和卡瓦诺两位大法官。",
@@ -315,8 +328,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "美股七巨头收盘播报｜英伟达收跌1.9%，业绩报告发布当周回撤超4.4%",
+          "url": "https://wallstreetcn.com/livenews/3108276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
         {
           "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260523021145540800",
@@ -327,6 +351,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "周五（5月22日），美股降息赢家指数涨0.59%，报80.30点，美联储理事沃勒讲话之际回吐涨幅、美联储主席沃什宣誓就职之后再北京时间01:28显著拉升，本周累计上涨4.96%。 周三至周五持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3108274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
         },
         {
           "title": "金十图示：2026年05月22日（周五）热门中概股行情一览（美股盘中）",
@@ -347,8 +382,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 06时52分]"
+          "appearance_count": 3,
+          "time_info": "[05时57分 ~ 07时57分]"
         },
         {
           "title": "金十图示：2026年05月22日（周五）热门中概股行情一览（美股收盘）",
@@ -358,8 +393,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 06时52分]"
+          "appearance_count": 3,
+          "time_info": "[05时57分 ~ 07时57分]"
         },
         {
           "title": "美股收盘：三大股指收涨 高通涨超11%",
@@ -369,8 +404,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 06时52分]"
+          "appearance_count": 3,
+          "time_info": "[05时57分 ~ 07时57分]"
         },
         {
           "title": "美股行业ETF几乎全线收涨，半导体ETF涨约1.5%",
@@ -383,6 +418,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时57分 ~ 06时52分]"
+        },
+        {
+          "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
+          "url": "https://www.cls.cn/detail/2379649",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
         },
         {
           "title": "美股早盘小幅上涨，标普500指数势创2023年以来最长周连涨",
@@ -407,11 +453,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 06时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 07时57分]"
         },
         {
           "title": "周五（5月22日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7983元，较周四纽约尾盘涨18点，日内整体交投于6.8034-6.7983元区间。 本周，离岸人民币累计上涨大约160点，涨幅0.24%，整体呈现出长尾W形走势。",
@@ -419,11 +466,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 06时52分]"
+          "appearance_count": 3,
+          "time_info": "[05时57分 ~ 07时57分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7978元，较周四夜盘收盘跌18点。成交量466.56亿美元。",
@@ -450,6 +498,57 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
+          "url": "https://wallstreetcn.com/articles/3772777",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 06时52分]"
+        },
+        {
+          "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
+          "url": "https://wallstreetcn.com/articles/3772907",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "周五（5月22日）纽约尾盘，美国10年期基准国债收益率跌1.18个基点，报4.5578%，美联储理事沃勒讲话之前，在北京时间21:16刷新日低至4.5241%，沃什讲话后继续反弹，22:50刷新日高至4.5837%，凯文·沃什在00:00宣誓就任美联储主席的前后高位企稳，本周累计下跌3.55个基点，整体交投于4.6853%-4.5241%。 两年期美债收益率涨3.79个基点，报4.1210%，也在美股开盘之前刷新日低至4.0505%，沃什讲话后持续走高，沃什宣誓就职之际、在00:05刷新日高至4.1423%，本周累涨5.22个基点，5月20日23:00曾跳水至4.0085%。",
+          "url": "https://wallstreetcn.com/livenews/3108253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
+          "title": "两年期美债收益率在沃什就任美联储主席当天涨约3.8个基点，本周两年期实际收益率狂飙将近30个基点",
+          "url": "https://wallstreetcn.com/livenews/3108253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时57分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "A股",
       "match_count": 3,
       "titles": [
@@ -458,11 +557,12 @@
           "url": "https://www.cls.cn/detail/2379432",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 06时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 07时57分]"
         },
         {
           "title": "A股反弹是不是牛市信号",
@@ -486,45 +586,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
-          "url": "https://wallstreetcn.com/articles/3772777",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 06时52分]"
-        },
-        {
-          "title": "周五（5月22日）纽约尾盘，美国10年期基准国债收益率跌1.18个基点，报4.5578%，美联储理事沃勒讲话之前，在北京时间21:16刷新日低至4.5241%，沃什讲话后继续反弹，22:50刷新日高至4.5837%，凯文·沃什在00:00宣誓就任美联储主席的前后高位企稳，本周累计下跌3.55个基点，整体交投于4.6853%-4.5241%。 两年期美债收益率涨3.79个基点，报4.1210%，也在美股开盘之前刷新日低至4.0505%，沃什讲话后持续走高，沃什宣誓就职之际、在00:05刷新日高至4.1423%，本周累涨5.22个基点，5月20日23:00曾跳水至4.0085%。",
-          "url": "https://wallstreetcn.com/livenews/3108253",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "两年期美债收益率在沃什就任美联储主席当天涨约3.8个基点，本周两年期实际收益率狂飙将近30个基点",
-          "url": "https://wallstreetcn.com/livenews/3108253",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时52分"
         }
       ]
     },
@@ -585,8 +646,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 06时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 07时57分]"
         }
       ]
     },
@@ -600,11 +661,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 06时52分]"
+          "appearance_count": 3,
+          "time_info": "[05时57分 ~ 07时57分]"
         }
       ]
     }
