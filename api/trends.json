@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-05-22T07:50:55.552409+08:00",
-  "total_titles_processed": 636,
+  "generated_at": "2026-05-22T10:08:46.796538+08:00",
+  "total_titles_processed": 808,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "特朗普称将与赖清德谈对台军售，外交部：敦促美方兑现所作承诺和表态",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33205095",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 10时08分]"
+        },
+        {
+          "title": "特朗普政府推动量子战略升级：20亿美元扶持9家企业 政府将直接持股",
+          "url": "https://www.cls.cn/detail/2378228",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 10时08分]"
+        },
         {
           "title": "中方回应特朗普称将与赖清德对话",
           "url": "https://news.ifeng.com/c/8tJCrQkCYgq",
@@ -19,33 +44,10 @@
           "time_info": "[00时34分 ~ 07时50分]"
         },
         {
-          "title": "特朗普称将与赖清德谈对台军售，外交部：敦促美方兑现所作承诺和表态",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33205095",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 07时50分]"
-        },
-        {
           "title": "美副防长能否访华与特朗普如何处理对台军售挂钩？外交部回应",
           "url": "https://news.ifeng.com/c/8tJDfVFuwhB",
           "source": "凤凰网",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 07时50分]"
-        },
-        {
-          "title": "特朗普政府推动量子战略升级：20亿美元扶持9家企业 政府将直接持股",
-          "url": "https://www.cls.cn/detail/2378228",
-          "source": "财联社热门",
-          "ranks": [
-            3,
             2
           ],
           "is_new": false,
@@ -64,6 +66,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时34分 ~ 07时50分]"
+        },
+        {
+          "title": "特朗普称将与赖清德就对台军售交谈，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33205325",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 10时08分]"
         },
         {
           "title": "美国总统特朗普：我们希望古巴开放。",
@@ -88,18 +103,6 @@
           "time_info": "00时34分"
         },
         {
-          "title": "特朗普称将与赖清德就对台军售交谈，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33205325",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 07时50分]"
-        },
-        {
           "title": "美国总统特朗普：如果共和党不批准资金，白宫将无法保障安全。",
           "url": "https://flash.jin10.com/detail/20260522000827432800",
           "source": "金十数据",
@@ -122,6 +125,17 @@
           "time_info": "00时34分"
         },
         {
+          "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
+          "url": "https://news.ifeng.com/c/8tHcLpLqPgM",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
           "title": "美国总统特朗普：宴会厅项目按计划推进，且预算控制在范围内，无需（额外）现金。",
           "url": "https://flash.jin10.com/detail/20260522000646100800",
           "source": "金十数据",
@@ -131,6 +145,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "特朗普若购格陵兰岛，将面临什么国内障碍？",
+          "url": "https://news.ifeng.com/c/8tKJKXPcRAX",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         },
         {
           "title": "美国总统特朗普：不知道我是否会失去对参议院的控制。",
@@ -154,6 +179,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时52分 ~ 04时31分]"
+        },
+        {
+          "title": "特朗普再威胁伊朗交出浓缩铀 欧盟被爆考虑重启与俄正式沟通 | 环球市场",
+          "url": "https://www.cls.cn/detail/2378520",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 10时08分]"
         },
         {
           "title": "特朗普称将向波兰增派5000名美军",
@@ -197,9 +234,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        },
+        {
+          "title": "美国欲在古巴重演“委内瑞拉剧本”？专家：特朗普另有图谋",
+          "url": "https://news.ifeng.com/c/8tJqOjVcrpo",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         },
         {
           "title": "IBM涨幅扩大至10%，该公司获得特朗普政府的资金支持。",
@@ -211,6 +259,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        },
+        {
+          "title": "特朗普的“宫殿梦”还能撑多久",
+          "url": "https://www.toutiao.com/trending/7642363020433165830/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         },
         {
           "title": "据美国政治新闻网Politico：特朗普政府暂停发往刚果（金）的遣返航班，因当地埃博拉疫情肆虐。",
@@ -235,15 +294,15 @@
           "time_info": "06时10分"
         },
         {
-          "title": "特朗普再威胁伊朗交出浓缩铀 欧盟被爆考虑重启与俄正式沟通 | 环球市场",
-          "url": "https://www.cls.cn/detail/2378520",
-          "source": "财联社热门",
+          "title": "特朗普儿媳再忆中国行直呼震撼",
+          "url": "https://www.toutiao.com/trending/7641561881347309611/",
+          "source": "今日头条",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时50分"
+          "time_info": "10时08分"
         },
         {
           "title": "特朗普政策急转：将向波兰增派5000名美军",
@@ -252,7 +311,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -263,7 +322,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -274,7 +333,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -336,6 +395,134 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "A股放量回调，小作文惹祸？多家基金公司一线解读：高位科技兑现与海外利率扰动是主因",
+          "url": "https://www.cls.cn/detail/2378280",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 10时08分]"
+        },
+        {
+          "title": "A股房地产板块异动拉升，华丽家族涨停，京投发展、三湘印象涨超7%，京能置业、张江高科、深振业A跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3107715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "A股CRO概念走弱，德展健康触及跌停，昭衍新药跌超4%，泰格医药、美迪西等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260522095401231800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "A股机器人概念股反复活跃，龙星科技直线涨停，埃夫特涨近10%，欧科亿、卡倍亿、奥比中光、迅捷兴跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3107712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "A股午后集体下探，三大股指均跌超2%，京东方逆势涨停，芯片、算力全面下挫，恒科指跌超2%，科网股杀跌",
+          "url": "https://wallstreetcn.com/articles/3772781",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时30分 ~ 10时08分]"
+        },
+        {
+          "title": "A股光刻胶板块冲高，格林达涨停，怡达股份、聚石化学、岱勒新材、思泰克跟涨。",
+          "url": "https://flash.jin10.com/detail/20260522095256562800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "A股科技行情调整，业内人士：整体风险或相对可控",
+          "url": "https://wallstreetcn.com/livenews/3107649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
+          "title": "A股白酒概念股盘初震荡下挫，皇台酒业跌超6%，酒鬼酒、水井坊、舍得酒业等股下跌。",
+          "url": "https://flash.jin10.com/detail/20260522094746013800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "A股化学制品板块短线拉升，元力股份、怡达股份涨超10%，多氟多、杭华股份、百川股份、康达新材、红墙股份等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260522094430980800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "A股大反转原因",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%A4%A7%E5%8F%8D%E8%BD%AC%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
+          "title": "A股突然下跌原因找到了",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%AA%81%E7%84%B6%E4%B8%8B%E8%B7%8C%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 7,
       "titles": [
@@ -344,11 +531,12 @@
           "url": "https://www.cls.cn/detail/2378488",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 10时08分]"
         },
         {
           "title": "美股收盘：三大股指收涨 Arm涨16%",
@@ -422,64 +610,77 @@
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 5,
+      "keyword_group": "人民币",
+      "match_count": 6,
       "titles": [
         {
-          "title": "A股放量回调，小作文惹祸？多家基金公司一线解读：高位科技兑现与海外利率扰动是主因",
-          "url": "https://www.cls.cn/detail/2378280",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 07时50分]"
-        },
-        {
-          "title": "A股午后集体下探，三大股指均跌超2%，京东方逆势涨停，芯片、算力全面下挫，恒科指跌超2%，科网股杀跌",
-          "url": "https://wallstreetcn.com/articles/3772781",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时30分 ~ 07时50分]"
-        },
-        {
-          "title": "A股科技行情调整，业内人士：整体风险或相对可控",
-          "url": "https://wallstreetcn.com/livenews/3107649",
+          "title": "中国人民银行5月27日将通过香港金融管理局债务工具中央结算系统（CMU）债券投标平台，招标发行2026年第四期和第五期中央银行票据，期限分别为3个月（91天）、1年，发行量均为人民币150亿元。",
+          "url": "https://wallstreetcn.com/livenews/3107706",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时50分"
+          "time_info": "10时08分"
         },
         {
-          "title": "A股大反转原因",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%A4%A7%E5%8F%8D%E8%BD%AC%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
+          "title": "三星内存工人或将获得280万人民币奖金！工会即将就新协议投票",
+          "url": "https://www.cls.cn/detail/2377973",
+          "source": "财联社热门",
           "ranks": [
-            28
+            13,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时50分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时52分 ~ 07时50分]"
         },
         {
-          "title": "A股突然下跌原因找到了",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%AA%81%E7%84%B6%E4%B8%8B%E8%B7%8C%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
+          "title": "上期所原油期货2607合约夜盘收跌3.41%，报633.60元人民币/桶。 沪金夜盘收涨0.43%，沪银收涨1.85%。",
+          "url": "https://wallstreetcn.com/livenews/3107590",
+          "source": "华尔街见闻-快讯",
           "ranks": [
+            2,
             29
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 04时31分]"
+        },
+        {
+          "title": "周四（5月21日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8001元，较周三纽约尾盘涨21点，日内整体交投于6.8083-6.7963元区间。",
+          "url": "https://wallstreetcn.com/livenews/3107633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 07时50分]"
+        },
+        {
+          "title": "人民币兑美元中间价报6.8373，下调24点；上一交易日中间价6.8349，上一交易日官方收盘价6.7960，上日夜盘报收6.7960。",
+          "url": "https://wallstreetcn.com/livenews/3107690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时34分"
+          "time_info": "10时08分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7960元，较周三夜盘收盘涨12点。成交量490.45亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3107592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         }
       ]
     },
@@ -542,7 +743,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         }
@@ -579,11 +780,12 @@
           "url": "https://wallstreetcn.com/articles/3772777",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 10时08分]"
         },
         {
           "title": "两年期美债收益率涨2.8个基点",
@@ -607,59 +809,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "三星内存工人或将获得280万人民币奖金！工会即将就新协议投票",
-          "url": "https://www.cls.cn/detail/2377973",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时52分 ~ 07时50分]"
-        },
-        {
-          "title": "上期所原油期货2607合约夜盘收跌3.41%，报633.60元人民币/桶。 沪金夜盘收涨0.43%，沪银收涨1.85%。",
-          "url": "https://wallstreetcn.com/livenews/3107590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 04时31分]"
-        },
-        {
-          "title": "周四（5月21日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8001元，较周三纽约尾盘涨21点，日内整体交投于6.8083-6.7963元区间。",
-          "url": "https://wallstreetcn.com/livenews/3107633",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时10分 ~ 07时50分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7960元，较周三夜盘收盘涨12点。成交量490.45亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3107592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时31分"
         }
       ]
     },
@@ -740,6 +889,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         }
       ]
     }
