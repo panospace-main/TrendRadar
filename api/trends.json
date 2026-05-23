@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T10:15:26.322229+08:00",
-  "total_titles_processed": 743,
+  "generated_at": "2026-05-23T13:58:44.540282+08:00",
+  "total_titles_processed": 919,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普声称要与赖清德通话，美媒分析后果",
@@ -66,15 +66,15 @@
           "time_info": "00时14分"
         },
         {
-          "title": "美媒：伊朗革命卫队训练人员密谋刺杀特朗普长女伊万卡",
-          "url": "https://flash.jin10.com/detail/20260523095127844800",
+          "title": "据以色列第12频道：安全机构正在为特朗普可能在未来几天内决定对伊朗采取军事行动做好准备。",
+          "url": "https://flash.jin10.com/detail/20260523131327066800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时15分"
+          "time_info": "13时58分"
         },
         {
           "title": "美国总统特朗普：沃什谈到了恢复美联储公信力的必要性。",
@@ -110,17 +110,6 @@
           "time_info": "02时28分"
         },
         {
-          "title": "特朗普开会商讨是否对伊朗发动新打击 周末将“坐镇白宫”",
-          "url": "https://wallstreetcn.com/livenews/3108300",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
           "title": "美国总统特朗普：沃什从今天开始领导美联储，希望沃什能够独立，出色地完成工作。",
           "url": "https://flash.jin10.com/detail/20260522235537445800",
           "source": "金十数据",
@@ -130,6 +119,52 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "美联储新主席宣誓！特朗普呼吁“要遏制通胀，不要遏制伟大”，沃什表态要做格林斯潘",
+          "url": "https://wallstreetcn.com/articles/3772951",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "美媒：伊朗革命卫队训练人员密谋刺杀特朗普长女伊万卡",
+          "url": "https://flash.jin10.com/detail/20260523095127844800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时15分 ~ 13时58分]"
+        },
+        {
+          "title": "特朗普开会商讨是否对伊朗发动新打击 周末将“坐镇白宫”",
+          "url": "https://wallstreetcn.com/livenews/3108300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时15分 ~ 13时58分]"
+        },
+        {
+          "title": "特朗普：告诉沃什放手去做，预计他是位伟大的美联储主席，希望他完全独立",
+          "url": "https://wallstreetcn.com/articles/3772950",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时57分 ~ 13时58分]"
         },
         {
           "title": "特朗普儿媳再忆中国行直呼震撼",
@@ -143,17 +178,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时27分 ~ 06时52分]"
-        },
-        {
-          "title": "特朗普：告诉沃什放手去做，预计他是位伟大的美联储主席，希望他完全独立",
-          "url": "https://wallstreetcn.com/articles/3772950",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时57分 ~ 10时15分]"
         },
         {
           "title": "美国总统特朗普：伊朗永远不会拥有核武器，他们知道这一点。",
@@ -214,6 +238,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时57分 ~ 06时52分]"
+        },
+        {
+          "title": "特朗普周末坐镇白宫：若谈判破裂，或对伊朗发动“决定性打击”",
+          "url": "https://news.ifeng.com/c/8tMHNGJri8m",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "美国总统特朗普：美联储是全球金融体系的支柱。",
@@ -293,6 +328,17 @@
           "time_info": "02时28分"
         },
         {
+          "title": "美官员称特朗普政府开始制定对古巴军事行动方案，美国为何盯上古巴？目前古巴局势如何？",
+          "url": "https://www.zhihu.com/question/2041148892323000444",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
           "title": "金十提示：美国总统特朗普与美联储主席提名人沃什进入会场。",
           "url": "https://flash.jin10.com/detail/20260522234641117800",
           "source": "金十数据",
@@ -351,7 +397,7 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 18,
+      "match_count": 29,
       "titles": [
         {
           "title": "中国香港航天员首上太空",
@@ -365,15 +411,26 @@
           "time_info": "[10时14分 ~ 10时15分]"
         },
         {
-          "title": "中国官宣第4位女航天员",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%AE%A3%E7%AC%AC4%E4%BD%8D%E5%A5%B3%E8%88%AA%E5%A4%A9%E5%91%98%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "中国香港航天员首上太空",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF%E8%88%AA%E5%A4%A9%E5%91%98%E9%A6%96%E4%B8%8A%E5%A4%AA%E7%A9%BA",
+          "source": "bilibili 热搜",
           "ranks": [
-            2
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "中国第4位女航天员曾在香港警务处工作",
+          "url": "https://www.toutiao.com/trending/7641939137729383979/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "中国载人航天后续将按计划组织完成长征十号运载火箭技术验证飞行、梦舟载人飞船和揽月着陆器首次飞行等重要任务。",
@@ -382,31 +439,56 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
+        },
+        {
+          "title": "中国官宣第4位女航天员",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%AE%A3%E7%AC%AC4%E4%BD%8D%E5%A5%B3%E8%88%AA%E5%A4%A9%E5%91%98%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 13时58分]"
         },
         {
           "title": "两名巴基斯坦航天员已进入中国航天员科研训练中心，与中国航天员一同参加任务训练。 (新华社)",
           "url": "https://wallstreetcn.com/livenews/3108299",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时15分 ~ 13时58分]"
         },
         {
           "title": "神23乘组公布 香港航天员首次入选",
           "url": "https://www.toutiao.com/trending/7642524650089529363/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 13时58分]"
+        },
+        {
+          "title": "1名航天员将开展1年期在轨驻留试验",
+          "url": "https://www.baidu.com/s?wd=1%E5%90%8D%E8%88%AA%E5%A4%A9%E5%91%98%E5%B0%86%E5%BC%80%E5%B1%951%E5%B9%B4%E6%9C%9F%E5%9C%A8%E8%BD%A8%E9%A9%BB%E7%95%99%E8%AF%95%E9%AA%8C",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 13时58分]"
         },
         {
           "title": "神23航天员乘组公布",
@@ -420,22 +502,35 @@
           "time_info": "[10时14分 ~ 10时15分]"
         },
         {
+          "title": "去年中国载人航天工程实施首次应急发射任务 为国际航天领域高效应对突发事件提供成功范例",
+          "url": "https://wallstreetcn.com/livenews/3108296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时15分 ~ 13时58分]"
+        },
+        {
+          "title": "神舟二十三号任务清单公布：1名航天员将开展1年期在轨驻留试验",
+          "url": "https://wallstreetcn.com/livenews/3108294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时15分 ~ 13时58分]"
+        },
+        {
           "title": "女航天员黎家盈照片",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E8%88%AA%E5%A4%A9%E5%91%98%E9%BB%8E%E5%AE%B6%E7%9B%88%E7%85%A7%E7%89%87%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
-        },
-        {
-          "title": "1名航天员将开展1年期在轨驻留试验",
-          "url": "https://www.baidu.com/s?wd=1%E5%90%8D%E8%88%AA%E5%A4%A9%E5%91%98%E5%B0%86%E5%BC%80%E5%B1%951%E5%B9%B4%E6%9C%9F%E5%9C%A8%E8%BD%A8%E9%A9%BB%E7%95%99%E8%AF%95%E9%AA%8C",
-          "source": "百度热搜",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -459,9 +554,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
+        },
+        {
+          "title": "神舟二十三号瞄准 24 日 23 时 08 分发射，香港航天员首次入选，此次发射有哪些亮点值得关注？",
+          "url": "https://www.zhihu.com/question/2040060757824337103",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "李家超祝贺黎家盈成为第四批航天员",
+          "url": "https://www.toutiao.com/trending/7641939137729416747/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "神舟二十三号航天员乘组在轨期间将新开展100余项科学与应用项目。",
@@ -470,18 +587,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "去年中国载人航天工程实施首次应急发射任务 为国际航天领域高效应对突发事件提供成功范例",
-          "url": "https://wallstreetcn.com/livenews/3108296",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         },
@@ -492,20 +598,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         },
         {
-          "title": "神舟二十三号任务清单公布：1名航天员将开展1年期在轨驻留试验",
-          "url": "https://wallstreetcn.com/livenews/3108294",
-          "source": "华尔街见闻-快讯",
+          "title": "1名航天员将开展1年期在轨驻留试验",
+          "url": "https://www.toutiao.com/trending/7642205091038494729/",
+          "source": "今日头条",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时15分"
+          "time_info": "13时58分"
+        },
+        {
+          "title": "巴基斯坦航天员需学中文吗 官方回答",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%91%98%E9%9C%80%E5%AD%A6%E4%B8%AD%E6%96%87%E5%90%97+%E5%AE%98%E6%96%B9%E5%9B%9E%E7%AD%94",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "截至5月23日，神舟二十一号航天员乘组在轨驻留已203天，有望刷新中国航天员乘组在轨驻留最长纪录。",
@@ -514,9 +631,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
+        },
+        {
+          "title": "香港航天员训练时学会地道东北话",
+          "url": "https://www.toutiao.com/trending/7642903846351588910/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "一名航天员将开展1年期在轨驻留试验",
@@ -525,7 +653,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         },
@@ -536,9 +664,42 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
+        },
+        {
+          "title": "香港女航天员首次亮相 现场掌声不断",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E5%A5%B3%E8%88%AA%E5%A4%A9%E5%91%98%E9%A6%96%E6%AC%A1%E4%BA%AE%E7%9B%B8+%E7%8E%B0%E5%9C%BA%E6%8E%8C%E5%A3%B0%E4%B8%8D%E6%96%AD",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "巴基斯坦航天员与中国航天员一同训练",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%91%98%E4%B8%8E%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E4%B8%80%E5%90%8C%E8%AE%AD%E7%BB%83",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "香港航天员飞天前先学了东北话",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E8%88%AA%E5%A4%A9%E5%91%98%E9%A3%9E%E5%A4%A9%E5%89%8D%E5%85%88%E5%AD%A6%E4%BA%86%E4%B8%9C%E5%8C%97%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "香港航天员将搭乘飞船升空",
@@ -550,6 +711,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "中国2030年实现航天员登月",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD2030%E5%B9%B4%E5%AE%9E%E7%8E%B0%E8%88%AA%E5%A4%A9%E5%91%98%E7%99%BB%E6%9C%88",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         }
       ]
     },
@@ -557,6 +729,19 @@
       "keyword_group": "美股",
       "match_count": 11,
       "titles": [
+        {
+          "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
+          "url": "https://www.cls.cn/detail/2379649",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时57分 ~ 13时58分]"
+        },
         {
           "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260523021145540800",
@@ -567,18 +752,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
-        },
-        {
-          "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
-          "url": "https://www.cls.cn/detail/2379649",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时57分 ~ 10时15分]"
         },
         {
           "title": "金十图示：2026年05月22日（周五）热门中概股行情一览（美股盘中）",
@@ -667,7 +840,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         },
@@ -686,7 +859,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "中国证监会拟对富途合计罚款18.5亿元人民币，老虎证券合计被罚没约4.1亿元",
@@ -698,8 +871,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 10时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 13时58分]"
         },
         {
           "title": "周五（5月22日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7983元，较周四纽约尾盘涨18点，日内整体交投于6.8034-6.7983元区间。 本周，离岸人民币累计上涨大约160点，涨幅0.24%，整体呈现出长尾W形走势。",
@@ -713,6 +886,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时57分 ~ 07时57分]"
+        },
+        {
+          "title": "商务部：1—4月全国吸收外资2876.9亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3108313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "商务部：1-4月全国吸收外资2876.9亿元人民币",
+          "url": "https://flash.jin10.com/detail/20260523114826282800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7978元，较周四夜盘收盘跌18点。成交量466.56亿美元。",
@@ -739,6 +934,58 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "“A股不死鸟”终折翼：*ST岩石确定退市",
+          "url": "https://www.cls.cn/detail/2379432",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 13时58分]"
+        },
+        {
+          "title": "A股反弹是不是牛市信号",
+          "url": "https://www.toutiao.com/trending/7642696912545517082/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 05时57分]"
+        },
+        {
+          "title": "韩国资金突然抄底A股看中了什么",
+          "url": "https://www.toutiao.com/trending/7642884340879199771/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "媒体：韩国投资者抄底A股",
+          "url": "https://www.toutiao.com/trending/7642690395926695450/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 4,
       "titles": [
@@ -751,8 +998,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时57分 ~ 10时15分]"
+          "appearance_count": 4,
+          "time_info": "[07时57分 ~ 13时58分]"
         },
         {
           "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
@@ -791,47 +1038,6 @@
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "“A股不死鸟”终折翼：*ST岩石确定退市",
-          "url": "https://www.cls.cn/detail/2379432",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 10时15分]"
-        },
-        {
-          "title": "A股反弹是不是牛市信号",
-          "url": "https://www.toutiao.com/trending/7642696912545517082/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 05时57分]"
-        },
-        {
-          "title": "媒体：韩国投资者抄底A股",
-          "url": "https://www.toutiao.com/trending/7642690395926695450/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -853,7 +1059,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         }
@@ -868,11 +1074,12 @@
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E7%A7%B0%E6%94%BB%E5%85%8B80%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 13时58分]"
         },
         {
           "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
@@ -881,7 +1088,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         }
