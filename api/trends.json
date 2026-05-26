@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-26T07:56:00.420043+08:00",
-  "total_titles_processed": 563,
+  "generated_at": "2026-05-26T10:04:08.302317+08:00",
+  "total_titles_processed": 725,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "不小心把特朗普归类为“白痴”，鲁比奥紧急救场",
@@ -30,6 +30,17 @@
           "time_info": "[00时58分 ~ 04时19分]"
         },
         {
+          "title": "特朗普要求先签“亚伯拉罕协议”，沙特回应",
+          "url": "https://news.ifeng.com/c/8tQf0euzx96",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 10时04分]"
+        },
+        {
           "title": "特朗普要求先签“亚伯拉罕协议” 沙特方面回应",
           "url": "https://flash.jin10.com/detail/20260526051929396800",
           "source": "金十数据",
@@ -51,6 +62,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时24分 ~ 04时19分]"
+        },
+        {
+          "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
+          "url": "https://wallstreetcn.com/articles/3773076",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时55分 ~ 10时04分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社援引以色列第12频道的消息报道，美国特使威特科夫和特朗普高级顾问库什纳正前往以色列，以商讨一项可能的美伊合作协议。此次会谈将围绕华盛顿与德黑兰之间可能达成的协议展开讨论，会谈还将继续就霍尔木兹海峡问题和核问题进行协商。",
@@ -77,15 +100,15 @@
           "time_info": "[06时02分 ~ 07时56分]"
         },
         {
-          "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
-          "url": "https://wallstreetcn.com/articles/3773076",
-          "source": "华尔街见闻",
+          "title": "美伊局势追踪：特朗普再称谈判“进展顺利” 双方据悉就资产解冻达成谅解",
+          "url": "https://www.cls.cn/detail/2381211",
+          "source": "财联社热门",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时55分 ~ 07时56分]"
+          "time_info": "[10时03分 ~ 10时04分]"
         },
         {
           "title": "美国总统特朗普：伊朗不会拥有核武器。",
@@ -130,7 +153,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -163,7 +186,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -174,7 +197,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -185,7 +208,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -203,6 +226,193 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "宇树科技6月1日上会迎考 冲击A股“人形机器人第一股”",
+          "url": "https://www.cls.cn/detail/2381067",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时58分 ~ 10时04分]"
+        },
+        {
+          "title": "A股出现三大异象",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%87%BA%E7%8E%B0%E4%B8%89%E5%A4%A7%E5%BC%82%E8%B1%A1%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            20,
+            23,
+            22,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 07时56分]"
+        },
+        {
+          "title": "A股三大股指持续走低，深证成指跌1%，沪指跌0.9%，创业板指跌0.64%。",
+          "url": "https://flash.jin10.com/detail/20260526094845537800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "A股算力概念股震荡下挫，大位科技、华升股份触及跌停，行云科技跌近10%，紫光股份、直真科技、鸿博股份跌逾6%。",
+          "url": "https://wallstreetcn.com/livenews/3109122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "A股证券板块短线拉升，锦龙股份涨停，中信建投、招商证券、光大证券、华泰证券、天风证券等纷纷走高。",
+          "url": "https://flash.jin10.com/detail/20260526094043081800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "A股先进封装概念继续活跃，华天科技、三佳科技2连板，甬矽电子涨超10%，晶方科技、快克智能、通富微电等纷纷高开。",
+          "url": "https://wallstreetcn.com/livenews/3109106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "A股人形机器人板块早盘拉升，中大力德涨停，飞荣达、杭州柯林盘中创新高，新亚制程2连板，长盛轴承涨超10%，三瑞智能、科达自控、上纬新材、露笑科技跟涨。",
+          "url": "https://flash.jin10.com/detail/20260526093658289800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "A股培育钻石板块盘初拉升，恒林股份涨停，黄河旋风触及涨停，力量钻石、惠丰钻石、四方达等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260526093405869800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "A股算力板块低开，恒为科技逼近跌停，中贝通信、红板科技、深圳华强等个股纷纷低开。",
+          "url": "https://flash.jin10.com/detail/20260526092644887800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "A股开盘，沪指开跌0.37%，深证成指开跌0.44%，创业板指开跌0.45%。",
+          "url": "https://flash.jin10.com/detail/20260526092518138800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "高盛：人民币国际化应用水平提升 未来增长潜力充足",
+          "url": "https://flash.jin10.com/detail/20260526072909699800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7834元，较上周五夜盘收盘涨144点。成交量404.68亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3109012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时19分 ~ 06时02分]"
+        },
+        {
+          "title": "上期所原油期货2607合约夜盘收跌3.04%，报602.80元人民币/桶。 沪金夜盘收涨0.71%，沪银收涨1.62%。",
+          "url": "https://wallstreetcn.com/livenews/3109006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时19分 ~ 06时02分]"
+        },
+        {
+          "title": "中国央行逆回购今日净投放2485亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3109101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.8288，上调30点；上一交易日中间价6.8318，上一交易日官方收盘价6.7837，上日夜盘报收6.7834。",
+          "url": "https://wallstreetcn.com/livenews/3109094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 4,
       "titles": [
@@ -213,7 +423,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -250,47 +460,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "高盛：人民币国际化应用水平提升 未来增长潜力充足",
-          "url": "https://flash.jin10.com/detail/20260526072909699800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7834元，较上周五夜盘收盘涨144点。成交量404.68亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3109012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 06时02分]"
-        },
-        {
-          "title": "上期所原油期货2607合约夜盘收跌3.04%，报602.80元人民币/桶。 沪金夜盘收涨0.71%，沪银收涨1.62%。",
-          "url": "https://wallstreetcn.com/livenews/3109006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 06时02分]"
         }
       ]
     },
@@ -335,43 +504,8 @@
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "宇树科技6月1日上会迎考 冲击A股“人形机器人第一股”",
-          "url": "https://www.cls.cn/detail/2381067",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 07时56分]"
-        },
-        {
-          "title": "A股出现三大异象",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%87%BA%E7%8E%B0%E4%B8%89%E5%A4%A7%E5%BC%82%E8%B1%A1%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            20,
-            23,
-            22,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 07时56分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "航天 航空",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "神舟二十三号航天员乘组顺利进驻“天宫”，中国航天员完成第8次“太空会师”",
@@ -383,6 +517,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时58分 ~ 06时02分]"
+        },
+        {
+          "title": "航天员将开展1年期在轨驻留试验背后",
+          "url": "https://www.toutiao.com/trending/7643869400835034678/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 10时04分]"
         }
       ]
     },
@@ -397,7 +542,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         }
