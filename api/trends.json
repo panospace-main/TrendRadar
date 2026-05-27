@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T16:59:36.419424+08:00",
-  "total_titles_processed": 1043,
+  "generated_at": "2026-05-27T20:18:31.196292+08:00",
+  "total_titles_processed": 1234,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
@@ -16,11 +16,12 @@
             17,
             16,
             9,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时19分 ~ 16时59分]"
+          "appearance_count": 10,
+          "time_info": "[01时19分 ~ 20时18分]"
         },
         {
           "title": "特朗普体检后称“结果非常完美”，下个月将迎来80岁生日",
@@ -28,11 +29,12 @@
           "source": "凤凰网",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时08分 ~ 16时59分]"
+          "appearance_count": 4,
+          "time_info": "[13时08分 ~ 20时18分]"
         },
         {
           "title": "特朗普提了一个非分要求",
@@ -67,6 +69,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "特朗普要求多国签《亚伯拉罕协议》，专家：警惕“美式陷阱”",
+          "url": "https://news.ifeng.com/c/8tTPXgoAD0P",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         },
         {
           "title": "美国总统特朗普：确保商品期货交易委员会对预测市场专属管辖权得到维护至关重要。",
@@ -285,7 +298,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "快手(01024.HK)：2026年第一季度营收为337.16亿元人民币，同比增长3.4%。",
@@ -294,7 +307,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         },
@@ -305,7 +318,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         },
@@ -327,7 +340,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         },
@@ -338,7 +351,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         },
@@ -373,7 +386,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         },
@@ -384,7 +397,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         },
@@ -411,6 +424,17 @@
           "time_info": "13时09分"
         },
         {
+          "title": "九号公司：董事长提议以1.5亿元-3亿元回购股份，回购股份的价格不超过人民币60元/份。",
+          "url": "https://wallstreetcn.com/livenews/3110048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
           "title": "上期所原油期货2607合约夜盘收涨0.81%，报609.50元人民币/桶。 沪金夜盘收跌1.15%，沪银收跌1.38%。",
           "url": "https://wallstreetcn.com/livenews/3109612",
           "source": "华尔街见闻-快讯",
@@ -420,12 +444,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
+        },
+        {
+          "title": "拼多多第一季度营收1,062.3亿元人民币，预估1,086亿元人民币。 第一季度调整后每ADS收益9.51元人民币，预估16.08元人民币。 第一季度调整后营业利润210.9亿元人民币，预估224.3亿元人民币。 第一季度调整后净利润140.7亿元人民币，预估246亿元人民币。 第一季度研发支出44亿元人民币，预估43亿元人民币。 第一季度一般及行政开支15.8亿元人民币，预估17.9亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3110037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
+          "title": "恩捷股份：下属子公司江苏恩捷拟收购SKIET持有的爱思开电池材料科技（江苏）有限公司100%股权，基础购买价款为人民币4亿元 恩捷股份 +2.45% 锂电池。",
+          "url": "https://wallstreetcn.com/livenews/3110032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "【早报】暴涨超19%，美股存储芯片巨头市值首破万亿；兆易创新、沪电股份等热门股发布重要公告",
@@ -499,6 +545,17 @@
           "time_info": "01时20分"
         },
         {
+          "title": "AI热潮推动下，美股期指上扬，美光盘前涨近10%，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
           "title": "Zscaler第三财季营收8.505亿美元，分析师预期8.353亿美元。 第三财季年化持续经营收入35.3亿美元，分析师预期35.1亿美元。 第三财季调整后EPS为1.08美元，分析师预期1.01美元。 预计第四财季营收8.75亿-8.78亿美元，分析师预期8.791亿美元。 Zscaler美股盘后跌9%。",
           "url": "https://wallstreetcn.com/livenews/3109642",
           "source": "华尔街见闻-快讯",
@@ -508,6 +565,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "Bath & Body Works第一季度调整后每股收益0.32美元，上年同期0.49美元，预估0.29美元。 第一季度每股收益0.90美元，上年同期0.49美元。 第一季度销售净额13.8亿美元，同比下降3.2%，预估13.6亿美元。 第一季度调整后运营收益1.51亿美元，预估1.419亿美元。 Bath & Body Works仍然预测全年调整后每股收益2.40美元至2.65美元。 Bath & Body Works美股盘前跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3110049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         },
         {
           "title": "美股收盘：标普500和纳指再创新高",
@@ -521,13 +589,24 @@
           "time_info": "08时05分"
         },
         {
+          "title": "拼多多美股盘前跌近4%，公司第一季度营收和调整后每ADS收益均不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3110038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
           "title": "美光科技美股盘前涨超4％，上个交易日收涨超19％，总市值突破1万亿美元。",
           "url": "https://wallstreetcn.com/livenews/3109939",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         }
@@ -578,7 +657,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         },
@@ -666,7 +745,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         }
@@ -754,7 +833,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         }
