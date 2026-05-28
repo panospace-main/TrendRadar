@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-28T07:09:26.751785+08:00",
-  "total_titles_processed": 528,
+  "generated_at": "2026-05-28T09:55:31.451556+08:00",
+  "total_titles_processed": 704,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普要求多国签《亚伯拉罕协议》，专家：警惕“美式陷阱”",
           "url": "https://news.ifeng.com/c/8tTPXgoAD0P",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 07时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 09时55分]"
         },
         {
           "title": "美国总统特朗普：将立法，使面向未来的数字资产市场结构（监管框架）法典化。",
@@ -25,9 +26,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
+        },
+        {
+          "title": "特朗普警告盟友阿曼：不守规矩会被炸飞",
+          "url": "https://news.ifeng.com/c/8tTuRYfuC5R",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         },
         {
           "title": "美国总统特朗普重申伊朗不能拥有核武器。",
@@ -167,6 +179,17 @@
           "time_info": "[05时46分 ~ 07时09分]"
         },
         {
+          "title": "中东波澜又起！白宫斥协议草案“纯属捏造” 特朗普称对谈判进程“不满意”",
+          "url": "https://www.cls.cn/detail/2383563",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
           "title": "美国总统特朗普：我们得到了其他国家的巨大支持。",
           "url": "https://flash.jin10.com/detail/20260528000605525800",
           "source": "金十数据",
@@ -206,7 +229,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         },
@@ -255,6 +278,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
+          "url": "https://wallstreetcn.com/articles/3773275",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
           "title": "白宫：美国与伊朗的谈判推进得不错，总统特朗普已经清晰地划定“红线”。",
           "url": "https://wallstreetcn.com/livenews/3110176",
           "source": "华尔街见闻-快讯",
@@ -294,7 +328,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         },
@@ -376,6 +410,17 @@
           "time_info": "03时16分"
         },
         {
+          "title": "特朗普政府正在就资助美国无人机公司进行谈判。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3110336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
           "title": "美国总统特朗普在被问及免征燃油税（Gas Tax Holiday）时表示：这是我们可能会讨论的事情，让我们看看会发生什么。",
           "url": "https://wallstreetcn.com/livenews/3110206",
           "source": "华尔街见闻-快讯",
@@ -412,7 +457,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
@@ -427,26 +472,49 @@
           "time_info": "[00时32分 ~ 05时46分]"
         },
         {
+          "title": "美股期指集体走高 美光盘前再度大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2383334",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 09时55分]"
+        },
+        {
+          "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油大跌5%，黄金一度跌2%",
           "url": "https://wallstreetcn.com/articles/3773196",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         },
         {
-          "title": "美股期指集体走高 美光盘前再度大涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2383334",
+          "title": "美股收盘：三大股指勉强收涨 美光市值压过伯克希尔",
+          "url": "https://www.cls.cn/detail/2383514",
           "source": "财联社热门",
           "ranks": [
-            6
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 07时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         },
         {
           "title": "戴尔科技美股盘后涨4.8%，该公司赢得防务合同。",
@@ -490,7 +558,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         },
@@ -504,6 +572,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
+        },
+        {
+          "title": "美股收盘：芯片股回调 高通跌6%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E8%8A%AF%E7%89%87%E8%82%A1%E5%9B%9E%E8%B0%83+%E9%AB%98%E9%80%9A%E8%B7%8C6%25",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         },
         {
           "title": "美股走低，标普500指数跌0.1%，纳指下跌0.4%，道指涨0.3%。",
@@ -531,7 +610,7 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "神21航天员要返回地球了",
@@ -541,8 +620,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 07时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 09时55分]"
         },
         {
           "title": "美国国家航空航天局（NASA）：SpaceX可能是我们最伟大的商业太空探索公司。",
@@ -589,6 +668,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "准备迎接神二十一航天员回家",
+          "url": "https://www.baidu.com/s?wd=%E5%87%86%E5%A4%87%E8%BF%8E%E6%8E%A5%E7%A5%9E%E4%BA%8C%E5%8D%81%E4%B8%80%E8%88%AA%E5%A4%A9%E5%91%98%E5%9B%9E%E5%AE%B6",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
           "title": "美国联邦航空管理局（FAA）局长预计，波音将在未来90天内继续提高737 MAX的生产速度。",
           "url": "https://flash.jin10.com/detail/20260528020910744800",
           "source": "金十数据",
@@ -624,8 +714,102 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "A股超级电容板块持续拉升，风华高科、江海股份盘中创新高，华锋股份、火炬电子、北京科锐涨停，元力股份涨超10%。",
+          "url": "https://flash.jin10.com/detail/20260528094335273800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "A股半导体产业链快速回暖，华虹公司涨超10%，股价续创历史新高，西安奕材、宇晶股份、中船特气、中芯国际、北京君正跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3110370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "A股市场又现30万元“肉签”，一图看懂注册制以来新股“肉签”TOP15",
+          "url": "https://www.cls.cn/detail/2383054",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 07时09分]"
+        },
+        {
+          "title": "A股房地产板块异动拉升，天健集团直线涨停，津投城开涨超6%，万通发展、京投发展、华丽家族、大龙地产跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3110367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "A股超级电容概念延续强势，江海股份2连板，风华高科、北京科锐、火炬电子、宏明电子、元力股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3110362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "A股存储芯片板块部分回暖，华虹公司涨超10%，中芯国际涨超4%，商络电子、利和兴、深科达涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260528093959066800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "A股算力租赁概念盘初活跃，大位科技一字涨停，天亿马、东方国信、平治信息、润泽科技、贵广网络涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3110358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "A股租售同权板块拉升，天健集团涨停，锦和商管、江南高纤、合肥城建、世联行等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260528093740065800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人民币",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7793元，较周二夜盘收盘涨74点。成交量403.47亿美元。",
@@ -660,12 +844,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "人民币对美元中间价报6.8240，调升51个点。前一交易日中间价报6.8291，在岸人民币16:30收盘价报6.7817，夜盘收报6.7793。",
+          "url": "https://wallstreetcn.com/livenews/3110341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "高盛称伊朗战争期间美元走强拖累外国官方美债需求",
@@ -679,6 +874,17 @@
           "time_info": "03时16分"
         },
         {
+          "title": "美债遭遇“百年最惨熊市”，“末日博士”彼得·希夫：真正的危机才刚开始",
+          "url": "https://wallstreetcn.com/articles/3773219",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
           "title": "大摩：对冲基金青睐的美债策略正在收缩，反映出获利机会稀缺",
           "url": "https://wallstreetcn.com/livenews/3110178",
           "source": "华尔街见闻-快讯",
@@ -688,23 +894,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股市场又现30万元“肉签”，一图看懂注册制以来新股“肉签”TOP15",
-          "url": "https://www.cls.cn/detail/2383054",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 07时09分]"
         }
       ]
     },
@@ -736,7 +925,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         }
