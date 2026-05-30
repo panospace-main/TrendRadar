@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T05:50:59.041633+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2026-05-31T06:46:20.490944+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时46分]"
         },
         {
           "title": "特朗普就结束伊朗战事提出条件，伊朗必须同意永远不拥有核武器，霍尔木兹海峡必须立即开放，伊方会接受吗？",
@@ -37,11 +37,12 @@
             10,
             12,
             16,
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时46分]"
         },
         {
           "title": "美国法官裁定将特朗普名字从肯尼迪中心移除",
@@ -52,8 +53,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时46分]"
         },
         {
           "title": "一图看懂｜“不听话就炸掉”，特朗普威胁/攻击过哪些国家？",
@@ -65,8 +66,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时46分]"
         },
         {
           "title": "多名艺人退演“自由 250”音乐会 特朗普考虑改为集会和演讲",
@@ -128,8 +129,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时46分]"
         },
         {
           "title": "业内：A股交易拥挤度达历史罕见水平",
@@ -138,11 +139,12 @@
           "ranks": [
             8,
             7,
-            14
+            14,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时46分]"
         }
       ]
     },
@@ -157,11 +159,12 @@
           "ranks": [
             14,
             13,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时46分]"
         },
         {
           "title": "航天员回地球后最想洗头",
@@ -171,11 +174,12 @@
             17,
             18,
             26,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时46分]"
         }
       ]
     },
@@ -221,8 +225,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 05时50分]"
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 06时46分]"
         },
         {
           "title": "报道：OpenAI在讨论将花旗、摩根大通纳入IPO承销商名单",
@@ -250,19 +254,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时46分]"
         },
         {
           "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
           "url": "https://www.cls.cn/detail/2385964",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时46分]"
         }
       ]
     }
