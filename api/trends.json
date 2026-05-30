@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T07:03:28.504922+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2026-05-30T09:58:33.926830+08:00",
+  "total_titles_processed": 653,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普如何让一个格陵兰激进独立斗士变成“爱国者”",
@@ -19,6 +19,17 @@
           "time_info": "[00时34分 ~ 07时03分]"
         },
         {
+          "title": "特朗普肖像纪念钞能流通吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%82%96%E5%83%8F%E7%BA%AA%E5%BF%B5%E9%92%9E%E8%83%BD%E6%B5%81%E9%80%9A%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
           "title": "法官裁定：特朗普目前不得重新命名肯尼迪中心，也不能以翻新为由将其关闭",
           "url": "https://wallstreetcn.com/livenews/3111606",
           "source": "华尔街见闻-快讯",
@@ -28,17 +39,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
-        },
-        {
-          "title": "美国将对法官要求广泛退还特朗普关税的裁决提出上诉",
-          "url": "https://wallstreetcn.com/livenews/3111660",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时03分"
         },
         {
           "title": "美国财长贝森特：美国总统特朗普明确寻求霍尔木兹海峡的自由开放通行。",
@@ -58,7 +58,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -80,9 +80,33 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        },
+        {
+          "title": "美国将对法官要求广泛退还特朗普关税的裁决提出上诉",
+          "url": "https://wallstreetcn.com/livenews/3111660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时03分 ~ 09时58分]"
+        },
+        {
+          "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
+          "url": "https://wallstreetcn.com/articles/3773469",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时03分 ~ 09时58分]"
         },
         {
           "title": "美国财长贝森特：我从未偏袒过沃什。特朗普决定任命沃什为美联储主席。",
@@ -151,17 +175,6 @@
           "time_info": "00时35分"
         },
         {
-          "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
-          "url": "https://wallstreetcn.com/articles/3773469",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时03分"
-        },
-        {
           "title": "伊朗消息人士否认了特朗普的最新评论",
           "url": "https://flash.jin10.com/detail/20260529234630741800",
           "source": "金十数据",
@@ -228,6 +241,17 @@
           "time_info": "03时28分"
         },
         {
+          "title": "美国国防部长赫格塞思：美国总统特朗普今年将在国防上进行1.5万亿美元的代际投资。",
+          "url": "https://flash.jin10.com/detail/20260530085921874800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
           "title": "特朗普说美伊就核问题和霍尔木兹海峡以外次要事项达成一致",
           "url": "https://wallstreetcn.com/livenews/3111539",
           "source": "华尔街见闻-快讯",
@@ -275,7 +299,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
@@ -287,6 +311,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时34分 ~ 07时03分]"
+        },
+        {
+          "title": "停火预期提振市场 美股期指上涨 戴尔盘前暴涨约34% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2385789",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 09时58分]"
         },
         {
           "title": "金十图示：2026年05月29日（周五）美股热门股票行情一览（美股收盘）",
@@ -324,27 +361,26 @@
           "time_info": "[00时34分 ~ 05时44分]"
         },
         {
-          "title": "停火预期提振市场 美股期指上涨 戴尔盘前暴涨约34% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2385789",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 07时03分]"
-        },
-        {
           "title": "停火预期压制油价，AI热潮推涨美股，标普九周连涨，戴尔暴涨33%，黄金冲高回落",
           "url": "https://wallstreetcn.com/articles/3773437",
           "source": "华尔街见闻",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        },
+        {
+          "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
+          "url": "https://www.cls.cn/detail/2385964",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "美股收盘：三大股指微涨 标普500指数连涨九周",
@@ -432,18 +468,44 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "航天员张陆从太空带回一个苹果",
           "url": "https://www.toutiao.com/trending/7645299648730746418/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 07时03分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 09时58分]"
+        },
+        {
+          "title": "90后航天员武飞笑着滑滑梯出舱",
+          "url": "https://www.baidu.com/s?wd=90%E5%90%8E%E8%88%AA%E5%A4%A9%E5%91%98%E6%AD%A6%E9%A3%9E%E7%AC%91%E7%9D%80%E6%BB%91%E6%BB%91%E6%A2%AF%E5%87%BA%E8%88%B1",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 09时58分]"
+        },
+        {
+          "title": "神二十一乘组凯旋，着陆反推发动机是如何守护航天员回家的？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33267701",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 09时58分]"
         },
         {
           "title": "神舟21号航天员乘组返回地球",
@@ -457,28 +519,15 @@
           "time_info": "[00时34分 ~ 00时35分]"
         },
         {
-          "title": "90后航天员武飞笑着滑滑梯出舱",
-          "url": "https://www.baidu.com/s?wd=90%E5%90%8E%E8%88%AA%E5%A4%A9%E5%91%98%E6%AD%A6%E9%A3%9E%E7%AC%91%E7%9D%80%E6%BB%91%E6%BB%91%E6%A2%AF%E5%87%BA%E8%88%B1",
-          "source": "百度热搜",
+          "title": "航天员回地球后最想洗头",
+          "url": "https://www.toutiao.com/trending/7644785242368835590/",
+          "source": "今日头条",
           "ranks": [
-            28,
-            14
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 07时03分]"
-        },
-        {
-          "title": "神二十一乘组凯旋，着陆反推发动机是如何守护航天员回家的？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33267701",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 07时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "神21航天员全部顺利出舱",
@@ -501,8 +550,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时28分 ~ 07时03分]"
+          "appearance_count": 5,
+          "time_info": "[03时28分 ~ 09时58分]"
+        },
+        {
+          "title": "神二十一航天员乘组出舱",
+          "url": "https://www.baidu.com/s?wd=%E7%A5%9E%E4%BA%8C%E5%8D%81%E4%B8%80%E8%88%AA%E5%A4%A9%E5%91%98%E4%B9%98%E7%BB%84%E5%87%BA%E8%88%B1",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时28分 ~ 09时58分]"
         },
         {
           "title": "航天员返航时为何要穿航天服",
@@ -515,17 +575,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时34分 ~ 05时44分]"
-        },
-        {
-          "title": "神二十一航天员乘组出舱",
-          "url": "https://www.baidu.com/s?wd=%E7%A5%9E%E4%BA%8C%E5%8D%81%E4%B8%80%E8%88%AA%E5%A4%A9%E5%91%98%E4%B9%98%E7%BB%84%E5%87%BA%E8%88%B1",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时28分 ~ 07时03分]"
         },
         {
           "title": "神舟二十一号航天员乘组平安抵京",
@@ -559,6 +608,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7663元，较周四夜盘收盘涨90点。成交量404.88亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3111602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时28分"
+        },
+        {
+          "title": "上期所原油期货2607合约夜盘收跌1.61%，报580.30元人民币/桶。 沪金夜盘收涨1.61%，沪银收涨0.64%。",
+          "url": "https://wallstreetcn.com/livenews/3111594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时28分"
+        },
+        {
+          "title": "周五（5月29日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7635元，较周四纽约尾盘涨96点，日内整体交投于6.7750-6.7605元区间。 本周，离岸人民币累涨大约340点，涨幅0.5%。 5月份，离岸人民币累涨大约680点，涨幅0.99%。",
+          "url": "https://wallstreetcn.com/livenews/3111664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         }
       ]
     },
@@ -604,30 +692,30 @@
       ]
     },
     {
-      "keyword_group": "人民币",
+      "keyword_group": "A股",
       "match_count": 2,
       "titles": [
         {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7663元，较周四夜盘收盘涨90点。成交量404.88亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3111602",
+          "title": "MiniMax启动A股IPO辅导备案",
+          "url": "https://wallstreetcn.com/livenews/3111690",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时28分"
+          "time_info": "09时58分"
         },
         {
-          "title": "上期所原油期货2607合约夜盘收跌1.61%，报580.30元人民币/桶。 沪金夜盘收涨1.61%，沪银收涨0.64%。",
-          "url": "https://wallstreetcn.com/livenews/3111594",
-          "source": "华尔街见闻-快讯",
+          "title": "A股老登股爆发",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%80%81%E7%99%BB%E8%82%A1%E7%88%86%E5%8F%91%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
           "ranks": [
-            10
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 00时35分]"
         }
       ]
     },
@@ -653,26 +741,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股老登股爆发",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%80%81%E7%99%BB%E8%82%A1%E7%88%86%E5%8F%91%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
         }
       ]
     },
