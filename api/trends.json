@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-02T08:06:08.155572+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2026-06-02T13:22:14.096638+08:00",
+  "total_titles_processed": 734,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "特朗普怒斥以总理疯了：如果不是我，你早就进监狱了",
+          "url": "https://news.ifeng.com/c/8tcSNBrDi2S",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时05分 ~ 13时22分]"
+        },
         {
           "title": "特朗普：以黎将立即停火",
           "url": "https://news.ifeng.com/c/8tc5U5rmZoF",
@@ -19,15 +31,52 @@
           "time_info": "[06时29分 ~ 06时30分]"
         },
         {
-          "title": "特朗普怒斥以总理疯了：如果不是我，你早就进监狱了",
-          "url": "https://news.ifeng.com/c/8tcSNBrDi2S",
-          "source": "凤凰网",
+          "title": "特朗普威胁“炸掉阿曼”粗暴又荒诞：美国的强权即是“规则”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33279999",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            19,
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时51分 ~ 13时22分]"
+        },
+        {
+          "title": "一波三折！伊朗叫停对话后，特朗普最新表态：美伊或一周内达成协议",
+          "url": "https://www.cls.cn/detail/2387782",
+          "source": "财联社热门",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时05分 ~ 08时06分]"
+          "time_info": "[13时21分 ~ 13时22分]"
+        },
+        {
+          "title": "戏剧性一幕，特朗普被迫打了一个电话",
+          "url": "https://news.ifeng.com/c/8tcZYXsGgVn",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
+        },
+        {
+          "title": "美伊又打起来了，特朗普：伊朗“确实想要”达成协议",
+          "url": "https://wallstreetcn.com/articles/3773555",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时29分 ~ 13时22分]"
         },
         {
           "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
@@ -74,28 +123,15 @@
           "time_info": "06时30分"
         },
         {
-          "title": "特朗普威胁“炸掉阿曼”粗暴又荒诞：美国的强权即是“规则”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33279999",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时51分 ~ 08时06分]"
-        },
-        {
-          "title": "美伊又打起来了，特朗普：伊朗“确实想要”达成协议",
-          "url": "https://wallstreetcn.com/articles/3773555",
+          "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
+          "url": "https://wallstreetcn.com/articles/3773609",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时29分 ~ 08时06分]"
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
         },
         {
           "title": "【特朗普称美伊或于一周内达成协议 延长停火并重开霍尔木兹海峡】美国总统特朗普表示，他预计将在“未来一周内”与伊朗达成协议，延长当前停火安排并重新开放霍尔木兹海峡。特朗普称，相关谈判进展顺利，并对达成协议表示乐观。（央视）",
@@ -120,6 +156,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时30分 ~ 08时06分]"
+        },
+        {
+          "title": "特朗普安抚市场： 黎以所有交火行动将立即停止 与伊朗的谈判正“快速推进”",
+          "url": "https://www.cls.cn/detail/2387700",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
+        },
+        {
+          "title": "特朗普称美伊或于一周内达成协议 美国战略石油储备降至两年多来最低水平 | 环球市场",
+          "url": "https://www.cls.cn/detail/2387742",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
         },
         {
           "title": "美媒称特朗普斥以色列总理疯了",
@@ -161,7 +219,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -194,7 +252,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -216,7 +274,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -249,7 +307,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -290,18 +348,31 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "【早报】全线大涨，美股芯片股批量创新高；特朗普：美伊或于“一周内”达成协议",
           "url": "https://www.cls.cn/detail/2387748",
           "source": "财联社热门",
           "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时05分 ~ 13时22分]"
+        },
+        {
+          "title": "美股收盘：三大指数均创收盘新高 英伟达领涨科技股",
+          "url": "https://www.cls.cn/detail/2387720",
+          "source": "财联社热门",
+          "ranks": [
+            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 08时06分]"
+          "appearance_count": 4,
+          "time_info": "[08时05分 ~ 13时22分]"
         },
         {
           "title": "伊朗称将全面封锁霍尔木兹，美股低开，IBM涨近9%，ARM大涨12%，美油涨6%",
@@ -315,15 +386,15 @@
           "time_info": "[03时51分 ~ 06时29分]"
         },
         {
-          "title": "美股收盘：三大指数均创收盘新高 英伟达领涨科技股",
-          "url": "https://www.cls.cn/detail/2387720",
-          "source": "财联社热门",
+          "title": "新华社：美股AI热潮是否面临“泡沫破裂”风险",
+          "url": "https://flash.jin10.com/detail/20260602130607740800",
+          "source": "金十数据",
           "ranks": [
-            3
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 08时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         },
         {
           "title": "周一（6月1日），美股信息科技指数涨3.20%，报450.89点，继续创收盘历史新高。 成分股中，MongoDB涨20.36%，Nebius集团涨14.46%，发行垃圾债融资的CoreWeave涨13.96%，Datadog涨12.19%，Cloudflare涨11.99%，戴尔科技涨10.70%，铿腾电子涨10.46%表现第七，Credo则收跌4.2%跌幅第四大，英特尔跌4.67%，Astera Lab跌6.64%，高通跌8.78%。",
@@ -332,7 +403,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -378,7 +449,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -558,7 +629,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "六神包装“撞脸”人民币引热议",
@@ -582,6 +653,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "网友称摸起来很像人民币 六神回应",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E6%91%B8%E8%B5%B7%E6%9D%A5%E5%BE%88%E5%83%8F%E4%BA%BA%E6%B0%91%E5%B8%81+%E5%85%AD%E7%A5%9E%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
+        },
+        {
+          "title": "六神新包装被指撞脸人民币",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%AD%E7%A5%9E%E6%96%B0%E5%8C%85%E8%A3%85%E8%A2%AB%E6%8C%87%E6%92%9E%E8%84%B8%E4%BA%BA%E6%B0%91%E5%B8%81%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7660元，较上周五夜盘收盘涨3点。成交量334.67亿美元。",
@@ -615,12 +708,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
+        },
+        {
+          "title": "离岸人民币隔夜香港银行同业拆息创2月以来最大涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3112797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         }
       ]
     },
     {
       "keyword_group": "A股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "73天！宇树科技科创板IPO过会 A股人形机器人第一股将至",
@@ -632,6 +736,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时51分 ~ 08时06分]"
+        },
+        {
+          "title": "A股小金属板块午后持续拉升，华锡有色、贵研铂业涨停, 宜安科技涨超10%，云南锗业、东方锆业、中国铀业、金钼股份、盛和资源等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260602130327430800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         },
         {
           "title": "4家A股公司，撤销风险警示",
@@ -664,7 +779,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         }
@@ -672,7 +787,7 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国航空航天局局长艾萨克曼：蓝色起源发射台在火箭爆炸中受损，可能要到2028年才能恢复。",
@@ -681,7 +796,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -697,13 +812,24 @@
           "time_info": "[03时51分 ~ 08时06分]"
         },
         {
+          "title": "航空公司回应航班滑行58分钟",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E8%88%AA%E7%8F%AD%E6%BB%91%E8%A1%8C58%E5%88%86%E9%92%9F%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
+        },
+        {
           "title": "以色列军方表示，在针对敌方航空器入侵的警报响起后，一个可疑空中目标坠落于以色列境内、黎巴嫩边境附近。没有报告伤亡。",
           "url": "https://flash.jin10.com/detail/20260602072314379800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -722,8 +848,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
+          "url": "https://wallstreetcn.com/articles/3773607",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
+        },
         {
           "title": "周一（6月1日），美股超大规模云服务商（Hyperscalers）跌0.02%，报105.79点，尾盘刷新盘中历史最高位至106.56点。 成分股亚马逊跌3.47%，谷歌A跌1.04%，微软涨2.28%，Meta跌5.07%，甲骨文涨9.91%。",
           "url": "https://wallstreetcn.com/livenews/3112690",
@@ -731,7 +868,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
