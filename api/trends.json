@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-06-03T07:27:00.704323+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2026-06-03T10:41:07.606153+08:00",
+  "total_titles_processed": 674,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
           "url": "https://www.cls.cn/detail/2388968",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时26分 ~ 10时41分]"
+        },
+        {
+          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
+          "url": "https://wallstreetcn.com/articles/3773650",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时26分 ~ 07时27分]"
+          "time_info": "[10时40分 ~ 10时41分]"
         },
         {
           "title": "网络安全公司NetSkope美股盘后涨3.8%，该公司宣布加入Anthropic的Project Glasswing。",
@@ -158,7 +170,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -188,7 +200,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普：美伊暂停谈判？假新闻！",
@@ -224,6 +236,30 @@
           "time_info": "[02时31分 ~ 07时27分]"
         },
         {
+          "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡：你他妈疯了，要不是我你早进监狱了！",
+          "url": "https://wallstreetcn.com/articles/3773679",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时31分 ~ 10时41分]"
+        },
+        {
+          "title": "被特朗普斥“疯了”后，内塔尼亚胡最新强硬表态",
+          "url": "https://news.ifeng.com/c/8tdev8HIju4",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 10时41分]"
+        },
+        {
           "title": "特朗普：已接受在白宫记者晚宴发言的邀请",
           "url": "https://flash.jin10.com/detail/20260603020332024800",
           "source": "金十数据",
@@ -257,16 +293,26 @@
           "time_info": "02时31分"
         },
         {
-          "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡：你他妈疯了，要不是我你早进监狱了！",
-          "url": "https://wallstreetcn.com/articles/3773679",
-          "source": "华尔街见闻",
+          "title": "UP主画出了特朗普美元",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%BB%E5%87%BA%E4%BA%86%E7%89%B9%E6%9C%97%E6%99%AE%E7%BE%8E%E5%85%83",
+          "source": "bilibili 热搜",
           "ranks": [
-            7,
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时31分 ~ 07时27分]"
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 10时41分]"
+        },
+        {
+          "title": "特朗普签署人工智能行政令，要求企业向政府提前开放模型访问权限",
+          "url": "https://www.cls.cn/detail/2388943",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 10时41分]"
         },
         {
           "title": "美国总统特朗普：我接受了白宫记者晚宴的邀请。",
@@ -289,6 +335,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "美伊谈判陷“断联”疑云，特朗普怒斥假新闻！真主党与以色列激战持续；美联储迎来保守派新顾问……后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）。",
+          "url": "https://flash.jin10.com/detail/20260603103129462800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
         },
         {
           "title": "美国总统特朗普：非常愉快在白宫椭圆形办公室接待了弗拉维奥·博索纳罗（巴西前总统博索纳罗的长子，目前为巴西联邦参议员）。",
@@ -322,52 +379,164 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "特朗普被曝同以总理通话爆粗口",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33288561",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时40分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "keyword_group": "A股",
+      "match_count": 11,
       "titles": [
         {
-          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
-          "url": "https://wallstreetcn.com/articles/3773607",
-          "source": "华尔街见闻",
+          "title": "5月A股新开户同比大增78%，逼近2.6亿，“科技行情”拉动入市",
+          "url": "https://www.cls.cn/detail/2389049",
+          "source": "财联社热门",
           "ranks": [
-            1
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 10时41分]"
+        },
+        {
+          "title": "A股算力硬件股持续走强，天孚通信大涨超12%，新易盛、中际旭创涨超8%，股价均刷新历史新高，亨通光电、迅捷兴、一博科技、东材科技等多股封涨停板。",
+          "url": "https://wallstreetcn.com/livenews/3113449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "A股机器人概念股震荡走强，模塑科技拉升封板，祥鑫科技、浙江荣泰此前涨停，埃斯顿、北特科技、绿的谐波涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3113445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "A股或将重返强势格局",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%88%96%E5%B0%86%E9%87%8D%E8%BF%94%E5%BC%BA%E5%8A%BF%E6%A0%BC%E5%B1%80",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            18,
+            22
           ],
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时31分 ~ 07时27分]"
         },
         {
-          "title": "800亿美元！谷歌启动史上最大规模股权融资，伯克希尔参投100亿美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33289350",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时26分 ~ 07时27分]"
-        },
-        {
-          "title": "据知情人士透露，谷歌母公司Alphabet的股权融资获得超额认购。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3113205",
+          "title": "A股电池产业链震荡拉升，湘潭电化涨停，杭可科技、豪鹏科技、德新科技、诺德股份、铜冠铜箔跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3113437",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "6月百基新发、多点开花，机构：A股市场中长期配置价值不改",
+          "url": "https://wallstreetcn.com/livenews/3113321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时31分"
+          "time_info": "07时27分"
+        },
+        {
+          "title": "A股国家大基金持股板块走高，通富微电涨停，佰维存储、江波龙、长川科技、华虹公司、芯原股份等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260603102520317800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "A股商业航天概念震荡拉升，铖昌科技触及涨停，中复神鹰、中航光电、西测测试、有研粉材、长江通信涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3113425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "高盛：维持A股超配评级，H股评级下调至平配",
+          "url": "https://wallstreetcn.com/livenews/3113414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "A股有机硅概念震荡拉升，东岳硅材涨超10%，硅宝科技、晨光新材、回天新材、合盛硅业跟涨。",
+          "url": "https://flash.jin10.com/detail/20260603101239720800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "A股半导体产业链盘初上扬，裕太微、优迅股份、盛科通信涨超10%，帝奥微、扬杰科技、卓胜微、通富微电涨超8%。",
+          "url": "https://wallstreetcn.com/livenews/3113405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "OpenAI举行“AI上岗”发布会：股票研究、投行路演都能干",
+          "url": "https://www.cls.cn/detail/2388950",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 10时41分]"
+        },
         {
           "title": "OpenAI：ZoomInfo将在企业版Codex（Codex for Work）中提供原生支持。",
           "url": "https://wallstreetcn.com/livenews/3113224",
@@ -397,39 +566,78 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         }
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 2,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
       "titles": [
         {
-          "title": "A股或将重返强势格局",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%88%96%E5%B0%86%E9%87%8D%E8%BF%94%E5%BC%BA%E5%8A%BF%E6%A0%BC%E5%B1%80",
-          "source": "百度热搜",
+          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
+          "url": "https://wallstreetcn.com/articles/3773607",
+          "source": "华尔街见闻",
           "ranks": [
-            14,
-            18,
-            22
+            1
           ],
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时31分 ~ 07时27分]"
         },
         {
-          "title": "6月百基新发、多点开花，机构：A股市场中长期配置价值不改",
-          "url": "https://wallstreetcn.com/livenews/3113321",
+          "title": "800亿美元！谷歌启动史上最大规模股权融资，伯克希尔参投100亿美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33289350",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时26分 ~ 10时41分]"
+        },
+        {
+          "title": "据知情人士透露，谷歌母公司Alphabet的股权融资获得超额认购。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3113205",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时27分"
+          "time_info": "02时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "航天 航空",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "我国商业航天取得新突破",
+          "url": "https://www.douyin.com/hot/2521576",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时31分 ~ 10时41分]"
+        },
+        {
+          "title": "俄罗斯为何突然禁止航空煤油出口",
+          "url": "https://www.toutiao.com/trending/7646936504756866602/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 10时41分]"
         }
       ]
     },
@@ -445,8 +653,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时31分 ~ 07时27分]"
+          "appearance_count": 7,
+          "time_info": "[02时31分 ~ 10时41分]"
         },
         {
           "title": "国务院印发《加快农业农村现代化“十五五”规划》",
@@ -462,19 +670,58 @@
       ]
     },
     {
-      "keyword_group": "航天 航空",
-      "match_count": 1,
+      "keyword_group": "金价",
+      "match_count": 2,
       "titles": [
         {
-          "title": "我国商业航天取得新突破",
-          "url": "https://www.douyin.com/hot/2521576",
-          "source": "抖音",
+          "title": "国内金价跌破980元每克",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E5%86%85%E9%87%91%E4%BB%B7%E8%B7%8C%E7%A0%B4980%E5%85%83%E6%AF%8F%E5%85%8B&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            3
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时31分 ~ 07时27分]"
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 10时41分]"
+        },
+        {
+          "title": "金十图示：2026年06月03日（周三）上海金早盘价为976.52元/克，较国际金价(973.55元/克)，高2.97元/克",
+          "url": "https://flash.jin10.com/detail/20260603102106849800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "欧央行最新报告：黄金历史性超越美债，成为全球第一大储备资产",
+          "url": "https://wallstreetcn.com/articles/3773688",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 10时41分]"
+        },
+        {
+          "title": "周二（6月2日）纽约尾盘，美国10年期基准国债收益率跌0.98个基点，报4.4433%，在V形反转行情中、于北京时间19:10刷新日低至4.4217%。 两年期美债收益率涨1.03个基点，报4.0431%，19:06也曾刷新日低至4.0060%。",
+          "url": "https://wallstreetcn.com/livenews/3113308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         }
       ]
     },
@@ -492,23 +739,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周二（6月2日）纽约尾盘，美国10年期基准国债收益率跌0.98个基点，报4.4433%，在V形反转行情中、于北京时间19:10刷新日低至4.4217%。 两年期美债收益率涨1.03个基点，报4.0431%，19:06也曾刷新日低至4.0060%。",
-          "url": "https://wallstreetcn.com/livenews/3113308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时27分"
         }
       ]
     }
