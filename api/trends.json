@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T08:28:16.805325+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-06-04T13:50:34.573441+08:00",
+  "total_titles_processed": 814,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时56分 ~ 08时28分]"
+          "appearance_count": 7,
+          "time_info": "[01时56分 ~ 13时50分]"
         },
         {
           "title": "特朗普为何骂内塔尼亚胡“疯了”？",
@@ -30,6 +30,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时56分 ~ 08时28分]"
+        },
+        {
+          "title": "美众议院通过决议，限制特朗普对伊动武权力",
+          "url": "https://news.ifeng.com/c/8tffKr5raZ8",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时27分 ~ 13时50分]"
         },
         {
           "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
@@ -67,17 +79,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时56分 ~ 04时46分]"
-        },
-        {
-          "title": "美众议院通过决议，限制特朗普对伊动武权力",
-          "url": "https://news.ifeng.com/c/8tffKr5raZ8",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时27分 ~ 08时28分]"
         },
         {
           "title": "美国总统特朗普：企图将伊朗与黎巴嫩问题分开处理。",
@@ -124,6 +125,17 @@
           "time_info": "06时58分"
         },
         {
+          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
+          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
           "title": "特朗普：伊朗事项可能还要再持续两到三周。",
           "url": "https://flash.jin10.com/detail/20260604042800955800",
           "source": "金十数据",
@@ -146,6 +158,17 @@
           "time_info": "04时46分"
         },
         {
+          "title": "美众议院通过决议限制特朗普对伊动武",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E5%86%B3%E8%AE%AE%E9%99%90%E5%88%B6%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E5%8A%A8%E6%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时27分 ~ 13时50分]"
+        },
+        {
           "title": "特朗普点名万斯、鲁比奥：两人大选联手将是一支难以被击败的团队",
           "url": "https://news.ifeng.com/c/8tfpnbgvAEj",
           "source": "凤凰网",
@@ -160,17 +183,6 @@
           "title": "以总理承认与特朗普存“战术分歧”",
           "url": "https://www.toutiao.com/trending/7646597140789149702/",
           "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时27分 ~ 08时28分]"
-        },
-        {
-          "title": "美众议院通过决议限制特朗普对伊动武",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E5%86%B3%E8%AE%AE%E9%99%90%E5%88%B6%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E5%8A%A8%E6%AD%A6",
-          "source": "百度热搜",
           "ranks": [
             12
           ],
@@ -212,6 +224,17 @@
           "time_info": "04时46分"
         },
         {
+          "title": "美伊局势追踪：特朗普称协议或在周末达成，美国会众议院要求结束动武！",
+          "url": "https://www.cls.cn/detail/2390202",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
           "title": "特朗普称对伊封锁“比轰炸更有影响力” 美伊将联手挖掘核材料",
           "url": "https://flash.jin10.com/detail/20260604054420456800",
           "source": "金十数据",
@@ -232,6 +255,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "特朗普称美伊协议可能在本周末达成 SpaceX官方拟定IPO发行价为135美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2390155",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         },
         {
           "title": "特朗普：我们在前夜和昨夜对伊朗实施了打击，力度较大。伊朗曾受到一定程度的挑衅。伊朗所采取的行动并不严重。",
@@ -306,9 +340,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时28分"
+        },
+        {
+          "title": "特朗普将提名其前私人律师任美国司法部长",
+          "url": "https://wallstreetcn.com/livenews/3114206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         },
         {
           "title": "【内塔尼亚胡承认与特朗普存在“战术分歧”，特朗普证实对其爆粗口】以色列总理内塔尼亚胡3日表示，他与美国总统特朗普“有时会出现战术层面的分歧”，但双方在“核心目标”上保持一致。 内塔尼亚胡当日在接受美国消费者新闻与商业频道采访时说，他与特朗普“每两天就会通一次电话”，双方有着共同目标，其中包括“阻止伊朗获得核武器以及确保以色列安全”。 谈及伊朗战事时，内塔尼亚胡表示，战事最终如何结束“仍是一个开放性问题”，但以色列将继续维护自身安全利益。 特朗普在3日播出的一档访谈节目中证实，他在6月1日与内塔尼亚胡通话时爆粗口，斥责内塔尼亚胡“疯了”，但称两人“合作得非常愉快”。（新华社）",
@@ -434,9 +479,223 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "《新闻联播》披露A股重要数据",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E3%80%8B%E6%8A%AB%E9%9C%B2A%E8%82%A1%E9%87%8D%E8%A6%81%E6%95%B0%E6%8D%AE",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 08时28分]"
+        },
+        {
+          "title": "【早报】A股上新闻联播；光纤企业爆单；富时A50，纳入多只牛股",
+          "url": "https://www.cls.cn/detail/2390171",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时27分 ~ 13时50分]"
+        },
+        {
+          "title": "评论员：A股正成为全民财富新蓄水池",
+          "url": "https://www.toutiao.com/trending/7647043750434180627/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            15,
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 08时28分]"
+        },
+        {
+          "title": "A股再登新闻联播释放何种信息",
+          "url": "https://www.toutiao.com/trending/7647311695521549870/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时27分 ~ 13时50分]"
+        },
+        {
+          "title": "A股再登新闻联播：长线外资看好中国，持续加码硬科技",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33302529",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时27分 ~ 13时50分]"
+        },
+        {
+          "title": "时隔8年A股再迎航司IPO，长龙航空拟募资20亿元",
+          "url": "https://wallstreetcn.com/livenews/3114053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时58分 ~ 08时28分]"
+        },
+        {
+          "title": "新闻联播披露A股重要数据",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E6%8A%AB%E9%9C%B2A%E8%82%A1%E9%87%8D%E8%A6%81%E6%95%B0%E6%8D%AE%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时27分 ~ 08时28分]"
+        },
+        {
+          "title": "A股存储芯片板块震荡走强，德明利触及涨停，佰维存储涨超10%，江波龙、香农芯创跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3114215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "A股零售板块持续下挫，中央商场触及跌停，中百集团此前跌停，步步高跌超9%，宁波中百、国芳集团、东百集团跟跌。",
+          "url": "https://flash.jin10.com/detail/20260604132321280800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "A股铜缆高速连接概念反复活跃，鼎通科技20cm涨停，奕东电子涨超15%，鑫科材料此前封板，金信诺、中航光电、意华股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3114214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "A股公司再掀回购热潮 年内披露金额已超千亿元",
+          "url": "https://wallstreetcn.com/livenews/3114072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时28分"
+        },
+        {
+          "title": "A股燃气轮机概念持续走强，博盈特焊20cm涨停，杰瑞股份、中国动力此前封板，联德股份、应流股份、万泽股份涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3114212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "A股存储芯片板块震荡走强，德明利触及涨停，佰维存储涨超10%，江波龙、香农芯创跟涨。",
+          "url": "https://flash.jin10.com/detail/20260604131333588800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "A股电力板块午后持续拉升，华电能源、豫能控股、新中港、梅雁吉祥、百通能源涨停，京能电力、金开新能、江苏国信、华电辽能冲高。",
+          "url": "https://flash.jin10.com/detail/20260604131204338800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "A股燃气轮机概念持续拉升，博盈特焊20CM涨停，此前中国动力、杰瑞股份涨停，联德股份、万泽股份、应流股份跟涨。",
+          "url": "https://flash.jin10.com/detail/20260604131124413800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "摩根士丹利将中兴通讯A股评级上调至平配，目标价34.30元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3114026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "A股铜缆高速连接板块午后短线拉升，鼎通科技20cm涨停，奕东电子涨超14%，鑫科材料此前涨停，金信诺、中航光电、意华股份跟涨。",
+          "url": "https://flash.jin10.com/detail/20260604130400756800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 16,
       "titles": [
+        {
+          "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
+          "url": "https://wallstreetcn.com/articles/3773769",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时56分 ~ 13时50分]"
+        },
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
           "url": "https://wallstreetcn.com/articles/3773650",
@@ -449,19 +708,6 @@
           "time_info": "[01时56分 ~ 06时58分]"
         },
         {
-          "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
-          "url": "https://wallstreetcn.com/articles/3773769",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时56分 ~ 08时28分]"
-        },
-        {
           "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
           "url": "https://wallstreetcn.com/articles/3773742",
           "source": "华尔街见闻",
@@ -470,8 +716,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时58分 ~ 08时28分]"
+          "appearance_count": 4,
+          "time_info": "[06时58分 ~ 13时50分]"
         },
         {
           "title": "美股收盘：三大指数从历史高位回落 美伊紧张局势再度升级",
@@ -479,11 +725,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时58分 ~ 08时28分]"
+          "appearance_count": 4,
+          "time_info": "[06时58分 ~ 13时50分]"
         },
         {
           "title": "特朗普言论提振有限，美股指涨跌互现，Marvell开盘涨近10%，油价涨幅收窄",
@@ -614,118 +861,9 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "《新闻联播》披露A股重要数据",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E3%80%8B%E6%8A%AB%E9%9C%B2A%E8%82%A1%E9%87%8D%E8%A6%81%E6%95%B0%E6%8D%AE",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时56分 ~ 08时28分]"
-        },
-        {
-          "title": "评论员：A股正成为全民财富新蓄水池",
-          "url": "https://www.toutiao.com/trending/7647043750434180627/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            15,
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时56分 ~ 08时28分]"
-        },
-        {
-          "title": "A股再登新闻联播释放何种信息",
-          "url": "https://www.toutiao.com/trending/7647311695521549870/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时27分 ~ 08时28分]"
-        },
-        {
-          "title": "【早报】A股上新闻联播；光纤企业爆单；富时A50，纳入多只牛股",
-          "url": "https://www.cls.cn/detail/2390171",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时27分 ~ 08时28分]"
-        },
-        {
-          "title": "时隔8年A股再迎航司IPO，长龙航空拟募资20亿元",
-          "url": "https://wallstreetcn.com/livenews/3114053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时58分 ~ 08时28分]"
-        },
-        {
-          "title": "新闻联播披露A股重要数据",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E6%8A%AB%E9%9C%B2A%E8%82%A1%E9%87%8D%E8%A6%81%E6%95%B0%E6%8D%AE%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时27分 ~ 08时28分]"
-        },
-        {
-          "title": "A股再登新闻联播：长线外资看好中国，持续加码硬科技",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33302529",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时27分 ~ 08时28分]"
-        },
-        {
-          "title": "A股公司再掀回购热潮 年内披露金额已超千亿元",
-          "url": "https://wallstreetcn.com/livenews/3114072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时28分"
-        },
-        {
-          "title": "摩根士丹利将中兴通讯A股评级上调至平配，目标价34.30元人民币。",
-          "url": "https://wallstreetcn.com/livenews/3114026",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时58分"
         }
       ]
     },
@@ -797,8 +935,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
+          "url": "https://wallstreetcn.com/articles/3773814",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
         {
           "title": "博通CEO：预计谷歌公司将采用多个芯片来源。",
           "url": "https://wallstreetcn.com/livenews/3114037",
@@ -856,7 +1005,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时28分"
         }
