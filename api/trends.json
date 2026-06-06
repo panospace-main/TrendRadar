@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T06:55:13.389451+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2026-06-07T07:56:59.319951+08:00",
+  "total_titles_processed": 506,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时55分]"
+          "appearance_count": 3,
+          "time_info": "[05时56分 ~ 07时56分]"
         },
         {
           "title": "阿拉斯加航空首席财务官表示，西海岸的炼油利润率是比原油价格更棘手的问题。",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时55分]"
+          "appearance_count": 3,
+          "time_info": "[05时56分 ~ 07时56分]"
         },
         {
           "title": "阿拉斯加航空首席财务官表示，需要在燃油价格更加稳定之后，才能恢复发布业绩指引。",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时55分]"
+          "appearance_count": 3,
+          "time_info": "[05时56分 ~ 07时56分]"
         },
         {
           "title": "阿拉斯加航空首席财务官表示，未来90天的企业预订量同比增长20%至30%。",
@@ -52,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时55分]"
+          "appearance_count": 3,
+          "time_info": "[05时56分 ~ 07时56分]"
         },
         {
           "title": "国际航空运输协会（IATA）中东区副总裁：令人担忧的是，在伊朗袭击中受损的科威特航站楼将至少瘫痪（停止运作）一年。 对此感到忧虑，因为此前所有非科威特的航空公司都使用该航站楼，因此目前该国仅剩科威特本土的航空公司仍在维持运营。 预计当前的成本形势不会对中东地区航空公司的飞机订单造成影响。 各航空公司在当前节点推迟飞机交付并非明智之举，因为这一决定可能会付出高昂的代价。",
@@ -67,8 +67,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 06时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 07时56分]"
         },
         {
           "title": "阿拉斯加航空首席财务官表示，有望在二季度财报电话会议上恢复发布业绩指引。",
@@ -79,8 +79,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时55分]"
+          "appearance_count": 3,
+          "time_info": "[05时56分 ~ 07时56分]"
         },
         {
           "title": "西南航空首席运营官：正认真研究贵宾室、越洋航线及高级座椅",
@@ -91,8 +91,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时55分]"
+          "appearance_count": 3,
+          "time_info": "[05时56分 ~ 07时56分]"
         },
         {
           "title": "新西兰航空CEO：计划在2027财年以约150美元/桶的价格采购新加坡航空燃油。",
@@ -120,7 +120,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "特朗普戴上金牌后开玩笑称“不想还了”：我喜欢金子，要留着",
@@ -131,8 +131,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 06时55分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 07时56分]"
         },
         {
           "title": "特朗普“官宣”：我和马斯克又成朋友了",
@@ -155,8 +155,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时04分 ~ 06时55分]"
+          "appearance_count": 4,
+          "time_info": "[04时04分 ~ 07时56分]"
         },
         {
           "title": "特朗普首席人工智能顾问克里希南将于月底离职",
@@ -204,6 +204,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时03分 ~ 04时04分]"
+        },
+        {
+          "title": "伊朗开价240亿美元，这可要了特朗普的命",
+          "url": "https://news.ifeng.com/c/8tkFdUHRCpm",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
         }
       ]
     },
@@ -219,8 +230,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 06时55分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 07时56分]"
         },
         {
           "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
@@ -230,8 +241,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 06时55分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 07时56分]"
         },
         {
           "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
@@ -292,11 +303,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时55分 ~ 06时55分]"
+          "appearance_count": 5,
+          "time_info": "[05时55分 ~ 07时56分]"
         },
         {
           "title": "合计700亿美元！SpaceX先后与Anthropic和谷歌签下大单，“算力租赁”ARR高达260亿美元",
@@ -307,8 +319,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时55分 ~ 06时55分]"
+          "appearance_count": 5,
+          "time_info": "[05时55分 ~ 07时56分]"
         }
       ]
     },
@@ -325,8 +337,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 06时55分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 07时56分]"
         },
         {
           "title": "OpenAI等公司向美国提交了一项让全民分享人工智能红利（AI股权）的计划提案。 该人工智能提案涉及建立一个全新的主权财富基金式实体。（英国金融时报）",
@@ -335,9 +347,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 07时56分]"
         }
       ]
     },
@@ -355,8 +367,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 06时55分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 07时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价跌回2025年是买还是等",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E5%9B%9E2025%E5%B9%B4%E6%98%AF%E4%B9%B0%E8%BF%98%E6%98%AF%E7%AD%89%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
         }
       ]
     },
