@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T05:31:22.097292+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-06-10T07:10:06.360445+08:00",
+  "total_titles_processed": 555,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
@@ -15,20 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 05时31分]"
-        },
-        {
-          "title": "熊市信号触发70%！美银建议获利了结，现在美股正如“2000年泡沫破灭前1个月”",
-          "url": "https://wallstreetcn.com/articles/3774155",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 05时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 07时10分]"
         },
         {
           "title": "美股",
@@ -37,6 +25,18 @@
           "ranks": [
             5,
             6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 07时10分]"
+        },
+        {
+          "title": "熊市信号触发70%！美银建议获利了结，现在美股正如“2000年泡沫破灭前1个月”",
+          "url": "https://wallstreetcn.com/articles/3774155",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -63,6 +63,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时30分 ~ 05时31分]"
+        },
+        {
+          "title": "美股收盘：芯片板块“惊魂一跳”后持续修复 纳指收盘跌约1%",
+          "url": "https://www.cls.cn/detail/2395384",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时09分 ~ 07时10分]"
         },
         {
           "title": "美股跳水，纳指跌超3%，科技股回落，迈威尔科技大跌13%，金银油齐跌",
@@ -115,7 +126,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         },
@@ -131,13 +142,35 @@
           "time_info": "03时07分"
         },
         {
+          "title": "WTI原油抹去盘初1%的涨幅，现货黄金和美股股指期货目前小幅下跌约0.1%。",
+          "url": "https://flash.jin10.com/detail/20260610062436419800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
+        },
+        {
+          "title": "WTI原油在亚太盘初一度涨1.8%，目前涨1.5%，暂报89.57美元/桶。 美国股指期货（标普、纳指、道指、罗素2000）至多跌0.3%，比特币跌超0.7%。 美军在美股收盘之后称发动打击报复。此前，特朗普在纽约中午称必须回应伊朗击落美直升机。",
+          "url": "https://wallstreetcn.com/livenews/3117050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
+        },
+        {
           "title": "美股大类资产类ETF多数收涨，房地产ETF涨2.3%，黄金ETF跌超1.6%",
           "url": "https://wallstreetcn.com/livenews/3117015",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         },
@@ -153,6 +186,17 @@
           "time_info": "00时26分"
         },
         {
+          "title": "美股三大股指期货开盘小幅下跌，其中纳指期货跌0.2%。",
+          "url": "https://flash.jin10.com/detail/20260610060116201800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
+        },
+        {
           "title": "机构：美股70%熊市信号被触发",
           "url": "https://www.toutiao.com/trending/7649392765633056299/",
           "source": "今日头条",
@@ -162,6 +206,156 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "特朗普警告：若美伊和谈破裂 霍尔木兹海峡或数月无法恢复通航",
+          "url": "https://www.cls.cn/detail/2395258",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 07时10分]"
+        },
+        {
+          "title": "特朗普：美伊谈判进入“最后关头”",
+          "url": "https://news.ifeng.com/c/8tooQUA09O3",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 07时10分]"
+        },
+        {
+          "title": "特朗普证实美军打击伊朗",
+          "url": "https://news.ifeng.com/c/8tpnEaZn5yq",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时09分 ~ 07时10分]"
+        },
+        {
+          "title": "据伊朗半官方媒体Mehr援引伊朗议员称，针对特朗普的威胁，伊朗军队处于全面戒备状态。",
+          "url": "https://flash.jin10.com/detail/20260610025206405800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
+          "title": "伊朗议员：军方对美国总统特朗普的威胁保持全面警惕。（MEHR）",
+          "url": "https://wallstreetcn.com/livenews/3116991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
+          "title": "37次“即将达成”！特朗普不断预告伊朗协议，却一次次落空",
+          "url": "https://wallstreetcn.com/articles/3774230",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时30分 ~ 07时10分]"
+        },
+        {
+          "title": "据福克斯新闻：美国众议院议长约翰逊表示，他在白宫战情室与特朗普及高层官员进行了会面，随后美国军队发起了被描述为自卫的打击伊朗行动。 约翰逊也称此次行动“比例适当且有限”，目标是雷达、导弹和指挥控制设施。",
+          "url": "https://flash.jin10.com/detail/20260610062852689800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
+        },
+        {
+          "title": "伊朗外长疑似回应特朗普 警告外国军事力量远离伊朗",
+          "url": "https://flash.jin10.com/detail/20260610021903833800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
+          "title": "报道：美军报复性打击后，特朗普仍认为美伊接近达成和平协议",
+          "url": "https://wallstreetcn.com/livenews/3117052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
+        },
+        {
+          "title": "特朗普称对伊朗进行打击“非常重要”",
+          "url": "https://wallstreetcn.com/livenews/3117049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
+        },
+        {
+          "title": "美国法官Richard Eaton要求总统特朗普的政府加速退还关税。",
+          "url": "https://wallstreetcn.com/livenews/3117047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
+        },
+        {
+          "title": "特朗普称对伊朗进行打击“非常重要”",
+          "url": "https://flash.jin10.com/detail/20260610055938102800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
+        },
+        {
+          "title": "据华尔街日报：特朗普政府要求人工智能测试机构停止发布公开报告，反映白宫正加强对人工智能模型的管控。",
+          "url": "https://flash.jin10.com/detail/20260610055143921800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
         }
       ]
     },
@@ -179,6 +373,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "谷歌英伟达",
+          "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E8%8B%B1%E4%BC%9F%E8%BE%BE&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时07分 ~ 07时10分]"
         },
         {
           "title": "谷歌(GOOG.O)为Anthropic350亿美元芯片交易提供兜底支持。在谷歌的协助下，Anthropic将在5个数据中心租赁芯片。",
@@ -214,17 +420,6 @@
           "time_info": "03时07分"
         },
         {
-          "title": "谷歌英伟达",
-          "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E8%8B%B1%E4%BC%9F%E8%BE%BE&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
           "title": "俄亥俄州监管重拳落空！谷歌在上诉法院赢得决定性胜利，免受“公共事业级”严苛规管",
           "url": "https://wallstreetcn.com/livenews/3116973",
           "source": "华尔街见闻-快讯",
@@ -238,111 +433,8 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "据伊朗半官方媒体Mehr援引伊朗议员称，针对特朗普的威胁，伊朗军队处于全面戒备状态。",
-          "url": "https://flash.jin10.com/detail/20260610025206405800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "伊朗议员：军方对美国总统特朗普的威胁保持全面警惕。（MEHR）",
-          "url": "https://wallstreetcn.com/livenews/3116991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "特朗普警告：若美伊和谈破裂 霍尔木兹海峡或数月无法恢复通航",
-          "url": "https://www.cls.cn/detail/2395258",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 05时31分]"
-        },
-        {
-          "title": "特朗普：美伊谈判进入“最后关头”",
-          "url": "https://news.ifeng.com/c/8tooQUA09O3",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 05时31分]"
-        },
-        {
-          "title": "37次“即将达成”！特朗普不断预告伊朗协议，却一次次落空",
-          "url": "https://wallstreetcn.com/articles/3774230",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时30分 ~ 05时31分]"
-        },
-        {
-          "title": "伊朗外长疑似回应特朗普 警告外国军事力量远离伊朗",
-          "url": "https://flash.jin10.com/detail/20260610021903833800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "A股市场掀增持回购“小高潮”，药明康德、江淮汽车等宣布回购股份",
-          "url": "https://www.cls.cn/detail/2395125",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 05时31分]"
-        },
-        {
-          "title": "跨境荐股！\"白毛股神\"连续三天\"搅动A股风云\"",
-          "url": "https://wallstreetcn.com/articles/3774218",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 05时31分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "航天 航空",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美国国家航空航天局宣布，由三名美国宇航员和一名意大利宇航员组成的乘组将执行“阿耳忒弥斯三号”地球轨道任务。",
@@ -362,9 +454,79 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "数据表明：沙特对欧洲的航空燃油供应已高于霍尔木兹海峡关闭前",
+          "url": "https://wallstreetcn.com/livenews/3117035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "A股市场掀增持回购“小高潮”，药明康德、江淮汽车等宣布回购股份",
+          "url": "https://www.cls.cn/detail/2395125",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 07时10分]"
+        },
+        {
+          "title": "跨境荐股！\"白毛股神\"连续三天\"搅动A股风云\"",
+          "url": "https://wallstreetcn.com/articles/3774218",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 07时10分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "农业 机械",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国农业部（USDA）部长Rollins：首先，美国感染了螺旋蝇的牛是健康的，正在康复。 将在未来几个月启动全面消灭螺旋蝇的行动。",
+          "url": "https://wallstreetcn.com/livenews/3117065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
+        },
+        {
+          "title": "美国农业部在得州La Salle County新发现一例螺旋蝇（Screwworm）病例。",
+          "url": "https://wallstreetcn.com/livenews/3116938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
         }
       ]
     },
@@ -390,26 +552,37 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         }
       ]
     },
     {
-      "keyword_group": "农业 机械",
-      "match_count": 1,
+      "keyword_group": "金价",
+      "match_count": 2,
       "titles": [
         {
-          "title": "美国农业部在得州La Salle County新发现一例螺旋蝇（Screwworm）病例。",
-          "url": "https://wallstreetcn.com/livenews/3116938",
-          "source": "华尔街见闻-快讯",
+          "title": "金价到“底”了吗",
+          "url": "https://www.toutiao.com/trending/7649334259634671140/",
+          "source": "今日头条",
           "ranks": [
-            12
+            28
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时26分]"
+        },
+        {
+          "title": "金价调整导致相关ETF规模缩水，业内人士：黄金结构性支撑力量仍存",
+          "url": "https://wallstreetcn.com/livenews/3117058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时26分"
+          "time_info": "07时10分"
         }
       ]
     },
@@ -424,28 +597,29 @@
           "ranks": [
             8,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 05时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 07时10分]"
         }
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "美债",
       "match_count": 1,
       "titles": [
         {
-          "title": "金价到“底”了吗",
-          "url": "https://www.toutiao.com/trending/7649334259634671140/",
-          "source": "今日头条",
+          "title": "西班牙毕尔巴鄂比斯开银行（BBVA）驻美国纽约策略师Alejandro Cuadrado在研究报告中写道：地缘政治的大背景依然充满了极高的不确定性。 目前全球宏观资金的核心焦点依然停留在全球风险资产溢价、美债收益率曲线上，尤其是本周三即将炸响的美国CPI核心通胀数据。",
+          "url": "https://wallstreetcn.com/livenews/3117037",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            25
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 00时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
         }
       ]
     }
