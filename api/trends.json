@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-10T07:10:06.360445+08:00",
-  "total_titles_processed": 555,
+  "generated_at": "2026-06-10T10:11:28.326962+08:00",
+  "total_titles_processed": 738,
   "failed_sources": [],
   "trends": [
     {
@@ -29,6 +29,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时25分 ~ 07时10分]"
+        },
+        {
+          "title": "美股收盘：芯片板块“惊魂一跳”后持续修复 纳指收盘跌约1%",
+          "url": "https://www.cls.cn/detail/2395384",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时09分 ~ 10时11分]"
         },
         {
           "title": "熊市信号触发70%！美银建议获利了结，现在美股正如“2000年泡沫破灭前1个月”",
@@ -63,17 +75,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时30分 ~ 05时31分]"
-        },
-        {
-          "title": "美股收盘：芯片板块“惊魂一跳”后持续修复 纳指收盘跌约1%",
-          "url": "https://www.cls.cn/detail/2395384",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时09分 ~ 07时10分]"
         },
         {
           "title": "美股跳水，纳指跌超3%，科技股回落，迈威尔科技大跌13%，金银油齐跌",
@@ -148,7 +149,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -159,7 +160,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -192,7 +193,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -211,7 +212,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普警告：若美伊和谈破裂 霍尔木兹海峡或数月无法恢复通航",
@@ -219,33 +220,36 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 07时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 10时11分]"
         },
         {
           "title": "特朗普：美伊谈判进入“最后关头”",
           "url": "https://news.ifeng.com/c/8tooQUA09O3",
           "source": "凤凰网",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 07时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 10时11分]"
         },
         {
           "title": "特朗普证实美军打击伊朗",
           "url": "https://news.ifeng.com/c/8tpnEaZn5yq",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时09分 ~ 07时10分]"
+          "appearance_count": 3,
+          "time_info": "[07时09分 ~ 10时11分]"
         },
         {
           "title": "据伊朗半官方媒体Mehr援引伊朗议员称，针对特朗普的威胁，伊朗军队处于全面戒备状态。",
@@ -270,15 +274,49 @@
           "time_info": "03时07分"
         },
         {
+          "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
+          "url": "https://wallstreetcn.com/articles/3774257",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
           "title": "37次“即将达成”！特朗普不断预告伊朗协议，却一次次落空",
           "url": "https://wallstreetcn.com/articles/3774230",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时30分 ~ 07时10分]"
+          "appearance_count": 5,
+          "time_info": "[05时30分 ~ 10时11分]"
+        },
+        {
+          "title": "美伊和谈又受扰？美军再对伊朗发动打击 特朗普称“行动非常强硬”",
+          "url": "https://www.cls.cn/detail/2395455",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "特朗普称对伊朗进行打击“非常重要” | 环球市场",
+          "url": "https://www.cls.cn/detail/2395421",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
           "title": "据福克斯新闻：美国众议院议长约翰逊表示，他在白宫战情室与特朗普及高层官员进行了会面，随后美国军队发起了被描述为自卫的打击伊朗行动。 约翰逊也称此次行动“比例适当且有限”，目标是雷达、导弹和指挥控制设施。",
@@ -287,9 +325,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
+        },
+        {
+          "title": "特朗普指示美军打击伊朗 伊外长发警告",
+          "url": "https://www.toutiao.com/trending/7649536140243897906/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "特朗普训以总理对赖清德意味着什么",
+          "url": "https://www.toutiao.com/trending/7649427544734957595/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
           "title": "伊朗外长疑似回应特朗普 警告外国军事力量远离伊朗",
@@ -309,7 +369,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -320,7 +380,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -331,7 +391,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -342,7 +402,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -353,7 +413,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         }
@@ -433,9 +493,96 @@
       ]
     },
     {
-      "keyword_group": "航天 航空",
-      "match_count": 3,
+      "keyword_group": "A股",
+      "match_count": 5,
       "titles": [
+        {
+          "title": "A股市场掀增持回购“小高潮”，药明康德、江淮汽车等宣布回购股份",
+          "url": "https://www.cls.cn/detail/2395125",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 07时10分]"
+        },
+        {
+          "title": "跨境荐股！\"白毛股神\"连续三天\"搅动A股风云\"",
+          "url": "https://wallstreetcn.com/articles/3774218",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 10时11分]"
+        },
+        {
+          "title": "A股油服工程板块震荡回升，科力股份涨超9%，通源石油、惠博普、潜能恒信、中曼石油、贝肯能源等个股跟涨。伊朗媒体报道称，伊朗革命卫队对约旦的美国基地发起了导弹攻击。",
+          "url": "https://flash.jin10.com/detail/20260610100023664800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "A股燃气股短线走强，水发燃气直线拉升触达涨停，中泰股份涨超8%，凯添燃气、贵州燃气、德龙汇能等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260610095801516800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "A股化学原料板块短线拉升，三孚股份涨停，金牛化工、金煤科技、恒光股份、红星发展、氯碱化工等纷纷走高。",
+          "url": "https://flash.jin10.com/detail/20260610095529276800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "航天 航空",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "恒生科技指数跌超1%，商业航天、CPO概念股跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260610100439936800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "军工板块异动拉升，湖南天雁直线涨停，晨曦航空涨超10%，长城军工、北方长龙、北方导航、建设工业、内蒙一机涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3117147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
         {
           "title": "美国国家航空航天局宣布，由三名美国宇航员和一名意大利宇航员组成的乘组将执行“阿耳忒弥斯三号”地球轨道任务。",
           "url": "https://flash.jin10.com/detail/20260610001837433800",
@@ -465,46 +612,15 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         }
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "A股市场掀增持回购“小高潮”，药明康德、江淮汽车等宣布回购股份",
-          "url": "https://www.cls.cn/detail/2395125",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 07时10分]"
-        },
-        {
-          "title": "跨境荐股！\"白毛股神\"连续三天\"搅动A股风云\"",
-          "url": "https://wallstreetcn.com/articles/3774218",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 07时10分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "农业 机械",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "美国农业部（USDA）部长Rollins：首先，美国感染了螺旋蝇的牛是健康的，正在康复。 将在未来几个月启动全面消灭螺旋蝇的行动。",
@@ -513,9 +629,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
+        },
+        {
+          "title": "国家统计局：算力需求增长等带动有色金属、电气机械和计算机相关行业价格上涨",
+          "url": "https://wallstreetcn.com/livenews/3117148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "2026 年高考志愿填报，孩子应该选择电气、能动、机械、医学、计算机、还是火爆的人工智能？",
+          "url": "https://www.zhihu.com/question/2045653689407477325",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
           "title": "美国农业部在得州La Salle County新发现一例螺旋蝇（Screwworm）病例。",
@@ -532,7 +670,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "上期所原油期货2607合约夜盘收跌2.11%，报575元人民币/桶。 沪金夜盘收跌1.51%，沪银收跌4.06%。",
@@ -555,6 +693,48 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.8130，上调17点；上一交易日中间价6.8147，上一交易日官方收盘价6.7702，上日夜盘报收6.7734。",
+          "url": "https://wallstreetcn.com/livenews/3117124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
+          "url": "https://wallstreetcn.com/articles/3774156",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 07时10分]"
+        },
+        {
+          "title": "市场消息：软银试图以OpenAI股权作抵押，以获得60亿美元贷款的计划受阻。",
+          "url": "https://flash.jin10.com/detail/20260610094840259800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         }
       ]
     },
@@ -580,29 +760,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
-          "url": "https://wallstreetcn.com/articles/3774156",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 07时10分]"
         }
       ]
     },
@@ -617,7 +777,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         }
