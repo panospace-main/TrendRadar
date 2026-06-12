@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T17:55:48.223327+08:00",
-  "total_titles_processed": 1072,
+  "generated_at": "2026-06-12T20:49:13.969182+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 61,
       "titles": [
         {
           "title": "国际油价飙升！特朗普：今晚将重创伊朗，“在不久的将来”将占领哈尔克岛",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时02分 ~ 17时55分]"
+          "appearance_count": 10,
+          "time_info": "[02时02分 ~ 20时49分]"
         },
         {
           "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时14分 ~ 17时55分]"
+          "appearance_count": 6,
+          "time_info": "[08时14分 ~ 20时49分]"
         },
         {
           "title": "特朗普再次180度大转弯，全世界都目瞪口呆",
@@ -237,6 +237,40 @@
           "time_info": "[06时47分 ~ 08时15分]"
         },
         {
+          "title": "特朗普涉伊朗表态“大转弯”，以总理“猝不及防”",
+          "url": "https://news.ifeng.com/c/8ttnDWEmW7E",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时55分 ~ 20时49分]"
+        },
+        {
+          "title": "内塔尼亚胡：特朗普没提前告诉我",
+          "url": "https://news.ifeng.com/c/8ttf3o3HpAs",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时55分 ~ 20时49分]"
+        },
+        {
+          "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33365641",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时55分 ~ 20时49分]"
+        },
+        {
           "title": "特朗普取消对伊朗“猛烈打击”",
           "url": "https://www.toutiao.com/trending/7650278567816728102/",
           "source": "今日头条",
@@ -336,17 +370,6 @@
           "time_info": "13时29分"
         },
         {
-          "title": "特朗普涉伊朗表态“大转弯”，以总理“猝不及防”",
-          "url": "https://news.ifeng.com/c/8ttnDWEmW7E",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        },
-        {
           "title": "美国总统特朗普：海峡或许会在周六或下周一开放。",
           "url": "https://flash.jin10.com/detail/20260612040741191800",
           "source": "金十数据",
@@ -367,17 +390,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
-        },
-        {
-          "title": "内塔尼亚胡：特朗普没提前告诉我",
-          "url": "https://news.ifeng.com/c/8ttf3o3HpAs",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
         },
         {
           "title": "美国总统特朗普：这项协议对美国和中东来说非常好，我认为对伊朗也会很棒。",
@@ -512,17 +524,6 @@
           "time_info": "04时26分"
         },
         {
-          "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33365641",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        },
-        {
           "title": "伊朗国防部回应特朗普夺岛言论",
           "url": "https://flash.jin10.com/detail/20260612012243938800",
           "source": "金十数据",
@@ -562,7 +563,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -595,7 +596,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -644,6 +645,17 @@
           "time_info": "04时26分"
         },
         {
+          "title": "据CNN：内塔尼亚胡与特朗普保持定期通话，包括在特朗普声称以色列是中东地区支持停火协议的几个国家之一之后的周四晚间也进行了通话。",
+          "url": "https://flash.jin10.com/detail/20260612201004240800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
           "title": "美国总统特朗普：伊朗不会拥有核武器。",
           "url": "https://flash.jin10.com/detail/20260612040253995800",
           "source": "金十数据",
@@ -683,6 +695,17 @@
       "match_count": 15,
       "titles": [
         {
+          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
+          "url": "https://wallstreetcn.com/articles/3774389",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时14分 ~ 20时49分]"
+        },
+        {
           "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
           "url": "https://wallstreetcn.com/articles/3774300",
           "source": "华尔街见闻",
@@ -692,17 +715,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时02分 ~ 06时47分]"
-        },
-        {
-          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
-          "url": "https://wallstreetcn.com/articles/3774389",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时14分 ~ 17时55分]"
         },
         {
           "title": "特朗普威胁发动新袭击，美股高开，甲骨文跌12%，英特尔涨10%，油价走低，黄金重回4080美元",
@@ -865,7 +877,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -876,7 +888,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -887,7 +899,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -898,7 +910,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -939,7 +951,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "六氟化钨概念爆火，A股多家上市公司回应相关业务情况",
@@ -951,6 +963,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时02分 ~ 08时15分]"
+        },
+        {
+          "title": "A股冲高受阻 风格或将趋向均衡",
+          "url": "https://www.toutiao.com/trending/7650007344968892452/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 20时49分]"
         },
         {
           "title": "A股上市公司批量调整锁价定增方案",
@@ -970,7 +993,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -981,7 +1004,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         }
@@ -1024,6 +1047,47 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时47分 ~ 08时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
+          "url": "https://wallstreetcn.com/articles/3774400",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时02分 ~ 13时29分]"
+        },
+        {
+          "title": "OpenAI被逼入价格战？企业都学聪明了：中国模型“极致性价比”！",
+          "url": "https://www.cls.cn/detail/2398139",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 20时49分]"
+        },
+        {
+          "title": "瞄准AI代理赛道 OpenAI收购云端平台强化Codex竞争力",
+          "url": "https://www.cls.cn/detail/2397742",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         }
       ]
     },
@@ -1101,7 +1165,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         }
@@ -1118,7 +1182,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -1132,36 +1196,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
-          "url": "https://wallstreetcn.com/articles/3774400",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时02分 ~ 13时29分]"
-        },
-        {
-          "title": "瞄准AI代理赛道 OpenAI收购云端平台强化Codex竞争力",
-          "url": "https://www.cls.cn/detail/2397742",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时29分"
         }
       ]
     },
