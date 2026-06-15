@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-16T00:13:07.902929+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-16T04:21:19.416871+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 00时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 04时21分]"
         },
         {
           "title": "特朗普批评内塔尼亚胡干扰美伊谈判进程，外交部回应",
@@ -26,19 +26,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 00时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 04时21分]"
         },
         {
           "title": "特朗普：将允许伊朗进行低水平铀浓缩",
           "url": "https://www.cls.cn/detail/2400213",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 00时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 04时21分]"
         },
         {
           "title": "打脸马克龙？特朗普就数字服务税发难",
@@ -48,8 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 00时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 04时21分]"
         },
         {
           "title": "报道：特朗普、万斯、伊朗议长签署美伊谅解备忘录",
@@ -58,7 +59,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
         },
@@ -70,8 +71,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 00时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 04时21分]"
         },
         {
           "title": "美国高级官员：美国已与伊朗签署谅解备忘录。特朗普与万斯签署了谅解备忘录，伊朗议会议长也签署了该文件。美伊谅解备忘录规定立即开放霍尔木兹海峡。",
@@ -80,9 +81,42 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
+        },
+        {
+          "title": "根据路透社/益普索调查，随着民众对生活成本的不满情绪有所缓解，特朗普的支持率升至36%。",
+          "url": "https://flash.jin10.com/detail/20260616024952828800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "根据路透社/益普索调查，24%的美国民众认可特朗普应对生活成本的方式，高于一周前的22%和一个月前的20%。",
+          "url": "https://flash.jin10.com/detail/20260616024936806800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "一名要求匿名的七国集团（G7）官员表示，成员国在如何应对伊朗局势问题上存在严重分歧。几乎没有人预期此次峰会会发表联合公报，在特朗普时代，这几乎是不可能完成的任务。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3119846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         },
         {
           "title": "Anthropic将于周一围绕Mythos问题会见美国总统特朗普。（CNBC）",
@@ -91,7 +125,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
         }
@@ -99,7 +133,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 7,
       "titles": [
         {
           "title": "美伊达成协议，美股高开，半导体股普涨，石油股普跌，油价重挫5%",
@@ -109,8 +143,41 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 00时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 04时21分]"
+        },
+        {
+          "title": "新兴市场ETF收涨将近3.3%，领跑美股大类资产类ETF，布油基金跌3.7%",
+          "url": "https://wallstreetcn.com/livenews/3119867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "金十图示：2026年06月15日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260616040536631800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "金十图示：2026年06月15日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260616040519202800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         },
         {
           "title": "美伊达成停战协议 美股期指集体上涨 SpaceX续涨逾6% | 今夜看点",
@@ -120,8 +187,131 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 00时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 04时21分]"
+        },
+        {
+          "title": "美股收盘：纳指涨3%，SpaceX市值超2.5万亿",
+          "url": "https://flash.jin10.com/detail/20260616040131078800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "SpaceX美股IPO第二天收涨19.60%，报192.50美元，市值增长4120亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3119861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "航天 航空",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周一（6月15日），美股行业ETF多数收涨，半导体ETF涨4.38%，全球科技股指数ETF、科技行业ETF、全球航空业ETF至少涨3.15%，银行业ETF、区域银行ETF则至多收跌1.61%，能源业ETF跌3.48%。",
+          "url": "https://wallstreetcn.com/livenews/3119863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "星箭深度绑定加速，商业航天迈入规模化组网期",
+          "url": "https://www.cls.cn/detail/2400424",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7568元，较上周五夜盘收盘涨73点。成交量257.21亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3119841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "上期所原油期货2608合约夜盘收跌1.96%，报531.20元人民币/桶。 沪金夜盘收涨1.77%，沪银收涨2.49%。",
+          "url": "https://wallstreetcn.com/livenews/3119834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数15日下跌",
+          "url": "https://flash.jin10.com/detail/20260616031900342800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "美元指数跌0.1%",
+          "url": "https://wallstreetcn.com/livenews/3119848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "农业 机械",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国农业部（USDA）部长Rollins：农业部与国土安全部（DHS）本周将针对Screwworm签署谅解备忘录（MoU）。 备忘录将允许两个部门采取联合行动。",
+          "url": "https://wallstreetcn.com/livenews/3119854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         }
       ]
     },
@@ -136,9 +326,26 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "两年期美债收益率跌幅收窄至2.5个基点",
+          "url": "https://wallstreetcn.com/livenews/3119855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         }
       ]
     }
