@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-16T14:24:10.268323+08:00",
-  "total_titles_processed": 867,
+  "generated_at": "2026-06-16T20:03:05.389204+08:00",
+  "total_titles_processed": 1090,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 30,
       "titles": [
         {
           "title": "打脸马克龙？特朗普就数字服务税发难",
@@ -56,6 +56,17 @@
           "time_info": "[00时12分 ~ 04时21分]"
         },
         {
+          "title": "特朗普：感谢中俄帮忙",
+          "url": "https://news.ifeng.com/c/8tzsMW2n662",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 20时03分]"
+        },
+        {
           "title": "美伊局势追踪：已签“电子协议”，特朗普称19日后公布具体内容！",
           "url": "https://www.cls.cn/detail/2400664",
           "source": "财联社热门",
@@ -101,6 +112,19 @@
           "time_info": "[06时54分 ~ 08时22分]"
         },
         {
+          "title": "特朗普大发雷霆后，内塔尼亚胡回应：以军不撤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33388365",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时23分 ~ 20时03分]"
+        },
+        {
           "title": "特朗普：美伊协议“完成”，霍尔木兹海峡开放",
           "url": "https://m.thepaper.cn/newsDetail_forward_33379774",
           "source": "澎湃新闻",
@@ -124,23 +148,22 @@
           "time_info": "[06时54分 ~ 08时22分]"
         },
         {
+          "title": "泽连斯基向特朗普提议：这样普京更难拒绝",
+          "url": "https://news.ifeng.com/c/8tzn14Ioj6Y",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 20时03分]"
+        },
+        {
           "title": "美加州州长喊话特朗普：别牵扯我家人",
           "url": "https://www.toutiao.com/trending/7651735383461396516/",
           "source": "今日头条",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 14时24分]"
-        },
-        {
-          "title": "特朗普大发雷霆后，内塔尼亚胡回应：以军不撤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33388365",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -178,6 +201,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时22分"
+        },
+        {
+          "title": "特朗普称俄罗斯应与乌克兰达成协议",
+          "url": "https://wallstreetcn.com/livenews/3120284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
         },
         {
           "title": "特朗普推文或弄混3亿和3000亿美元",
@@ -268,6 +302,28 @@
           "time_info": "00时13分"
         },
         {
+          "title": "欧盟议员在特朗普设定的最后期限前支持欧美贸易协定。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3120266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
+        {
+          "title": "特朗普：不喜欢以色列袭击贝鲁特",
+          "url": "https://wallstreetcn.com/livenews/3120261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
+        {
           "title": "美加州州长称特朗普指示司法部对其展开调查",
           "url": "https://wallstreetcn.com/livenews/3119871",
           "source": "华尔街见闻-快讯",
@@ -277,6 +333,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
+        },
+        {
+          "title": "特朗普称即使以色列攻击黎巴嫩 也破坏不了伊朗协议",
+          "url": "https://wallstreetcn.com/livenews/3120254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
         }
       ]
     },
@@ -290,11 +357,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时54分 ~ 14时24分]"
+          "appearance_count": 6,
+          "time_info": "[06时54分 ~ 20时03分]"
         },
         {
           "title": "【早报】纳指暴涨3%，美股芯片股狂飙；黄金、白银大涨；西班牙爆冷，0比0战平佛得角",
@@ -447,7 +515,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "A股百货零售板块午后震荡上升，供销大集封板涨停，大连友谊此前涨停，永辉超市、三江购物、百大集团、赫美集团、国芳集团等跟涨。",
@@ -456,7 +524,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -471,6 +539,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时54分 ~ 08时22分]"
+        },
+        {
+          "title": "A股又一只“30倍股”诞生",
+          "url": "https://www.toutiao.com/trending/7650841793659633700/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 20时03分]"
         },
         {
           "title": "A股104股涨停",
@@ -490,9 +569,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
+        },
+        {
+          "title": "A股年内已有13家PCB制造企业宣布扩产，整体规划投资总额近590亿元",
+          "url": "https://wallstreetcn.com/livenews/3120274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
         },
         {
           "title": "A股航运港口板块午后再度走低，中远海能跌近9%，招商轮船跌超6%，南京港、宁波远洋、招商南油等跟跌。",
@@ -501,7 +591,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         }
@@ -518,7 +608,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -551,7 +641,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -570,8 +660,19 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "硬核数据看商业航天成绩单",
+          "url": "https://www.douyin.com/hot/2537158",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 20时03分]"
+        },
         {
           "title": "周一（6月15日），美股行业ETF多数收涨，半导体ETF涨4.38%，全球科技股指数ETF、科技行业ETF、全球航空业ETF至少涨3.15%，银行业ETF、区域银行ETF则至多收跌1.61%，能源业ETF跌3.48%。",
           "url": "https://wallstreetcn.com/livenews/3119863",
@@ -594,6 +695,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 06时54分]"
+        },
+        {
+          "title": "中国民用航空局副局长胡振江会见波音民机集团飞机项目与客户支持高级副总裁兼总经理迈克·弗莱明",
+          "url": "https://wallstreetcn.com/livenews/3120281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
         }
       ]
     },
@@ -607,11 +719,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时22分 ~ 14时24分]"
+          "appearance_count": 5,
+          "time_info": "[08时22分 ~ 20时03分]"
         },
         {
           "title": "两年期美债收益率跌幅收窄至2.5个基点",
