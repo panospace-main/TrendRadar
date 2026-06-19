@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-19T19:13:35.644747+08:00",
-  "total_titles_processed": 969,
+  "generated_at": "2026-06-19T22:40:35.984730+08:00",
+  "total_titles_processed": 1149,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普吐露的真相，比战争结局更让人警醒",
@@ -189,6 +189,28 @@
           "time_info": "[02时43分 ~ 04时23分]"
         },
         {
+          "title": "特朗普被曝挪用特勤局资金建宴会厅",
+          "url": "https://news.ifeng.com/c/8u5UjkO0mtO",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 22时40分]"
+        },
+        {
+          "title": "万斯警告以色列：只有特朗普同情你们",
+          "url": "https://www.toutiao.com/trending/7652359820477693994/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 22时40分]"
+        },
+        {
           "title": "特朗普在G7记者会说了什么",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8G7%E8%AE%B0%E8%80%85%E4%BC%9A%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
@@ -222,15 +244,37 @@
           "time_info": "02时44分"
         },
         {
+          "title": "特朗普发表疑似嘲讽言论，梅洛尼回应：震惊",
+          "url": "https://news.ifeng.com/c/8u5ipgperKS",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-19）",
           "url": "https://flash.jin10.com/detail/20260619184131740800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
+        },
+        {
+          "title": "特朗普和高市早苗因珍珠港发生争吵",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%9B%A0%E7%8F%8D%E7%8F%A0%E6%B8%AF%E5%8F%91%E7%94%9F%E4%BA%89%E5%90%B5%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
         },
         {
           "title": "据以色列第14频道记者：我问特朗普总统，如果以色列决定自行对伊朗发动打击，美国是否会提供防卫与协助。他说，“如果是受到挑衅，绝对会。”",
@@ -244,37 +288,26 @@
           "time_info": "02时44分"
         },
         {
-          "title": "特朗普被曝挪用特勤局资金建宴会厅",
-          "url": "https://news.ifeng.com/c/8u5UjkO0mtO",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
           "title": "特朗普对LA7表示：意大利总理梅洛尼在七国集团峰会上求我跟她合影。",
           "url": "https://wallstreetcn.com/livenews/3122070",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
         {
           "title": "万斯警告以色列：只有特朗普同情你们",
-          "url": "https://www.toutiao.com/trending/7652359820477693994/",
-          "source": "今日头条",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%87%E6%96%AF%E8%AD%A6%E5%91%8A%E4%BB%A5%E8%89%B2%E5%88%97%EF%BC%9A%E5%8F%AA%E6%9C%89%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E6%83%85%E4%BD%A0%E4%BB%AC",
+          "source": "百度热搜",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "22时40分"
         },
         {
           "title": "美军已解除对伊朗海上封锁，特朗普称预计「所有战线将实现全面停火」，霍尔木兹海峡的「和平」能维持多久？",
@@ -283,7 +316,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -299,15 +332,37 @@
           "time_info": "08时20分"
         },
         {
+          "title": "特朗普称要耗完美伊谈判60天期限",
+          "url": "https://wallstreetcn.com/livenews/3122113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
           "title": "美国总统特朗普：意大利总理梅洛尼在G7峰会上恳求与我合影。",
           "url": "https://flash.jin10.com/detail/20260619182520504800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
+        },
+        {
+          "title": "西班牙首相桑切斯：在特朗普发表相关言论后，向意大利总理梅洛尼表达了声援。",
+          "url": "https://flash.jin10.com/detail/20260619220837004800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
         },
         {
           "title": "说好“纳税人零出资”，特朗普被曝挪用特勤局资金建宴会厅",
@@ -316,7 +371,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -327,7 +382,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -374,17 +429,6 @@
           "time_info": "[02时43分 ~ 19时13分]"
         },
         {
-          "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
-          "url": "https://wallstreetcn.com/articles/3774887",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时43分 ~ 04时23分]"
-        },
-        {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
           "url": "https://www.cls.cn/detail/2404196",
           "source": "财联社热门",
@@ -394,8 +438,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时19分 ~ 22时40分]"
+        },
+        {
+          "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
+          "url": "https://wallstreetcn.com/articles/3774887",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[08时19分 ~ 19时13分]"
+          "time_info": "[02时43分 ~ 04时23分]"
         },
         {
           "title": "风险偏好重燃，美股高开，半导体股普涨，英特尔涨9%，SpaceX跌6%，油价跌超2%",
@@ -500,7 +555,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "端午前夜“雷”声密：A股十余家公司收罚单 有五年财务造假有实控人操纵股价|速读公告",
@@ -508,11 +563,12 @@
           "source": "财联社热门",
           "ranks": [
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时43分 ~ 19时13分]"
+          "appearance_count": 9,
+          "time_info": "[02时43分 ~ 22时40分]"
         },
         {
           "title": "A股“审美”转向，中际旭创市值超越茅台，主力正如何进出？",
@@ -521,11 +577,12 @@
           "ranks": [
             5,
             4,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时43分 ~ 19时13分]"
+          "appearance_count": 9,
+          "time_info": "[02时43分 ~ 22时40分]"
         },
         {
           "title": "博主：A股正在发生一场流动性重构",
@@ -563,6 +620,17 @@
           "time_info": "[08时19分 ~ 08时20分]"
         },
         {
+          "title": "龙头4天2板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2404440",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
           "title": "近200亿市值A股公司将变ST",
           "url": "https://www.toutiao.com/trending/7652121189392875562/",
           "source": "今日头条",
@@ -585,11 +653,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时19分 ~ 19时13分]"
+          "appearance_count": 5,
+          "time_info": "[08时19分 ~ 22时40分]"
         },
         {
           "title": "美伊瑞士会谈生变，韩股收跌0.1%，印度IT股大跌，纳指期货跌1%，美元指数站上101关口",
@@ -598,9 +667,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 22时40分]"
         },
         {
           "title": "美元指数升至一年多新高 美国电力监管下场推动数据中心入网 | 环球市场",
@@ -608,11 +677,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时07分 ~ 19时13分]"
+          "appearance_count": 3,
+          "time_info": "[14时07分 ~ 22时40分]"
         },
         {
           "title": "周四（6月18日）纽约尾盘，彭博谷物分类指数跌0.92%，报29.7383点。 CBOT玉米期货跌1%，CBOT小麦期货跌跌1.19%。 CBOT大豆期货跌0.63%，报11.42美元/蒲式耳，豆粕期货跌0.88%，豆油期货跌1.75%。",
@@ -646,6 +716,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "航天 航空",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "二季度密集发射，商业航天加速形成“空天一体”产业集群",
+          "url": "https://www.cls.cn/detail/2403701",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 04时23分]"
+        },
+        {
+          "title": "日本春秋航空飞机在哈尔滨机场重着陆",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%98%A5%E7%A7%8B%E8%88%AA%E7%A9%BA%E9%A3%9E%E6%9C%BA%E5%9C%A8%E5%93%88%E5%B0%94%E6%BB%A8%E6%9C%BA%E5%9C%BA%E9%87%8D%E7%9D%80%E9%99%86",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
+          "title": "美国联邦航空管理局（FAA）：将纽瓦克（Newark）机场机场运营限制延长至2027年夏季。 将JFK机场、La Guardia机场运营限制延长至2028年10月28日。",
+          "url": "https://wallstreetcn.com/livenews/3121927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时20分"
         }
       ]
     },
@@ -689,34 +798,6 @@
       ]
     },
     {
-      "keyword_group": "航天 航空",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "二季度密集发射，商业航天加速形成“空天一体”产业集群",
-          "url": "https://www.cls.cn/detail/2403701",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时43分 ~ 04时23分]"
-        },
-        {
-          "title": "美国联邦航空管理局（FAA）：将纽瓦克（Newark）机场机场运营限制延长至2027年夏季。 将JFK机场、La Guardia机场运营限制延长至2028年10月28日。",
-          "url": "https://wallstreetcn.com/livenews/3121927",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时20分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人民币",
       "match_count": 2,
       "titles": [
@@ -725,11 +806,12 @@
           "url": "https://www.zhihu.com/question/2051265976675604351",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 22时40分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7728元，较周三夜盘收盘跌98点。成交量442.19亿美元。",
@@ -759,8 +841,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时43分 ~ 19时13分]"
+          "appearance_count": 9,
+          "time_info": "[02时43分 ~ 22时40分]"
         },
         {
           "title": "标普500指数初步收涨1.2%，科技板块涨2.7%，可选消费、电信板块涨超1%，能源板块跌2.1%。 纳斯达克100指数初步收涨2.6%，成分股中，闪迪初步收涨11.2%，英特尔涨10%，美光涨9%，谷歌A涨1.4%，Strategy跌3%，特许通讯跌4.3%，CTSH跌10.4%。 卡特彼勒涨3.7%，迪士尼、英伟达涨约3%，领跑道指成分股。费城半导体指数涨6.5%。",
@@ -772,6 +854,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国际金价再跳水失守4200美元，国内金饰克价破1300元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33415889",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
+          "title": "高盛将金价目标下调500美元",
+          "url": "https://wallstreetcn.com/livenews/3121969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时07分"
         }
       ]
     },
@@ -789,23 +899,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "高盛将金价目标下调500美元",
-          "url": "https://wallstreetcn.com/livenews/3121969",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时07分"
         }
       ]
     }
