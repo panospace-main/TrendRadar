@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T07:54:57.258668+08:00",
-  "total_titles_processed": 687,
+  "generated_at": "2026-06-24T10:08:18.888749+08:00",
+  "total_titles_processed": 858,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
         {
           "title": "美部长拍特朗普马屁，当场被打脸",
@@ -50,7 +50,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -103,15 +103,48 @@
           "time_info": "[05时23分 ~ 06时59分]"
         },
         {
+          "title": "史上首次！美参众两院通过决议，共同限制特朗普战争权力",
+          "url": "https://news.ifeng.com/c/8uClVTnMwCW",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
           "title": "美国众议院以压倒性票数通过了可负担住房法案，现已送交美国总统特朗普签署。",
           "url": "https://flash.jin10.com/detail/20260624072949300800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "美参议院通过决议要求特朗普结束对伊朗战事",
+          "url": "https://wallstreetcn.com/livenews/3123726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "特朗普最新支持率公布",
+          "url": "https://news.ifeng.com/c/8uD1v25JY2x",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         },
         {
           "title": "国际足联主席：特朗普将亲自颁发世界杯奖杯。​​​",
@@ -123,6 +156,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "美参议院通过涉伊战争权力决议 特朗普遭遇象征性挫败",
+          "url": "https://www.cls.cn/detail/2407367",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         },
         {
           "title": "特朗普称国际原子能机构核查人员将适时访问伊朗",
@@ -164,7 +208,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -213,6 +257,17 @@
           "time_info": "03时02分"
         },
         {
+          "title": "美国会两院历史性通过撤军决议，特朗普对伊军事政策遭遇强力制衡",
+          "url": "https://flash.jin10.com/detail/20260624093242995800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
           "title": "美参议院通过决议，旨在限制特朗普对伊战争权力",
           "url": "https://wallstreetcn.com/livenews/3123623",
           "source": "华尔街见闻-快讯",
@@ -222,12 +277,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "美国财长贝森特：特朗普和我明白债券市场的力量",
+          "url": "https://wallstreetcn.com/livenews/3123707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股收盘：AI投资热潮遭重新审视 芯片股重挫拖累纳指跌超2%",
@@ -238,8 +304,20 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时59分 ~ 10时08分]"
+        },
+        {
+          "title": "【早报】美股半导体指数，暴跌超7%！芯片股全线重挫，闪迪、美光科技跌超13%；黄金、原油齐跌；C罗双响葡萄牙5球大胜、英格兰0-0战平加纳",
+          "url": "https://www.cls.cn/detail/2407391",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时59分 ~ 07时54分]"
+          "time_info": "[07时54分 ~ 10时08分]"
         },
         {
           "title": "美股集体低开 纳指跌超2%",
@@ -251,17 +329,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时19分 ~ 00时20分]"
-        },
-        {
-          "title": "【早报】美股半导体指数，暴跌超7%！芯片股全线重挫，闪迪、美光科技跌超13%；黄金、原油齐跌；C罗双响葡萄牙5球大胜、英格兰0-0战平加纳",
-          "url": "https://www.cls.cn/detail/2407391",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
         },
         {
           "title": "美股",
@@ -302,6 +369,18 @@
           "time_info": "[05时23分 ~ 06时59分]"
         },
         {
+          "title": "美股芯片股全线重挫",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E8%82%A1%E5%85%A8%E7%BA%BF%E9%87%8D%E6%8C%AB",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 10时08分]"
+        },
+        {
           "title": "Cerebras Systems第一财季营收1.934亿美元，分析师预期1.814亿美元。 第一财季硬件营收1.106亿美元，云收入0.828亿美元。 第一财季每股亏损0.22美元，毛利润率45%，运营开支1.012亿美元。 预计全年营收8.55亿-8.65亿美元，分析师预期8.248亿美元。 预计第二财季营收大约1.94亿美元，分析师预期1.733亿美元。 Cerebras美股盘后跌5%。",
           "url": "https://wallstreetcn.com/livenews/3123642",
           "source": "华尔街见闻-快讯",
@@ -313,6 +392,17 @@
           "time_info": "05时23分"
         },
         {
+          "title": "6月24日投资避雷针：美股半导体指数暴跌超7% 闪迪、美光科技跌超13%",
+          "url": "https://www.cls.cn/detail/2407435",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
           "title": "新兴市场ETF收跌将近5.7%，与纳指ETF领跌美股大类资产类ETF",
           "url": "https://wallstreetcn.com/livenews/3123636",
           "source": "华尔街见闻-快讯",
@@ -322,17 +412,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
-        },
-        {
-          "title": "美股芯片股全线重挫",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E8%82%A1%E5%85%A8%E7%BA%BF%E9%87%8D%E6%8C%AB",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
         },
         {
           "title": "在美股时段交易的费城金银指数收跌4.66%，报326.80点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌4.41%，报2240.20点，亚太盘初以来缓慢地跌向2320点，北京时间21:30美股开盘时跳空下挫迅速跌穿2240点。 在美股时段交易的原材料指数收跌2.52%，报242.67点，跳空低开后，整体呈现出M形走势，跌幅一度在22:20收窄。 在美股时段交易的金属与矿业指数收跌3.75%，报279.09点。",
@@ -363,7 +442,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -385,7 +464,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -396,7 +475,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -418,7 +497,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -432,6 +511,138 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "股价挺进A股前20！“光纤一哥”924以来暴涨24倍，谁在重仓这些高倍股？",
+          "url": "https://www.cls.cn/detail/2406940",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 07时54分]"
+        },
+        {
+          "title": "A股年内已有31天成交破3万亿，券商日子过得如何？几个指标结合看",
+          "url": "https://www.cls.cn/detail/2407102",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 10时08分]"
+        },
+        {
+          "title": "国际金价跌破4100美元整数关口，A股黄金股全线重挫",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33436473",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 06时59分]"
+        },
+        {
+          "title": "A股白酒概念震荡走强，今世缘涨超5%，华创云信涨超3%，吉宏股份、中锐股份、迎驾贡酒、贵州茅台跟涨。",
+          "url": "https://flash.jin10.com/detail/20260624094222552800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "A股券商股持续冲高，华安证券涨停，华创云信涨超4%。",
+          "url": "https://flash.jin10.com/detail/20260624093935257800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "A股定增结构性活跃，新兴产业获资本青睐",
+          "url": "https://wallstreetcn.com/livenews/3123687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时54分"
+        },
+        {
+          "title": "A股创新药板块盘初走高，海欣股份涨停，景峰医药涨超9%，迦南科技、朗坤科技、新华制药涨超7%，凯莱英、双鹭药业跟涨。",
+          "url": "https://flash.jin10.com/detail/20260624093827474800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "A股券商股异动拉升，华安证券涨超7%，华创云信涨超4%，长江证券涨超3%，国元证券、财达证券、招商证券跟涨。",
+          "url": "https://flash.jin10.com/detail/20260624093655648800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "A股光纤概念盘初活跃，泰和新材、航天电器、通鼎互联涨停，宏柏新材涨超6%，光库科技、永鼎股份涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260624093549491800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "A股脑机接口板块震荡拉升，爱朋医疗涨超15%，海南海药、创新医疗双双涨停，三博脑科涨超8%，南京熊猫涨超7%，翔宇医疗跟涨。",
+          "url": "https://flash.jin10.com/detail/20260624093416676800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "A股PCB概念股盘初拉升，西陇科学2连板，满坤科技、瑞华泰、世名科技、博敏电子、兴森科技跟涨。",
+          "url": "https://flash.jin10.com/detail/20260624093243779800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         }
       ]
     },
@@ -464,6 +675,17 @@
           "time_info": "[00时19分 ~ 07时54分]"
         },
         {
+          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3775262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 10时08分]"
+        },
+        {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐升，金银下挫",
           "url": "https://wallstreetcn.com/articles/3775262",
           "source": "华尔街见闻",
@@ -475,26 +697,16 @@
           "time_info": "06时59分"
         },
         {
-          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3775262",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
-        },
-        {
           "title": "AI交易遭遇加息考验：除了美元、美债，一切都在跌",
           "url": "https://wallstreetcn.com/articles/3775294",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 10时08分]"
         },
         {
           "title": "两年期美债收益率周二跌超2.7个基点",
@@ -510,63 +722,20 @@
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 4,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
       "titles": [
         {
-          "title": "股价挺进A股前20！“光纤一哥”924以来暴涨24倍，谁在重仓这些高倍股？",
-          "url": "https://www.cls.cn/detail/2406940",
-          "source": "财联社热门",
+          "title": "40天不睡、5人死磕，DeepMind主管爆Gemini大战DeepSeek惨烈内幕",
+          "url": "https://wallstreetcn.com/articles/3775315",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 07时54分]"
-        },
-        {
-          "title": "A股年内已有31天成交破3万亿，券商日子过得如何？几个指标结合看",
-          "url": "https://www.cls.cn/detail/2407102",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 07时54分]"
-        },
-        {
-          "title": "国际金价跌破4100美元整数关口，A股黄金股全线重挫",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33436473",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 06时59分]"
-        },
-        {
-          "title": "A股定增结构性活跃，新兴产业获资本青睐",
-          "url": "https://wallstreetcn.com/livenews/3123687",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
+          "time_info": "10时08分"
+        },
         {
           "title": "谷歌：为某些金融服务广告主引入新的验证要求。",
           "url": "https://flash.jin10.com/detail/20260624000741229800",
@@ -614,6 +783,57 @@
       ]
     },
     {
+      "keyword_group": "人民币",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "上期所原油期货2608合约夜盘收跌1.52%，报492元人民币/桶。 沪金夜盘收跌0.82%，沪银收跌4.36%。",
+          "url": "https://wallstreetcn.com/livenews/3123609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "周二（6月23日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.7948元，较周一纽约尾盘跌167点，日内整体持续走低、交投于6.7756-6.7978元区间，逼近6月19日底部6.7980元、5月22日底部6.8034元。",
+          "url": "https://wallstreetcn.com/livenews/3123648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时59分]"
+        },
+        {
+          "title": "中国央行逆回购今日净投放2422亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3123723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.8195，下调24点；上一交易日中间价6.8171，上一交易日官方收盘价6.7865，上日夜盘报收6.7938。",
+          "url": "https://wallstreetcn.com/livenews/3123720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -653,31 +873,34 @@
       ]
     },
     {
-      "keyword_group": "人民币",
+      "keyword_group": "金价",
       "match_count": 2,
       "titles": [
         {
-          "title": "上期所原油期货2608合约夜盘收跌1.52%，报492元人民币/桶。 沪金夜盘收跌0.82%，沪银收跌4.36%。",
-          "url": "https://wallstreetcn.com/livenews/3123609",
-          "source": "华尔街见闻-快讯",
+          "title": "高盛首次下调 2026 年黄金目标价，国内银行业亦密集收紧黄金交易杠杆，国际金价是否即将跌破 4000？",
+          "url": "https://www.zhihu.com/question/2052707670289806571",
+          "source": "知乎",
           "ranks": [
-            3
+            17,
+            12,
+            9,
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 07时54分]"
         },
         {
-          "title": "周二（6月23日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.7948元，较周一纽约尾盘跌167点，日内整体持续走低、交投于6.7756-6.7978元区间，逼近6月19日底部6.7980元、5月22日底部6.8034元。",
-          "url": "https://wallstreetcn.com/livenews/3123648",
-          "source": "华尔街见闻-快讯",
+          "title": "澳新银行：市场情绪疲软，金价走势承压",
+          "url": "https://flash.jin10.com/detail/20260624093804557800",
+          "source": "金十数据",
           "ranks": [
-            1,
-            29
+            16
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 06时59分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         }
       ]
     },
@@ -730,27 +953,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "高盛首次下调 2026 年黄金目标价，国内银行业亦密集收紧黄金交易杠杆，国际金价是否即将跌破 4000？",
-          "url": "https://www.zhihu.com/question/2052707670289806571",
-          "source": "知乎",
-          "ranks": [
-            17,
-            12,
-            9,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 07时54分]"
         }
       ]
     }
