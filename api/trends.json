@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T07:58:02.162193+08:00",
-  "total_titles_processed": 703,
+  "generated_at": "2026-06-25T10:37:44.147309+08:00",
+  "total_titles_processed": 889,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
@@ -50,7 +50,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -110,6 +110,17 @@
           "time_info": "06时07分"
         },
         {
+          "title": "美媒：就涉伊朗问题，特朗普与共和党籍议员比尔·卡西迪当面发生激烈争吵",
+          "url": "https://wallstreetcn.com/livenews/3124377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
           "title": "特朗普：不接受美伊协议包含任何涉及航运的费用",
           "url": "https://flash.jin10.com/detail/20260625050017014800",
           "source": "金十数据",
@@ -130,6 +141,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "美参议院以50∶48通过决议，特朗普愤怒回应",
+          "url": "https://news.ifeng.com/c/8uEoIOrELpr",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         },
         {
           "title": "美国总统特朗普：石油公司没有足够降低汽油价格；今天与石油公司进行了交谈。",
@@ -288,11 +310,25 @@
             7,
             6,
             4,
-            2
+            2,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 07时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 10时37分]"
+        },
+        {
+          "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
+          "url": "https://www.cls.cn/detail/2408510",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时07分 ~ 10时37分]"
         },
         {
           "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
@@ -306,27 +342,16 @@
           "time_info": "[00时08分 ~ 04时27分]"
         },
         {
-          "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
-          "url": "https://www.cls.cn/detail/2408510",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时07分 ~ 07时58分]"
-        },
-        {
           "title": "【早报】美股芯片股盘后逆袭，美光、高通大涨16%；多资产集体跳水！黄金跌破4000美元、原油暴跌、比特币下探59000美元",
           "url": "https://www.cls.cn/detail/2408547",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 07时58分]"
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 10时37分]"
         },
         {
           "title": "温蒂汉堡（WEN）维持超过24%的涨幅，报7.777美元，美股盘初曾涨42.24%至8.89美元。 美股散户抱团概念股（meme概念股）指数涨1.13%，暂报13.42点，此前一度涨超2.03%。",
@@ -359,8 +384,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 06时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 10时37分]"
         },
         {
           "title": "在美股时段交易的费城金银指数收跌4.10%，报313.41点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌3.91%，报2152.67点，北京时间21:30美股开盘之前维持微幅下跌状态、持稳于2228点附近，之后持续扩大跌幅、03:21曾跌至2129.28点。 在美股时段交易的原材料指数收跌0.80%，金属与矿业指数收跌2.22%。",
@@ -431,8 +456,69 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "A股开盘：存储芯片概念大幅高开",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E6%A6%82%E5%BF%B5%E5%A4%A7%E5%B9%85%E9%AB%98%E5%BC%80",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "A股游戏板块震荡上扬，巨人网络涨停，中青宝、冰川网络、三七互娱、完美世界、吉比特跟涨。",
+          "url": "https://flash.jin10.com/detail/20260625095707740800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "安永：上半年A股IPO首日平均涨233%，位居近五年首位",
+          "url": "https://wallstreetcn.com/livenews/3124116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时08分"
+        },
+        {
+          "title": "A股盘初扩大涨幅，创业板指涨超2%，深成指涨超1.5%，沪指涨0.15%。全市场上涨个股超1400只。",
+          "url": "https://flash.jin10.com/detail/20260625094737308800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "A股公司年度“红包”派发进行时，“双创”板块成现金分红硬核力量",
+          "url": "https://wallstreetcn.com/livenews/3124274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人民币",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美媒担忧：白宫想用制裁逼伊朗让步，却把人民币“送”上桌",
@@ -478,6 +564,69 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.8209，下调14点；上一交易日中间价6.8195，上一交易日官方收盘价6.8052，上日夜盘报收6.8092。",
+          "url": "https://wallstreetcn.com/livenews/3124334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "现货黄金价格跌破4000美元大关",
+          "url": "https://www.douyin.com/hot/2546511",
+          "source": "抖音",
+          "ranks": [
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 02时27分]"
+        },
+        {
+          "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
+          "url": "https://www.cls.cn/detail/2408544",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 10时37分]"
+        },
+        {
+          "title": "现货黄金价格跌破4000美元大关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33446112",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "金价回落刺激刚需消费回暖",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%9B%9E%E8%90%BD%E5%88%BA%E6%BF%80%E5%88%9A%E9%9C%80%E6%B6%88%E8%B4%B9%E5%9B%9E%E6%9A%96%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         }
       ]
     },
@@ -560,59 +709,31 @@
       ]
     },
     {
-      "keyword_group": "A股",
+      "keyword_group": "航天 航空",
       "match_count": 2,
       "titles": [
         {
-          "title": "安永：上半年A股IPO首日平均涨233%，位居近五年首位",
-          "url": "https://wallstreetcn.com/livenews/3124116",
-          "source": "华尔街见闻-快讯",
+          "title": "港股航空股震荡走高，中国东方航空股份(00670.HK)涨超5%，中国国航(00753.HK)涨超3%，国泰航空(00293.HK)涨超2%，中国南方航空股份(01055.HK)涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260625101306955800",
+          "source": "金十数据",
           "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "A股公司年度“红包”派发进行时，“双创”板块成现金分红硬核力量",
-          "url": "https://wallstreetcn.com/livenews/3124274",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "现货黄金价格跌破4000美元大关",
-          "url": "https://www.douyin.com/hot/2546511",
-          "source": "抖音",
-          "ranks": [
-            12,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 02时27分]"
+          "time_info": "10时37分"
         },
         {
-          "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
-          "url": "https://www.cls.cn/detail/2408544",
-          "source": "财联社热门",
+          "title": "周三（6月24日），美股行业ETF多数收涨，全球航空业ETF涨4.17%，生物科技指数ETF、区域银行ETF、可选消费ETF、公用事业ETF至多涨1.93%，半导体ETF则收跌0.35%，科技行业ETF跌0.62%，能源业ETF跌1.63%。",
+          "url": "https://wallstreetcn.com/livenews/3124226",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            6,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时57分 ~ 07时58分]"
+          "time_info": "[04时27分 ~ 06时07分]"
         }
       ]
     },
@@ -645,24 +766,6 @@
       ]
     },
     {
-      "keyword_group": "航天 航空",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周三（6月24日），美股行业ETF多数收涨，全球航空业ETF涨4.17%，生物科技指数ETF、区域银行ETF、可选消费ETF、公用事业ETF至多涨1.93%，半导体ETF则收跌0.35%，科技行业ETF跌0.62%，能源业ETF跌1.63%。",
-          "url": "https://wallstreetcn.com/livenews/3124226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 06时07分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "农业 机械",
       "match_count": 1,
       "titles": [
@@ -672,11 +775,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时07分 ~ 07时58分]"
+          "appearance_count": 4,
+          "time_info": "[06时07分 ~ 10时37分]"
         }
       ]
     },
