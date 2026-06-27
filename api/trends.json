@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T03:03:38.517610+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-06-28T04:49:23.831434+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
         {
           "title": "欧盟回应特朗普关税威胁：坚决捍卫自身权利",
@@ -15,8 +15,41 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 04时49分]"
+        },
+        {
+          "title": "机构：特朗普施压美联储降息导致通胀高于2%的情景不太可能发生",
+          "url": "https://flash.jin10.com/detail/20260628041744920800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "特朗普提名兰斯·施罗耶出任美移民与海关执法局局长",
+          "url": "https://flash.jin10.com/detail/20260628035930738800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "据MSNow白宫记者：美国总统特朗普已经从弗吉尼亚高尔夫俱乐部返回白宫。",
+          "url": "https://flash.jin10.com/detail/20260628035130525800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
         },
         {
           "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
@@ -26,8 +59,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 04时49分]"
         },
         {
           "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
@@ -37,8 +70,21 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 04时49分]"
+        },
+        {
+          "title": "特朗普孙女发逛白宫vlog美国网友破防",
+          "url": "https://www.toutiao.com/trending/7656026817400475182/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            13,
+            21
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时55分 ~ 03时03分]"
+          "time_info": "[01时55分 ~ 04时49分]"
         },
         {
           "title": "特朗普公布“爱国者护照”新版效果图",
@@ -53,16 +99,26 @@
           "time_info": "[00时55分 ~ 01时55分]"
         },
         {
-          "title": "特朗普孙女发逛白宫vlog美国网友破防",
-          "url": "https://www.toutiao.com/trending/7656026817400475182/",
-          "source": "今日头条",
+          "title": "特朗普提名兰斯·施罗耶担任美国移民与海关执法局（ICE）的下一任局长职务。",
+          "url": "https://flash.jin10.com/detail/20260628033654937800",
+          "source": "金十数据",
           "ranks": [
-            23,
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "美媒：特朗普和内塔尼亚胡的交流比以前少了很多",
+          "url": "https://flash.jin10.com/detail/20260628025551765800",
+          "source": "金十数据",
+          "ranks": [
             13
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 03时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
         }
       ]
     },
@@ -79,8 +135,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 04时49分]"
         },
         {
           "title": "下周A股解禁市值逾1000亿元",
@@ -90,8 +146,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 04时49分]"
         },
         {
           "title": "A股在暴力调整之后该怎么看",
@@ -99,11 +155,12 @@
           "source": "今日头条",
           "ranks": [
             30,
-            29
+            29,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 03时03分]"
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 04时49分]"
         },
         {
           "title": "为什么A股大牛市只有少数人赚钱",
@@ -130,8 +187,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 04时49分]"
         },
         {
           "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
@@ -141,8 +198,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 04时49分]"
         },
         {
           "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
@@ -152,8 +209,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 04时49分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
@@ -164,8 +221,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 04时49分]"
         }
       ]
     },
@@ -181,8 +238,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 04时49分]"
         },
         {
           "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
@@ -192,8 +249,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 04时49分]"
         }
       ]
     },
@@ -209,8 +266,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 04时49分]"
         }
       ]
     },
@@ -228,8 +285,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 04时49分]"
         }
       ]
     }
