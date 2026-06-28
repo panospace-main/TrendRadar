@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T17:52:52.964003+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2026-06-28T19:41:04.831024+08:00",
+  "total_titles_processed": 1075,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "欧盟回应特朗普关税威胁：坚决捍卫自身权利",
@@ -32,6 +32,30 @@
           "time_info": "[00时55分 ~ 10时15分]"
         },
         {
+          "title": "学特朗普“卖金卡”，阿根廷这次直接卖国籍？",
+          "url": "https://news.ifeng.com/c/8uJmUX0Ymhg",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时53分 ~ 19时41分]"
+        },
+        {
+          "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
+          "url": "https://wallstreetcn.com/articles/3775683",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时15分 ~ 19时41分]"
+        },
+        {
           "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
           "url": "https://www.cls.cn/detail/2410771",
           "source": "财联社热门",
@@ -42,18 +66,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时55分 ~ 07时53分]"
-        },
-        {
-          "title": "学特朗普“卖金卡”，阿根廷这次直接卖国籍？",
-          "url": "https://news.ifeng.com/c/8uJmUX0Ymhg",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 17时52分]"
         },
         {
           "title": "特朗普孙女发逛白宫vlog美国网友破防",
@@ -111,18 +123,6 @@
           "time_info": "[05时53分 ~ 10时15分]"
         },
         {
-          "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
-          "url": "https://wallstreetcn.com/articles/3775683",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时15分 ~ 17时52分]"
-        },
-        {
           "title": "特朗普提名兰斯·施罗耶出任美移民与海关执法局局长",
           "url": "https://flash.jin10.com/detail/20260628035930738800",
           "source": "金十数据",
@@ -149,6 +149,19 @@
           "time_info": "[04时49分 ~ 07时53分]"
         },
         {
+          "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时15分 ~ 19时41分]"
+        },
+        {
           "title": "特朗普提名兰斯·施罗耶担任美国移民与海关执法局（ICE）的下一任局长职务。",
           "url": "https://flash.jin10.com/detail/20260628033654937800",
           "source": "金十数据",
@@ -160,6 +173,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时49分 ~ 07时53分]"
+        },
+        {
+          "title": "美军连续第二天空袭伊朗，特朗普威胁伊朗或将不复存在，局势会再度持续升温吗？美方此轮袭击想达成哪些目标？",
+          "url": "https://www.zhihu.com/question/2054471851032539301",
+          "source": "知乎",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时53分 ~ 19时41分]"
+        },
+        {
+          "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470245",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时53分 ~ 19时41分]"
         },
         {
           "title": "美媒：特朗普和内塔尼亚胡的交流比以前少了很多",
@@ -175,16 +212,26 @@
           "time_info": "[04时49分 ~ 07时53分]"
         },
         {
-          "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
-          "source": "澎湃新闻",
+          "title": "特朗普威胁对欧洲国家征收 100% 报复性关税，以回应欧洲国家对美企征收数字服务税，对双方互有什么影响?",
+          "url": "https://www.zhihu.com/question/2054137186371609939",
+          "source": "知乎",
           "ranks": [
-            15,
-            13
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时15分 ~ 17时52分]"
+          "time_info": "[17时52分 ~ 19时41分]"
+        },
+        {
+          "title": "扛不住成本，苹果游说特朗普政府",
+          "url": "https://news.ifeng.com/c/8uKEvaozU5k",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 19时41分]"
         },
         {
           "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
@@ -211,26 +258,15 @@
           "time_info": "[00时55分 ~ 01时55分]"
         },
         {
-          "title": "美军连续第二天空袭伊朗，特朗普威胁伊朗或将不复存在，局势会再度持续升温吗？美方此轮袭击想达成哪些目标？",
-          "url": "https://www.zhihu.com/question/2054471851032539301",
-          "source": "知乎",
+          "title": "特朗普再发“灭国”威胁！伊朗：未来30天全面监管霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260628184409542800",
+          "source": "金十数据",
           "ranks": [
-            13
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 17时52分]"
-        },
-        {
-          "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470245",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 17时52分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "欧盟回应特朗普关税威胁：坚决捍卫自身权利",
@@ -242,6 +278,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-28）",
+          "url": "https://flash.jin10.com/detail/20260628181334156800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "特朗普驳斥哈格曼新书为“假新闻”，重申选举胜利叙事",
@@ -264,23 +311,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
-        },
-        {
-          "title": "特朗普威胁对欧洲国家征收 100% 报复性关税，以回应欧洲国家对美企征收数字服务税，对双方互有什么影响?",
-          "url": "https://www.zhihu.com/question/2054137186371609939",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
         }
       ]
     },
     {
       "keyword_group": "A股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
@@ -309,6 +345,17 @@
           "time_info": "[00时55分 ~ 10时15分]"
         },
         {
+          "title": "多家A股公司扎堆发异动公告，涉PCB、玻璃基板、液冷等热门赛道",
+          "url": "https://www.cls.cn/detail/2411079",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 19时41分]"
+        },
+        {
           "title": "A股在暴力调整之后该怎么看",
           "url": "https://www.toutiao.com/trending/7656063002357009971/",
           "source": "今日头条",
@@ -321,6 +368,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时55分 ~ 06时53分]"
+        },
+        {
+          "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
+          "url": "https://wallstreetcn.com/articles/3775701",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 19时41分]"
         },
         {
           "title": "为什么A股大牛市只有少数人赚钱",
@@ -359,8 +417,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 17时52分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 19时41分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
@@ -368,11 +426,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 17时52分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 19时41分]"
         },
         {
           "title": "半导体拖累美股，标普、纳指五连跌，美光跌6%，金银走高，原油一度跌4%",
@@ -444,6 +503,34 @@
       ]
     },
     {
+      "keyword_group": "农业 机械",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "农业造谣者有多无法无天",
+          "url": "https://search.bilibili.com/all?keyword=%E5%86%9C%E4%B8%9A%E9%80%A0%E8%B0%A3%E8%80%85%E6%9C%89%E5%A4%9A%E6%97%A0%E6%B3%95%E6%97%A0%E5%A4%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "农业谣言岂能如此“变态”",
+          "url": "https://www.baidu.com/s?wd=%E5%86%9C%E4%B8%9A%E8%B0%A3%E8%A8%80%E5%B2%82%E8%83%BD%E5%A6%82%E6%AD%A4%E2%80%9C%E5%8F%98%E6%80%81%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 19时41分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -481,23 +568,6 @@
           "source": "金十数据",
           "ranks": [
             14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农业 机械",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "农业造谣者有多无法无天",
-          "url": "https://search.bilibili.com/all?keyword=%E5%86%9C%E4%B8%9A%E9%80%A0%E8%B0%A3%E8%80%85%E6%9C%89%E5%A4%9A%E6%97%A0%E6%B3%95%E6%97%A0%E5%A4%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -555,11 +625,12 @@
           "ranks": [
             9,
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时15分 ~ 17时52分]"
+          "appearance_count": 5,
+          "time_info": "[10时15分 ~ 19时41分]"
         }
       ]
     }
