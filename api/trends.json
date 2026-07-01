@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T07:58:05.120120+08:00",
-  "total_titles_processed": 702,
+  "generated_at": "2026-07-01T10:49:09.213839+08:00",
+  "total_titles_processed": 875,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
@@ -23,11 +23,12 @@
           "url": "https://v.ifeng.com/c/8uNtTRMWXNr",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 07时58分]"
+          "appearance_count": 4,
+          "time_info": "[07时57分 ~ 10时49分]"
         },
         {
           "title": "特朗普927页超10亿美元“吸金”财务报告：世界杯门票、和解费尽数收入囊中",
@@ -41,6 +42,17 @@
           "time_info": "06时08分"
         },
         {
+          "title": "特朗普政府，遭全美半数州集体起诉",
+          "url": "https://news.ifeng.com/c/8uO4jG3X5zq",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时57分 ~ 10时49分]"
+        },
+        {
           "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
           "url": "https://news.ifeng.com/c/8uNYuN5imVw",
           "source": "凤凰网",
@@ -52,17 +64,6 @@
           "time_info": "[00时15分 ~ 06时08分]"
         },
         {
-          "title": "特朗普政府，遭全美半数州集体起诉",
-          "url": "https://news.ifeng.com/c/8uO4jG3X5zq",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 07时58分]"
-        },
-        {
           "title": "特朗普再遭打击！美最高法院驳回限制“出生公民权”行政令",
           "url": "https://news.ifeng.com/c/8uOA3e74QUL",
           "source": "凤凰网",
@@ -72,6 +73,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时57分 ~ 07时58分]"
+        },
+        {
+          "title": "特朗普在最高法院输了，为什么又扯上中国？",
+          "url": "https://news.ifeng.com/c/8uOgMuQGNSM",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 10时49分]"
         },
         {
           "title": "美伊谈判前途未卜：特朗普称周二将在多哈谈，伊朗否认计划会谈，以防长称以伊明天就可能重开战火",
@@ -124,7 +136,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -157,7 +169,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -267,7 +279,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         }
@@ -275,18 +287,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股收盘：三大指数齐升道指刷新高 费城半导体指数半年翻倍",
           "url": "https://www.cls.cn/detail/2413598",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 07时58分]"
+          "appearance_count": 4,
+          "time_info": "[07时57分 ~ 10时49分]"
         },
         {
           "title": "美股冲击近6年最强季度表现 美伊代表齐赴多哈 | 今夜看点",
@@ -294,11 +307,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 07时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 10时49分]"
         },
         {
           "title": "华尔街六年来最强季度后：美股上涨进入“高难度阶段”",
@@ -307,7 +321,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -381,6 +395,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时50分 ~ 06时08分]"
+        },
+        {
+          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3775893",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 10时49分]"
         },
         {
           "title": "耐克美股盘后跌幅扩大至6.6%，虽然最新季度业绩超出预期，但其提振作用被公司高管谨慎的言论所抵消。 该公司即将离任的首席财务官Matt Friend表示，耐克对产品去库存的举措“仍然面临挑战”，而首席执行官Elliott Hill指出营收增长面临“不利因素”。",
@@ -474,18 +499,19 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 7,
+      "match_count": 17,
       "titles": [
         {
           "title": "【早报】多只A股公司业绩大增；美股存储概念半年涨超3倍；黄金、原油收跌；法国、挪威晋级世界杯16强",
           "url": "https://www.cls.cn/detail/2413612",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 07时58分]"
+          "appearance_count": 4,
+          "time_info": "[07时57分 ~ 10时49分]"
         },
         {
           "title": "A股上半年收官！创业板涨超35%，科创50暴涨64%，算力硬件、芯片半导体全线飙涨",
@@ -493,11 +519,23 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 07时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 10时49分]"
+        },
+        {
+          "title": "半年收官，A股IPO受理“冲刺潮”，单日44家、单月144家创峰值",
+          "url": "https://www.cls.cn/detail/2413611",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 10时49分]"
         },
         {
           "title": "A股上半年股王涨超770%",
@@ -515,6 +553,28 @@
           "time_info": "[00时15分 ~ 07时58分]"
         },
         {
+          "title": "A股保险板块持续拉升，新华保险涨超6%，中国人寿涨超5%，中国人保、中国太保、中国平安跟涨。",
+          "url": "https://flash.jin10.com/detail/20260701103509172800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "A股AI语料概念震荡反弹，新华传媒涨停，德生科技、读客文化、中信出版、果麦文化、人民网、同方股份、中国出版等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260701103204339800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
           "title": "京东方成交额超400亿元位居A股第一",
           "url": "https://www.toutiao.com/trending/7657188154868239913/",
           "source": "今日头条",
@@ -527,15 +587,70 @@
           "time_info": "[00时15分 ~ 02时28分]"
         },
         {
+          "title": "A股养殖板块震荡走强，天邦食品涨停，益生股份回封涨停，金新农此前涨停，立华股份、湘佳股份、晓鸣股份、大禹生物、傲农生物、牧原股份跟涨。",
+          "url": "https://flash.jin10.com/detail/20260701102207349800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "A股存储芯片板块再度拉升，太极实业、时空科技双双涨停，股价均续创历史新高，亚威股份此前封板，普冉股份涨超10%，香农芯创、长电科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3127093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "A股证券板块震荡走高，华安证券涨停，天风证券、长江证券、招商证券、广发证券、首创证券跟涨。",
+          "url": "https://flash.jin10.com/detail/20260701101219333800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
           "title": "机构密集调研A股上市公司，人形机器人、半导体材料受追捧",
           "url": "https://wallstreetcn.com/livenews/3127014",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "A股半导体芯片股继续走强，敏芯股份、格科微、中颖电子涨超10%，锴威特、富满微、东微半导等涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3127078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "A股房地产板块异动拉升，三湘印象、盈新发展等多股涨停，深深房A、福星股份、黑牡丹等股上涨。",
+          "url": "https://flash.jin10.com/detail/20260701100958694800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         },
         {
           "title": "A股半年收官 科创50大涨超64%",
@@ -549,15 +664,98 @@
           "time_info": "00时15分"
         },
         {
+          "title": "A股算力租赁概念反复活跃，飞利信20cm涨停，旋极信息、中富通、中创环保、华孚时尚、迈信林等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260701095831135800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
           "title": "A股已有35家公司预告上半年业绩，预喜比例达74.29%，AI、锂电、化工三大板块领衔高增长",
           "url": "https://wallstreetcn.com/livenews/3127006",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "A股CRO概念持续走弱，药明康德跌超6%，美迪西跌超5%，恒瑞医药、成都先导、凯莱英等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260701095731249800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "周二（6月30日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.7918元，较周一纽约尾盘涨88点，日内整体交投于6.8026-6.7864元区间。 6月份，离岸人民币累计下跌大约0.4%，二季度累涨超1.4%，上半年持续走高、从6.9959元涨至6.7539元。",
+          "url": "https://wallstreetcn.com/livenews/3126992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时08分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7880元，较周一夜盘收盘涨80点。成交量551.49亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3126954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "上期所原油期货2608合约夜盘收跌1.17%，报456.70元人民币/桶。 沪金夜盘收涨0.80%，沪银收涨3.43%。",
+          "url": "https://wallstreetcn.com/livenews/3126950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "中国央行公开市场今日净回笼11625亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3127067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "人民币兑美元中间价创2023年2月10日来新高",
+          "url": "https://wallstreetcn.com/livenews/3127063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         }
       ]
     },
@@ -692,45 +890,6 @@
       ]
     },
     {
-      "keyword_group": "人民币",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "周二（6月30日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.7918元，较周一纽约尾盘涨88点，日内整体交投于6.8026-6.7864元区间。 6月份，离岸人民币累计下跌大约0.4%，二季度累涨超1.4%，上半年持续走高、从6.9959元涨至6.7539元。",
-          "url": "https://wallstreetcn.com/livenews/3126992",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7880元，较周一夜盘收盘涨80点。成交量551.49亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3126954",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "上期所原油期货2608合约夜盘收跌1.17%，报456.70元人民币/桶。 沪金夜盘收涨0.80%，沪银收涨3.43%。",
-          "url": "https://wallstreetcn.com/livenews/3126950",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -742,8 +901,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 07时58分]"
+          "appearance_count": 4,
+          "time_info": "[07时57分 ~ 10时49分]"
         },
         {
           "title": "6月份两年期美债实际收益率涨超77个基点，二季度两年期收益率涨超35个基点",
