@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-01T10:49:09.213839+08:00",
-  "total_titles_processed": 875,
+  "generated_at": "2026-07-01T15:03:38.031448+08:00",
+  "total_titles_processed": 1071,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "美国驻印大使爆料：特朗普想早上6点给莫迪打电话",
+          "url": "https://v.ifeng.com/c/8uNtTRMWXNr",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时57分 ~ 15时03分]"
+        },
         {
           "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
           "url": "https://news.ifeng.com/c/8uNrdCXnoF5",
@@ -19,16 +31,27 @@
           "time_info": "[00时15分 ~ 06时08分]"
         },
         {
-          "title": "美国驻印大使爆料：特朗普想早上6点给莫迪打电话",
-          "url": "https://v.ifeng.com/c/8uNtTRMWXNr",
+          "title": "德国提出在欧洲生产美国武器的计划 以争取特朗普的继续支持",
+          "url": "https://flash.jin10.com/detail/20260701144532076800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
+          "title": "特朗普在最高法院输了，为什么又扯上中国？",
+          "url": "https://news.ifeng.com/c/8uOgMuQGNSM",
           "source": "凤凰网",
           "ranks": [
-            4,
-            3
+            9,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时57分 ~ 10时49分]"
+          "appearance_count": 3,
+          "time_info": "[10时48分 ~ 15时03分]"
         },
         {
           "title": "特朗普927页超10亿美元“吸金”财务报告：世界杯门票、和解费尽数收入囊中",
@@ -73,17 +96,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时57分 ~ 07时58分]"
-        },
-        {
-          "title": "特朗普在最高法院输了，为什么又扯上中国？",
-          "url": "https://news.ifeng.com/c/8uOgMuQGNSM",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时48分 ~ 10时49分]"
         },
         {
           "title": "美伊谈判前途未卜：特朗普称周二将在多哈谈，伊朗否认计划会谈，以防长称以伊明天就可能重开战火",
@@ -286,6 +298,274 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 23,
+      "titles": [
+        {
+          "title": "【早报】多只A股公司业绩大增；美股存储概念半年涨超3倍；黄金、原油收跌；法国、挪威晋级世界杯16强",
+          "url": "https://www.cls.cn/detail/2413612",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时57分 ~ 15时03分]"
+        },
+        {
+          "title": "A股上半年收官！创业板涨超35%，科创50暴涨64%，算力硬件、芯片半导体全线飙涨",
+          "url": "https://wallstreetcn.com/articles/3775807",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 15时03分]"
+        },
+        {
+          "title": "半年收官，A股IPO受理“冲刺潮”，单日44家、单月144家创峰值",
+          "url": "https://www.cls.cn/detail/2413611",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时48分 ~ 15时03分]"
+        },
+        {
+          "title": "A股上半年股王涨超770%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%B8%8A%E5%8D%8A%E5%B9%B4%E8%82%A1%E7%8E%8B%E6%B6%A8%E8%B6%85770%25",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            17,
+            18,
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 07时58分]"
+        },
+        {
+          "title": "A股保险板块持续拉升，新华保险涨超6%，中国人寿涨超5%，中国人保、中国太保、中国平安跟涨。",
+          "url": "https://flash.jin10.com/detail/20260701103509172800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "A股兆易创新成交额超400亿元，现跌超5%。",
+          "url": "https://flash.jin10.com/detail/20260701144400543800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
+          "title": "A股AI语料概念震荡反弹，新华传媒涨停，德生科技、读客文化、中信出版、果麦文化、人民网、同方股份、中国出版等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260701103204339800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "京东方成交额超400亿元位居A股第一",
+          "url": "https://www.toutiao.com/trending/7657188154868239913/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 02时28分]"
+        },
+        {
+          "title": "A股先进封装板块午后持续走低，快克智能跌停，三佳科技、芯原股份、兴森科技、寒武纪、蓝箭电子、联瑞新材等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260701143804883800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
+          "title": "A股养殖板块震荡走强，天邦食品涨停，益生股份回封涨停，金新农此前涨停，立华股份、湘佳股份、晓鸣股份、大禹生物、傲农生物、牧原股份跟涨。",
+          "url": "https://flash.jin10.com/detail/20260701102207349800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "A股存储芯片板块再度拉升，太极实业、时空科技双双涨停，股价均续创历史新高，亚威股份此前封板，普冉股份涨超10%，香农芯创、长电科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3127093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "A股证券板块震荡走高，华安证券涨停，天风证券、长江证券、招商证券、广发证券、首创证券跟涨。",
+          "url": "https://flash.jin10.com/detail/20260701101219333800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "机构密集调研A股上市公司，人形机器人、半导体材料受追捧",
+          "url": "https://wallstreetcn.com/livenews/3127014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "A股半导体芯片股继续走强，敏芯股份、格科微、中颖电子涨超10%，锴威特、富满微、东微半导等涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3127078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "A股房地产板块异动拉升，三湘印象、盈新发展等多股涨停，深深房A、福星股份、黑牡丹等股上涨。",
+          "url": "https://flash.jin10.com/detail/20260701100958694800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "A股半年收官 科创50大涨超64%",
+          "url": "https://www.toutiao.com/trending/7656397842558287878/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "A股半导体设备板块走低，恒运昌跌超13%，芯源微、盛美上海、富创精密、晶升股份等跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3127201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
+          "title": "A股半导体设备板块午后持续走低，恒运昌跌超13%，芯源微、盛美上海、富创精密、晶升股份等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260701141744774800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
+          "title": "A股算力租赁概念反复活跃，飞利信20cm涨停，旋极信息、中富通、中创环保、华孚时尚、迈信林等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260701095831135800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "A股已有35家公司预告上半年业绩，预喜比例达74.29%，AI、锂电、化工三大板块领衔高增长",
+          "url": "https://wallstreetcn.com/livenews/3127006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "A股CRO概念持续走弱，药明康德跌超6%，美迪西跌超5%，恒瑞医药、成都先导、凯莱英等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260701095731249800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
+          "title": "韩国投资者上半年持续加仓A股",
+          "url": "https://wallstreetcn.com/livenews/3127186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 18,
       "titles": [
@@ -298,8 +578,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时57分 ~ 10时49分]"
+          "appearance_count": 5,
+          "time_info": "[07时57分 ~ 15时03分]"
         },
         {
           "title": "美股冲击近6年最强季度表现 美伊代表齐赴多哈 | 今夜看点",
@@ -385,6 +665,18 @@
           "time_info": "[04时50分 ~ 06时08分]"
         },
         {
+          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3775893",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时48分 ~ 15时03分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜美国科技股七巨头（Magnificent 7）指数6月份累计下跌8.9%，创2025年3月份以来最差单月表现。",
           "url": "https://wallstreetcn.com/livenews/3126975",
           "source": "华尔街见闻-快讯",
@@ -395,17 +687,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时50分 ~ 06时08分]"
-        },
-        {
-          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
-          "url": "https://wallstreetcn.com/articles/3775893",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时48分 ~ 10时49分]"
         },
         {
           "title": "耐克美股盘后跌幅扩大至6.6%，虽然最新季度业绩超出预期，但其提振作用被公司高管谨慎的言论所抵消。 该公司即将离任的首席财务官Matt Friend表示，耐克对产品去库存的举措“仍然面临挑战”，而首席执行官Elliott Hill指出营收增长面临“不利因素”。",
@@ -498,207 +779,6 @@
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "【早报】多只A股公司业绩大增；美股存储概念半年涨超3倍；黄金、原油收跌；法国、挪威晋级世界杯16强",
-          "url": "https://www.cls.cn/detail/2413612",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时57分 ~ 10时49分]"
-        },
-        {
-          "title": "A股上半年收官！创业板涨超35%，科创50暴涨64%，算力硬件、芯片半导体全线飙涨",
-          "url": "https://wallstreetcn.com/articles/3775807",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 10时49分]"
-        },
-        {
-          "title": "半年收官，A股IPO受理“冲刺潮”，单日44家、单月144家创峰值",
-          "url": "https://www.cls.cn/detail/2413611",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时48分 ~ 10时49分]"
-        },
-        {
-          "title": "A股上半年股王涨超770%",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%B8%8A%E5%8D%8A%E5%B9%B4%E8%82%A1%E7%8E%8B%E6%B6%A8%E8%B6%85770%25",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            17,
-            18,
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 07时58分]"
-        },
-        {
-          "title": "A股保险板块持续拉升，新华保险涨超6%，中国人寿涨超5%，中国人保、中国太保、中国平安跟涨。",
-          "url": "https://flash.jin10.com/detail/20260701103509172800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "A股AI语料概念震荡反弹，新华传媒涨停，德生科技、读客文化、中信出版、果麦文化、人民网、同方股份、中国出版等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260701103204339800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "京东方成交额超400亿元位居A股第一",
-          "url": "https://www.toutiao.com/trending/7657188154868239913/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 02时28分]"
-        },
-        {
-          "title": "A股养殖板块震荡走强，天邦食品涨停，益生股份回封涨停，金新农此前涨停，立华股份、湘佳股份、晓鸣股份、大禹生物、傲农生物、牧原股份跟涨。",
-          "url": "https://flash.jin10.com/detail/20260701102207349800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "A股存储芯片板块再度拉升，太极实业、时空科技双双涨停，股价均续创历史新高，亚威股份此前封板，普冉股份涨超10%，香农芯创、长电科技跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3127093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "A股证券板块震荡走高，华安证券涨停，天风证券、长江证券、招商证券、广发证券、首创证券跟涨。",
-          "url": "https://flash.jin10.com/detail/20260701101219333800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "机构密集调研A股上市公司，人形机器人、半导体材料受追捧",
-          "url": "https://wallstreetcn.com/livenews/3127014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "A股半导体芯片股继续走强，敏芯股份、格科微、中颖电子涨超10%，锴威特、富满微、东微半导等涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3127078",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "A股房地产板块异动拉升，三湘印象、盈新发展等多股涨停，深深房A、福星股份、黑牡丹等股上涨。",
-          "url": "https://flash.jin10.com/detail/20260701100958694800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "A股半年收官 科创50大涨超64%",
-          "url": "https://www.toutiao.com/trending/7656397842558287878/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "A股算力租赁概念反复活跃，飞利信20cm涨停，旋极信息、中富通、中创环保、华孚时尚、迈信林等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260701095831135800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "A股已有35家公司预告上半年业绩，预喜比例达74.29%，AI、锂电、化工三大板块领衔高增长",
-          "url": "https://wallstreetcn.com/livenews/3127006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "A股CRO概念持续走弱，药明康德跌超6%，美迪西跌超5%，恒瑞医药、成都先导、凯莱英等跟跌。",
-          "url": "https://flash.jin10.com/detail/20260701095731249800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人民币",
       "match_count": 5,
       "titles": [
@@ -742,7 +822,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -753,7 +833,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         }
@@ -901,8 +981,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时57分 ~ 10时49分]"
+          "appearance_count": 5,
+          "time_info": "[07时57分 ~ 15时03分]"
         },
         {
           "title": "6月份两年期美债实际收益率涨超77个基点，二季度两年期收益率涨超35个基点",
