@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T17:51:57.279332+08:00",
-  "total_titles_processed": 1167,
+  "generated_at": "2026-07-02T20:02:58.520000+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "美国贸易代表：特朗普的贸易政策已经取代了《美墨加协定》的许多内容。",
@@ -160,7 +160,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -220,6 +220,17 @@
           "time_info": "01时05分"
         },
         {
+          "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501745",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "美国总统特朗普：美光科技(MU.O)对“特朗普账户”的2.5亿美元投资是“同类投资中规模最大的企业投资”。",
           "url": "https://flash.jin10.com/detail/20260702002924479800",
           "source": "金十数据",
@@ -270,7 +281,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -314,7 +325,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -325,7 +336,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -336,7 +347,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         }
@@ -344,7 +355,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "下周一正式施行，A股交易新规来了！一图看懂关键调整",
@@ -369,6 +380,18 @@
           "time_info": "[01时05分 ~ 07时02分]"
         },
         {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2555608",
+          "source": "抖音",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 20时02分]"
+        },
+        {
           "title": "A股涨停数创20个月新高！TMT“参团率”降至15%，这一数据仍在历史高位",
           "url": "https://www.cls.cn/detail/2414312",
           "source": "财联社热门",
@@ -389,17 +412,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
-        },
-        {
-          "title": "A股",
-          "url": "https://www.douyin.com/hot/2555608",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
         },
         {
           "title": "A股交易规则下周一起重大调整",
@@ -438,6 +450,17 @@
           "time_info": "10时07分"
         },
         {
+          "title": "104天！宇树科技科创板IPO注册生效 A股“人形机器人第一股”诞生在即",
+          "url": "https://www.cls.cn/detail/2415523",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "A股人形机器人概念逆势活跃，日盈电子涨停，五洲新春、锋龙股份、奥比中光、斯菱智驱、力星股份、步科股份跟涨。",
           "url": "https://flash.jin10.com/detail/20260702094240717800",
           "source": "金十数据",
@@ -471,6 +494,17 @@
           "time_info": "10时07分"
         },
         {
+          "title": "2026年6月A股新开户286.46万户 同比增长73.99% 2026年累计新开2016.14万户",
+          "url": "https://wallstreetcn.com/livenews/3128001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "A股创新药板块午后回暖，科伦药业、泽璟制药盘中创新高，海南海药4连板，石药景峰、联化科技涨停，热景生物涨超15%，石药创新、万邦医药、津药药业、康芝药业、双鹭药业跟涨。",
           "url": "https://flash.jin10.com/detail/20260702140208280800",
           "source": "金十数据",
@@ -491,6 +525,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "博主：A股七月变盘散户别再只看指数",
+          "url": "https://www.toutiao.com/trending/7657859836637351487/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "A股科技股真的过热了吗",
@@ -521,7 +566,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -589,6 +634,19 @@
           "time_info": "[01时05分 ~ 05时16分]"
         },
         {
+          "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
+          "url": "https://www.zhihu.com/question/2055934590297150773",
+          "source": "知乎",
+          "ranks": [
+            13,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时29分 ~ 20时02分]"
+        },
+        {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -612,18 +670,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
-        },
-        {
-          "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
-          "url": "https://www.zhihu.com/question/2055934590297150773",
-          "source": "知乎",
-          "ranks": [
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时29分 ~ 17时51分]"
         },
         {
           "title": "美股低开 算力租赁商、存储股大跌",
@@ -732,7 +778,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         }
@@ -740,7 +786,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "余伟文：拓展人民币跨境应用场景 助力实体经济发展",
@@ -783,7 +829,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -799,13 +845,24 @@
           "time_info": "03时29分"
         },
         {
+          "title": "晨光生物：拟以8000万元-1.6亿元回购股份，回购股份的价格为不超过人民币12.50元/股。",
+          "url": "https://wallstreetcn.com/livenews/3127987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "在岸人民币兑美元北京时间16:30官方收报6.7866，较上一交易日官方收盘价涨69点，较上日夜盘收盘涨14点。",
           "url": "https://wallstreetcn.com/livenews/3127922",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -835,7 +892,7 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "蓝箭航天IPO恢复审核，金风科技年内再度涨停站上千亿市值",
@@ -870,6 +927,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "美国航空航天局（NASA）：Swift Boost任务的发射已推迟。团队正在审查数据。",
+          "url": "https://flash.jin10.com/detail/20260702192300068800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         }
       ]
     },
