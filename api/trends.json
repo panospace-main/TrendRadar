@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T18:26:40.808460+08:00",
-  "total_titles_processed": 1256,
+  "generated_at": "2026-07-03T20:52:21.157059+08:00",
+  "total_titles_processed": 1411,
   "failed_sources": [],
   "trends": [
     {
@@ -113,6 +113,19 @@
           "time_info": "[05时58分 ~ 07时01分]"
         },
         {
+          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时55分 ~ 20时52分]"
+        },
+        {
           "title": "特朗普参加活动后直接拿走剪刀",
           "url": "https://www.toutiao.com/trending/7656820359463518259/",
           "source": "今日头条",
@@ -124,6 +137,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时25分 ~ 05时58分]"
+        },
+        {
+          "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
+          "url": "https://wallstreetcn.com/articles/3776099",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时55分 ~ 20时52分]"
         },
         {
           "title": "特朗普重申：伊朗将从美国购买食品",
@@ -184,18 +208,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时01分 ~ 08时06分]"
-        },
-        {
-          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时55分 ~ 18时26分]"
         },
         {
           "title": "美国总统特朗普：马斯克对我在电动汽车强制令上的决定“并不高兴”。",
@@ -342,17 +354,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
-        },
-        {
-          "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
-          "url": "https://wallstreetcn.com/articles/3776099",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时55分"
         },
         {
           "title": "美国总统特朗普：我的生意都是我孩子在打理，我一点儿也不插手。",
@@ -738,6 +739,18 @@
           "time_info": "[04时53分 ~ 05时58分]"
         },
         {
+          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
+          "url": "https://wallstreetcn.com/articles/3776105",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时55分 ~ 20时52分]"
+        },
+        {
           "title": "7月3日投资避雷针：美股存储、半导体板块大跌 闪迪跌超14%",
           "url": "https://www.cls.cn/detail/2415987",
           "source": "财联社热门",
@@ -760,17 +773,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时53分 ~ 05时58分]"
-        },
-        {
-          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
-          "url": "https://wallstreetcn.com/articles/3776105",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时55分 ~ 18时26分]"
         },
         {
           "title": "周四（7月2日），美股降息赢家指数跌0.02%，报98.42点，在美国非农就业报告出炉后高开低走，整体呈现出W形走势，本周累计下跌1.58%。",
@@ -951,11 +953,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            10
+            10,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时55分 ~ 18时26分]"
+          "appearance_count": 3,
+          "time_info": "[15时55分 ~ 20时52分]"
         },
         {
           "title": "上半年300余家公司拟回购逾千亿元，A股回购市场呈现三大新趋势",
@@ -976,7 +979,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -1081,7 +1084,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
