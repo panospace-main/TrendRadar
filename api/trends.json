@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T14:36:59.774984+08:00",
-  "total_titles_processed": 1023,
+  "generated_at": "2026-07-07T18:19:28.400396+08:00",
+  "total_titles_processed": 1198,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 40,
       "titles": [
         {
           "title": "“前线非常可怕”，特朗普称解决俄乌冲突将比人们认为的要快得多",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时58分 ~ 14时36分]"
+          "appearance_count": 5,
+          "time_info": "[07时58分 ~ 18时19分]"
         },
         {
           "title": "特朗普再回应巴洛贡红牌事件，称若比利时赢了美国就是有黑幕",
@@ -170,6 +170,18 @@
           "time_info": "[05时20分 ~ 06时57分]"
         },
         {
+          "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33532495",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 18时19分]"
+        },
+        {
           "title": "民调：多数美国人认为特朗普在伊朗战争中得不偿失 拖累中期选举",
           "url": "https://www.cls.cn/detail/2417917",
           "source": "财联社热门",
@@ -214,6 +226,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时40分 ~ 05时20分]"
+        },
+        {
+          "title": "“每座发电厂都将不复存在！”特朗普再发出威胁",
+          "url": "https://news.ifeng.com/c/8uYm3PSYLHK",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 18时19分]"
         },
         {
           "title": "市场消息：美国民主党籍州总检察长反对特朗普拟对60个国家进口商品征收最高12.5%关税的计划。",
@@ -267,29 +290,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
-          "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33532495",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
-          "title": "“每座发电厂都将不复存在！”特朗普再发出威胁",
-          "url": "https://news.ifeng.com/c/8uYm3PSYLHK",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
@@ -355,9 +356,42 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
+        },
+        {
+          "title": "卢卡库跳“特朗普之舞”贴脸嘲讽",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%A2%E5%8D%A1%E5%BA%93%E8%B7%B3%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E4%B9%8B%E8%88%9E%E2%80%9D%E8%B4%B4%E8%84%B8%E5%98%B2%E8%AE%BD",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531585",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-07）",
+          "url": "https://flash.jin10.com/detail/20260707180658184800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "美国总统特朗普称，沃尔玛将按我的要求（对商品）大幅降价。 沃尔玛是一家真正爱国的公司。 其他零售商应该效仿沃尔玛的做法。 该公司随后将牛肉降价大约15%，下调碎牛肉、甜玉米、红樱桃的价格。",
@@ -382,6 +416,17 @@
           "time_info": "01时34分"
         },
         {
+          "title": "特朗普高调宣告：俄乌和平“比想象中更近”！",
+          "url": "https://flash.jin10.com/detail/20260707180121042800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "美国总统特朗普赞赏股市上涨。",
           "url": "https://wallstreetcn.com/livenews/3129485",
           "source": "华尔街见闻-快讯",
@@ -399,7 +444,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
@@ -410,7 +455,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         }
@@ -459,6 +504,18 @@
           "time_info": "[07时58分 ~ 14时36分]"
         },
         {
+          "title": "撤出美股七巨头，押注中国AI！华尔街正在赌上一场“东升西落”？",
+          "url": "https://www.cls.cn/detail/2418780",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 18时19分]"
+        },
+        {
           "title": "科技股领涨推动美股反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
           "url": "https://wallstreetcn.com/articles/3776262",
           "source": "华尔街见闻",
@@ -480,17 +537,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时34分 ~ 07时58分]"
-        },
-        {
-          "title": "撤出美股七巨头，押注中国AI！华尔街正在赌上一场“东升西落”？",
-          "url": "https://www.cls.cn/detail/2418780",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时36分"
         },
         {
           "title": "沃尔玛美股盘后跌超0.3%，（美国中期选举之前，）总统特朗普要求该公司大幅降价。",
@@ -598,7 +644,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "A股硅能源板块震荡走高，有研硅20CM涨停，TCL中环涨停，恒星科技此前涨停，东岳硅材、欧晶科技、硅烷科技跟涨。",
@@ -624,13 +670,25 @@
           "time_info": "[06时57分 ~ 07时58分]"
         },
         {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 18时19分]"
+        },
+        {
           "title": "A股存储芯片板块午后走弱，北京君正跌超10%，普冉股份、德明利、江波龙、香农芯创、佰维存储跌幅居前。",
           "url": "https://wallstreetcn.com/livenews/3129772",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
@@ -652,7 +710,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
@@ -679,17 +737,6 @@
           "time_info": "10时37分"
         },
         {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
           "title": "A股化学制品、化工板块盘初上扬，百合花盘中创新高，阿科力3连板，宿迁联盛涨停，赛特新材、永冠新材、松井股份、晨光新材跟涨。",
           "url": "https://flash.jin10.com/detail/20260707094603233800",
           "source": "金十数据",
@@ -710,6 +757,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
+        },
+        {
+          "title": "A股收盘：沪指失守4000点",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%B2%AA%E6%8C%87%E5%A4%B1%E5%AE%884000%E7%82%B9",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         }
       ]
     },
@@ -768,7 +826,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
@@ -801,7 +859,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
