@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T02:17:25.995028+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-07-11T04:13:04.721863+08:00",
+  "total_titles_processed": 486,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时13分]"
         },
         {
           "title": "特朗普搞中国那套，拿来对付西班牙？",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时13分]"
         },
         {
           "title": "特朗普：伊朗要求继续谈判 美已同意",
@@ -36,9 +36,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时17分 ~ 04时13分]"
         },
         {
           "title": "市场消息：四名美国参议员称，已与特朗普政府达成协议，将推进对俄制裁法案。",
@@ -47,7 +47,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
         },
@@ -80,7 +80,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
         },
@@ -118,11 +118,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时13分]"
         },
         {
           "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
@@ -132,8 +133,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时13分]"
         },
         {
           "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
@@ -143,8 +144,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时13分]"
         },
         {
           "title": "SK海力士美股首日开盘报170美元 IPO发行价为149美元",
@@ -165,19 +166,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时13分]"
         },
         {
           "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
           "url": "https://wallstreetcn.com/articles/3776651",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时13分]"
         },
         {
           "title": "存储芯片巨头SK海力士登陆美股",
@@ -187,8 +189,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时13分]"
         },
         {
           "title": "SK海力士美股首日开涨14%",
@@ -205,7 +207,7 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "据以色列i24News：卫星图像显示，林肯号和布什号航空母舰目前距离伊朗海岸非常近，已进入伊朗导弹的可能射程之内。",
@@ -219,6 +221,17 @@
           "time_info": "00时14分"
         },
         {
+          "title": "美国中央司令部：随着“乔治·H·W·布什”号航空母舰在地区海域航行，美军水兵正在舰上执行夜间航空作战训练任务。",
+          "url": "https://flash.jin10.com/detail/20260711033755976800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
           "title": "商业航天板块午后逆势拉升，可回收火箭技术落地重塑产业链估值",
           "url": "https://www.cls.cn/detail/2423010",
           "source": "财联社热门",
@@ -227,19 +240,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时13分]"
         },
         {
           "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
           "url": "https://wallstreetcn.com/articles/3776629",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时13分]"
         },
         {
           "title": "航天新突破,长十乙回收成功",
@@ -249,8 +263,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时13分]"
         },
         {
           "title": "爱尔兰瑞安航空客机飞行中舷窗炸裂",
@@ -287,7 +301,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
         },
@@ -298,7 +312,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
         },
@@ -309,7 +323,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
         },
@@ -320,7 +334,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
         }
@@ -338,8 +352,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时13分]"
         },
         {
           "title": "A股历史第四！存储“一哥”单日成交594亿，天量榜单还有谁？",
@@ -349,8 +363,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时13分]"
         },
         {
           "title": "A股商业航天板块午后“满屏涨停”",
@@ -362,6 +376,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时13分 ~ 00时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7770元，较周四夜盘收盘涨140点。成交量483.25亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3132225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "上期所原油期货2608合约夜盘收跌1.07%，报463.50元人民币/桶。 沪金夜盘收跌0.56%，沪银收跌0.58%。",
+          "url": "https://wallstreetcn.com/livenews/3132220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         }
       ]
     },
@@ -378,8 +420,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时13分]"
         }
       ]
     },
@@ -394,7 +436,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
         }
