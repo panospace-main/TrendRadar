@@ -1,8 +1,113 @@
 {
-  "generated_at": "2026-07-11T00:14:13.456474+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-11T02:17:25.995028+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "特朗普",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "特朗普称将授权乌克兰本土生产“爱国者”导弹，专家：只是画大饼",
+          "url": "https://news.ifeng.com/c/8uec7dkVT5P",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时17分]"
+        },
+        {
+          "title": "特朗普搞中国那套，拿来对付西班牙？",
+          "url": "https://news.ifeng.com/c/8udchHV60GP",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时17分]"
+        },
+        {
+          "title": "特朗普：伊朗要求继续谈判 美已同意",
+          "url": "https://www.toutiao.com/trending/7660909473094962730/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "市场消息：四名美国参议员称，已与特朗普政府达成协议，将推进对俄制裁法案。",
+          "url": "https://flash.jin10.com/detail/20260711011248280800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "美国总统特朗普：我在伊朗的暗杀名单上排第一已经很久了。",
+          "url": "https://flash.jin10.com/detail/20260710231707241800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及如果被伊朗成功行刺）我希望你们会想念我。",
+          "url": "https://flash.jin10.com/detail/20260710231638624800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
+        },
+        {
+          "title": "特朗普宣布美伊“停火结束”后，美军称暂无行动变化",
+          "url": "https://wallstreetcn.com/livenews/3132190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "特朗普：我若遇刺 将对伊朗实施狂轰滥炸",
+          "url": "https://flash.jin10.com/detail/20260710230827186800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
+        },
+        {
+          "title": "特朗普：美方已同意继续和伊朗谈判",
+          "url": "https://wallstreetcn.com/livenews/3132146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 8,
@@ -12,11 +117,12 @@
           "url": "https://wallstreetcn.com/articles/3776623",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 00时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时17分]"
         },
         {
           "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
@@ -26,8 +132,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 00时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时17分]"
         },
         {
           "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
@@ -37,8 +143,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 00时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时17分]"
         },
         {
           "title": "SK海力士美股首日开盘报170美元 IPO发行价为149美元",
@@ -47,7 +153,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
         },
@@ -59,8 +165,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 00时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时17分]"
         },
         {
           "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
@@ -70,8 +176,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 00时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时17分]"
         },
         {
           "title": "存储芯片巨头SK海力士登陆美股",
@@ -81,8 +187,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 00时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时17分]"
         },
         {
           "title": "SK海力士美股首日开涨14%",
@@ -91,79 +197,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "特朗普称将授权乌克兰本土生产“爱国者”导弹，专家：只是画大饼",
-          "url": "https://news.ifeng.com/c/8uec7dkVT5P",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 00时14分]"
-        },
-        {
-          "title": "特朗普搞中国那套，拿来对付西班牙？",
-          "url": "https://news.ifeng.com/c/8udchHV60GP",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 00时14分]"
-        },
-        {
-          "title": "美国总统特朗普：我在伊朗的暗杀名单上排第一已经很久了。",
-          "url": "https://flash.jin10.com/detail/20260710231707241800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "美国总统特朗普：（谈及如果被伊朗成功行刺）我希望你们会想念我。",
-          "url": "https://flash.jin10.com/detail/20260710231638624800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "特朗普：我若遇刺 将对伊朗实施狂轰滥炸",
-          "url": "https://flash.jin10.com/detail/20260710230827186800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "特朗普：美方已同意继续和伊朗谈判",
-          "url": "https://wallstreetcn.com/livenews/3132146",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "00时14分"
         }
@@ -180,7 +214,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
         },
@@ -189,11 +223,12 @@
           "url": "https://www.cls.cn/detail/2423010",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 00时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时17分]"
         },
         {
           "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
@@ -203,8 +238,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 00时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时17分]"
         },
         {
           "title": "航天新突破,长十乙回收成功",
@@ -214,8 +249,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 00时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时17分]"
         },
         {
           "title": "爱尔兰瑞安航空客机飞行中舷窗炸裂",
@@ -231,6 +266,67 @@
       ]
     },
     {
+      "keyword_group": "农业 机械",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美国更新了关于药物残留和食品化学污染物的谅解备忘录。 美国农业部、卫生与公众服务部及环保署联合发布了关于食品污染物的更新版谅解备忘录。",
+          "url": "https://wallstreetcn.com/livenews/3132159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
+        },
+        {
+          "title": "美国农业部（USDA）：预计美国期末棉花库存410万捆，分析师预期377万捆，USDA之前预计370万捆。",
+          "url": "https://wallstreetcn.com/livenews/3132183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "美国农业部（USDA）：预计美国期末小麦总库存7.22亿蒲式耳，分析师预期7.1836亿蒲式耳，USDA之前预计7.44亿蒲式耳。",
+          "url": "https://wallstreetcn.com/livenews/3132182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "美国农业部（USDA）：预计美国期末玉米库存17.90亿蒲式耳，分析师预期18.9855亿蒲式耳，USDA之前预计19.60亿蒲式耳。",
+          "url": "https://wallstreetcn.com/livenews/3132181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "美国农业部（USDA）：预计美国期末大豆库存3.10亿蒲式耳，分析师预期3.3210亿蒲式耳，USDA之前预计3.10亿蒲式耳。",
+          "url": "https://wallstreetcn.com/livenews/3132180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "A股",
       "match_count": 3,
       "titles": [
@@ -242,8 +338,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 00时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时17分]"
         },
         {
           "title": "A股历史第四！存储“一哥”单日成交594亿，天量榜单还有谁？",
@@ -253,8 +349,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 00时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时17分]"
         },
         {
           "title": "A股商业航天板块午后“满屏涨停”",
@@ -270,23 +366,6 @@
       ]
     },
     {
-      "keyword_group": "农业 机械",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国更新了关于药物残留和食品化学污染物的谅解备忘录。 美国农业部、卫生与公众服务部及环保署联合发布了关于食品污染物的更新版谅解备忘录。",
-          "url": "https://wallstreetcn.com/livenews/3132159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -295,11 +374,29 @@
           "url": "https://wallstreetcn.com/articles/3776605",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 00时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.93%，暂报2213.15点，上周五结束交易以来（7*24）累计下跌0.99%，7月4-7日大致交投于2240点附近，7月8-10日呈现出V形走势。 MarketVectorTM数字资产100中盘指数涨3.05%，报2616.89点，最近七天累涨1.56%。 MarketVector数字资产100指数涨2.09%，报12715.52点，最近七天累涨2.55%。 目前，Solana跌0.09%、最近七天迄今累跌5.74%，狗狗币涨1.60%、最近七天迄今累跌4.95%，XRP涨0.75%、最近七天迄今累跌3.15%。 比特币涨1.38%，暂报64086.93美元，最近七天迄今累涨2.06；以太坊涨2.63%，暂报1793.54美元，最近七天迄今累涨1.64%。",
+          "url": "https://wallstreetcn.com/livenews/3132197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
         }
       ]
     }
