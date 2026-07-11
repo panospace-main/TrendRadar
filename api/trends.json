@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T02:43:51.214703+08:00",
-  "total_titles_processed": 356,
+  "generated_at": "2026-07-12T03:59:26.872823+08:00",
+  "total_titles_processed": 375,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2423581",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 03时59分]"
         },
         {
           "title": "A股下周怎么走",
@@ -39,8 +40,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 03时59分]"
         },
         {
           "title": "A股一周熊股出炉：最熊股跌超84%",
@@ -49,7 +50,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
         }
@@ -67,8 +68,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 03时59分]"
         },
         {
           "title": "美股处于“极度脆弱”的时候，财报季开启了",
@@ -78,30 +79,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 03时59分]"
         },
         {
           "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
           "url": "https://www.cls.cn/detail/2423438",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 03时59分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2423243",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 03时59分]"
         }
       ]
     },
@@ -114,11 +117,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 03时59分]"
         },
         {
           "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
@@ -128,8 +132,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 03时59分]"
         },
         {
           "title": "美国总统特朗普：我刚在沃尔特·里德医院完成了一次完美的体检。我每六个月做一次体检，此外，我还要求了另一项认知测试，我是唯一一位这样做的总统，三次测试我都通过了——每个问题都答对了。",
@@ -138,11 +142,12 @@
           "ranks": [
             1,
             5,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 03时59分]"
         },
         {
           "title": "特朗普在北约峰会说了什么",
@@ -151,11 +156,12 @@
           "ranks": [
             27,
             24,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 03时59分]"
         }
       ]
     },
@@ -171,8 +177,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 03时59分]"
         },
         {
           "title": "航天新突破,长十乙回收成功",
@@ -182,8 +188,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 03时59分]"
         }
       ]
     }
