@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T22:18:15.676162+08:00",
-  "total_titles_processed": 1482,
+  "generated_at": "2026-07-11T23:44:38.431814+08:00",
+  "total_titles_processed": 1554,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时05分 ~ 22时18分]"
+          "appearance_count": 10,
+          "time_info": "[15时05分 ~ 23时44分]"
+        },
+        {
+          "title": "特朗普：1000枚导弹已瞄准伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时05分 ~ 23时44分]"
         },
         {
           "title": "特朗普搞中国那套，拿来对付西班牙？",
@@ -29,19 +43,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时13分 ~ 13时03分]"
-        },
-        {
-          "title": "特朗普：1000枚导弹已瞄准伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时05分 ~ 22时18分]"
         },
         {
           "title": "特朗普称将授权乌克兰本土生产“爱国者”导弹，专家：只是画大饼",
@@ -308,7 +309,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -364,6 +365,20 @@
           "time_info": "[00时13分 ~ 07时47分]"
         },
         {
+          "title": "美股处于“极度脆弱”的时候，财报季开启了",
+          "url": "https://wallstreetcn.com/articles/3776694",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时05分 ~ 23时44分]"
+        },
+        {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
           "url": "https://wallstreetcn.com/articles/3776680",
           "source": "华尔街见闻",
@@ -376,22 +391,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[06时49分 ~ 22时18分]"
-        },
-        {
-          "title": "美股处于“极度脆弱”的时候，财报季开启了",
-          "url": "https://wallstreetcn.com/articles/3776694",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时05分 ~ 22时18分]"
+          "appearance_count": 16,
+          "time_info": "[06时49分 ~ 23时44分]"
         },
         {
           "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
@@ -419,8 +420,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时47分 ~ 22时18分]"
+          "appearance_count": 14,
+          "time_info": "[07时47分 ~ 23时44分]"
         },
         {
           "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
@@ -463,8 +464,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时13分 ~ 22时18分]"
+          "appearance_count": 22,
+          "time_info": "[00时13分 ~ 23时44分]"
         },
         {
           "title": "存储芯片巨头SK海力士登陆美股",
@@ -605,11 +606,12 @@
             16,
             18,
             19,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时13分 ~ 22时18分]"
+          "appearance_count": 22,
+          "time_info": "[00时13分 ~ 23时44分]"
         },
         {
           "title": "我国商业航天燃料实现多元化突破",
@@ -619,8 +621,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时17分 ~ 22时18分]"
+          "appearance_count": 3,
+          "time_info": "[22时17分 ~ 23时44分]"
         },
         {
           "title": "据以色列i24News：卫星图像显示，林肯号和布什号航空母舰目前距离伊朗海岸非常近，已进入伊朗导弹的可能射程之内。",
@@ -807,11 +809,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时43分 ~ 22时18分]"
+          "appearance_count": 6,
+          "time_info": "[19时43分 ~ 23时44分]"
         },
         {
           "title": "A股一周熊股出炉：最熊股跌超84%",
@@ -836,8 +839,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时44分 ~ 22时18分]"
+          "appearance_count": 4,
+          "time_info": "[19时44分 ~ 23时44分]"
         },
         {
           "title": "A股商业航天板块午后“满屏涨停”",
