@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T17:16:19.978544+08:00",
-  "total_titles_processed": 1155,
+  "generated_at": "2026-07-11T18:54:05.025983+08:00",
+  "total_titles_processed": 1250,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普搞中国那套，拿来对付西班牙？",
@@ -32,6 +32,17 @@
           "time_info": "[00时13分 ~ 13时03分]"
         },
         {
+          "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
+          "url": "https://news.ifeng.com/c/8ufglrDUNWy",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时05分 ~ 18时54分]"
+        },
+        {
           "title": "特朗普：伊朗要求继续谈判 美已同意",
           "url": "https://www.toutiao.com/trending/7660909473094962730/",
           "source": "今日头条",
@@ -45,26 +56,16 @@
           "time_info": "[02时17分 ~ 07时47分]"
         },
         {
-          "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
-          "url": "https://news.ifeng.com/c/8ufglrDUNWy",
-          "source": "凤凰网",
+          "title": "特朗普：1000枚导弹已瞄准伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
+          "source": "澎湃新闻",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时05分 ~ 17时16分]"
-        },
-        {
-          "title": "特朗普改口：美加跨国大桥将于27日通车",
-          "url": "https://wallstreetcn.com/livenews/3132331",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
+            7,
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时16分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时05分 ~ 18时54分]"
         },
         {
           "title": "美国总统特朗普与沙特王储讨论伊朗问题。（Axios）",
@@ -79,16 +80,16 @@
           "time_info": "[07时47分 ~ 09时28分]"
         },
         {
-          "title": "特朗普：1000枚导弹已瞄准伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
-          "source": "澎湃新闻",
+          "title": "特朗普改口：美加跨国大桥将于27日通车",
+          "url": "https://wallstreetcn.com/livenews/3132331",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            4
+            4,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时05分 ~ 17时16分]"
+          "time_info": "[17时16分 ~ 18时54分]"
         },
         {
           "title": "美国总统特朗普：原来的那份协议我无法接受！新协议很棒，也很公平。感谢加拿大政府，并祝贺他们。愿我们两国在这一精彩的新工程上共同取得多年成功！！",
@@ -115,6 +116,19 @@
           "time_info": "[13时03分 ~ 15时05分]"
         },
         {
+          "title": "白宫证实特朗普已“清空”美选举援助委员会",
+          "url": "https://wallstreetcn.com/livenews/3132310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时05分 ~ 18时54分]"
+        },
+        {
           "title": "特朗普又来喊单？2美元战争报价暴露开火空间！",
           "url": "https://flash.jin10.com/detail/20260711120244661800",
           "source": "金十数据",
@@ -125,6 +139,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时03分 ~ 15时05分]"
+        },
+        {
+          "title": "特朗普改口：美加跨国大桥将于27日通车",
+          "url": "https://flash.jin10.com/detail/20260711162225573800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 18时54分]"
         },
         {
           "title": "特朗普：1000枚导弹已瞄准伊朗",
@@ -151,16 +177,15 @@
           "time_info": "[13时03分 ~ 15时05分]"
         },
         {
-          "title": "白宫证实特朗普已“清空”美选举援助委员会",
-          "url": "https://wallstreetcn.com/livenews/3132310",
-          "source": "华尔街见闻-快讯",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-11）",
+          "url": "https://flash.jin10.com/detail/20260711180323221800",
+          "source": "金十数据",
           "ranks": [
-            15,
-            25
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时05分 ~ 17时16分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "沙特王储与特朗普通电话，谈及美伊谈判",
@@ -183,17 +208,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
-        },
-        {
-          "title": "特朗普改口：美加跨国大桥将于27日通车",
-          "url": "https://flash.jin10.com/detail/20260711162225573800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时16分"
         },
         {
           "title": "据AXIOS：美国总统特朗普与沙特王储于周五就地区问题进行会谈，包括美伊谈判。",
@@ -313,17 +327,34 @@
           "time_info": "[00时13分 ~ 07时47分]"
         },
         {
+          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
+          "url": "https://wallstreetcn.com/articles/3776680",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时49分 ~ 18时54分]"
+        },
+        {
           "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
           "url": "https://www.cls.cn/detail/2423160",
           "source": "财联社热门",
           "ranks": [
             5,
             4,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 17时16分]"
+          "appearance_count": 16,
+          "time_info": "[00时13分 ~ 18时54分]"
         },
         {
           "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
@@ -355,32 +386,31 @@
           "time_info": "[00时13分 ~ 05时51分]"
         },
         {
-          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
-          "url": "https://wallstreetcn.com/articles/3776680",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时49分 ~ 17时16分]"
-        },
-        {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2423243",
           "source": "财联社热门",
           "ranks": [
             9,
             8,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 17时16分]"
+          "appearance_count": 16,
+          "time_info": "[00时13分 ~ 18时54分]"
+        },
+        {
+          "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
+          "url": "https://www.cls.cn/detail/2423438",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时47分 ~ 18时54分]"
         },
         {
           "title": "存储芯片巨头SK海力士登陆美股",
@@ -394,19 +424,6 @@
           "time_info": "[00时13分 ~ 06时50分]"
         },
         {
-          "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
-          "url": "https://www.cls.cn/detail/2423438",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时47分 ~ 17时16分]"
-        },
-        {
           "title": "AI叙事助美股三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌",
           "url": "https://wallstreetcn.com/articles/3776623",
           "source": "华尔街见闻",
@@ -418,6 +435,19 @@
           "time_info": "[06时49分 ~ 06时50分]"
         },
         {
+          "title": "美股处于“极度脆弱”的时候，财报季开启了",
+          "url": "https://wallstreetcn.com/articles/3776694",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时05分 ~ 18时54分]"
+        },
+        {
           "title": "SK海力士美股首日开盘报170美元 IPO发行价为149美元",
           "url": "https://flash.jin10.com/detail/20260710234610274800",
           "source": "金十数据",
@@ -427,18 +457,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
-        },
-        {
-          "title": "美股处于“极度脆弱”的时候，财报季开启了",
-          "url": "https://wallstreetcn.com/articles/3776694",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时05分 ~ 17时16分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，日元做多收涨超0.4%",
@@ -547,8 +565,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 17时16分]"
+          "appearance_count": 16,
+          "time_info": "[00时13分 ~ 18时54分]"
         },
         {
           "title": "据以色列i24News：卫星图像显示，林肯号和布什号航空母舰目前距离伊朗海岸非常近，已进入伊朗导弹的可能射程之内。",
@@ -775,7 +793,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "又一批A股公司业绩亮眼！5股半年报净利预计增长10倍",
@@ -785,8 +803,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 17时16分]"
+          "appearance_count": 16,
+          "time_info": "[00时13分 ~ 18时54分]"
         },
         {
           "title": "A股历史第四！存储“一哥”单日成交594亿，天量榜单还有谁？",
@@ -811,6 +829,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时13分 ~ 00时14分]"
+        },
+        {
+          "title": "A股一周熊股出炉：最熊股跌超84%",
+          "url": "https://www.toutiao.com/trending/7660657298100764698/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 18时54分]"
         }
       ]
     },
