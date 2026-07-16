@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T12:50:13.371848+08:00",
-  "total_titles_processed": 1059,
+  "generated_at": "2026-07-16T15:15:12.301357+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 71,
+      "match_count": 72,
       "titles": [
         {
           "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
@@ -64,11 +64,12 @@
             15,
             14,
             11,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时04分 ~ 12时50分]"
+          "appearance_count": 13,
+          "time_info": "[01时04分 ~ 15时15分]"
         },
         {
           "title": "特朗普称俄罗斯已准备好达成协议以结束俄乌冲突",
@@ -78,11 +79,12 @@
             19,
             16,
             14,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时54分 ~ 12时50分]"
+          "appearance_count": 11,
+          "time_info": "[02时54分 ~ 15时15分]"
         },
         {
           "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
@@ -95,6 +97,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时04分 ~ 09时26分]"
+        },
+        {
+          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
+          "url": "https://wallstreetcn.com/articles/3777042",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时47分 ~ 15时15分]"
         },
         {
           "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
@@ -120,18 +137,15 @@
           "time_info": "[01时04分 ~ 02时54分]"
         },
         {
-          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
-          "url": "https://wallstreetcn.com/articles/3777042",
-          "source": "华尔街见闻",
+          "title": "特朗普感谢伊朗",
+          "url": "https://news.ifeng.com/c/8undGPmAvXz",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            9,
-            6,
-            5
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时47分 ~ 12时50分]"
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 15时15分]"
         },
         {
           "title": "美媒：特朗普倾向扩大对伊军事行动，选项包括夺取哈尔克岛",
@@ -189,6 +203,17 @@
           "time_info": "04时02分"
         },
         {
+          "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
+          "url": "https://www.zhihu.com/question/2060762952576323839",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时26分 ~ 15时15分]"
+        },
+        {
           "title": "美国总统特朗普：重申美国无需风电。",
           "url": "https://wallstreetcn.com/livenews/3134588",
           "source": "华尔街见闻-快讯",
@@ -211,17 +236,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时05分 ~ 02时54分]"
-        },
-        {
-          "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
-          "url": "https://www.zhihu.com/question/2060762952576323839",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时26分 ~ 12时50分]"
         },
         {
           "title": "美国总统特朗普要求纽约州立即改变数据中心政策。",
@@ -663,7 +677,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
         },
@@ -814,7 +828,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
@@ -844,6 +858,19 @@
           "time_info": "[01时04分 ~ 12时50分]"
         },
         {
+          "title": "美股收盘：三大股指小幅收涨 中概股集体走强 存储板块逆势暴跌",
+          "url": "https://www.cls.cn/detail/2427818",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时47分 ~ 15时15分]"
+        },
+        {
           "title": "美国通胀降温提振美股，存储跌幅扩大，戴尔重挫13%，油价转跌",
           "url": "https://wallstreetcn.com/articles/3776964",
           "source": "华尔街见闻",
@@ -855,6 +882,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时04分 ~ 04时02分]"
+        },
+        {
+          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时49分 ~ 15时15分]"
         },
         {
           "title": "美国6月PPI低于预期 美股期指走高 阿斯麦财报提振芯片股 | 今夜看点",
@@ -870,19 +908,6 @@
           "time_info": "[01时04分 ~ 09时26分]"
         },
         {
-          "title": "美股收盘：三大股指小幅收涨 中概股集体走强 存储板块逆势暴跌",
-          "url": "https://www.cls.cn/detail/2427818",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时47分 ~ 12时50分]"
-        },
-        {
           "title": "PPI确认通胀降温，美股小幅收涨，美光、闪迪暴跌8%，原油、黄金走V",
           "url": "https://wallstreetcn.com/articles/3776964",
           "source": "华尔街见闻",
@@ -892,17 +917,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时46分 ~ 06时47分]"
-        },
-        {
-          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
-          "url": "https://wallstreetcn.com/articles/3776964",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
         },
         {
           "title": "SK海力士美股单日暴涨27%，较韩股溢价超50%！期权上市刺激交投，资金押注短期看涨",
@@ -1008,6 +1022,17 @@
           "time_info": "05时46分"
         },
         {
+          "title": "台积电美股夜盘跌0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3134862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
           "title": "金十图示：2026年07月15日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260716040558899800",
           "source": "金十数据",
@@ -1065,104 +1090,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
-          "url": "https://wallstreetcn.com/articles/3777063",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
-        },
-        {
-          "title": "美股存储芯片指数初步收跌6.4%，半导体指数跌2.1%。 纳斯达克100指数初步收跌0.3%，成分股中，西部数据初步收跌8.7%，闪迪跌8.5%，美光跌7.9%，Lumentum跌7.3%，希捷科技跌6.1%，思科、英特尔、CoreWeave、AMD至少跌3.4%，Meta、谷歌A涨3%，苹果涨4.1%，汤森路透涨4.2%，PayPal涨17.4%。 亚马逊、微软、3M、Merck初步收涨超2%，与苹果、谷歌A领跑道指成分股。",
-          "url": "https://wallstreetcn.com/livenews/3134592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
-          "title": "美国启动特定DRAM设备337调查 三星电子、谷歌、英伟达等被列为被告",
-          "url": "https://wallstreetcn.com/livenews/3134804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时50分"
-        },
-        {
-          "title": "周三（7月15日），美股信息科技指数跌3.43%，报398.76点。成分股中，戴尔科技收跌9.80%，与西部数据、闪迪、美光科技、Lumentum表现最差，甲骨文涨3.56%、与苹果领跑。 人工智能（AI）赢家指数跌2.51%，报400.58点。成分股中，戴尔、西数、闪迪、美光、Lumentum领跌，Meta、谷歌A、甲骨文领涨。 AI软件先驱指数跌0.18%，报110.87点。成分股MongoDB收跌3.37%，领跌，甲骨文领涨。",
-          "url": "https://wallstreetcn.com/livenews/3134609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时46分 ~ 06时47分]"
-        },
-        {
-          "title": "周三（7月15日），美股超大规模云服务商（Hyperscalers）涨3.10%，报96.09点。 成分股普遍收涨，甲骨文、谷歌A、Meta、亚马逊涨3.56%-3.02%，微软涨2.78%。",
-          "url": "https://wallstreetcn.com/livenews/3134608",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时46分 ~ 06时47分]"
-        },
-        {
-          "title": "巴菲特最新访谈：批评当下市场投机潮 揭秘押注谷歌的逻辑",
-          "url": "https://www.cls.cn/detail/2427717",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "谷歌公司下周将允许第三方应用商城登陆其应用商店。 谷歌在与Epic的官司中撤销了要求修改法院判决的诉求。",
-          "url": "https://wallstreetcn.com/livenews/3134515",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周三（7月15日），美国科技股七巨头（Magnificent 7）指数涨2.41%，连续第二个交易日走高，报223.13点。 成分股中，苹果收涨4.01%，刷新收盘历史高位至327.50美元，收盘市值4.81万亿美元——相比之下英伟达5.14万亿美元；谷歌A涨3.17%，巴菲特称他启动了伯克希尔哈撒韦对谷歌母公司Alphabet的投资。 “超大”市值科技股指数涨1.12%，报446.55点。",
-          "url": "https://wallstreetcn.com/livenews/3134606",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        }
-      ]
-    },
-    {
       "keyword_group": "A股",
-      "match_count": 5,
+      "match_count": 12,
       "titles": [
         {
           "title": "A股被“猴子”刷屏，公募被创新药热点包围，资金要换方向了？",
@@ -1194,11 +1123,56 @@
           "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4A%E8%82%A1%E6%9C%80%E5%A4%A7IPO%EF%BC%81%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%90%AF%E5%8A%A8%E7%94%B3%E8%B4%AD",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时49分 ~ 15时15分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时49分 ~ 12时50分]"
+          "time_info": "[15时14分 ~ 15时15分]"
+        },
+        {
+          "title": "A股中际旭创成交额达300亿元，现跌5.58%。",
+          "url": "https://wallstreetcn.com/livenews/3134879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "A股收评：创业板指回落收跌2.95% 半导体、CPO等算力硬件股领跌",
+          "url": "https://flash.jin10.com/detail/20260716150426340800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "A股证券板块午后震荡走弱，华安证券触及跌停，中金公司、招商证券、长江证券、中信建投均跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3134876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-07-16）",
@@ -1212,6 +1186,17 @@
           "time_info": "09时26分"
         },
         {
+          "title": "A股存储芯片板块持续回落，兆易创新、太极实业、华天科技、长电科技、德明利等多股封跌停板，澜起科技跌超18%，江丰电子、恒烁股份、国科微等跌超10%。",
+          "url": "https://wallstreetcn.com/livenews/3134873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
           "title": "A股温度计",
           "url": "https://flash.jin10.com/detail/20260716085707983800",
           "source": "金十数据",
@@ -1221,6 +1206,126 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "A股兆易创新午后跌停，日内成交额超270亿元。",
+          "url": "https://wallstreetcn.com/livenews/3134856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "A股锂金属板块拉升，天齐锂业涨超7%，融捷股份、赣锋锂业跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3134852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
+          "url": "https://wallstreetcn.com/articles/3777063",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时49分 ~ 15时15分]"
+        },
+        {
+          "title": "美股存储芯片指数初步收跌6.4%，半导体指数跌2.1%。 纳斯达克100指数初步收跌0.3%，成分股中，西部数据初步收跌8.7%，闪迪跌8.5%，美光跌7.9%，Lumentum跌7.3%，希捷科技跌6.1%，思科、英特尔、CoreWeave、AMD至少跌3.4%，Meta、谷歌A涨3%，苹果涨4.1%，汤森路透涨4.2%，PayPal涨17.4%。 亚马逊、微软、3M、Merck初步收涨超2%，与苹果、谷歌A领跑道指成分股。",
+          "url": "https://wallstreetcn.com/livenews/3134592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "美国启动特定DRAM设备337调查 三星电子、谷歌、英伟达等被列为被告",
+          "url": "https://wallstreetcn.com/livenews/3134804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        },
+        {
+          "title": "巴菲特最新访谈：批评当下市场投机潮 揭秘押注谷歌的逻辑",
+          "url": "https://www.cls.cn/detail/2427717",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时26分 ~ 15时15分]"
+        },
+        {
+          "title": "周三（7月15日），美股信息科技指数跌3.43%，报398.76点。成分股中，戴尔科技收跌9.80%，与西部数据、闪迪、美光科技、Lumentum表现最差，甲骨文涨3.56%、与苹果领跑。 人工智能（AI）赢家指数跌2.51%，报400.58点。成分股中，戴尔、西数、闪迪、美光、Lumentum领跌，Meta、谷歌A、甲骨文领涨。 AI软件先驱指数跌0.18%，报110.87点。成分股MongoDB收跌3.37%，领跌，甲骨文领涨。",
+          "url": "https://wallstreetcn.com/livenews/3134609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时46分 ~ 06时47分]"
+        },
+        {
+          "title": "周三（7月15日），美股超大规模云服务商（Hyperscalers）涨3.10%，报96.09点。 成分股普遍收涨，甲骨文、谷歌A、Meta、亚马逊涨3.56%-3.02%，微软涨2.78%。",
+          "url": "https://wallstreetcn.com/livenews/3134608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时46分 ~ 06时47分]"
+        },
+        {
+          "title": "谷歌公司下周将允许第三方应用商城登陆其应用商店。 谷歌在与Epic的官司中撤销了要求修改法院判决的诉求。",
+          "url": "https://wallstreetcn.com/livenews/3134515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周三（7月15日），美国科技股七巨头（Magnificent 7）指数涨2.41%，连续第二个交易日走高，报223.13点。 成分股中，苹果收涨4.01%，刷新收盘历史高位至327.50美元，收盘市值4.81万亿美元——相比之下英伟达5.14万亿美元；谷歌A涨3.17%，巴菲特称他启动了伯克希尔哈撒韦对谷歌母公司Alphabet的投资。 “超大”市值科技股指数涨1.12%，报446.55点。",
+          "url": "https://wallstreetcn.com/livenews/3134606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时47分"
         }
       ]
     },
@@ -1327,7 +1432,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
         }
@@ -1372,9 +1477,26 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年07月16日（周四）上海金午盘价为878.07元/克，较国际金价（约为876.59元/克），高1.48元/克。",
+          "url": "https://flash.jin10.com/detail/20260716150205331800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         }
       ]
     },
