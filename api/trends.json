@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T02:54:52.649376+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-07-17T03:56:19.781498+08:00",
+  "total_titles_processed": 447,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
@@ -15,30 +15,66 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时56分]"
         },
         {
-          "title": "谷歌A跌幅扩大至2.7%。",
-          "url": "https://wallstreetcn.com/livenews/3135230",
+          "title": "谷歌母公司Alphabet（谷歌A）重挫5%刷新日低，报道称谷歌Gemini模型将推迟发布。",
+          "url": "https://wallstreetcn.com/livenews/3135246",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "03时56分"
+        },
+        {
+          "title": "谷歌A跌幅扩大至2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3135230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 03时56分]"
         },
         {
           "title": "报道：谷歌Gemini旗舰模型发布推迟，技术能力未达预期目标",
           "url": "https://wallstreetcn.com/livenews/3135223",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 03时56分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)日内跌近3%，有消息称谷歌Gemini 3.5 Pro推迟发布。",
+          "url": "https://flash.jin10.com/detail/20260717022948795800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 03时56分]"
+        },
+        {
+          "title": "谷歌盘中跌超4%，有报道称Gemini 3.5 Pro延迟发布",
+          "url": "https://flash.jin10.com/detail/20260717032122881800",
+          "source": "金十数据",
+          "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "03时56分"
         },
         {
           "title": "谷歌(GOOG.O)在美国上线搜索AI模式应用集成功能，支持与更多应用协同。",
@@ -50,17 +86,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        },
-        {
-          "title": "谷歌(GOOG.O)日内跌近3%，有消息称谷歌Gemini 3.5 Pro推迟发布。",
-          "url": "https://flash.jin10.com/detail/20260717022948795800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时54分"
         },
         {
           "title": "谷歌(GOOG.O)：Google Vids上线Gemini Omni和个人数字形象功能，面向Google AI Pro、AI Ultra订阅用户及Workspace企业客户开放。",
@@ -102,7 +127,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         },
@@ -135,7 +160,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         }
@@ -143,7 +168,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -153,19 +178,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时56分]"
         },
         {
           "title": "据CBS：美国总统特朗普将于当地时间7月22日访问亚特兰大都会区一所高中，推广新的“特朗普账户”投资计划。",
           "url": "https://flash.jin10.com/detail/20260717024018004800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 03时56分]"
+        },
+        {
+          "title": "伊朗称特朗普关于美国囚犯获释的说法不实",
+          "url": "https://wallstreetcn.com/livenews/3135237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "03时56分"
         },
         {
           "title": "特朗普将赴世界杯现场观看决赛",
@@ -174,7 +211,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         },
@@ -185,7 +222,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         },
@@ -196,7 +233,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         },
@@ -225,8 +262,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时56分]"
         },
         {
           "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
@@ -236,8 +273,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时56分]"
         },
         {
           "title": "金十图示：2026年07月16日（周四）热门中概股行情一览（美股盘中）",
@@ -258,8 +295,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时56分]"
         },
         {
           "title": "美股存储芯片指数跌幅扩大至7%，闪迪跌幅扩大至10%，西部数据跌近9%。SK海力士ADR跌8.6%。费城半导体指数目前跌3.5%，纳斯达克100指数维持超过0.9%的跌幅。",
@@ -284,11 +321,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时56分]"
         },
         {
           "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
@@ -299,8 +337,53 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7711元，较周三夜盘收盘跌14点。成交量452.20亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3135240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
+          "title": "上期所原油期货2609合约夜盘收跌0.46%，报514.40元人民币/桶。 沪金夜盘收跌1.34%，沪银收跌3.15%。",
+          "url": "https://wallstreetcn.com/livenews/3135232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "航天 航空",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国国家运输安全委员会表示，将牵头调查瑞安航空一架波音737(BA.N)客机发生的事故。事故中，一名乘客因机窗相关故障被部分吸出窗外。",
+          "url": "https://flash.jin10.com/detail/20260717032909888800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
         }
       ]
     },
@@ -315,7 +398,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         }
@@ -332,7 +415,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         }
