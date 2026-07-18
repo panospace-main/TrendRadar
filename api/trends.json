@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T04:42:44.420310+08:00",
-  "total_titles_processed": 459,
+  "generated_at": "2026-07-19T05:40:35.350190+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "白宫声称特朗普并非针对中国",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时40分]"
         },
         {
           "title": "穆杰塔巴：特朗普的签名毫无价值、无效",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时58分 ~ 04时42分]"
+          "appearance_count": 4,
+          "time_info": "[03时58分 ~ 05时40分]"
         },
         {
           "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
@@ -38,8 +38,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时40分]"
         },
         {
           "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
@@ -50,8 +50,49 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时40分]"
+        },
+        {
+          "title": "如何看待白宫提词器操作员提前获取特朗普演讲稿，并据此押注获利近 10 万元，最终被调查？",
+          "url": "https://www.zhihu.com/question/2061441397995954863",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13,
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时40分]"
+        },
+        {
+          "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33612068",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时40分]"
+        },
+        {
+          "title": "特朗普透露：因凡蒂诺曾建议美国和中国联合举办一届世界杯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33611562",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时40分]"
         },
         {
           "title": "美媒：特朗普政府仍未说明本轮冲突的持续时间与最终目标",
@@ -67,44 +108,15 @@
           "time_info": "[01时46分 ~ 03时59分]"
         },
         {
-          "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33612068",
-          "source": "澎湃新闻",
+          "title": "据黎巴嫩国家通讯社：黎巴嫩总统奥恩已抵达华盛顿，将于明日开始与美国国务卿鲁比奥会面，并于下周二与美国总统特朗普会晤。",
+          "url": "https://flash.jin10.com/detail/20260719045619804800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            11,
-            10
+            3
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时42分]"
-        },
-        {
-          "title": "如何看待白宫提词器操作员提前获取特朗普演讲稿，并据此押注获利近 10 万元，最终被调查？",
-          "url": "https://www.zhihu.com/question/2061441397995954863",
-          "source": "知乎",
-          "ranks": [
-            12,
-            13,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时42分]"
-        },
-        {
-          "title": "特朗普透露：因凡蒂诺曾建议美国和中国联合举办一届世界杯",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33611562",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时42分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
         },
         {
           "title": "特朗普政府拟向欧洲等地提供拨款 支持“MAGA”导向项目",
@@ -158,6 +170,17 @@
           "time_info": "[01时46分 ~ 02时44分]"
         },
         {
+          "title": "伊朗驻巴基斯坦大使：特朗普摧毁了两项重要外交成果",
+          "url": "https://flash.jin10.com/detail/20260719043315182800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
+        },
+        {
           "title": "伊朗最高领袖指责美国一再违约，称：特朗普的签名“毫无价值、无效”",
           "url": "https://wallstreetcn.com/livenews/3136073",
           "source": "华尔街见闻-快讯",
@@ -182,8 +205,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时40分]"
         },
         {
           "title": "龙头9天7板 本周披露并购重组进展的A股名单一览",
@@ -194,8 +217,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时40分]"
         }
       ]
     },
@@ -211,8 +234,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时40分]"
         },
         {
           "title": "中信建投：随着市场风偏的修复 看好商业航天板块后续表现",
@@ -243,8 +266,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时40分]"
         },
         {
           "title": "国际金价险守4000美元关口 美伊冲突升级双方扩大打击范围 | 环球市场",
@@ -254,8 +277,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时40分]"
         }
       ]
     },
@@ -271,8 +294,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时40分]"
         },
         {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
@@ -283,8 +306,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时40分]"
         }
       ]
     },
@@ -302,8 +325,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 05时40分]"
         }
       ]
     }
