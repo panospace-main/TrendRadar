@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T19:44:30.916413+08:00",
-  "total_titles_processed": 1363,
+  "generated_at": "2026-07-18T20:48:07.840744+08:00",
+  "total_titles_processed": 1465,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
@@ -51,8 +51,33 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时41分 ~ 19时44分]"
+          "appearance_count": 5,
+          "time_info": "[16时41分 ~ 20时48分]"
+        },
+        {
+          "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
+          "url": "https://news.ifeng.com/c/8ur9XDi7eVj",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时38分 ~ 20时48分]"
+        },
+        {
+          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时53分 ~ 20时48分]"
         },
         {
           "title": "台积电加码对美投资，特朗普：邀请所有人前来美国建厂",
@@ -75,18 +100,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时58分"
-        },
-        {
-          "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
-          "url": "https://news.ifeng.com/c/8ur9XDi7eVj",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时38分 ~ 19时44分]"
         },
         {
           "title": "市场消息：美国法官裁定，特朗普政府无权因新的政策优先事项而广泛取消拨款资金。",
@@ -153,19 +166,6 @@
           "time_info": "[03时58分 ~ 04时46分]"
         },
         {
-          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时53分 ~ 19时44分]"
-        },
-        {
           "title": "特朗普再谈巴洛贡红牌事件",
           "url": "https://news.ifeng.com/c/8ur69Rbmt2A",
           "source": "凤凰网",
@@ -175,6 +175,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时38分 ~ 16时41分]"
+        },
+        {
+          "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33612068",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时44分 ~ 20时48分]"
         },
         {
           "title": "特朗普：因凡蒂诺建议中美合办世界杯",
@@ -256,6 +267,17 @@
           "time_info": "03时58分"
         },
         {
+          "title": "美媒：一项允许沙特进行铀浓缩的核协议悬而未决，尚待特朗普政府批准",
+          "url": "https://flash.jin10.com/detail/20260718202124153800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
+        },
+        {
           "title": "美国总统特朗普：要求加拿大对其森林维护不当的事实承担责任。",
           "url": "https://flash.jin10.com/detail/20260718032553853800",
           "source": "金十数据",
@@ -284,7 +306,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -298,17 +320,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
-        },
-        {
-          "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33612068",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时44分"
         },
         {
           "title": "媒体：“毫秒级速度”获取特朗普帖文，特朗普媒体科技集团报价10万美元/月",
@@ -381,8 +392,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时38分 ~ 19时44分]"
+          "appearance_count": 10,
+          "time_info": "[06时38分 ~ 20时48分]"
         },
         {
           "title": "美股存储芯片指数本周跌超17%，较收盘历史最高位已回撤超31%",
@@ -546,8 +557,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时38分 ~ 19时44分]"
+          "appearance_count": 7,
+          "time_info": "[12时38分 ~ 20时48分]"
         },
         {
           "title": "A股年内最强无差别杀跌",
@@ -599,6 +610,18 @@
           "time_info": "[07时42分 ~ 12时38分]"
         },
         {
+          "title": "龙头9天7板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2430229",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时44分 ~ 20时48分]"
+        },
+        {
           "title": "A股杀跌是中期调整还是牛市结束",
           "url": "https://www.toutiao.com/trending/7663417152111644223/",
           "source": "今日头条",
@@ -630,17 +653,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
-        },
-        {
-          "title": "龙头9天7板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2430229",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时44分"
         }
       ]
     },
@@ -911,8 +923,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时42分 ~ 19时44分]"
+          "appearance_count": 9,
+          "time_info": "[07时42分 ~ 20时48分]"
         }
       ]
     }
