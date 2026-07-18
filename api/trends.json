@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T20:48:07.840744+08:00",
-  "total_titles_processed": 1465,
+  "generated_at": "2026-07-18T22:15:50.215573+08:00",
+  "total_titles_processed": 1574,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
@@ -51,8 +51,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时41分 ~ 20时48分]"
+          "appearance_count": 6,
+          "time_info": "[16时41分 ~ 22时15分]"
         },
         {
           "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
@@ -63,8 +63,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时38分 ~ 20时48分]"
+          "appearance_count": 8,
+          "time_info": "[12时38分 ~ 22时15分]"
         },
         {
           "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
@@ -73,11 +73,12 @@
           "ranks": [
             15,
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时53分 ~ 20时48分]"
+          "appearance_count": 7,
+          "time_info": "[14时53分 ~ 22时15分]"
         },
         {
           "title": "台积电加码对美投资，特朗普：邀请所有人前来美国建厂",
@@ -166,6 +167,18 @@
           "time_info": "[03时58分 ~ 04时46分]"
         },
         {
+          "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33612068",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时44分 ~ 22时15分]"
+        },
+        {
           "title": "特朗普再谈巴洛贡红牌事件",
           "url": "https://news.ifeng.com/c/8ur69Rbmt2A",
           "source": "凤凰网",
@@ -175,17 +188,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时38分 ~ 16时41分]"
-        },
-        {
-          "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33612068",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时44分 ~ 20时48分]"
         },
         {
           "title": "特朗普：因凡蒂诺建议中美合办世界杯",
@@ -273,7 +275,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -309,6 +311,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
+        },
+        {
+          "title": "如何看待白宫提词器操作员提前获取特朗普演讲稿，并据此押注获利近 10 万元，最终被调查？",
+          "url": "https://www.zhihu.com/question/2061441397995954863",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "曝特朗普买股票后在社媒发有利信息",
@@ -358,7 +371,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
@@ -389,11 +402,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时38分 ~ 20时48分]"
+          "appearance_count": 11,
+          "time_info": "[06时38分 ~ 22时15分]"
         },
         {
           "title": "美股存储芯片指数本周跌超17%，较收盘历史最高位已回撤超31%",
@@ -498,6 +512,17 @@
           "time_info": "[04时46分 ~ 05时41分]"
         },
         {
+          "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
+          "url": "https://wallstreetcn.com/articles/3777263",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "如何甄别美股的漂亮话",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%94%84%E5%88%AB%E7%BE%8E%E8%82%A1%E7%9A%84%E6%BC%82%E4%BA%AE%E8%AF%9D",
           "source": "bilibili 热搜",
@@ -554,11 +579,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时38分 ~ 20时48分]"
+          "appearance_count": 8,
+          "time_info": "[12时38分 ~ 22时15分]"
         },
         {
           "title": "A股年内最强无差别杀跌",
@@ -572,6 +598,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时57分 ~ 07时42分]"
+        },
+        {
+          "title": "龙头9天7板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2430229",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时44分 ~ 22时15分]"
         },
         {
           "title": "A股“股王”11个月25次易主",
@@ -610,18 +649,6 @@
           "time_info": "[07时42分 ~ 12时38分]"
         },
         {
-          "title": "龙头9天7板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2430229",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时44分 ~ 20时48分]"
-        },
-        {
           "title": "A股杀跌是中期调整还是牛市结束",
           "url": "https://www.toutiao.com/trending/7663417152111644223/",
           "source": "今日头条",
@@ -658,7 +685,7 @@
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美国联邦航空管理局（FAA）：波音飞机认证恢复工作将于7月20日生效。 FAA将允许波音恢复对所有737 MAX及787飞机的认证。 FAA批准波音恢复颁发适航证书。",
@@ -697,6 +724,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "上海标志性太空算力星座工程发布 剑指千星部署 商业航天再迎催化",
+          "url": "https://www.cls.cn/detail/2430247",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "科威特航空表示，由于科威特空域在周六关闭，已重新安排大部分航班。",
@@ -829,6 +867,38 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国际金价险守4000美元关口 美伊冲突升级双方扩大打击范围 | 环球市场",
+          "url": "https://www.cls.cn/detail/2430073",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时42分 ~ 22时15分]"
+        },
+        {
+          "title": "这周金价发生了什么",
+          "url": "https://www.toutiao.com/trending/7663819778364345910/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -904,27 +974,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时07分 ~ 06时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国际金价险守4000美元关口 美伊冲突升级双方扩大打击范围 | 环球市场",
-          "url": "https://www.cls.cn/detail/2430073",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时42分 ~ 20时48分]"
         }
       ]
     }
