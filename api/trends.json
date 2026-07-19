@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T17:44:21.077392+08:00",
-  "total_titles_processed": 1143,
+  "generated_at": "2026-07-19T19:04:14.863968+08:00",
+  "total_titles_processed": 1271,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "穆杰塔巴：特朗普的签名毫无价值、无效",
@@ -60,6 +60,20 @@
           "time_info": "[00时43分 ~ 13时02分]"
         },
         {
+          "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
+          "url": "https://www.cls.cn/detail/2430341",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时01分 ~ 19时04分]"
+        },
+        {
           "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
           "url": "https://news.ifeng.com/c/8ur9XDi7eVj",
           "source": "凤凰网",
@@ -98,17 +112,15 @@
           "time_info": "[00时43分 ~ 07时42分]"
         },
         {
-          "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
-          "url": "https://www.cls.cn/detail/2430341",
-          "source": "财联社热门",
+          "title": "美国援外大转向：特朗普要向欧洲输出“MAGA”",
+          "url": "https://news.ifeng.com/c/8utCDuus6XE",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            4,
-            3
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时01分 ~ 17时44分]"
+          "appearance_count": 2,
+          "time_info": "[19时03分 ~ 19时04分]"
         },
         {
           "title": "美媒：特朗普政府仍未说明本轮冲突的持续时间与最终目标",
@@ -122,6 +134,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时46分 ~ 03时59分]"
+        },
+        {
+          "title": "谁将与特朗普同举大力神杯",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E5%B0%86%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E4%B8%BE%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            25,
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时01分 ~ 19时04分]"
         },
         {
           "title": "据黎巴嫩国家通讯社：黎巴嫩总统奥恩已抵达华盛顿，将于明日开始与美国国务卿鲁比奥会面，并于下周二与美国总统特朗普会晤。",
@@ -199,19 +225,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时40分 ~ 09时28分]"
-        },
-        {
-          "title": "谁将与特朗普同举大力神杯",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E5%B0%86%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E4%B8%BE%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            25,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时01分 ~ 17时44分]"
         },
         {
           "title": "据NewsNation：特朗普在得知两名美国军人在伊朗袭击中丧生的消息后首次作出回应。他表示：“这是一件非常悲伤的事情。我们不愿看到这种情况发生。他们是在为我们的国家服役。”",
@@ -293,11 +306,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时43分 ~ 17时44分]"
+          "appearance_count": 17,
+          "time_info": "[00时43分 ~ 19时04分]"
         },
         {
           "title": "龙头9天7板 本周披露并购重组进展的A股名单一览",
@@ -306,11 +320,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时43分 ~ 17时44分]"
+          "appearance_count": 17,
+          "time_info": "[00时43分 ~ 19时04分]"
         },
         {
           "title": "情绪释放后A股有望分化筑底",
@@ -319,7 +334,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -330,7 +345,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         }
@@ -374,8 +389,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时01分 ~ 17时44分]"
+          "appearance_count": 6,
+          "time_info": "[13时01分 ~ 19时04分]"
         },
         {
           "title": "Kimi K3把美股半导体干崩了",
@@ -400,11 +415,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时43分 ~ 17时44分]"
+          "appearance_count": 17,
+          "time_info": "[00时43分 ~ 19时04分]"
         },
         {
           "title": "中信建投：随着市场风偏的修复 看好商业航天板块后续表现",
@@ -424,6 +440,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "长鑫科技海外加密合约炒到 8.64 美元，市值一度逼近 4 万亿元人民币，是 A 股发行价估值的近 7 倍，如何解读？",
+          "url": "https://www.zhihu.com/question/2061864895159833546",
+          "source": "知乎",
+          "ranks": [
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时27分 ~ 19时04分]"
+        },
+        {
           "title": "如何看待 2026 年 7 月 18 日喜剧动画电影《八仙！》票房预测值大幅提升至 14 亿人民币？",
           "url": "https://www.zhihu.com/question/2061735910614512978",
           "source": "知乎",
@@ -433,17 +461,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时27分 ~ 09时28分]"
-        },
-        {
-          "title": "长鑫科技海外加密合约炒到 8.64 美元，市值一度逼近 4 万亿元人民币，是 A 股发行价估值的近 7 倍，如何解读？",
-          "url": "https://www.zhihu.com/question/2061864895159833546",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时27分"
         }
       ]
     },
@@ -469,11 +486,12 @@
           "url": "https://wallstreetcn.com/articles/3777171",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时27分 ~ 17时44分]"
+          "appearance_count": 4,
+          "time_info": "[15时27分 ~ 19时04分]"
         }
       ]
     },
