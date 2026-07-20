@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-07-20T07:47:00.264005+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2026-07-20T09:53:13.655007+08:00",
+  "total_titles_processed": 822,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
-        {
-          "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
-          "url": "https://www.cls.cn/detail/2430341",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时47分]"
-        },
         {
           "title": "美国援外大转向：特朗普要向欧洲输出“MAGA”",
           "url": "https://news.ifeng.com/c/8utCDuus6XE",
@@ -26,6 +14,18 @@
           "ranks": [
             4,
             5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 09时53分]"
+        },
+        {
+          "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
+          "url": "https://www.cls.cn/detail/2430341",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -143,6 +143,17 @@
           "time_info": "[04时02分 ~ 06时41分]"
         },
         {
+          "title": "特朗普：痛击伊朗，为身亡美军报仇",
+          "url": "https://news.ifeng.com/c/8uuJZX8B2mu",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
+        },
+        {
           "title": "特朗普摸大力神杯",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%91%B8%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF",
           "source": "百度热搜",
@@ -207,9 +218,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
+        },
+        {
+          "title": "特朗普称痛击伊朗为身亡美军报仇",
+          "url": "https://wallstreetcn.com/livenews/3136417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         },
         {
           "title": "美国总统特朗普将大力神杯颁给西班牙队。",
@@ -218,15 +240,48 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
+        },
+        {
+          "title": "特朗普：与卡尼关系良好。 必须阻止加拿大火灾蔓延进来。 也许加拿大应该为火灾支付一些赔偿金。 与卡尼就加拿大火灾和森林管理问题通了电话。",
+          "url": "https://wallstreetcn.com/livenews/3136405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "特朗普谈世界杯：觉得这太不可思议了；我和西班牙通了话，祝贺他们是一支优秀的球队。",
+          "url": "https://wallstreetcn.com/livenews/3136404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "特朗普：今晚我们再次猛烈打击了伊朗。 我们将彻底断绝伊朗拥有核武器的任何可能性。",
+          "url": "https://wallstreetcn.com/livenews/3136403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         }
       ]
     },
     {
       "keyword_group": "A股",
-      "match_count": 9,
+      "match_count": 16,
       "titles": [
         {
           "title": "又一批A股半年报预喜，“易中天”已有2家披露",
@@ -238,8 +293,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时47分]"
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 09时53分]"
         },
         {
           "title": "龙头9天7板 本周披露并购重组进展的A股名单一览",
@@ -264,8 +319,30 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时02分 ~ 07时47分]"
+          "appearance_count": 8,
+          "time_info": "[04时02分 ~ 09时53分]"
+        },
+        {
+          "title": "【早报】证监会今天将召开座谈会，促进市场稳定健康发展；两大央企宣布，增持A股股票资产；新易盛、天孚通信等发布上半年业绩预告",
+          "url": "https://www.cls.cn/detail/2430665",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
+        },
+        {
+          "title": "稳定信号出现，五大A股主力联袂力挺",
+          "url": "https://www.cls.cn/detail/2430700",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
         },
         {
           "title": "A股市场震荡整理，机构称短期抛压或已集中释放",
@@ -278,6 +355,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时41分 ~ 07时47分]"
+        },
+        {
+          "title": "A股开盘：创业板指涨超2%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E6%B6%A8%E8%B6%852%25",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
         },
         {
           "title": "资深业内人士：支撑A股市场经受住美以伊冲突这一重大不确定性考验的价值锚点仍在",
@@ -328,6 +416,39 @@
           "time_info": "[00时43分 ~ 01时47分]"
         },
         {
+          "title": "A股Kimi概念走强，九安医疗涨停，润泽科技涨超6%，三七互娱、因赛集团、易点天下、浙文互联等个股跟涨。据媒体报道，月之暗面已向投资人发送上市议案，预计最快6个月内有望完成港股上市。",
+          "url": "https://flash.jin10.com/detail/20260720093133951800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "中金公司：A股年内二次买点或已到来",
+          "url": "https://wallstreetcn.com/livenews/3136415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "A股半导体板块回升，星宸科技20cm涨停，富瀚微涨超10%，敏芯股份、芯朋微、普冉股份、杰华特等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260720092949001800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "美的集团：截至7月17日累计回购A股股份数量为8433.94万股",
           "url": "https://flash.jin10.com/detail/20260719223655477800",
           "source": "金十数据",
@@ -337,29 +458,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "航天 航空",
-      "match_count": 1,
-      "titles": [
+        },
         {
-          "title": "上海标志性太空算力星座工程发布 剑指千星部署 商业航天再迎催化",
-          "url": "https://www.cls.cn/detail/2430247",
-          "source": "财联社热门",
+          "title": "A股油服工程板块高开，科力股份涨超8%，通源石油涨近5%，中曼石油、中海油服、中油工程、贝肯能源、潜能恒信等个股跟涨。消息面上，伊朗法尔斯通讯社19日援引消息人士的话报道说，霍尔木兹海峡的通航量已降至零，只要美国继续其挑衅行为，该海峡将保持关闭。",
+          "url": "https://flash.jin10.com/detail/20260720092645801800",
+          "source": "金十数据",
           "ranks": [
-            9
+            26
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时47分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         }
       ]
     },
     {
       "keyword_group": "人民币",
-      "match_count": 1,
+      "match_count": 5,
       "titles": [
         {
           "title": "长鑫科技海外加密合约炒到 8.64 美元，市值一度逼近 4 万亿元人民币，是 A 股发行价估值的近 7 倍，如何解读？",
@@ -375,12 +490,84 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时43分 ~ 07时47分]"
+        },
+        {
+          "title": "中国央行公开市场今日净投放1745亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3136437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.7948，下调14点；上一交易日中间价6.7934，上一交易日官方收盘价6.7773，上日夜盘报收6.7752。",
+          "url": "https://wallstreetcn.com/livenews/3136433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "国电南瑞：董事长提议公司通过集中竞价交易方式回购部分公司股份，用于未来实施股权激励计划或减少注册资本，回购资金总额人民币5亿元-10亿元。",
+          "url": "https://wallstreetcn.com/livenews/3136412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "中国外汇交易中心（CFETS）：7月17日人民币汇率指数按周涨0.07至102.42。",
+          "url": "https://wallstreetcn.com/livenews/3136407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "航天 航空",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "上海标志性太空算力星座工程发布 剑指千星部署 商业航天再迎催化",
+          "url": "https://www.cls.cn/detail/2430247",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 07时47分]"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：一架MQ-9无人机在伊斯兰堡以西空域被伊朗伊斯兰革命卫队航空航天部队的新型先进防御系统拦截并击落。",
+          "url": "https://flash.jin10.com/detail/20260720093249006800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
@@ -392,6 +579,45 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时43分 ~ 07时47分]"
+        },
+        {
+          "title": "本周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
+          "url": "https://wallstreetcn.com/articles/3777171",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股股指期货周一基本平开。",
+          "url": "https://flash.jin10.com/detail/20260720060012850800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "美股期货走高，标普500指数期货上涨0.2%，纳斯达克100指数期货上涨0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3136400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         }
       ]
     },
@@ -413,23 +639,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时43分 ~ 07时47分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股股指期货周一基本平开。",
-          "url": "https://flash.jin10.com/detail/20260720060012850800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时41分"
         }
       ]
     }
