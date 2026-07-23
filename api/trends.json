@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-23T18:59:21.633440+08:00",
-  "total_titles_processed": 1384,
+  "generated_at": "2026-07-23T20:22:50.487455+08:00",
+  "total_titles_processed": 1511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777718",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时45分 ~ 20时22分]"
+        },
         {
           "title": "谷歌重磅财报夜，Capex指引有望上调？资深分析师：2026年或冲击2000亿美元",
           "url": "https://wallstreetcn.com/articles/3777680",
@@ -21,18 +33,6 @@
           "time_info": "[00时13分 ~ 16时10分]"
         },
         {
-          "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777718",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时45分 ~ 18时59分]"
-        },
-        {
           "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
           "url": "https://wallstreetcn.com/articles/3777723",
           "source": "华尔街见闻",
@@ -42,8 +42,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时45分 ~ 18时59分]"
+          "appearance_count": 7,
+          "time_info": "[09时45分 ~ 20时22分]"
+        },
+        {
+          "title": "AI烧钱大战升级！谷歌、特斯拉现金流双双转负 华尔街看好长期回报",
+          "url": "https://www.cls.cn/detail/2434820",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时10分 ~ 20时22分]"
         },
         {
           "title": "Alphabet(GOOG.O)首席执行官：谷歌云第二季度积压订单增至5140亿美元。",
@@ -55,6 +68,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
+        },
+        {
+          "title": "谷歌披露持有SpaceX股份940亿美元",
+          "url": "https://flash.jin10.com/detail/20260723195331103800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "谷歌A二季度分析师电话会要点总结",
@@ -77,18 +101,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
-        },
-        {
-          "title": "AI烧钱大战升级！谷歌、特斯拉现金流双双转负 华尔街看好长期回报",
-          "url": "https://www.cls.cn/detail/2434820",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时10分 ~ 18时59分]"
         },
         {
           "title": "谷歌母公司Alphabet的CFO：收购Wiz对谷歌云利润构成拖累。",
@@ -253,9 +265,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
+        },
+        {
+          "title": "谷歌(GOOG.O)在10-Q报告中披露了对SpaceX(SPCX.O)的持股情况，在SpaceX上市后其持有价值940亿美元的股份，其中800亿美元SpaceX持股受短期锁定期限制。",
+          "url": "https://flash.jin10.com/detail/20260723194312680800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "Alphabet(GOOG.O)：Gemini APP月活用户数（Maus）达到9.5亿。",
@@ -267,6 +290,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
+        },
+        {
+          "title": "谷歌：在SpaceX首次公开募股后持有其940亿美元股份",
+          "url": "https://wallstreetcn.com/livenews/3138853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "谷歌Pichai：2026年世界杯期间，搜索创历史新高。 Gemini驱动谷歌云增长。 公司看到人工智能（AI）基础设施带来强劲需求。",
@@ -286,7 +320,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         }
@@ -294,8 +328,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时52分 ~ 20时22分]"
+        },
         {
           "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
           "url": "https://wallstreetcn.com/articles/3777612",
@@ -307,18 +353,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时13分 ~ 07时55分]"
-        },
-        {
-          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
-          "url": "https://wallstreetcn.com/articles/3777614",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时52分 ~ 18时59分]"
         },
         {
           "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
@@ -400,7 +434,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         },
@@ -488,9 +522,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
+        },
+        {
+          "title": "IMAX第二季度营收1.028亿美元，预估9,390万美元。 第二季度调整后EBITDA 4,800万美元，预估3,930万美元。 第二季度调整后每股收益0.43美元，预估0.28美元。 IMAX美股盘前涨近4%。",
+          "url": "https://wallstreetcn.com/livenews/3138849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "金十图示：2026年07月22日（周三）美股热门股票行情一览（美股收盘）",
@@ -543,15 +588,26 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
+        },
+        {
+          "title": "黑石集团第二季度总收入38.0亿美元，预期33.9亿美元。 第二季度可分配每股收益1.52美元，预期1.33美元。 黑石集团二季度管理资产1.35万亿美元，预期1.33万亿美元。 黑石集团美股盘前跌近3%。",
+          "url": "https://wallstreetcn.com/livenews/3138842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
@@ -579,6 +635,18 @@
           "time_info": "[04时55分 ~ 13时15分]"
         },
         {
+          "title": "特朗普：我们与伊朗只是小规模冲突",
+          "url": "https://news.ifeng.com/c/8uzZogT1UTe",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时14分 ~ 20时22分]"
+        },
+        {
           "title": "污蔑中国遭驳斥后，特朗普自曝：美国对中国“做过一些事”",
           "url": "https://news.ifeng.com/c/8uyHXh9awI8",
           "source": "凤凰网",
@@ -589,18 +657,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时45分 ~ 16时10分]"
-        },
-        {
-          "title": "特朗普：我们与伊朗只是小规模冲突",
-          "url": "https://news.ifeng.com/c/8uzZogT1UTe",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时14分 ~ 18时59分]"
         },
         {
           "title": "特朗普：预计美联邦政府在9月将出现“停摆”",
@@ -639,6 +695,17 @@
           "time_info": "04时55分"
         },
         {
+          "title": "美国总统特朗普：美国并不反对民用（非浓缩）核设施。",
+          "url": "https://flash.jin10.com/detail/20260723195408068800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
           "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
           "url": "https://www.cls.cn/detail/2434152",
           "source": "财联社热门",
@@ -648,6 +715,30 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时13分 ~ 04时55分]"
+        },
+        {
+          "title": "美国总统特朗普：美国能源部与沙特阿拉伯之间的核协议将获得批准，但完全取决于沙特阿拉伯加入亚伯拉罕协议。",
+          "url": "https://flash.jin10.com/detail/20260723195405095800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
+          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
+          "url": "https://wallstreetcn.com/articles/3777708",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时14分 ~ 20时22分]"
         },
         {
           "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
@@ -674,17 +765,17 @@
           "time_info": "[07时55分 ~ 13时15分]"
         },
         {
-          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
-          "url": "https://wallstreetcn.com/articles/3777708",
-          "source": "华尔街见闻",
+          "title": "伊朗袭击已致近 100 名美军受伤，特朗普扬言强硬报复，美伊会爆发全面战争吗？中东局势将走向何方？",
+          "url": "https://www.zhihu.com/question/2062856603762742765",
+          "source": "知乎",
           "ranks": [
-            9,
-            8,
-            7
+            20,
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时14分 ~ 18时59分]"
+          "appearance_count": 3,
+          "time_info": "[16时10分 ~ 20时22分]"
         },
         {
           "title": "美媒：美国向中东增派兵力，为特朗普扩大对伊战事提供更多选项",
@@ -699,16 +790,15 @@
           "time_info": "[06时54分 ~ 07时55分]"
         },
         {
-          "title": "伊朗袭击已致近 100 名美军受伤，特朗普扬言强硬报复，美伊会爆发全面战争吗？中东局势将走向何方？",
-          "url": "https://www.zhihu.com/question/2062856603762742765",
-          "source": "知乎",
+          "title": "特朗普：美沙协议以沙特加入《亚伯拉罕协议》为条件。 美国与沙特的协议不包含材料浓缩。",
+          "url": "https://wallstreetcn.com/livenews/3138861",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20,
-            18
+            15
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时10分 ~ 18时59分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "特朗普：我们在伊朗取得胜利，我们不需要霍尔木兹海峡",
@@ -757,6 +847,301 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "A股又一波增持回购潮来了，存储龙头拟最高回购2.5亿元",
+          "url": "https://www.cls.cn/detail/2434298",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 09时46分]"
+        },
+        {
+          "title": "又一批A股公司业绩亮相！A股股王上半年净利最高增超9倍",
+          "url": "https://www.cls.cn/detail/2433968",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时13分 ~ 07时55分]"
+        },
+        {
+          "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
+          "url": "https://www.cls.cn/detail/2434518",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时55分 ~ 13时15分]"
+        },
+        {
+          "title": "A股油气板块再度走强，中曼石油4天3板，科力股份、潜能恒信、通源石油、蓝焰控股、凯添燃气跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3138530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "A股行情",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%A1%8C%E6%83%85&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 13时15分]"
+        },
+        {
+          "title": "多家外资机构发声看好A股市场看多中国股票",
+          "url": "https://wallstreetcn.com/livenews/3138445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时54分 ~ 07时55分]"
+        },
+        {
+          "title": "A股CPO板块连日走强，锐捷网络涨超5%，联特科技、联讯仪器双双涨超4%，共进股份、剑桥科技、中际旭创、光迅科技、天孚通信等个股跟涨。联讯仪器此前公告，预计公司上半年净利润5.10亿元-5.80亿元，同比增长802%-926%。",
+          "url": "https://flash.jin10.com/detail/20260723092846500800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "A股MLCC概念回升，风华高科涨超6%，三环集团涨超4%，博迁新材、国瓷材料、凯盛科技、洁美科技、荣旗科技等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260723092707447800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "A股见底了吗",
+          "url": "https://www.toutiao.com/trending/7665650492944420358/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
+          "title": "A股开盘，沪指开涨0.03%，深证成指开涨0.39%，创业板指开涨0.84%；油气设服、体育、锂矿、钙钛矿电池、冰雪经济等概念活跃。",
+          "url": "https://flash.jin10.com/detail/20260723092530425800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "A股指数小幅收红 超4200只个股上涨",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%8C%87%E6%95%B0%E5%B0%8F%E5%B9%85%E6%94%B6%E7%BA%A2+%E8%B6%854200%E5%8F%AA%E4%B8%AA%E8%82%A1%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时10分"
+        },
+        {
+          "title": "澜起科技：拟以3亿元-6亿元回购A股股份",
+          "url": "https://wallstreetcn.com/livenews/3138863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
+          "title": "A股缩量4580亿",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%BC%A9%E9%87%8F4580%E4%BA%BF%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7750元，较周二夜盘收盘跌85点。成交量360.14亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3138367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时25分 ~ 04时55分]"
+        },
+        {
+          "title": "上期所原油期货2609合约夜盘收涨2.74%，报565.30元人民币/桶。 沪金夜盘收涨1.16%，沪银收涨1.69%。",
+          "url": "https://wallstreetcn.com/livenews/3138363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        },
+        {
+          "title": "周三（7月22日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.7751元，较周二纽约尾盘跌62点，日内整体交投于6.7678-6.7761元区间。",
+          "url": "https://wallstreetcn.com/livenews/3138418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
+          "title": "中国央行公开市场今日净回笼4220亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3138513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "华安证券：拟以1亿元-2亿元回购股份，回购股份价格不超过人民币14.90元/股。",
+          "url": "https://wallstreetcn.com/livenews/3138811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.7906，上调27点；上一交易日中间价6.7933，上一交易日官方收盘价6.7740，上日夜盘报收6.7750。",
+          "url": "https://wallstreetcn.com/livenews/3138509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "人民币兑美元中间价较上日调升27点至6.7906，中间价升值至2023年2月10日以来最高。",
+          "url": "https://flash.jin10.com/detail/20260723091536395800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "惠威科技：拟以4000万元-8000万元回购股份，回购股份的价格不超过人民币18.50元/股。",
+          "url": "https://wallstreetcn.com/livenews/3138801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
+          "title": "2026年7月23日银行间外汇市场人民币汇率中间价",
+          "url": "https://flash.jin10.com/detail/20260723091519472800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "鹏鼎控股：拟投资人民币100亿元资新建深圳第三园区，并建设人工智能高阶类载板及柔性电路板智造基地项目，本项目计划自2026年7月启动，至2033年建成投产。",
+          "url": "https://wallstreetcn.com/livenews/3138799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
+          "title": "红板科技：全资子公司赣州红板拟在现有厂区内实施高阶mSAP高端精密电路板产业化项目，预计总投资不超过人民币50亿元。",
+          "url": "https://wallstreetcn.com/livenews/3138846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
+          "title": "中国6月Swift人民币在全球支付中占比 3.1%，前值 2.75%。",
+          "url": "https://wallstreetcn.com/livenews/3138492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 12,
       "titles": [
@@ -783,8 +1168,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时13分 ~ 18时59分]"
+          "appearance_count": 17,
+          "time_info": "[00时13分 ~ 20时22分]"
         },
         {
           "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
@@ -907,270 +1292,8 @@
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "A股又一波增持回购潮来了，存储龙头拟最高回购2.5亿元",
-          "url": "https://www.cls.cn/detail/2434298",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 09时46分]"
-        },
-        {
-          "title": "又一批A股公司业绩亮相！A股股王上半年净利最高增超9倍",
-          "url": "https://www.cls.cn/detail/2433968",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时55分]"
-        },
-        {
-          "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
-          "url": "https://www.cls.cn/detail/2434518",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时55分 ~ 13时15分]"
-        },
-        {
-          "title": "A股油气板块再度走强，中曼石油4天3板，科力股份、潜能恒信、通源石油、蓝焰控股、凯添燃气跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3138530",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "A股行情",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%A1%8C%E6%83%85&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 13时15分]"
-        },
-        {
-          "title": "多家外资机构发声看好A股市场看多中国股票",
-          "url": "https://wallstreetcn.com/livenews/3138445",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时54分 ~ 07时55分]"
-        },
-        {
-          "title": "A股CPO板块连日走强，锐捷网络涨超5%，联特科技、联讯仪器双双涨超4%，共进股份、剑桥科技、中际旭创、光迅科技、天孚通信等个股跟涨。联讯仪器此前公告，预计公司上半年净利润5.10亿元-5.80亿元，同比增长802%-926%。",
-          "url": "https://flash.jin10.com/detail/20260723092846500800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "A股MLCC概念回升，风华高科涨超6%，三环集团涨超4%，博迁新材、国瓷材料、凯盛科技、洁美科技、荣旗科技等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260723092707447800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "A股见底了吗",
-          "url": "https://www.toutiao.com/trending/7665650492944420358/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
-        },
-        {
-          "title": "A股开盘，沪指开涨0.03%，深证成指开涨0.39%，创业板指开涨0.84%；油气设服、体育、锂矿、钙钛矿电池、冰雪经济等概念活跃。",
-          "url": "https://flash.jin10.com/detail/20260723092530425800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "A股指数小幅收红 超4200只个股上涨",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%8C%87%E6%95%B0%E5%B0%8F%E5%B9%85%E6%94%B6%E7%BA%A2+%E8%B6%854200%E5%8F%AA%E4%B8%AA%E8%82%A1%E4%B8%8A%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人民币",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7750元，较周二夜盘收盘跌85点。成交量360.14亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3138367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时25分 ~ 04时55分]"
-        },
-        {
-          "title": "上期所原油期货2609合约夜盘收涨2.74%，报565.30元人民币/桶。 沪金夜盘收涨1.16%，沪银收涨1.69%。",
-          "url": "https://wallstreetcn.com/livenews/3138363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
-        },
-        {
-          "title": "周三（7月22日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.7751元，较周二纽约尾盘跌62点，日内整体交投于6.7678-6.7761元区间。",
-          "url": "https://wallstreetcn.com/livenews/3138418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        },
-        {
-          "title": "中国央行公开市场今日净回笼4220亿元人民币",
-          "url": "https://wallstreetcn.com/livenews/3138513",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "华安证券：拟以1亿元-2亿元回购股份，回购股份价格不超过人民币14.90元/股。",
-          "url": "https://wallstreetcn.com/livenews/3138811",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
-        },
-        {
-          "title": "人民币兑美元中间价报6.7906，上调27点；上一交易日中间价6.7933，上一交易日官方收盘价6.7740，上日夜盘报收6.7750。",
-          "url": "https://wallstreetcn.com/livenews/3138509",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "人民币兑美元中间价较上日调升27点至6.7906，中间价升值至2023年2月10日以来最高。",
-          "url": "https://flash.jin10.com/detail/20260723091536395800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "惠威科技：拟以4000万元-8000万元回购股份，回购股份的价格不超过人民币18.50元/股。",
-          "url": "https://wallstreetcn.com/livenews/3138801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
-        },
-        {
-          "title": "2026年7月23日银行间外汇市场人民币汇率中间价",
-          "url": "https://flash.jin10.com/detail/20260723091519472800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "鹏鼎控股：拟投资人民币100亿元资新建深圳第三园区，并建设人工智能高阶类载板及柔性电路板智造基地项目，本项目计划自2026年7月启动，至2033年建成投产。",
-          "url": "https://wallstreetcn.com/livenews/3138799",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
-        },
-        {
-          "title": "中国6月Swift人民币在全球支付中占比 3.1%，前值 2.75%。",
-          "url": "https://wallstreetcn.com/livenews/3138492",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        }
-      ]
-    },
-    {
       "keyword_group": "航天 航空",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "周三（7月22日），美股行业ETF多数收跌，网络股指数ETF、全球航空业ETF、生物科技指数ETF至多跌1.86%，半导体ETF涨0.48%，能源业ETF涨1.20%。 标普500指数的11个板块中，电信板块收跌1.29%，可选消费板块跌0.84%，信息技术/科技板块涨0.01%，能源板块涨1.19%，原材料板块涨1.45%，公用事业板块涨2.29%。",
@@ -1205,6 +1328,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "美国航空第二季度调整后每股收益15美分，预期2.7美分。 美国航空预计第三季度营收增长16%至19%。 美国航空预计第三季度调整后每股亏损10美分至70美分，市场预期每股收益31美分。 美国航空预计全年调整后每股亏损65美分至每股收益65美分，市场预期每股收益61美分。 美国航空美股盘前跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3138834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         }
       ]
     },
@@ -1252,6 +1386,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "巴威如何影响东北农业",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E5%A8%81%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E4%B8%9C%E5%8C%97%E5%86%9C%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 20时22分]"
+        },
+        {
           "title": "农业农村部组织开展我国台湾岛以东管辖海域渔业资源调查",
           "url": "https://flash.jin10.com/detail/20260723122343684800",
           "source": "金十数据",
@@ -1261,17 +1407,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "巴威如何影响东北农业",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E5%A8%81%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E4%B8%9C%E5%8C%97%E5%86%9C%E4%B8%9A",
-          "source": "bilibili 热搜",
+          "title": "贝莱德称高企的美债收益率为投资者提供稳健的抗跌保护",
+          "url": "https://wallstreetcn.com/livenews/3138866",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时59分"
+          "time_info": "20时22分"
+        },
+        {
+          "title": "“债券义警”疑似再现：30年期美债收益率高于5%的天数创近二十年最多",
+          "url": "https://wallstreetcn.com/livenews/3138384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时55分"
         }
       ]
     },
@@ -1297,23 +1460,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“债券义警”疑似再现：30年期美债收益率高于5%的天数创近二十年最多",
-          "url": "https://wallstreetcn.com/livenews/3138384",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 1,
