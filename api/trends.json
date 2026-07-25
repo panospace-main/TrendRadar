@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T20:05:00.810877+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-07-25T22:27:38.540552+08:00",
+  "total_titles_processed": 1347,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
@@ -164,6 +164,18 @@
           "time_info": "[09时31分 ~ 12时55分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-25）",
+          "url": "https://flash.jin10.com/detail/20260725183311628800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时05分 ~ 22时27分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗现在正在与我们对话。 我认为现在还不是伊朗达成协议的时候，伊朗尚未准备好。 将出席明年的白宫记者协会晚宴。",
           "url": "https://wallstreetcn.com/livenews/3139702",
           "source": "华尔街见闻-快讯",
@@ -209,17 +221,6 @@
           "time_info": "04时10分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-25）",
-          "url": "https://flash.jin10.com/detail/20260725183311628800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时05分"
-        },
-        {
           "title": "美国总统特朗普：因为（山火产生的）烟雾问题，将对加拿大征收高额关税。",
           "url": "https://flash.jin10.com/detail/20260725034022999800",
           "source": "金十数据",
@@ -240,6 +241,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
+        },
+        {
+          "title": "特朗普突然宣布：将第四次竞选总统！他头戴印有“特朗普2028”字样的小红帽称：我已经很有经验了，将再次出马",
+          "url": "https://wallstreetcn.com/articles/3777927",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "特朗普威胁对欧盟加征高额关税 要求撤销对美国企业罚款",
@@ -295,6 +307,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
+        },
+        {
+          "title": "特朗普再打关税战 这次有何不同",
+          "url": "https://www.toutiao.com/trending/7666438148708109865/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "特朗普称欧盟“掠夺”美国企业 威胁启动301调查并征收大规模关税",
@@ -407,6 +430,17 @@
           "time_info": "04时10分"
         },
         {
+          "title": "专家：特朗普一刀切关税得罪全部盟友",
+          "url": "https://www.toutiao.com/trending/7666410407686311467/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
           "title": "美国总统特朗普声称：加拿大没有邀请美方参加大桥开通仪式。 美方修改了关于跨境大桥的协议，美国获得（通行）收入的50%。",
           "url": "https://wallstreetcn.com/livenews/3139573",
           "source": "华尔街见闻-快讯",
@@ -465,8 +499,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时55分 ~ 20时05分]"
+          "appearance_count": 11,
+          "time_info": "[07时55分 ~ 22时27分]"
         },
         {
           "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
@@ -494,8 +528,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时55分 ~ 20时05分]"
+          "appearance_count": 11,
+          "time_info": "[07时55分 ~ 22时27分]"
         },
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -606,6 +640,113 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "上限400亿，宁德时代抛出A股史上最大单笔回购方案",
+          "url": "https://www.cls.cn/detail/2436662",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[02时10分 ~ 22时27分]"
+        },
+        {
+          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
+          "url": "https://www.cls.cn/detail/2436884",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[07时55分 ~ 22时27分]"
+        },
+        {
+          "title": "A股史上最大股票回购方案",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E8%82%A1%E7%A5%A8%E5%9B%9E%E8%B4%AD%E6%96%B9%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            19,
+            17,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时10分 ~ 07时55分]"
+        },
+        {
+          "title": "龙头“20cm”3连板！本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2436803",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时03分 ~ 22时27分]"
+        },
+        {
+          "title": "A股一周跌幅榜出炉",
+          "url": "https://www.toutiao.com/trending/7666327652068835364/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 20时05分]"
+        },
+        {
+          "title": "科技股大跌是因为“量化砸盘”？中基协私募专业委员会详解A股量化交易",
+          "url": "https://wallstreetcn.com/livenews/3139765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
+          "title": "A股史上最大回购！宁德时代拟回购200亿−400亿元股份用于注销，上半年净利增四成",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33654589",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
+          "title": "中基协详解A股量化交易",
+          "url": "https://www.toutiao.com/trending/7666432570409618950/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 7,
       "titles": [
@@ -636,6 +777,18 @@
           "time_info": "[19时04分 ~ 20时05分]"
         },
         {
+          "title": "ChatGPT崩了",
+          "url": "https://s.weibo.com/weibo?q=ChatGPT%E5%B4%A9%E4%BA%86&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时03分 ~ 22时27分]"
+        },
+        {
           "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
           "url": "https://www.zhihu.com/question/2063832242242184073",
           "source": "知乎",
@@ -657,17 +810,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时04分 ~ 20时05分]"
-        },
-        {
-          "title": "ChatGPT崩了",
-          "url": "https://s.weibo.com/weibo?q=ChatGPT%E5%B4%A9%E4%BA%86&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时03分 ~ 19时04分]"
         },
         {
           "title": "Anthropic点评“OpenAI入侵事件”：各加公司需要“不断更新评估和安全系统",
@@ -694,74 +836,63 @@
       ]
     },
     {
-      "keyword_group": "A股",
+      "keyword_group": "农业 机械",
       "match_count": 5,
       "titles": [
         {
-          "title": "上限400亿，宁德时代抛出A股史上最大单笔回购方案",
-          "url": "https://www.cls.cn/detail/2436662",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[02时10分 ~ 20时05分]"
-        },
-        {
-          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
-          "url": "https://www.cls.cn/detail/2436884",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时55分 ~ 20时05分]"
-        },
-        {
-          "title": "A股史上最大股票回购方案",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E8%82%A1%E7%A5%A8%E5%9B%9E%E8%B4%AD%E6%96%B9%E6%A1%88",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            19,
-            17,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时10分 ~ 07时55分]"
-        },
-        {
-          "title": "A股一周跌幅榜出炉",
-          "url": "https://www.toutiao.com/trending/7666327652068835364/",
+          "title": "上半年农业农村经济发展势头良好",
+          "url": "https://www.toutiao.com/trending/7666351325885681190/",
           "source": "今日头条",
           "ranks": [
-            8,
-            10,
-            25
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时27分 ~ 20时05分]"
+          "appearance_count": 7,
+          "time_info": "[15时09分 ~ 20时05分]"
         },
         {
-          "title": "龙头“20cm”3连板！本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2436803",
-          "source": "财联社热门",
+          "title": "数读我国农业农村经济稳中向好",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%BB%E6%88%91%E5%9B%BD%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91%E7%BB%8F%E6%B5%8E%E7%A8%B3%E4%B8%AD%E5%90%91%E5%A5%BD%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
           "ranks": [
-            11,
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
+          "title": "美国农业部部长Rollins：美方将恢复从墨西哥进口牛。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3139656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时03分 ~ 20时05分]"
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
+        {
+          "title": "美国农业部：自8月24日起，美国农业部将开放亚利桑那州道格拉斯入境口岸，用于牛只贸易。",
+          "url": "https://flash.jin10.com/detail/20260725080713126800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "美国农业部宣布分阶段重新开放南部港口，以进行牲畜贸易。",
+          "url": "https://flash.jin10.com/detail/20260725080516464800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         }
       ]
     },
@@ -778,8 +909,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时10分 ~ 20时05分]"
+          "appearance_count": 8,
+          "time_info": "[02时10分 ~ 22时27分]"
         },
         {
           "title": "周五（7月24日），美股行业ETF多数收涨，全球航空业ETF涨2.66%，网络股指数ETF涨0.44%，能源业ETF涨0.4%，科技行业ETF跌1.44%，全球科技股指数ETF跌1.69%，半导体ETF跌3.27%。 2026年迄今，半导体ETF累计涨幅收窄至55.83%，能源业ETF涨35.19%，全球科技股指数ETF、科技行业ETF至多涨26.76%，网络股指数ETF跌3.73%，可选消费ETF跌8.01%。",
@@ -814,56 +945,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农业 机械",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "上半年农业农村经济发展势头良好",
-          "url": "https://www.toutiao.com/trending/7666351325885681190/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时09分 ~ 20时05分]"
-        },
-        {
-          "title": "美国农业部部长Rollins：美方将恢复从墨西哥进口牛。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3139656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
-          "title": "美国农业部：自8月24日起，美国农业部将开放亚利桑那州道格拉斯入境口岸，用于牛只贸易。",
-          "url": "https://flash.jin10.com/detail/20260725080713126800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "美国农业部宣布分阶段重新开放南部港口，以进行牲畜贸易。",
-          "url": "https://flash.jin10.com/detail/20260725080516464800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
         }
       ]
     },
