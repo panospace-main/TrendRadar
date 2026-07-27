@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T17:27:38.836458+08:00",
-  "total_titles_processed": 1078,
+  "generated_at": "2026-07-27T20:51:19.882118+08:00",
+  "total_titles_processed": 1267,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 27,
+      "match_count": 32,
       "titles": [
         {
           "title": "龙头“20cm”3连板！本周披露并购重组进展的A股名单一览",
@@ -144,17 +144,6 @@
           "time_info": "09时51分"
         },
         {
-          "title": "长鑫为何成A股新王",
-          "url": "https://search.bilibili.com/all?keyword=%E9%95%BF%E9%91%AB%E4%B8%BA%E4%BD%95%E6%88%90A%E8%82%A1%E6%96%B0%E7%8E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
           "title": "A股旅游板块再度拉升，同庆楼午后涨停，华天酒店回封涨停，君亭酒店、锦江酒店、首旅酒店、金陵饭店跟涨。",
           "url": "https://wallstreetcn.com/livenews/3140031",
           "source": "华尔街见闻-快讯",
@@ -200,6 +189,29 @@
           "time_info": "[13时38分 ~ 17时27分]"
         },
         {
+          "title": "长鑫为何成A股新王",
+          "url": "https://search.bilibili.com/all?keyword=%E9%95%BF%E9%91%AB%E4%B8%BA%E4%BD%95%E6%88%90A%E8%82%A1%E6%96%B0%E7%8E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 20时51分]"
+        },
+        {
+          "title": "A股一哥易主 中国科技能否长兴",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%B8%80%E5%93%A5%E6%98%93%E4%B8%BB+%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E8%83%BD%E5%90%A6%E9%95%BF%E5%85%B4",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
           "title": "A股玻璃纤维板块午后拉升，国际复材涨超15%，宏和科技触及涨停，中国巨石、山东玻纤、中材科技等跟涨。",
           "url": "https://flash.jin10.com/detail/20260727130738276800",
           "source": "金十数据",
@@ -233,6 +245,17 @@
           "time_info": "09时51分"
         },
         {
+          "title": "长鑫科技开盘涨471.59%，总市值超3.3万亿元，成A股市值最高公司",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33665106",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
           "title": "A股油气板块竞价调整，中曼石油、山东墨龙双双跌停，通源石油、科力股份跌超15%，潜能恒信、泰山石油、中国海油、海油工程、蓝焰控股等低开。",
           "url": "https://flash.jin10.com/detail/20260727092928042800",
           "source": "金十数据",
@@ -250,9 +273,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
+        },
+        {
+          "title": "东方证券：拟通过发行A股股份及支付现金方式购买上海证券100%股权，交易价格251.2亿元",
+          "url": "https://wallstreetcn.com/livenews/3140315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "A股宁德时代开盘涨近4%，报398.01元/股。",
@@ -288,6 +322,17 @@
           "time_info": "13时39分"
         },
         {
+          "title": "长鑫之后A股投资者还能吃到什么",
+          "url": "https://www.toutiao.com/trending/7667144954543607306/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
           "title": "长鑫上市对A股有何影响",
           "url": "https://search.bilibili.com/all?keyword=%E9%95%BF%E9%91%AB%E4%B8%8A%E5%B8%82%E5%AF%B9A%E8%82%A1%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
           "source": "bilibili 热搜",
@@ -308,6 +353,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "东方证券：拟发行A股股份及支付现金收购上海证券100%股权，交易对价251.2亿元",
+          "url": "https://flash.jin10.com/detail/20260727195913519800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         }
       ]
     },
@@ -358,8 +414,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时51分 ~ 17时27分]"
+          "appearance_count": 5,
+          "time_info": "[09时51分 ~ 20时51分]"
         },
         {
           "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
@@ -386,6 +442,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时55分 ~ 09时51分]"
+        },
+        {
+          "title": "3个选项，特朗普举棋未定",
+          "url": "https://news.ifeng.com/c/8v6CmboAaqd",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 20时51分]"
         },
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -418,18 +485,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "3个选项，特朗普举棋未定",
-          "url": "https://news.ifeng.com/c/8v6CmboAaqd",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -584,7 +640,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -657,11 +713,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时38分 ~ 17时27分]"
+          "appearance_count": 4,
+          "time_info": "[13时38分 ~ 20时51分]"
         },
         {
           "title": "OpenAI失控AI内幕曝光：越狱一周才被发现 还有智能体曾留下“逃脱秘籍”",
@@ -699,58 +756,8 @@
       ]
     },
     {
-      "keyword_group": "人民币",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "长鑫科技今日将正式登陆科创板。据预测平台Polymarket数据，其上市首日收盘市值突破1万亿人民币的概率为100%，突破1.5万亿、2万亿、2.5万亿的概率分别达96%、84%和62%；冲击3万亿及3.5万亿的概率则为42%和27%。以8.66元/股的发行价计，其IPO对应市值为5791.8亿元人民币（约854亿美元）。",
-          "url": "https://flash.jin10.com/detail/20260727073416330800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        },
-        {
-          "title": "人民币兑美元中间价报6.7911，上调28点；上一交易日中间价6.7939，上一交易日官方收盘价6.7744，上日夜盘报收6.7702。",
-          "url": "https://wallstreetcn.com/livenews/3139920",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "中国外汇交易中心（CFETS）：7月24日人民币汇率指数按周涨0.33至102.75。",
-          "url": "https://wallstreetcn.com/livenews/3139911",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "在岸人民币兑美元北京时间16:30官方收报6.7674，较上一交易日官方收盘价涨70点，较上日夜盘收盘涨28点。",
-          "url": "https://wallstreetcn.com/livenews/3140157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "提醒：下周一（7月27日）美股盘后，铿腾电子（CDNS）、Rambus将发布业绩报告。 下周二美股盘前，康宁公司（GLW）、波音、可口可乐将发布业绩报告； 美股盘后，希捷科技、恩智浦将、福特汽车发布业绩报告。 下周三美股盘后，微软、Meta、高通、Arm控股、拉姆研究发布业绩报告。 下周四美股盘后，苹果、亚马逊、Coinbase发布业绩报告。 下周五美股盘前，雪佛龙、埃克森美孚发布业绩报告。",
@@ -799,12 +806,73 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时52分 ~ 09时51分]"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-07-27）",
+          "url": "https://flash.jin10.com/detail/20260727202205552800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人民币",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "长鑫科技今日将正式登陆科创板。据预测平台Polymarket数据，其上市首日收盘市值突破1万亿人民币的概率为100%，突破1.5万亿、2万亿、2.5万亿的概率分别达96%、84%和62%；冲击3万亿及3.5万亿的概率则为42%和27%。以8.66元/股的发行价计，其IPO对应市值为5791.8亿元人民币（约854亿美元）。",
+          "url": "https://flash.jin10.com/detail/20260727073416330800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.7911，上调28点；上一交易日中间价6.7939，上一交易日官方收盘价6.7744，上日夜盘报收6.7702。",
+          "url": "https://wallstreetcn.com/livenews/3139920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "中国外汇交易中心（CFETS）：7月24日人民币汇率指数按周涨0.33至102.75。",
+          "url": "https://wallstreetcn.com/livenews/3139911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.7674，较上一交易日官方收盘价涨70点，较上日夜盘收盘涨28点。",
+          "url": "https://wallstreetcn.com/livenews/3140157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时27分"
         }
       ]
     },
     {
       "keyword_group": "航天 航空",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "据华尔街日报：消息人士称，联合航空去年曾就合并事宜接触达美航空。两家公司之间的初步洽谈未能得到推进。",
@@ -818,6 +886,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时54分 ~ 05时48分]"
+        },
+        {
+          "title": "因国际原油价格大幅回落，美国航空公司股票在盘前交易中涨，达美航空涨2.7%，捷蓝航空涨2.9%，西南航空上涨3.6%，美国航空涨4%，阿拉斯加航空涨3.2%，联合航空涨3.6%。",
+          "url": "https://flash.jin10.com/detail/20260727201950894800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "中信证券：可回收技术降本增效 商业航天应用端静待花开",
@@ -846,6 +925,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "油价暴跌 金价飙升",
+          "url": "https://www.douyin.com/hot/2587376",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         }
       ]
     },
