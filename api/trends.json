@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T18:23:12.837247+08:00",
-  "total_titles_processed": 1282,
+  "generated_at": "2026-07-28T20:32:52.561517+08:00",
+  "total_titles_processed": 1430,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 62,
       "titles": [
         {
           "title": "内塔尼亚胡访美，会与特朗普聊啥？",
@@ -54,6 +54,20 @@
           "time_info": "[07时55分 ~ 18时23分]"
         },
         {
+          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            17,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时25分 ~ 20时32分]"
+        },
+        {
           "title": "美时政评论员：特朗普不希望赖清德搞“抗中保台”",
           "url": "https://news.ifeng.com/c/8v6kAaPHBHd",
           "source": "凤凰网",
@@ -64,19 +78,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时29分 ~ 07时55分]"
-        },
-        {
-          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时25分 ~ 18时23分]"
         },
         {
           "title": "美国总统特朗普：有理由善待通用汽车。",
@@ -268,7 +269,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -537,6 +538,17 @@
           "time_info": "07时55分"
         },
         {
+          "title": "美媒：内塔尼亚胡本次访美对特朗普决策的影响大不如前",
+          "url": "https://flash.jin10.com/detail/20260728201348874800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "美国总统特朗普：交通部长Duffy已经要求在美国生产小型车和微型车。",
           "url": "https://wallstreetcn.com/livenews/3140491",
           "source": "华尔街见闻-快讯",
@@ -653,7 +665,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -675,7 +687,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -694,8 +706,21 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
+          "url": "https://wallstreetcn.com/articles/3778058",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时25分 ~ 20时32分]"
+        },
         {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=2&Refer=top",
@@ -708,19 +733,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时29分 ~ 09时26分]"
-        },
-        {
-          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
-          "url": "https://wallstreetcn.com/articles/3778058",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时25分 ~ 18时23分]"
         },
         {
           "title": "一文读懂：美股“芯片风暴”究竟是如何发生的？",
@@ -822,6 +834,19 @@
           "time_info": "[09时25分 ~ 15时32分]"
         },
         {
+          "title": "美股半导体崩盘,闪迪跌破新低",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时32分 ~ 20时32分]"
+        },
+        {
           "title": "加密货币市场于美股盘初跳水",
           "url": "https://wallstreetcn.com/livenews/3140446",
           "source": "华尔街见闻-快讯",
@@ -846,28 +871,17 @@
           "time_info": "[05时01分 ~ 06时11分]"
         },
         {
-          "title": "美股半导体崩盘,闪迪跌破新低",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时32分 ~ 18时23分]"
-        },
-        {
           "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2065354296774989670",
           "source": "知乎",
           "ranks": [
             20,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时32分 ~ 18时23分]"
+          "appearance_count": 4,
+          "time_info": "[15时32分 ~ 20时32分]"
         },
         {
           "title": "美股上演芯片风暴 苹果重返市值第一",
@@ -882,6 +896,17 @@
           "time_info": "[07时55分 ~ 09时26分]"
         },
         {
+          "title": "美股跌完韩股跌！美韩科技股联动性飙升，分散投资优势逐步消退",
+          "url": "https://www.cls.cn/detail/2438661",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 20时32分]"
+        },
+        {
           "title": "铿腾电子（Cadence Design）二季度营收15.8亿美元，分析师预期15.7亿美元。 二季度调整后每股收益（EPS）为2.11美元，分析师预期2.06美元。 预计全年营收62.6亿-63.4亿美元，公司原本预计61.3亿-62.3亿美元。 预计全年调整后EPS为8.05-8.15美元，公司原本预计7.58-7.95美元。 预计三季度营收16.0亿-16.3亿美元，分析师预期15.5亿美元。 预计三季度调整后EPS为2.01-2.07美元，分析师预期1.95美元。 铿腾电子（CDNS）美股盘后涨7%。",
           "url": "https://wallstreetcn.com/livenews/3140506",
           "source": "华尔街见闻-快讯",
@@ -892,17 +917,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 06时11分]"
-        },
-        {
-          "title": "美股跌完韩股跌！美韩科技股联动性飙升，分散投资优势逐步消退",
-          "url": "https://www.cls.cn/detail/2438661",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 18时23分]"
         },
         {
           "title": "金十图示：2026年07月27日（周一）美股热门股票行情一览（美股收盘）",
@@ -963,6 +977,17 @@
           "time_info": "01时30分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-07-28）",
+          "url": "https://flash.jin10.com/detail/20260728201416107800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "美股收盘：海力士跌超7%，苹果市值直逼5万亿美元",
           "url": "https://flash.jin10.com/detail/20260728040127842800",
           "source": "金十数据",
@@ -983,12 +1008,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "康宁美股盘前大跌超15%，公司预计第三季度核心销售额49亿至50亿美元，市场预估50亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3140990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         }
       ]
     },
     {
       "keyword_group": "A股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "长鑫科技成A股市值最高公司，银行、保险等机构受益几何",
@@ -1032,6 +1068,18 @@
           "time_info": "[01时29分 ~ 09时26分]"
         },
         {
+          "title": "长鑫科技让合肥坐上A股总市值第四城：硬科技正在重新定义城市竞争力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33503166",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时32分 ~ 20时32分]"
+        },
+        {
           "title": "月内超600家A股上市公司获机构调研，电子行业受青睐",
           "url": "https://wallstreetcn.com/livenews/3140561",
           "source": "华尔街见闻-快讯",
@@ -1041,18 +1089,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
-        },
-        {
-          "title": "长鑫科技让合肥坐上A股总市值第四城：硬科技正在重新定义城市竞争力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33503166",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时32分 ~ 18时23分]"
         },
         {
           "title": "A股温度计",
@@ -1109,6 +1145,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时10分 ~ 06时11分]"
+        },
+        {
+          "title": "长鑫科技登顶A股意味着什么",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E7%99%BB%E9%A1%B6A%E8%82%A1%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "上半年24家A股公司赴港上市，募资总额逾1200亿港元",
@@ -1272,6 +1319,17 @@
           "time_info": "[15时32分 ~ 18时23分]"
         },
         {
+          "title": "C罗无世界杯冠军遭航空公司嘲讽",
+          "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E6%97%A0%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E9%81%AD%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8%E5%98%B2%E8%AE%BD",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 20时32分]"
+        },
+        {
           "title": "周一（7月27日），美股行业ETF涨跌各异，半导体ETF收跌2.25%，能源业ETF跌2.11%，科技行业ETF、全球科技股指数ETF、银行业ETF至多跌0.9%。 生物科技指数ETF则涨0.1%，可选消费ETF涨1.31%，网络股指数ETF涨1.89%，全球航空业ETF涨2.89%。",
           "url": "https://wallstreetcn.com/livenews/3140509",
           "source": "华尔街见闻-快讯",
@@ -1284,24 +1342,13 @@
           "time_info": "[05时01分 ~ 06时11分]"
         },
         {
-          "title": "C罗无世界杯冠军遭航空公司嘲讽",
-          "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E6%97%A0%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E9%81%AD%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8%E5%98%B2%E8%AE%BD",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 18时23分]"
-        },
-        {
           "title": "新加坡航空第一季度净亏损7600万新元，上年同期盈利1.861亿新元。",
           "url": "https://wallstreetcn.com/livenews/3140918",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -1362,7 +1409,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -1413,6 +1460,51 @@
       ]
     },
     {
+      "keyword_group": "农业 机械",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "央视农业谈恶意仅退款",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E5%86%9C%E4%B8%9A%E8%B0%88%E6%81%B6%E6%84%8F%E4%BB%85%E9%80%80%E6%AC%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            7,
+            23,
+            5,
+            3,
+            21,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时29分 ~ 15时32分]"
+        },
+        {
+          "title": "德国总理默茨：必须在农业补贴上对农场实施国家灵活性限制。",
+          "url": "https://flash.jin10.com/detail/20260728202240934800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "全国政协召开“加快农业农村现代化”专题协商会 王沪宁出席并讲话",
+          "url": "https://wallstreetcn.com/livenews/3141007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
@@ -1437,11 +1529,12 @@
           "url": "https://wallstreetcn.com/articles/3778049",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 18时23分]"
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 20时32分]"
         },
         {
           "title": "OpenAI的CEO Altman预计本周将在美国华盛顿特区会见财长贝森特与商务部长卢特尼克。（Politico）",
@@ -1520,29 +1613,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农业 机械",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "央视农业谈恶意仅退款",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E5%86%9C%E4%B8%9A%E8%B0%88%E6%81%B6%E6%84%8F%E4%BB%85%E9%80%80%E6%AC%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            7,
-            23,
-            5,
-            3,
-            21,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时29分 ~ 15时32分]"
         }
       ]
     },
