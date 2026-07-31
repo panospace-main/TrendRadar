@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T07:01:19.596417+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-07-31T08:01:51.314719+08:00",
+  "total_titles_processed": 576,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
@@ -64,24 +64,36 @@
           "time_info": "[02时10分 ~ 05时59分]"
         },
         {
+          "title": "特朗普：加沙将迎来新的巴勒斯坦政府",
+          "url": "https://wallstreetcn.com/livenews/3142682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 08时01分]"
+        },
+        {
+          "title": "特朗普：与哈马斯达成全面解除武装协议",
+          "url": "https://news.ifeng.com/c/8vCOAeHmmzS",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
           "title": "特朗普宣布哈马斯同意全面解除武装，以色列将撤军",
           "url": "https://flash.jin10.com/detail/20260731063227689800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "特朗普：加沙将迎来新的巴勒斯坦政府",
-          "url": "https://wallstreetcn.com/livenews/3142682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -92,9 +104,53 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "英媒：特朗普称尚未决定是否允许乌克兰生产爱国者导弹",
+          "url": "https://flash.jin10.com/detail/20260731074119229800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "美国官员：未要求以色列同意任何不包含在早前计划中的事项。如果以色列不同意，美国总统特朗普将感到失望。",
+          "url": "https://flash.jin10.com/detail/20260731074100248800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "据英国金融时报：美国总统特朗普称其高级顾问库什纳和中东问题特使威特科夫将在未来几天首次访问乌克兰。",
+          "url": "https://flash.jin10.com/detail/20260731073629466800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "美国总统特朗普：“并不确定”是否会允许乌克兰建造爱国者导弹。",
+          "url": "https://flash.jin10.com/detail/20260731073406103800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
         },
         {
           "title": "美国考虑对大学毕业之后留美工作的外国学生收取10万美元的费用。 此前，（美国法院）阻挠总统特朗普对H-1B签证收费10万美元的想法。（华尔街日报）",
@@ -122,29 +178,42 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
-          "title": "美股存储芯片指数收涨超16.9%，闪迪涨约26%，SK海力士ADR涨超17.5%",
-          "url": "https://wallstreetcn.com/livenews/3142689",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：微软创近18年最大单日涨幅",
+          "url": "https://www.toutiao.com/trending/7668063651911909418/",
+          "source": "今日头条",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时01分"
+          "time_info": "08时01分"
         },
         {
           "title": "美股收盘：满屏都是两位数涨幅 微软单日市值暴增3万亿",
           "url": "https://www.cls.cn/detail/2441995",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时00分 ~ 08时01分]"
+        },
+        {
+          "title": "美股存储芯片指数收涨超16.9%，闪迪涨约26%，SK海力士ADR涨超17.5%",
+          "url": "https://wallstreetcn.com/livenews/3142689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时00分 ~ 07时01分]"
+          "time_info": "[07时01分 ~ 08时01分]"
         },
         {
           "title": "亚马逊高管预计2026年资本开支2200亿美元，主要用于AI。 亚马逊美股盘后涨幅扩大至超过10%。",
@@ -193,13 +262,24 @@
           "time_info": "02时10分"
         },
         {
+          "title": "美股收盘：满屏都是两位数涨幅",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%BB%A1%E5%B1%8F%E9%83%BD%E6%98%AF%E4%B8%A4%E4%BD%8D%E6%95%B0%E6%B6%A8%E5%B9%85",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
           "title": "周五亚太盘初，纳指期货涨超0.5%，标普股指期货、道指期货涨超0.1%。 苹果目前（美股盘后）跌超6.5%，该公司电话会已经结束；微软跌0.7%，台积电、AMD、希捷科技、英特尔、西部数据、闪迪涨1.34%-5.07%，发布了业绩报告的亚马逊涨9.3%。",
           "url": "https://wallstreetcn.com/livenews/3142674",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -229,7 +309,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "据华尔街日报：消息人士称，Anthropic计划在德克萨斯州租赁一个容量为1.6吉瓦的新园区，并由谷歌为租赁及电力费用提供担保。",
@@ -274,6 +354,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
+        },
+        {
+          "title": "谷歌发布新一代机器人AI模型",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83%E6%96%B0%E4%B8%80%E4%BB%A3%E6%9C%BA%E5%99%A8%E4%BA%BAAI%E6%A8%A1%E5%9E%8B",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
         }
       ]
     },
@@ -286,11 +377,12 @@
           "url": "https://www.cls.cn/detail/2441076",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时10分 ~ 07时01分]"
+          "appearance_count": 6,
+          "time_info": "[02时10分 ~ 08时01分]"
         },
         {
           "title": "OpenAI：将GPT-5.6Luna的价格下调80%",
@@ -329,7 +421,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美通胀降温叠加微软业绩提振AI信心，纳指100创年内第三大涨幅，芯片指数暴涨8%，美元跳水",
@@ -354,6 +446,17 @@
           "time_info": "[05时58分 ~ 05时59分]"
         },
         {
+          "title": "大奇迹日！美通胀降温与微软大涨刺激，美芯片指数暴涨8%，纳指大反弹，日元急涨美元跳水",
+          "url": "https://wallstreetcn.com/articles/3778287",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1%，暂报2073点。 MarketVectorTM数字资产100中盘指数涨1.83%，报2381.55点，北京时间05:05刷新日低至2311.71点以来持续反弹。 MarketVector数字资产100指数涨1.68%，报12847.19点。 目前，Solana涨1.78%，狗狗币涨0.80%，XRP涨1.47%。 比特币涨1.54%，暂报64763.94美元，北京时间05:08跌至63269.29美元，随后持续上扬；以太坊涨1.18%，暂报1917.18美元。",
           "url": "https://wallstreetcn.com/livenews/3142587",
           "source": "华尔街见闻-快讯",
@@ -368,7 +471,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "A股又一波增持回购潮来了！三环集团十天内“两”回购",
@@ -378,19 +481,31 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时10分 ~ 07时01分]"
+          "appearance_count": 6,
+          "time_info": "[02时10分 ~ 08时01分]"
         },
         {
           "title": "A股又一批公司推出回购增持计划",
           "url": "https://wallstreetcn.com/livenews/3142684",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 08时01分]"
+        },
+        {
+          "title": "A股上市券商百亿分红陆续兑现，回购计划增强投资者信心",
+          "url": "https://wallstreetcn.com/livenews/3142709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时01分"
+          "time_info": "08时01分"
         }
       ]
     },
