@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T10:04:12.421662+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2026-08-07T12:47:16.914835+08:00",
+  "total_titles_processed": 682,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普签署行政令，宣布加征关税",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
+          "appearance_count": 4,
+          "time_info": "[10时03分 ~ 12时47分]"
         },
         {
           "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
+          "appearance_count": 4,
+          "time_info": "[10时03分 ~ 12时47分]"
         },
         {
           "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
@@ -38,19 +38,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时49分 ~ 10时04分]"
+          "appearance_count": 5,
+          "time_info": "[07时49分 ~ 12时47分]"
         },
         {
           "title": "特朗普政府禁止钨废料、电池废料出口 以提升关键矿产供应能力",
           "url": "https://www.cls.cn/detail/2447915",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
+          "appearance_count": 4,
+          "time_info": "[10时03分 ~ 12时47分]"
         },
         {
           "title": "特朗普大发雷霆，美防长甩锅，暴露大问题",
@@ -60,8 +61,30 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时03分 ~ 12时47分]"
+        },
+        {
+          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
+          "url": "https://wallstreetcn.com/articles/3778896",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
+          "time_info": "[12时46分 ~ 12时47分]"
+        },
+        {
+          "title": "美国将严厉打击“生育旅游” 特朗普承认某些弹药供应紧张 | 环球市场",
+          "url": "https://www.cls.cn/detail/2447932",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 12时47分]"
         },
         {
           "title": "特朗普对多晶硅加征关税",
@@ -84,6 +107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
+        },
+        {
+          "title": "泽连斯基要导弹，特朗普最新表态：我们也想要",
+          "url": "https://wallstreetcn.com/livenews/3146430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "特朗普承认部分弹药供应“相对紧张”",
@@ -122,7 +156,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "A股存储芯片板块盘初拉升，沃格光电涨超9%，有研新材、红板科技、国科微涨超8%，光力科技、正帆科技、生益科技跟涨。",
@@ -131,7 +165,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -142,7 +176,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -153,7 +187,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -175,7 +209,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -186,7 +220,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -197,7 +231,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -208,7 +242,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -219,15 +253,26 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "A股午评：创业板指涨1.75% 稀土永磁、PCB板块走强",
+          "url": "https://flash.jin10.com/detail/20260807113538270800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         }
       ]
     },
     {
       "keyword_group": "人民币",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "中国央行公开市场今日净回笼1330亿元人民币",
@@ -236,7 +281,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -247,7 +292,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -261,6 +306,78 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
+        },
+        {
+          "title": "中国7月贸易帐(按人民币计) 7670.7亿人民币，前值 8590.5亿人民币。",
+          "url": "https://wallstreetcn.com/livenews/3146399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "中国7月进口同比(按人民币计) 21.2%，前值 29.4%。",
+          "url": "https://wallstreetcn.com/livenews/3146398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "中国7月出口同比(按人民币计) 17.8%，前值 20.8%。",
+          "url": "https://wallstreetcn.com/livenews/3146397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "航天 航空",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "阿联酋航空 A380 备降杭州，373 名乘客被困机舱超 10 小时，具体情况如何？航司需负哪些责任？",
+          "url": "https://www.zhihu.com/question/2063583750584275618",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时49分"
+        },
+        {
+          "title": "三角洲 想致富去航天",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%20%E6%83%B3%E8%87%B4%E5%AF%8C%E5%8E%BB%E8%88%AA%E5%A4%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 12时47分]"
+        },
+        {
+          "title": "港股商业航天板块盘初活跃，蓝思科技(06613.HK)涨近4%，金风科技(02208.HK)涨超2%，拓璞数控(07688.HK)涨近2%。",
+          "url": "https://flash.jin10.com/detail/20260807093954942800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         }
       ]
     },
@@ -277,19 +394,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时49分 ~ 10时04分]"
+          "appearance_count": 5,
+          "time_info": "[07时49分 ~ 12时47分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
           "url": "https://www.cls.cn/detail/2447905",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时49分 ~ 10时04分]"
+          "appearance_count": 5,
+          "time_info": "[07时49分 ~ 12时47分]"
         },
         {
           "title": "美股三大指数集体收跌",
@@ -301,34 +419,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时03分 ~ 10时04分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "航天 航空",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "阿联酋航空 A380 备降杭州，373 名乘客被困机舱超 10 小时，具体情况如何？航司需负哪些责任？",
-          "url": "https://www.zhihu.com/question/2063583750584275618",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时49分"
-        },
-        {
-          "title": "港股商业航天板块盘初活跃，蓝思科技(06613.HK)涨近4%，金风科技(02208.HK)涨超2%，拓璞数控(07688.HK)涨近2%。",
-          "url": "https://flash.jin10.com/detail/20260807093954942800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时04分"
         }
       ]
     },
@@ -394,6 +484,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时03分 ~ 10时04分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价完成首轮仓位修复，4300附近进入新碰撞区！",
+          "url": "https://flash.jin10.com/detail/20260807120847851800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         }
       ]
     }
