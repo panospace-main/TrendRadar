@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T17:50:19.373880+08:00",
-  "total_titles_processed": 1105,
+  "generated_at": "2026-08-07T18:42:09.372036+08:00",
+  "total_titles_processed": 1210,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时03分 ~ 17时50分]"
+          "appearance_count": 10,
+          "time_info": "[10时03分 ~ 18时42分]"
         },
         {
           "title": "特朗普签署行政令，宣布加征关税",
@@ -44,6 +44,19 @@
           "time_info": "[07时49分 ~ 14时05分]"
         },
         {
+          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
+          "url": "https://wallstreetcn.com/articles/3778896",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时46分 ~ 18时42分]"
+        },
+        {
           "title": "特朗普政府禁止钨废料、电池废料出口 以提升关键矿产供应能力",
           "url": "https://www.cls.cn/detail/2447915",
           "source": "财联社热门",
@@ -56,17 +69,16 @@
           "time_info": "[10时03分 ~ 14时05分]"
         },
         {
-          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
-          "url": "https://wallstreetcn.com/articles/3778896",
-          "source": "华尔街见闻",
+          "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
+          "url": "https://news.ifeng.com/c/8vOTWxkXcxc",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            8,
-            6
+            11,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时46分 ~ 17时50分]"
+          "appearance_count": 5,
+          "time_info": "[16时06分 ~ 18时42分]"
         },
         {
           "title": "特朗普大发雷霆，美防长甩锅，暴露大问题",
@@ -82,27 +94,26 @@
           "time_info": "[10时03分 ~ 16时06分]"
         },
         {
-          "title": "特朗普（谈AI）：它可能比石油还要重要。 谁赢了AI，谁就赢得一切。就这么重要。",
-          "url": "https://wallstreetcn.com/livenews/3146612",
+          "title": "特朗普言论意味着对台政策重大转变？美著名“中国通”解读",
+          "url": "https://news.ifeng.com/c/8uzN3iPy76f",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时06分 ~ 18时42分]"
+        },
+        {
+          "title": "特朗普将与矿企高管开会",
+          "url": "https://wallstreetcn.com/livenews/3146650",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时50分"
-        },
-        {
-          "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
-          "url": "https://news.ifeng.com/c/8vOTWxkXcxc",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时06分 ~ 17时50分]"
+          "time_info": "18时42分"
         },
         {
           "title": "特朗普（被问及加息时）：在投票之前，加息并非完全由沃什决定。 我认为他很棒，我不会批评他。",
@@ -111,20 +122,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时50分"
         },
         {
-          "title": "特朗普言论意味着对台政策重大转变？美著名“中国通”解读",
-          "url": "https://news.ifeng.com/c/8uzN3iPy76f",
-          "source": "凤凰网",
+          "title": "特朗普（谈AI）：它可能比石油还要重要。 谁赢了AI，谁就赢得一切。就这么重要。",
+          "url": "https://wallstreetcn.com/livenews/3146612",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            2,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时06分 ~ 17时50分]"
+          "appearance_count": 2,
+          "time_info": "[17时50分 ~ 18时42分]"
         },
         {
           "title": "美国将严厉打击“生育旅游” 特朗普承认某些弹药供应紧张 | 环球市场",
@@ -167,7 +179,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时50分"
         },
@@ -189,7 +201,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时50分"
         },
@@ -200,7 +212,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时50分"
         },
@@ -211,7 +223,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时50分"
         },
@@ -233,7 +245,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时50分"
         },
@@ -263,7 +275,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "A股三大股指收涨",
@@ -374,6 +386,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "中国铝业：2025年度A股每股派发现金红利0.147元",
+          "url": "https://flash.jin10.com/detail/20260807181007961800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "A股BC电池板块异动拉升，通威股份涨近8%，华民股份涨超7%，东材科技、天合光能、隆基绿能跟涨。",
@@ -531,7 +554,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时50分"
         }
@@ -550,8 +573,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时49分 ~ 17时50分]"
+          "appearance_count": 11,
+          "time_info": "[07时49分 ~ 18时42分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
@@ -570,11 +593,12 @@
           "url": "https://www.cls.cn/detail/2448354",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时49分 ~ 17时50分]"
+          "appearance_count": 4,
+          "time_info": "[17时49分 ~ 18时42分]"
         },
         {
           "title": "美股三大指数集体收跌",
@@ -594,7 +618,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时50分"
         }
@@ -685,7 +709,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时50分"
         }
