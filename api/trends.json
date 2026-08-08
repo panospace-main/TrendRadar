@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T16:27:39.339766+08:00",
-  "total_titles_processed": 1108,
+  "generated_at": "2026-08-08T17:27:33.934255+08:00",
+  "total_titles_processed": 1177,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "中期选举临近，特朗普连续21场败诉",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时46分 ~ 16时27分]"
+          "appearance_count": 9,
+          "time_info": "[08时46分 ~ 17时27分]"
         },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -43,8 +43,23 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[03时44分 ~ 16时27分]"
+          "appearance_count": 17,
+          "time_info": "[03时44分 ~ 17时27分]"
+        },
+        {
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时03分 ~ 17时27分]"
         },
         {
           "title": "涉及白宫宴会厅项目，特朗普称将提起上诉",
@@ -69,20 +84,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时49分 ~ 16时27分]"
-        },
-        {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时03分 ~ 16时27分]"
         },
         {
           "title": "加密货币平台Crypto.com与特朗普传媒科技集团将整合合作伙伴关系调整为营销协议。 特朗普媒体与科技集团称，将调整协议方向，面向Truth Social用户群体推广Crypto.com的预测市场业务。 Yorkville American的业务及其现有和未来ETF产品的计划保持不变。 特朗普媒体与科技集团已终止与Crypto.com的业务合并协议，于2026年8月7日生效。 Crypto.com、特朗普媒体、Yorkville America已共同同意不再推进此前宣布的合作关系。",
@@ -291,6 +292,17 @@
           "time_info": "[08时46分 ~ 08时47分]"
         },
         {
+          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
+          "url": "https://v.ifeng.com/c/8vONreNLVHw",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
           "title": "美国总统特朗普：向美国采矿院校提供1亿美元资金，这项投资将帮助培养下一代采矿工程师，因为该行业正面临大规模退休潮以及毕业生人数不足的问题。",
           "url": "https://flash.jin10.com/detail/20260808031924352800",
           "source": "金十数据",
@@ -459,7 +471,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -473,18 +485,17 @@
           "time_info": "[00时40分 ~ 07时25分]"
         },
         {
-          "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2448784",
+          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
+          "url": "https://www.cls.cn/detail/2448991",
           "source": "财联社热门",
           "ranks": [
-            3,
-            4,
             5,
-            6
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时40分 ~ 16时27分]"
+          "appearance_count": 9,
+          "time_info": "[08时46分 ~ 17时27分]"
         },
         {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
@@ -498,6 +509,21 @@
           "time_info": "[00时40分 ~ 05时28分]"
         },
         {
+          "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2448784",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时40分 ~ 17时27分]"
+        },
+        {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
           "url": "https://www.cls.cn/detail/2448974",
           "source": "财联社热门",
@@ -505,24 +531,12 @@
             10,
             4,
             3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时24分 ~ 16时27分]"
-        },
-        {
-          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
-          "url": "https://www.cls.cn/detail/2448991",
-          "source": "财联社热门",
-          "ranks": [
             5,
-            2,
-            1
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时46分 ~ 16时27分]"
+          "appearance_count": 13,
+          "time_info": "[06时24分 ~ 17时27分]"
         },
         {
           "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
@@ -610,6 +624,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时24分 ~ 08时47分]"
+        },
+        {
+          "title": "李大霄谈美股三大指数高开",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
         }
       ]
     },
@@ -762,6 +787,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "多家A股公司：收到美国关税退税",
+          "url": "https://www.cls.cn/detail/2449086",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时40分 ~ 17时27分]"
+        },
+        {
           "title": "A股一周牛股出炉 最牛股近乎翻倍",
           "url": "https://www.toutiao.com/trending/7670202670728839195/",
           "source": "今日头条",
@@ -771,18 +809,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时28分 ~ 07时25分]"
-        },
-        {
-          "title": "多家A股公司：收到美国关税退税",
-          "url": "https://www.cls.cn/detail/2449086",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时40分 ~ 16时27分]"
         }
       ]
     },
@@ -834,8 +860,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时40分 ~ 16时27分]"
+          "appearance_count": 22,
+          "time_info": "[00时40分 ~ 17时27分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -862,8 +888,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时33分"
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 17时27分]"
         }
       ]
     },
