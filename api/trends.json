@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-08T13:35:53.674145+08:00",
-  "total_titles_processed": 948,
+  "generated_at": "2026-08-08T14:33:25.194913+08:00",
+  "total_titles_processed": 995,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 38,
       "titles": [
+        {
+          "title": "中期选举临近，特朗普连续21场败诉",
+          "url": "https://news.ifeng.com/c/8vP8prEgTBk",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时46分 ~ 14时33分]"
+        },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
           "url": "https://wallstreetcn.com/articles/3778896",
@@ -27,23 +39,12 @@
             16,
             15,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时44分 ~ 13时35分]"
-        },
-        {
-          "title": "中期选举临近，特朗普连续21场败诉",
-          "url": "https://news.ifeng.com/c/8vP8prEgTBk",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时46分 ~ 13时35分]"
+          "appearance_count": 14,
+          "time_info": "[03时44分 ~ 14时33分]"
         },
         {
           "title": "涉及白宫宴会厅项目，特朗普称将提起上诉",
@@ -55,6 +56,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时46分 ~ 10时49分]"
+        },
+        {
+          "title": "特朗普：隔着大洋呢，我们没掺和这事",
+          "url": "https://news.ifeng.com/c/8vPrynBVxqj",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时49分 ~ 14时33分]"
         },
         {
           "title": "加密货币平台Crypto.com与特朗普传媒科技集团将整合合作伙伴关系调整为营销协议。 特朗普媒体与科技集团称，将调整协议方向，面向Truth Social用户群体推广Crypto.com的预测市场业务。 Yorkville American的业务及其现有和未来ETF产品的计划保持不变。 特朗普媒体与科技集团已终止与Crypto.com的业务合并协议，于2026年8月7日生效。 Crypto.com、特朗普媒体、Yorkville America已共同同意不再推进此前宣布的合作关系。",
@@ -130,18 +143,6 @@
           "time_info": "[04时29分 ~ 07时25分]"
         },
         {
-          "title": "特朗普：隔着大洋呢，我们没掺和这事",
-          "url": "https://news.ifeng.com/c/8vPrynBVxqj",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时49分 ~ 13时35分]"
-        },
-        {
           "title": "万斯为何能被特朗普青睐？背后有好几个大佬做靠山",
           "url": "https://v.ifeng.com/c/8vPA0XjV5pT",
           "source": "凤凰网",
@@ -164,6 +165,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时29分 ~ 08时47分]"
+        },
+        {
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时03分 ~ 14时33分]"
         },
         {
           "title": "苹果公司、亚马逊、耐克在特朗普政府关税退款问题上遭到美国参议院民主党成员Warren的质询。 Warren要求各家公司提供消费者关税退款。",
@@ -203,18 +217,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时44分 ~ 05时28分]"
-        },
-        {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 13时35分]"
         },
         {
           "title": "特朗普谈降息：希望利率下调，但这不完全取决于沃什一人",
@@ -479,8 +481,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时40分 ~ 13时35分]"
+          "appearance_count": 19,
+          "time_info": "[00时40分 ~ 14时33分]"
         },
         {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
@@ -503,8 +505,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时24分 ~ 13时35分]"
+          "appearance_count": 10,
+          "time_info": "[06时24分 ~ 14时33分]"
         },
         {
           "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
@@ -516,6 +518,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时40分 ~ 03时44分]"
+        },
+        {
+          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
+          "url": "https://www.cls.cn/detail/2448991",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时46分 ~ 14时33分]"
         },
         {
           "title": "美股存储板块集体大跌",
@@ -545,18 +560,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时40分 ~ 07时25分]"
-        },
-        {
-          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
-          "url": "https://www.cls.cn/detail/2448991",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时46分 ~ 13时35分]"
         },
         {
           "title": "金十图示：2026年08月07日（周五）美股热门股票行情一览（美股收盘）",
@@ -632,11 +635,12 @@
           "source": "微博",
           "ranks": [
             9,
-            29
+            29,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 13时35分]"
+          "appearance_count": 3,
+          "time_info": "[12时03分 ~ 14时33分]"
         },
         {
           "title": "油价金价银价都涨了",
@@ -718,11 +722,12 @@
             5,
             13,
             19,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时25分 ~ 13时35分]"
+          "appearance_count": 6,
+          "time_info": "[07时25分 ~ 14时33分]"
         },
         {
           "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
@@ -796,8 +801,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时40分 ~ 13时35分]"
+          "appearance_count": 19,
+          "time_info": "[00时40分 ~ 14时33分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -826,6 +831,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时28分 ~ 07时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金期货价格突破4400美元关口 特朗普继续推进罢免美联储理事库克 | 环球市场",
+          "url": "https://www.cls.cn/detail/2448987",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         }
       ]
     },
