@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T15:40:55.295791+08:00",
-  "total_titles_processed": 1060,
+  "generated_at": "2026-08-08T16:27:39.339766+08:00",
+  "total_titles_processed": 1108,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时46分 ~ 15时40分]"
+          "appearance_count": 8,
+          "time_info": "[08时46分 ~ 16时27分]"
         },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -43,8 +43,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[03时44分 ~ 15时40分]"
+          "appearance_count": 16,
+          "time_info": "[03时44分 ~ 16时27分]"
         },
         {
           "title": "涉及白宫宴会厅项目，特朗普称将提起上诉",
@@ -67,8 +67,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时49分 ~ 15时40分]"
+          "appearance_count": 6,
+          "time_info": "[10时49分 ~ 16时27分]"
         },
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -81,8 +81,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时03分 ~ 15时40分]"
+          "appearance_count": 5,
+          "time_info": "[12时03分 ~ 16时27分]"
         },
         {
           "title": "加密货币平台Crypto.com与特朗普传媒科技集团将整合合作伙伴关系调整为营销协议。 特朗普媒体与科技集团称，将调整协议方向，面向Truth Social用户群体推广Crypto.com的预测市场业务。 Yorkville American的业务及其现有和未来ETF产品的计划保持不变。 特朗普媒体与科技集团已终止与Crypto.com的业务合并协议，于2026年8月7日生效。 Crypto.com、特朗普媒体、Yorkville America已共同同意不再推进此前宣布的合作关系。",
@@ -483,8 +483,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时40分 ~ 15时40分]"
+          "appearance_count": 21,
+          "time_info": "[00时40分 ~ 16时27分]"
         },
         {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
@@ -508,8 +508,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时24分 ~ 15时40分]"
+          "appearance_count": 12,
+          "time_info": "[06时24分 ~ 16时27分]"
         },
         {
           "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
@@ -521,8 +521,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时46分 ~ 15时40分]"
+          "appearance_count": 8,
+          "time_info": "[08时46分 ~ 16时27分]"
         },
         {
           "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
@@ -777,11 +777,12 @@
           "url": "https://www.cls.cn/detail/2449086",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时40分 ~ 16时27分]"
         }
       ]
     },
@@ -829,11 +830,12 @@
             19,
             17,
             22,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时40分 ~ 15时40分]"
+          "appearance_count": 21,
+          "time_info": "[00时40分 ~ 16时27分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
