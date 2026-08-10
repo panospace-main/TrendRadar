@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T11:06:42.736903+08:00",
-  "total_titles_processed": 776,
+  "generated_at": "2026-08-10T13:16:18.451109+08:00",
+  "total_titles_processed": 924,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "多家A股公司：收到美国关税退税",
@@ -29,8 +29,30 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 11时06分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 13时16分]"
+        },
+        {
+          "title": "专家：A股二次探底是大概率事件",
+          "url": "https://www.toutiao.com/trending/7672233159576014346/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时16分]"
+        },
+        {
+          "title": "A股煤化工板块走高，金牛化工涨停，江苏索普、华昌化工、诚志股份、宝丰能源、鲁西化工等纷纷走高。",
+          "url": "https://flash.jin10.com/detail/20260810130945639800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         },
         {
           "title": "A股温度计",
@@ -44,13 +66,24 @@
           "time_info": "08时53分"
         },
         {
+          "title": "A股存储芯片概念午后持续下挫，普冉股份跌超10%，北京君正、兆易创新、长信科技、恒烁股份、大普微等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260810130539699800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
           "title": "A股",
           "url": "https://www.douyin.com/hot/2603879",
           "source": "抖音",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
         },
@@ -61,7 +94,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
         },
@@ -72,7 +105,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
         },
@@ -83,7 +116,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
         },
@@ -94,7 +127,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
         },
@@ -116,7 +149,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
         },
@@ -127,7 +160,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
         },
@@ -138,7 +171,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
         },
@@ -149,7 +182,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
         },
@@ -160,7 +193,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
         },
@@ -171,7 +204,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
         },
@@ -182,7 +215,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
         },
@@ -193,7 +226,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
         },
@@ -204,7 +237,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
         },
@@ -223,7 +256,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -243,11 +276,12 @@
           "ranks": [
             5,
             6,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时21分 ~ 11时06分]"
+          "appearance_count": 13,
+          "time_info": "[01时21分 ~ 13时16分]"
         },
         {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
@@ -259,6 +293,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时21分 ~ 07时20分]"
+        },
+        {
+          "title": "特朗普公布新任总统助理人选",
+          "url": "https://news.ifeng.com/c/8vT8RYkNUQr",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时53分 ~ 13时16分]"
         },
         {
           "title": "美媒：特朗普暂缓对伊动武，称正“低调处理”伊朗问题",
@@ -287,6 +334,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时21分 ~ 07时20分]"
+        },
+        {
+          "title": "特朗普这是此地无银三百两吗？",
+          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时53分 ~ 13时16分]"
         },
         {
           "title": "特朗普宣布威尔·沙夫将出任总统助理兼白宫法律顾问",
@@ -326,16 +385,17 @@
           "time_info": "[03时25分 ~ 05时21分]"
         },
         {
-          "title": "特朗普公布新任总统助理人选",
-          "url": "https://news.ifeng.com/c/8vT8RYkNUQr",
+          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
+          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
           "source": "凤凰网",
           "ranks": [
-            12,
-            5
+            9,
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时53分 ~ 11时06分]"
+          "appearance_count": 4,
+          "time_info": "[08时53分 ~ 13时16分]"
         },
         {
           "title": "F-16拦截特朗普高尔夫俱乐部附近两架违规飞机",
@@ -350,27 +410,15 @@
           "time_info": "[04时20分 ~ 05时21分]"
         },
         {
-          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
-          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
+          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
+          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
           "source": "凤凰网",
           "ranks": [
-            9,
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时53分 ~ 11时06分]"
-        },
-        {
-          "title": "特朗普这是此地无银三百两吗？",
-          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时53分 ~ 11时06分]"
+          "time_info": "[13时15分 ~ 13时16分]"
         },
         {
           "title": "美国总统特朗普：自9月1日起，威尔·沙夫将接替大卫·沃灵顿，成为总统助理兼白宫法律顾问。",
@@ -408,6 +456,17 @@
           "time_info": "08时53分"
         },
         {
+          "title": "内塔尼亚胡算了一笔账：惹怒特朗普，竟成他眼下“最不坏的选择”",
+          "url": "https://flash.jin10.com/detail/20260810123837709800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
           "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
           "url": "https://flash.jin10.com/detail/20260809212948063800",
           "source": "金十数据",
@@ -428,12 +487,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
+        },
+        {
+          "title": "美国高级国防官员科尔比：北约在美国总统特朗普领导下显著增强，实力远超以往。",
+          "url": "https://flash.jin10.com/detail/20260810122310879800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -467,8 +537,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时25分 ~ 11时06分]"
+          "appearance_count": 9,
+          "time_info": "[03时25分 ~ 13时16分]"
         },
         {
           "title": "美股股指期货周一开盘涨跌不一，纳指期货涨0.16%，道指期货跌0.14%。",
@@ -481,6 +551,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时20分]"
+        },
+        {
+          "title": "美股新高即将迎来考验，CPI会来带抛售潮吗？",
+          "url": "https://flash.jin10.com/detail/20260810130237090800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         }
       ]
     },
@@ -506,7 +587,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
         },
@@ -517,9 +598,43 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "航天 航空",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "欧洲航天局局长：欧洲2030年将面临运载火箭短缺问题",
+          "url": "https://flash.jin10.com/detail/20260810123818928800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
+          "url": "https://wallstreetcn.com/articles/3779038",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时16分]"
         }
       ]
     },
@@ -534,7 +649,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
         }
