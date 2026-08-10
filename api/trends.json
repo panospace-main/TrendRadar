@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T22:14:05.999359+08:00",
-  "total_titles_processed": 1712,
+  "generated_at": "2026-08-10T23:51:03.427286+08:00",
+  "total_titles_processed": 1827,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "多家A股公司：收到美国关税退税",
@@ -41,11 +41,12 @@
             1,
             2,
             10,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时06分 ~ 22时14分]"
+          "appearance_count": 10,
+          "time_info": "[17时06分 ~ 23时51分]"
         },
         {
           "title": "A股“股王”大跌",
@@ -137,6 +138,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时06分 ~ 17时07分]"
+        },
+        {
+          "title": "十大券商看后市｜A股仍处于上行周期，超跌反弹还有演绎空间",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750320",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时50分 ~ 23时51分]"
         },
         {
           "title": "A股市场到了哪个阶段",
@@ -406,7 +418,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -434,6 +446,31 @@
           "time_info": "[01时21分 ~ 17时07分]"
         },
         {
+          "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
+          "url": "https://news.ifeng.com/c/8vTlIUCd26B",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时56分 ~ 23时51分]"
+        },
+        {
+          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时06分 ~ 23时51分]"
+        },
+        {
           "title": "特朗普这是此地无银三百两吗？",
           "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
           "source": "凤凰网",
@@ -444,19 +481,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时53分 ~ 22时14分]"
-        },
-        {
-          "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
-          "url": "https://news.ifeng.com/c/8vTlIUCd26B",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时56分 ~ 22时14分]"
+          "appearance_count": 15,
+          "time_info": "[08时53分 ~ 23时51分]"
         },
         {
           "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
@@ -468,8 +494,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时53分 ~ 22时14分]"
+          "appearance_count": 15,
+          "time_info": "[08时53分 ~ 23时51分]"
         },
         {
           "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
@@ -479,8 +505,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时15分 ~ 22时14分]"
+          "appearance_count": 13,
+          "time_info": "[13时15分 ~ 23时51分]"
         },
         {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
@@ -494,18 +520,18 @@
           "time_info": "[00时21分 ~ 07时20分]"
         },
         {
-          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
-          "source": "澎湃新闻",
+          "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
+          "url": "https://wallstreetcn.com/articles/3779034",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
+            9,
+            8,
             7,
-            6,
-            5
+            10
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[17时06分 ~ 22时14分]"
+          "time_info": "[18时56分 ~ 23时51分]"
         },
         {
           "title": "特朗普公布新任总统助理人选",
@@ -534,19 +560,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时21分 ~ 05时21分]"
-        },
-        {
-          "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
-          "url": "https://wallstreetcn.com/articles/3779034",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时56分 ~ 22时14分]"
         },
         {
           "title": "特朗普称正在“低调处理”伊朗问题",
@@ -659,6 +672,17 @@
           "time_info": "[00时21分 ~ 01时21分]"
         },
         {
+          "title": "释疑｜总在开盘前喊停？从两万五千条交易数据，看特朗普投资“玄学”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33561179",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时50分 ~ 23时51分]"
+        },
+        {
           "title": "新闻交易员：特朗普说低调处理，市场可能听得太认真了",
           "url": "https://flash.jin10.com/detail/20260810082438238800",
           "source": "金十数据",
@@ -676,7 +700,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时14分"
         },
@@ -761,7 +785,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -800,6 +824,18 @@
           "time_info": "[00时21分 ~ 08时53分]"
         },
         {
+          "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时13分 ~ 23时51分]"
+        },
+        {
           "title": "SpaceX美股盘前一度涨近5%，有望连续第三个交易日走高，并重新站上135美元的IPO发行价。",
           "url": "https://wallstreetcn.com/livenews/3147525",
           "source": "华尔街见闻-快讯",
@@ -834,17 +870,6 @@
           "time_info": "[06时19分 ~ 07时20分]"
         },
         {
-          "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时13分 ~ 22时14分]"
-        },
-        {
           "title": "Meta美股盘前涨近3%，此前公司发布轻量化版AI模型，单张显卡即可运行。",
           "url": "https://wallstreetcn.com/livenews/3147486",
           "source": "华尔街见闻-快讯",
@@ -868,6 +893,17 @@
           "time_info": "13时16分"
         },
         {
+          "title": "美股CAPE升至42倍，未来十年会变成“失去的十年”吗？",
+          "url": "https://flash.jin10.com/detail/20260810230305789800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
+        },
+        {
           "title": "科技股延续涨势，美股盘前光模块集体走高，霍尔木兹谈判僵局推升油价，黄金维持高位",
           "url": "https://wallstreetcn.com/articles/3779052",
           "source": "华尔街见闻",
@@ -885,7 +921,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时14分"
         },
@@ -896,7 +932,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时14分"
         },
@@ -940,7 +976,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时14分"
         },
@@ -951,7 +987,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时14分"
         }
@@ -969,8 +1005,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时13分 ~ 22时14分]"
+          "appearance_count": 4,
+          "time_info": "[22时13分 ~ 23时51分]"
         },
         {
           "title": "猪肉价格转涨点燃板块热情 农业ETF易方达涨2.81% 养殖链全线走强",
@@ -1086,7 +1122,7 @@
     },
     {
       "keyword_group": "人民币",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "中国外汇交易中心（CFETS）：8月7日人民币汇率指数按周跌0.16至102.03。",
@@ -1110,6 +1146,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时57分 ~ 19时42分]"
+        },
+        {
+          "title": "人民币跨境支付系统在纳米比亚启动",
+          "url": "https://wallstreetcn.com/livenews/3147596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         },
         {
           "title": "在岸人民币兑美元8月10日16:30收盘报6.7442，较上一交易日上涨59点。",
@@ -1162,7 +1209,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时14分"
         },
@@ -1189,11 +1236,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时56分 ~ 22时14分]"
+          "appearance_count": 7,
+          "time_info": "[18时56分 ~ 23时51分]"
         },
         {
           "title": "哥伦比亚航空管理局：这些航站楼的航空业务已暂停。",
@@ -1202,7 +1250,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时14分"
         },
@@ -1213,7 +1261,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时14分"
         },
@@ -1292,7 +1340,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时14分"
         }
@@ -1310,11 +1358,12 @@
             9,
             8,
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时15分 ~ 22时14分]"
+          "appearance_count": 13,
+          "time_info": "[13时15分 ~ 23时51分]"
         }
       ]
     }
