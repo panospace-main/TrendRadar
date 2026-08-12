@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T18:03:57.061829+08:00",
-  "total_titles_processed": 1251,
+  "generated_at": "2026-08-12T19:39:28.436770+08:00",
+  "total_titles_processed": 1387,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
@@ -37,11 +37,23 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时32分 ~ 18时03分]"
+          "appearance_count": 5,
+          "time_info": "[06时32分 ~ 19时39分]"
+        },
+        {
+          "title": "越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉",
+          "url": "https://news.ifeng.com/c/8vX5eliYwTC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         },
         {
           "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
@@ -105,6 +117,17 @@
           "time_info": "[05时35分 ~ 06时32分]"
         },
         {
+          "title": "中期选举脚步渐近 特朗普酝酿“大招”：据悉考虑削减资本利得税",
+          "url": "https://www.cls.cn/detail/2452049",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时03分 ~ 19时39分]"
+        },
+        {
           "title": "内塔尼亚胡硬刚特朗普，美以同盟怎么了？",
           "url": "https://news.ifeng.com/c/8vWRcaa5PNY",
           "source": "凤凰网",
@@ -114,6 +137,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时22分 ~ 13时23分]"
+        },
+        {
+          "title": "美国人吓坏了：伊朗知道特朗普住哪一层，还发现肩扛防空导弹",
+          "url": "https://news.ifeng.com/c/8vX4SqfjB1V",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
+          "title": "据大西洋月刊：美国财长贝森特曾告诉特朗普，加强制裁可能会迫使伊朗屈服，并声称随着70%的能源运输转移到地下管道，霍尔木兹海峡将在两年内变得无关紧要。",
+          "url": "https://flash.jin10.com/detail/20260812191933612800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         },
         {
           "title": "特朗普据悉考虑削减资本利得税以提振中期选举",
@@ -127,24 +172,13 @@
           "time_info": "07时29分"
         },
         {
-          "title": "中期选举脚步渐近 特朗普酝酿“大招”：据悉考虑削减资本利得税",
-          "url": "https://www.cls.cn/detail/2452049",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时03分"
-        },
-        {
           "title": "特朗普：我要伊朗赔钱，把过去50年的账还了",
           "url": "https://m.thepaper.cn/newsDetail_forward_33765581",
           "source": "澎湃新闻",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -224,6 +258,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "特朗普政府将至少花费9亿美元用于白宫翻修。（华盛顿邮报）",
+          "url": "https://wallstreetcn.com/livenews/3148574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         }
       ]
     },
@@ -245,6 +290,17 @@
           "time_info": "[00时45分 ~ 07时29分]"
         },
         {
+          "title": "一图看懂 | 8月A股首只翻倍股出炉，一批牛股涨超70%",
+          "url": "https://www.cls.cn/detail/2452324",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时03分 ~ 19时39分]"
+        },
+        {
           "title": "A股“股王”，股价重回2200元",
           "url": "https://www.cls.cn/detail/2451978",
           "source": "财联社热门",
@@ -255,17 +311,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时23分 ~ 18时03分]"
-        },
-        {
-          "title": "一图看懂 | 8月A股首只翻倍股出炉，一批牛股涨超70%",
-          "url": "https://www.cls.cn/detail/2452324",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时03分"
         },
         {
           "title": "A股光学元件板块持续走高，光智科技、中润光学涨超10%，东田微、激智科技、水晶光电、波长光电、戈碧迦等跟涨。",
@@ -303,6 +348,18 @@
           "time_info": "[11时22分 ~ 13时23分]"
         },
         {
+          "title": "重返3.5万亿市值！A股“一哥”大涨超6%，百亿成交活跃股扫描",
+          "url": "https://www.cls.cn/detail/2452477",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时03分 ~ 19时39分]"
+        },
+        {
           "title": "A股光学元件板块持续走高，光智科技、中润光学涨超10%，东田微、激智科技、水晶光电、波长光电、戈碧迦等跟涨。",
           "url": "https://flash.jin10.com/detail/20260812130400459800",
           "source": "金十数据",
@@ -323,17 +380,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
-        },
-        {
-          "title": "重返3.5万亿市值！A股“一哥”大涨超6%，百亿成交活跃股扫描",
-          "url": "https://www.cls.cn/detail/2452477",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时03分"
         },
         {
           "title": "A股“股王”、第二高价股双双大涨",
@@ -416,7 +462,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -496,7 +542,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -597,12 +643,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "7月CPI成为“定方向数据”！不同情景下，美元黄金美股如何反应？",
+          "url": "https://flash.jin10.com/detail/20260812190120326800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         }
       ]
     },
     {
       "keyword_group": "人民币",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "如何看待 8 月 10 日沈腾主演电影《欢迎来龙餐馆》总票房预测值大幅提升至 35.4 亿人民币？",
@@ -616,6 +673,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时45分 ~ 04时34分]"
+        },
+        {
+          "title": "文远知行第二季度净亏损4.007亿元人民币，预估亏损3.013亿元人民币。 文远知行美股盘前涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3148604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         },
         {
           "title": "上期所原油期货2609合约夜盘收跌0.25%，报549.40元人民币/桶。 沪金夜盘收跌0.28%，沪银收跌0.42%。",
@@ -648,9 +716,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
+        },
+        {
+          "title": "华润置地：7月本集团经常性收入约人民币44.1亿元，同比增长5.6%",
+          "url": "https://flash.jin10.com/detail/20260812190111762800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7466元，较周一夜盘收盘涨29点。成交量264.04亿美元。",
@@ -670,7 +749,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -681,7 +760,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -692,7 +771,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -703,7 +782,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -714,7 +793,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         }
@@ -832,7 +911,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "谷歌(GOOG.O)：将视频点播服务引入Google TV Freeplay。",
@@ -890,6 +969,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
+        },
+        {
+          "title": "【但斌美股持仓“大换血”】具体操作上，东方港湾海外基金清仓了苹果、三倍做多纳斯达克100ETF、特斯拉、CIRCLE INTERNET GROUP INC等6只标的。同时，其新买入英特尔、闪迪、超威半导体、迈威尔科技、Arm Holdings plc ADR、博通、Lumentum等7只标的，上述标的均为AI硬件相关公司。从整体的持仓情况来看，东方港湾美股第一大重仓股仍为谷歌-C，持仓占其组合的比重约为23%，相比一季度有所减仓。同时，东方港湾还清仓了谷歌-A及二倍做多谷歌ETF。（上证报）",
+          "url": "https://wallstreetcn.com/livenews/3148567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         }
       ]
     },
@@ -939,7 +1029,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         }
@@ -1015,7 +1105,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "巴克莱：美债对价格敏感型买家的依赖显著上升，料使收益率维持高位",
@@ -1028,6 +1118,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时48分 ~ 02时47分]"
+        },
+        {
+          "title": "Pimco认为美联储公信力无虞 当前美债收益率具有吸引力",
+          "url": "https://wallstreetcn.com/livenews/3148572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         }
       ]
     }
