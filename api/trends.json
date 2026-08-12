@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T00:45:47.340446+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-13T01:51:05.874868+08:00",
+  "total_titles_processed": 368,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 01时51分]"
         },
         {
           "title": "美国人吓坏了：伊朗知道特朗普住哪一层，还发现肩扛防空导弹",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 01时51分]"
         },
         {
           "title": "不满美国施加高额关税，泰国罕见亮出军事筹码威胁特朗普政府",
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 01时51分]"
         },
         {
           "title": "特朗普：我要伊朗赔钱，把过去50年的账还了",
@@ -48,19 +48,54 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 01时51分]"
+        },
+        {
+          "title": "特朗普躲避暗杀更多细节曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BA%B2%E9%81%BF%E6%9A%97%E6%9D%80%E6%9B%B4%E5%A4%9A%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 01时51分]"
+        },
+        {
+          "title": "新闻蒸馏器｜一辆卡车和三架专机：特朗普证实秘密换机避暗杀，随行记者成诱饵",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33765931",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时50分 ~ 01时51分]"
         },
         {
           "title": "特朗普因计划出售Truth Social帖文快速访问权限计划遭起诉。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3148699",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时51分]"
+        },
+        {
+          "title": "特朗普宣称“美国完全控制着霍尔木兹海峡”",
+          "url": "https://wallstreetcn.com/livenews/3148693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时51分]"
         },
         {
           "title": "伊朗：美国国会应调查特朗普资产的增加情况",
@@ -68,17 +103,6 @@
           "source": "金十数据",
           "ranks": [
             21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
-        },
-        {
-          "title": "特朗普宣称“美国完全控制着霍尔木兹海峡”",
-          "url": "https://wallstreetcn.com/livenews/3148693",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -94,24 +118,24 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
-        },
-        {
-          "title": "特朗普躲避暗杀更多细节曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BA%B2%E9%81%BF%E6%9A%97%E6%9D%80%E6%9B%B4%E5%A4%9A%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
         }
       ]
     },
     {
       "keyword_group": "农业 机械",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "玉米期货大涨 美国农业部大幅下调美国单产预期，降幅超市场预期",
+          "url": "https://wallstreetcn.com/livenews/3148725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        },
         {
           "title": "美国农业部：维持阿根廷2025/2026年度玉米产量预期在6300万吨不变；将巴西2025/2026年度玉米产量预期从之前的1.38亿吨上调至1.4亿吨。",
           "url": "https://flash.jin10.com/detail/20260813000502533800",
@@ -124,20 +148,33 @@
           "time_info": "00时45分"
         },
         {
-          "title": "美国农业部：将阿根廷2025/2026年度大豆产量预期从之前的5000万吨下调至4950万吨；将巴西2025/2026年度大豆产量预期从之前的1.8亿吨上调至1.805亿吨。",
-          "url": "https://flash.jin10.com/detail/20260813000433824800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
-        },
-        {
           "title": "美国农业部：将阿根廷2025/2026年度大豆产量预期从之前的5000万吨下调至4950万吨；将巴西2025/2026年度大豆产量预期从之前的1.8亿吨上调至1.805亿吨。维持阿根廷2025/2026年度玉米产量预期在6300万吨不变；将巴西2025/2026年度玉米产量预期从之前的1.38亿吨上调至1.4亿吨。",
           "url": "https://wallstreetcn.com/livenews/3148712",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时51分]"
+        },
+        {
+          "title": "农业农村部：全力以赴抓好粮食等重要农产品稳产保供，持续推进生猪产能综合调控",
+          "url": "https://wallstreetcn.com/livenews/3148696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时51分]"
+        },
+        {
+          "title": "美国农业部：将阿根廷2025/2026年度大豆产量预期从之前的5000万吨下调至4950万吨；将巴西2025/2026年度大豆产量预期从之前的1.8亿吨上调至1.805亿吨。",
+          "url": "https://flash.jin10.com/detail/20260813000433824800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
@@ -157,15 +194,77 @@
           "time_info": "00时45分"
         },
         {
-          "title": "农业农村部：全力以赴抓好粮食等重要农产品稳产保供，持续推进生猪产能综合调控",
-          "url": "https://wallstreetcn.com/livenews/3148696",
-          "source": "华尔街见闻-快讯",
+          "title": "据塔斯社：俄罗斯农业部表示，俄罗斯正在努力将货运流向其他路线。这些路线包括波罗的海和里海沿岸的港口、远东地区的港口以及陆路路线。",
+          "url": "https://flash.jin10.com/detail/20260813004900549800",
+          "source": "金十数据",
           "ranks": [
-            19
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美通胀温和缓解加息压力，美股高开，光通信、存储芯片股领涨，Nebius涨15%，油价震荡",
+          "url": "https://wallstreetcn.com/articles/3779257",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 01时51分]"
+        },
+        {
+          "title": "美股三大指数集体高开",
+          "url": "https://www.douyin.com/hot/2607617",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 01时51分]"
+        },
+        {
+          "title": "美银对冲基金客户继续大买美股 单周规模创出2008年以来之最",
+          "url": "https://wallstreetcn.com/livenews/3148701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时51分]"
+        },
+        {
+          "title": "金十图示：2026年08月12日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260813003439020800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时45分"
+          "time_info": "01时51分"
+        },
+        {
+          "title": "金十图示：2026年08月12日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260813003436500800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时51分"
         }
       ]
     },
@@ -178,22 +277,24 @@
           "url": "https://flash.jin10.com/detail/20260813001419372800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时51分]"
         },
         {
           "title": "谷歌：Pixel 11 Pro Fold今日开启预购，将于8月20日上市开售。",
           "url": "https://wallstreetcn.com/livenews/3148713",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时51分]"
         },
         {
           "title": "谷歌：推出谷歌Pixel Tag。",
@@ -209,48 +310,21 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美通胀温和缓解加息压力，美股高开，光通信、存储芯片股领涨，Nebius涨15%，油价震荡",
-          "url": "https://wallstreetcn.com/articles/3779257",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
-        },
-        {
-          "title": "美银对冲基金客户继续大买美股 单周规模创出2008年以来之最",
-          "url": "https://wallstreetcn.com/livenews/3148701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
-        },
-        {
-          "title": "美股三大指数集体高开",
-          "url": "https://www.douyin.com/hot/2607617",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
-        }
-      ]
-    },
-    {
       "keyword_group": "A股",
       "match_count": 2,
       "titles": [
+        {
+          "title": "重返3.5万亿市值！A股“一哥”大涨超6%，百亿成交活跃股扫描",
+          "url": "https://www.cls.cn/detail/2452477",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 01时51分]"
+        },
         {
           "title": "一图看懂 | 8月A股首只翻倍股出炉，一批牛股涨超70%",
           "url": "https://www.cls.cn/detail/2452324",
@@ -261,17 +335,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "航天 航空",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "苹果聘请美国航空资深高管出任政府事务主管",
+          "url": "https://wallstreetcn.com/livenews/3148719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时51分"
         },
         {
-          "title": "重返3.5万亿市值！A股“一哥”大涨超6%，百亿成交活跃股扫描",
-          "url": "https://www.cls.cn/detail/2452477",
-          "source": "财联社热门",
+          "title": "苹果(AAPL.O)任命美国航空公司资深人士担任政府事务主管。",
+          "url": "https://flash.jin10.com/detail/20260813003755197800",
+          "source": "金十数据",
           "ranks": [
-            4
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时45分"
+          "time_info": "01时51分"
         }
       ]
     },
@@ -284,11 +375,12 @@
           "url": "https://www.cls.cn/detail/2452735",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 01时51分]"
         }
       ]
     }
