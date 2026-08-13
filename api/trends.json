@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T20:43:34.608569+08:00",
-  "total_titles_processed": 1530,
+  "generated_at": "2026-08-13T22:16:09.398085+08:00",
+  "total_titles_processed": 1670,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉",
@@ -17,6 +17,23 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时45分 ~ 06时30分]"
+        },
+        {
+          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时27分 ~ 22时16分]"
         },
         {
           "title": "新闻蒸馏器｜一辆卡车和三架专机：特朗普证实秘密换机避暗杀，随行记者成诱饵",
@@ -57,6 +74,18 @@
           "time_info": "[00时45分 ~ 06时30分]"
         },
         {
+          "title": "特朗普宣称美国“完全掌控”霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8vYdZtyCxYa",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时02分 ~ 22时16分]"
+        },
+        {
           "title": "不满美国施加高额关税，泰国罕见亮出军事筹码威胁特朗普政府",
           "url": "https://news.ifeng.com/c/8vXFYlujdhz",
           "source": "凤凰网",
@@ -80,31 +109,40 @@
           "time_info": "[00时45分 ~ 06时30分]"
         },
         {
-          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
-          "source": "澎湃新闻",
+          "title": "美新闻机构起诉特朗普",
+          "url": "https://www.douyin.com/hot/2607917",
+          "source": "抖音",
           "ranks": [
-            9,
-            8,
-            7,
-            6,
-            5,
-            3
+            10,
+            4,
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时27分 ~ 20时43分]"
+          "time_info": "[17时02分 ~ 22时16分]"
         },
         {
           "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
           "url": "https://news.ifeng.com/c/8vYj1925EKl",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时52分 ~ 20时43分]"
+          "appearance_count": 5,
+          "time_info": "[18时52分 ~ 22时16分]"
+        },
+        {
+          "title": "特朗普秘密“换机”返美，除赫格塞思外的3名亲信都是谁？",
+          "url": "https://news.ifeng.com/c/8vYQf5wseR7",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 22时16分]"
         },
         {
           "title": "美国总统特朗普周四日程一览",
@@ -116,19 +154,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
-        },
-        {
-          "title": "美新闻机构起诉特朗普",
-          "url": "https://www.douyin.com/hot/2607917",
-          "source": "抖音",
-          "ranks": [
-            10,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时02分 ~ 20时43分]"
         },
         {
           "title": "白宫：特朗普签署备忘录，授权美国执法部门使用网络工具打击在外国司法管辖区活动的犯罪组织。",
@@ -151,17 +176,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
-        },
-        {
-          "title": "特朗普宣称美国“完全掌控”霍尔木兹海峡",
-          "url": "https://news.ifeng.com/c/8vYdZtyCxYa",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时02分 ~ 20时43分]"
         },
         {
           "title": "特朗普：我想谋求第三任期，但美国法律太严",
@@ -262,6 +276,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时30分]"
+        },
+        {
+          "title": "特朗普秘密换乘专机内幕曝光",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%98%E5%AF%86%E6%8D%A2%E4%B9%98%E4%B8%93%E6%9C%BA%E5%86%85%E5%B9%95%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 22时16分]"
         },
         {
           "title": "特朗普因计划出售Truth Social帖文快速访问权限计划遭起诉。（彭博）",
@@ -390,7 +415,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
@@ -403,8 +428,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时29分 ~ 20时43分]"
+          "appearance_count": 11,
+          "time_info": "[06时29分 ~ 22时16分]"
         },
         {
           "title": "美股收盘：CPI如期放缓削弱加息预期 存储、光通信、新云板块齐飞",
@@ -447,7 +472,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -502,6 +527,17 @@
           "time_info": "[04时32分 ~ 06时30分]"
         },
         {
+          "title": "美PPI数据再缓加息压力，美股高开，Cerebras跌12%，金油齐跌",
+          "url": "https://wallstreetcn.com/articles/3779338",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 22时16分]"
+        },
+        {
           "title": "保险科技公司Accelerant美股盘前涨超45%，报道称该公司将被软件投资机构Thoma Bravo以每股20.25美元的价格私有化。",
           "url": "https://wallstreetcn.com/livenews/3149117",
           "source": "华尔街见闻-快讯",
@@ -538,6 +574,17 @@
           "time_info": "[18时52分 ~ 19时39分]"
         },
         {
+          "title": "美股三大指数集体高开",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 22时16分]"
+        },
+        {
           "title": "美银对冲基金客户继续大买美股 单周规模创出2008年以来之最",
           "url": "https://wallstreetcn.com/livenews/3148701",
           "source": "华尔街见闻-快讯",
@@ -567,7 +614,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -592,6 +639,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
+        },
+        {
+          "title": "美股盘初：三大指数小幅上涨，Coherent跌约4%，Cerebras跌约12%，京东跌约2%",
+          "url": "https://wallstreetcn.com/livenews/3149193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "金十图示：2026年08月12日（周三）美股热门股票行情一览（美股盘中）",
@@ -627,6 +685,17 @@
           "time_info": "01时51分"
         },
         {
+          "title": "金十图示：2026年08月13日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260813214319855800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "美股三大指数涨跌不一，微软跌逾2%，领跌道指",
           "url": "https://wallstreetcn.com/livenews/3148752",
           "source": "华尔街见闻-快讯",
@@ -636,6 +705,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3149175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         }
       ]
     },
@@ -655,6 +735,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时45分 ~ 09时01分]"
+        },
+        {
+          "title": "A股午后回落，三大股指集体收跌，医药股逆势大涨，港股腾讯跌超4%，联想集团午后暴涨20%",
+          "url": "https://wallstreetcn.com/articles/3779335",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时52分 ~ 22时16分]"
         },
         {
           "title": "一图看懂 | 8月A股首只翻倍股出炉，一批牛股涨超70%",
@@ -701,18 +794,6 @@
           "time_info": "15时10分"
         },
         {
-          "title": "A股午后回落，三大股指集体收跌，医药股逆势大涨，港股腾讯跌超4%，联想集团午后暴涨20%",
-          "url": "https://wallstreetcn.com/articles/3779335",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时52分 ~ 20时43分]"
-        },
-        {
           "title": "郭一鸣：A股尾盘为何突然跳水杀跌",
           "url": "https://www.toutiao.com/trending/7673428562422009386/",
           "source": "今日头条",
@@ -724,6 +805,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时52分 ~ 20时43分]"
+        },
+        {
+          "title": "专家：A股为何早盘冲高午后跳水翻绿",
+          "url": "https://www.toutiao.com/trending/7673455893605780998/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时43分 ~ 22时16分]"
         },
         {
           "title": "A股尾盘突发跳水 发生了什么",
@@ -747,17 +840,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
-        },
-        {
-          "title": "专家：A股为何早盘冲高午后跳水翻绿",
-          "url": "https://www.toutiao.com/trending/7673455893605780998/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
         },
         {
           "title": "A股肉制品板块午盘前直线拉升，得利斯涨停，光明肉业、华统股份、广弘控股、双汇发展、益客食品等纷纷走高。",
@@ -1063,6 +1145,19 @@
           "time_info": "[05时34分 ~ 06时30分]"
         },
         {
+          "title": "人民币逆势升值 中国做对了什么",
+          "url": "https://www.toutiao.com/trending/7673336867604925988/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时10分 ~ 22时16分]"
+        },
+        {
           "title": "京东集团 第二季度净营收3,464.0亿元人民币，同比下降2.9%，市场预估3,421亿元人民币。 第二季度调整后EBITDA 79亿元人民币，上年同期30亿元人民币，市场预估77亿元人民币。 第二季度调整后每ADS收益6.29元人民币，市场预估5.40元人民币。 截至2026年6月30日，股票回购计划剩余金额为10亿美元。 京东集团美股盘前跌近1%。",
           "url": "https://wallstreetcn.com/livenews/3149104",
           "source": "华尔街见闻-快讯",
@@ -1073,18 +1168,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时52分 ~ 19时39分]"
-        },
-        {
-          "title": "人民币逆势升值 中国做对了什么",
-          "url": "https://www.toutiao.com/trending/7673336867604925988/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时10分 ~ 20时43分]"
         },
         {
           "title": "中国移动：上半年算力服务收入达到人民币529亿元，同比增长14.0%，数据中心收入同比增长13.2%",
@@ -1129,6 +1212,123 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "还在逼美联储加息？10年期美债发行收益率创金融危机以来最高！",
+          "url": "https://www.cls.cn/detail/2452988",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 17时02分]"
+        },
+        {
+          "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
+          "url": "https://www.cls.cn/detail/2453615",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 22时16分]"
+        },
+        {
+          "title": "温和通胀数据及10年期国债拍卖后，美债收盘涨跌互现",
+          "url": "https://wallstreetcn.com/livenews/3148749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时30分]"
+        },
+        {
+          "title": "周三（8月12日）纽约尾盘，2年期至7年期美债收益率日内微跌，长端收益率基本持平。此前7月CPI数据表现温和，交易员小幅下调了对美联储未来几个月加息次数的押注。 美国10年期国债收益率涨0.21个基点，报4.684%。 两年期美债收益率跌0.64个基点，报4.197%；30年期美债收益率涨0.96个基点，报5.250%。 受美债标售及大宗交易推动，2年期与10年期美债收益率价差一度触及49个基点，创下5月中旬以来的最阔水平，曲线趋陡态势明显。 10年期通胀保值国债（TIPS）收益率跌0.56个基点，至2.414%；30年期TIPS收益率跌0.2个基点，至3.013%。",
+          "url": "https://wallstreetcn.com/livenews/3148749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        },
+        {
+          "title": "英国央行料AI泡沫破裂恐使资金同时撤出美股美债 对英国产生连带冲击",
+          "url": "https://wallstreetcn.com/livenews/3149151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "航天 航空",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "中国成功用竹子造出无人机，这对航空材料和制造技术意味着什么？",
+          "url": "https://www.zhihu.com/question/2070132623079379116",
+          "source": "知乎",
+          "ranks": [
+            13,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时10分 ~ 20时43分]"
+        },
+        {
+          "title": "苹果聘请美国航空资深高管出任政府事务主管",
+          "url": "https://wallstreetcn.com/livenews/3148719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 02时47分]"
+        },
+        {
+          "title": "美股盘初，主要行业ETF多数上涨，全球航空业ETF涨超1%，区域银行业ETF、银行业ETF涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3149196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "苹果(AAPL.O)任命美国航空公司资深人士担任政府事务主管。",
+          "url": "https://flash.jin10.com/detail/20260813003755197800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时51分"
         }
       ]
     },
@@ -1181,101 +1381,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "还在逼美联储加息？10年期美债发行收益率创金融危机以来最高！",
-          "url": "https://www.cls.cn/detail/2452988",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 17时02分]"
-        },
-        {
-          "title": "温和通胀数据及10年期国债拍卖后，美债收盘涨跌互现",
-          "url": "https://wallstreetcn.com/livenews/3148749",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时34分 ~ 06时30分]"
-        },
-        {
-          "title": "周三（8月12日）纽约尾盘，2年期至7年期美债收益率日内微跌，长端收益率基本持平。此前7月CPI数据表现温和，交易员小幅下调了对美联储未来几个月加息次数的押注。 美国10年期国债收益率涨0.21个基点，报4.684%。 两年期美债收益率跌0.64个基点，报4.197%；30年期美债收益率涨0.96个基点，报5.250%。 受美债标售及大宗交易推动，2年期与10年期美债收益率价差一度触及49个基点，创下5月中旬以来的最阔水平，曲线趋陡态势明显。 10年期通胀保值国债（TIPS）收益率跌0.56个基点，至2.414%；30年期TIPS收益率跌0.2个基点，至3.013%。",
-          "url": "https://wallstreetcn.com/livenews/3148749",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时32分"
-        },
-        {
-          "title": "英国央行料AI泡沫破裂恐使资金同时撤出美股美债 对英国产生连带冲击",
-          "url": "https://wallstreetcn.com/livenews/3149151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "航天 航空",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "中国成功用竹子造出无人机，这对航空材料和制造技术意味着什么？",
-          "url": "https://www.zhihu.com/question/2070132623079379116",
-          "source": "知乎",
-          "ranks": [
-            13,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时10分 ~ 20时43分]"
-        },
-        {
-          "title": "苹果聘请美国航空资深高管出任政府事务主管",
-          "url": "https://wallstreetcn.com/livenews/3148719",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 02时47分]"
-        },
-        {
-          "title": "苹果(AAPL.O)任命美国航空公司资深人士担任政府事务主管。",
-          "url": "https://flash.jin10.com/detail/20260813003755197800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
         }
       ]
     },
