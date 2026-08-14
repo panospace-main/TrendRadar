@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T09:01:29.140665+08:00",
-  "total_titles_processed": 719,
+  "generated_at": "2026-08-14T11:24:19.951950+08:00",
+  "total_titles_processed": 889,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 21,
       "titles": [
         {
           "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
@@ -78,6 +78,40 @@
           "time_info": "04时31分"
         },
         {
+          "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
+          "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
+          "title": "美媒：特朗普下令美海军弃用电磁弹射系统，改回蒸汽弹射",
+          "url": "https://wallstreetcn.com/livenews/3149448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
+          "title": "最年轻新闻秘书，“弃特朗普而去”",
+          "url": "https://news.ifeng.com/c/8vYyzBPe3bZ",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时00分 ~ 11时24分]"
+        },
+        {
           "title": "美新闻机构起诉特朗普",
           "url": "https://www.douyin.com/hot/2607917",
           "source": "抖音",
@@ -87,17 +121,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时44分 ~ 05时35分]"
-        },
-        {
-          "title": "最年轻新闻秘书，“弃特朗普而去”",
-          "url": "https://news.ifeng.com/c/8vYyzBPe3bZ",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时00分 ~ 09时01分]"
         },
         {
           "title": "霉霉特朗普 版权",
@@ -122,6 +145,28 @@
           "time_info": "07时31分"
         },
         {
+          "title": "以色列发警报迫使特朗普换飞机，美中情局质疑以方用意",
+          "url": "https://news.ifeng.com/c/8vYmNSHdxQv",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
+          "title": "特朗普的美军科技路线有多矛盾？中东搞无人战争联盟，航母却要退回蒸汽时代",
+          "url": "https://flash.jin10.com/detail/20260814105548306800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
           "title": "美国法院裁定特朗普可以暂停对低价商品的关税豁免",
           "url": "https://wallstreetcn.com/livenews/3149298",
           "source": "华尔街见闻-快讯",
@@ -144,6 +189,17 @@
           "time_info": "05时35分"
         },
         {
+          "title": "美媒披露特朗普换机疑因受到伊朗肩扛式导弹袭击的威胁，鲁比奥、贝森特留在了「空军一号」上，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2071188820662433064",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
           "title": "据华尔街日报：美国总统特朗普下令海军移除航母电磁弹射系统，恢复蒸汽弹射方案，预计相关改装将推高成本数十亿美元。",
           "url": "https://flash.jin10.com/detail/20260814043950826800",
           "source": "金十数据",
@@ -153,6 +209,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
+        },
+        {
+          "title": "以色列多次警告伊朗要刺杀特朗普，美国中情局：没法核实",
+          "url": "https://flash.jin10.com/detail/20260814104645705800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
         },
         {
           "title": "美国法官驳回特朗普政府指控哈佛大学未能保护犹太学生的诉讼。",
@@ -206,6 +273,18 @@
           "time_info": "[00时44分 ~ 05时35分]"
         },
         {
+          "title": "美股收盘：三大指数齐升标普收新高 存储板块走强闪迪涨逾13%",
+          "url": "https://www.cls.cn/detail/2453979",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时31分 ~ 11时24分]"
+        },
+        {
           "title": "金十图示：2026年08月13日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260814040642401800",
           "source": "金十数据",
@@ -226,18 +305,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
-        },
-        {
-          "title": "美股收盘：三大指数齐升标普收新高 存储板块走强闪迪涨逾13%",
-          "url": "https://www.cls.cn/detail/2453979",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时31分 ~ 09时01分]"
         },
         {
           "title": "美股三大指数集体高开",
@@ -306,6 +373,101 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "A股午后回落，三大股指集体收跌，医药股逆势大涨，港股腾讯跌超4%，联想集团午后暴涨20%",
+          "url": "https://wallstreetcn.com/articles/3779335",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 11时24分]"
+        },
+        {
+          "title": "“科技成长+周期修复”驱动，A股龙头公司半年报亮眼",
+          "url": "https://wallstreetcn.com/livenews/3149347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "A股直线跳水原因",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%9B%B4%E7%BA%BF%E8%B7%B3%E6%B0%B4%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 00时45分]"
+        },
+        {
+          "title": "A股温度计",
+          "url": "https://flash.jin10.com/detail/20260814083717884800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "A股电力板块持续下挫，华银电力、梅雁吉祥逼近跌停，立新能源、豫能控股、粤电力A、京能电力均大幅下挫。",
+          "url": "https://flash.jin10.com/detail/20260814104858523800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
+          "title": "A股稀土永磁板块异动拉升，金田股份触及涨停，中国稀土涨超8%，华宏科技、中稀有色、九菱科技、北方稀土跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3149423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
+          "title": "A股AI应用方向开盘拉升，理工能科2连板，石基信息、久其软件直线涨停，大恒科技、合合信息、达梦数据跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3149415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
+          "title": "A股存储芯片板块开盘活跃，阿莱德涨超10%，联芸科技、普冉股份、兆易创新、德明利、长鑫科技等集体高开。",
+          "url": "https://wallstreetcn.com/livenews/3149410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
         }
       ]
     },
@@ -382,53 +544,42 @@
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 4,
+      "keyword_group": "人民币",
+      "match_count": 3,
       "titles": [
         {
-          "title": "A股午后回落，三大股指集体收跌，医药股逆势大涨，港股腾讯跌超4%，联想集团午后暴涨20%",
-          "url": "https://wallstreetcn.com/articles/3779335",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 09时01分]"
-        },
-        {
-          "title": "“科技成长+周期修复”驱动，A股龙头公司半年报亮眼",
-          "url": "https://wallstreetcn.com/livenews/3149347",
+          "title": "周四（8月13日）纽约尾盘（周五北京时间04:59），美元兑离岸人民币（CNH）报6.7444元，较周三纽约尾盘跌14点，日内整体交投于6.74793-6.74218元区间。",
+          "url": "https://wallstreetcn.com/livenews/3149328",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "A股直线跳水原因",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%9B%B4%E7%BA%BF%E8%B7%B3%E6%B0%B4%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
+            3,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "time_info": "[05时35分 ~ 07时31分]"
         },
         {
-          "title": "A股温度计",
-          "url": "https://flash.jin10.com/detail/20260814083717884800",
-          "source": "金十数据",
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7450元，较上一交易日夜盘收盘涨9个基点。",
+          "url": "https://wallstreetcn.com/livenews/3149286",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "人民币兑美元中间价创2023年2月8日以来新高",
+          "url": "https://wallstreetcn.com/livenews/3149403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时01分"
+          "time_info": "11时24分"
         }
       ]
     },
@@ -485,7 +636,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -503,31 +654,31 @@
       ]
     },
     {
-      "keyword_group": "人民币",
+      "keyword_group": "金价",
       "match_count": 2,
       "titles": [
         {
-          "title": "周四（8月13日）纽约尾盘（周五北京时间04:59），美元兑离岸人民币（CNH）报6.7444元，较周三纽约尾盘跌14点，日内整体交投于6.74793-6.74218元区间。",
-          "url": "https://wallstreetcn.com/livenews/3149328",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2026年08月14日（周五）上海金早盘价为936.17元/克，较国际金价(935.66元/克)，高0.51元/克",
+          "url": "https://flash.jin10.com/detail/20260814110433157800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            22
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 07时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
         },
         {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7450元，较上一交易日夜盘收盘涨9个基点。",
-          "url": "https://wallstreetcn.com/livenews/3149286",
-          "source": "华尔街见闻-快讯",
+          "title": "黄金价格反弹意味什么",
+          "url": "https://www.toutiao.com/trending/7673529634117389887/",
+          "source": "今日头条",
           "ranks": [
-            25
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时31分"
+          "appearance_count": 3,
+          "time_info": "[09时00分 ~ 11时24分]"
         }
       ]
     },
@@ -574,23 +725,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 05时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄金价格反弹意味什么",
-          "url": "https://www.toutiao.com/trending/7673529634117389887/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时00分 ~ 09时01分]"
         }
       ]
     }
