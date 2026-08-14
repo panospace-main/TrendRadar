@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T13:25:11.544229+08:00",
-  "total_titles_processed": 1030,
+  "generated_at": "2026-08-14T15:07:55.129489+08:00",
+  "total_titles_processed": 1160,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
@@ -38,11 +38,12 @@
           "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 13时25分]"
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 15时07分]"
         },
         {
           "title": "特朗普宣称美国“完全掌控”霍尔木兹海峡",
@@ -65,6 +66,30 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时44分 ~ 07时31分]"
+        },
+        {
+          "title": "最年轻新闻秘书，“弃特朗普而去”",
+          "url": "https://news.ifeng.com/c/8vYyzBPe3bZ",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时00分 ~ 15时07分]"
+        },
+        {
+          "title": "特朗普专机上全是一箱又一箱麦当劳",
+          "url": "https://www.toutiao.com/trending/7673136089955352622/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
         },
         {
           "title": "特朗普品牌马尔代夫度假村推迟数字代币计划，伊朗战争扰乱地区旅游",
@@ -100,18 +125,6 @@
           "time_info": "11时24分"
         },
         {
-          "title": "最年轻新闻秘书，“弃特朗普而去”",
-          "url": "https://news.ifeng.com/c/8vYyzBPe3bZ",
-          "source": "凤凰网",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时00分 ~ 13时25分]"
-        },
-        {
           "title": "以色列发警报迫使特朗普换飞机，美中情局质疑以方用意",
           "url": "https://news.ifeng.com/c/8vYmNSHdxQv",
           "source": "凤凰网",
@@ -119,8 +132,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 13时25分]"
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 15时07分]"
         },
         {
           "title": "美新闻机构起诉特朗普",
@@ -154,6 +167,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "特朗普下令美海军弃用电磁弹射系统，改回蒸汽弹射",
+          "url": "https://news.ifeng.com/c/8vZxGezuWmE",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        },
+        {
+          "title": "美国卫生部长：特朗普专机上有多箱麦当劳，他出门怕食物中毒",
+          "url": "https://news.ifeng.com/c/8va6d6Ijs5m",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
         },
         {
           "title": "特朗普的美军科技路线有多矛盾？中东搞无人战争联盟，航母却要退回蒸汽时代",
@@ -198,6 +233,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
+        },
+        {
+          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
+          "url": "https://www.zhihu.com/question/2070813507499643585",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
         },
         {
           "title": "据华尔街日报：美国总统特朗普下令海军移除航母电磁弹射系统，恢复蒸汽弹射方案，预计相关改装将推高成本数十亿美元。",
@@ -246,6 +292,145 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "A股午后回落，三大股指集体收跌，医药股逆势大涨，港股腾讯跌超4%，联想集团午后暴涨20%",
+          "url": "https://wallstreetcn.com/articles/3779335",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 15时07分]"
+        },
+        {
+          "title": "“科技成长+周期修复”驱动，A股龙头公司半年报亮眼",
+          "url": "https://wallstreetcn.com/livenews/3149347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "A股直线跳水原因",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%9B%B4%E7%BA%BF%E8%B7%B3%E6%B0%B4%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 00时45分]"
+        },
+        {
+          "title": "A股温度计",
+          "url": "https://flash.jin10.com/detail/20260814083717884800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "A股PCB概念股震荡拉升，中富电路涨近15%，华正新材此前涨停，南亚新材、奕东电子、威尔高、德福科技等涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3149531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        },
+        {
+          "title": "A股电力板块持续下挫，华银电力、梅雁吉祥逼近跌停，立新能源、豫能控股、粤电力A、京能电力均大幅下挫。",
+          "url": "https://flash.jin10.com/detail/20260814104858523800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
+          "title": "A股稀土永磁板块异动拉升，金田股份触及涨停，中国稀土涨超8%，华宏科技、中稀有色、九菱科技、北方稀土跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3149423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
+          "title": "A股AI应用方向开盘拉升，理工能科2连板，石基信息、久其软件直线涨停，大恒科技、合合信息、达梦数据跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3149415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
+          "title": "A股电子化学品板块持续走高，海星股份涨停，中石科技此前封板, 思泉新材、龙辰科技涨超10%，方邦股份、国瓷材料、同宇新材、天承科技、金宏气体等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260814142845425800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        },
+        {
+          "title": "A股游戏板块持续走高，迅游科技、世纪华通涨超6%，恺英网络、中青宝、三七互娱跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3149514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        },
+        {
+          "title": "A股存储芯片板块开盘活跃，阿莱德涨超10%，联芸科技、普冉股份、兆易创新、德明利、长鑫科技等集体高开。",
+          "url": "https://wallstreetcn.com/livenews/3149410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
+          "title": "A股算力租赁概念探底回升，网宿科技涨超17%，行云科技涨超10%，数据港、奥飞数据、利通电子跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3149511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 11,
       "titles": [
@@ -261,6 +446,18 @@
           "time_info": "[00时44分 ~ 05时35分]"
         },
         {
+          "title": "美股收盘：三大指数齐升标普收新高 存储板块走强闪迪涨逾13%",
+          "url": "https://www.cls.cn/detail/2453979",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时31分 ~ 15时07分]"
+        },
+        {
           "title": "美PPI数据再缓加息压力，美股高开，Cerebras跌12%，金油齐跌",
           "url": "https://wallstreetcn.com/articles/3779338",
           "source": "华尔街见闻",
@@ -271,18 +468,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时44分 ~ 05时35分]"
-        },
-        {
-          "title": "美股收盘：三大指数齐升标普收新高 存储板块走强闪迪涨逾13%",
-          "url": "https://www.cls.cn/detail/2453979",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时31分 ~ 13时25分]"
         },
         {
           "title": "金十图示：2026年08月13日（周四）美股热门股票行情一览（美股收盘）",
@@ -373,101 +558,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "A股午后回落，三大股指集体收跌，医药股逆势大涨，港股腾讯跌超4%，联想集团午后暴涨20%",
-          "url": "https://wallstreetcn.com/articles/3779335",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 13时25分]"
-        },
-        {
-          "title": "“科技成长+周期修复”驱动，A股龙头公司半年报亮眼",
-          "url": "https://wallstreetcn.com/livenews/3149347",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "A股直线跳水原因",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%9B%B4%E7%BA%BF%E8%B7%B3%E6%B0%B4%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
-        },
-        {
-          "title": "A股温度计",
-          "url": "https://flash.jin10.com/detail/20260814083717884800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "A股电力板块持续下挫，华银电力、梅雁吉祥逼近跌停，立新能源、豫能控股、粤电力A、京能电力均大幅下挫。",
-          "url": "https://flash.jin10.com/detail/20260814104858523800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "A股稀土永磁板块异动拉升，金田股份触及涨停，中国稀土涨超8%，华宏科技、中稀有色、九菱科技、北方稀土跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3149423",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "A股AI应用方向开盘拉升，理工能科2连板，石基信息、久其软件直线涨停，大恒科技、合合信息、达梦数据跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3149415",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "A股存储芯片板块开盘活跃，阿莱德涨超10%，联芸科技、普冉股份、兆易创新、德明利、长鑫科技等集体高开。",
-          "url": "https://wallstreetcn.com/livenews/3149410",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时24分"
         }
       ]
     },
@@ -628,11 +718,12 @@
           "url": "https://wallstreetcn.com/articles/3779403",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 15时07分]"
         },
         {
           "title": "美国PPI数据公布日，美债收益率普遍下挫",
@@ -672,6 +763,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周四（8月13日），万得美国科技股七巨头（Magnificent 7）指数涨0.82%。 特斯拉涨3.80%，Meta Platforms涨2.74%，苹果涨1.01%，微软涨0.90%，英伟达涨0.56%，谷歌涨0.44%，亚马逊跌0.80%。",
+          "url": "https://wallstreetcn.com/livenews/3149305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 05时35分]"
+        },
+        {
+          "title": "谷歌推出 Gemini 3.7 Flash，有哪些亮点和创新？",
+          "url": "https://www.zhihu.com/question/2071408739723302257",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
         }
       ]
     },
@@ -729,24 +849,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周四（8月13日），万得美国科技股七巨头（Magnificent 7）指数涨0.82%。 特斯拉涨3.80%，Meta Platforms涨2.74%，苹果涨1.01%，微软涨0.90%，英伟达涨0.56%，谷歌涨0.44%，亚马逊跌0.80%。",
-          "url": "https://wallstreetcn.com/livenews/3149305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时31分 ~ 05时35分]"
         }
       ]
     }
