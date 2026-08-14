@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T18:48:26.239780+08:00",
-  "total_titles_processed": 1367,
+  "generated_at": "2026-08-14T19:36:56.950063+08:00",
+  "total_titles_processed": 1445,
   "failed_sources": [],
   "trends": [
     {
@@ -46,6 +46,17 @@
           "time_info": "[11时24分 ~ 15时07分]"
         },
         {
+          "title": "事关特朗普与马斯克，美媒最新爆料",
+          "url": "https://news.ifeng.com/c/8vaHza2NSPn",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 19时36分]"
+        },
+        {
           "title": "特朗普宣称美国“完全掌控”霍尔木兹海峡",
           "url": "https://news.ifeng.com/c/8vYdZtyCxYa",
           "source": "凤凰网",
@@ -79,17 +90,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时00分 ~ 15时07分]"
-        },
-        {
-          "title": "事关特朗普与马斯克，美媒最新爆料",
-          "url": "https://news.ifeng.com/c/8vaHza2NSPn",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
         },
         {
           "title": "特朗普专机上全是一箱又一箱麦当劳",
@@ -147,6 +147,17 @@
           "time_info": "[11时24分 ~ 15时07分]"
         },
         {
+          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
+          "url": "https://www.zhihu.com/question/2070813507499643585",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时07分 ~ 19时36分]"
+        },
+        {
           "title": "美新闻机构起诉特朗普",
           "url": "https://www.douyin.com/hot/2607917",
           "source": "抖音",
@@ -158,15 +169,16 @@
           "time_info": "[00时44分 ~ 05时35分]"
         },
         {
-          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
-          "url": "https://www.zhihu.com/question/2070813507499643585",
-          "source": "知乎",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-14）",
+          "url": "https://flash.jin10.com/detail/20260814181940361800",
+          "source": "金十数据",
           "ranks": [
-            16
+            9,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时07分 ~ 18时48分]"
+          "time_info": "[18时48分 ~ 19时36分]"
         },
         {
           "title": "霉霉特朗普 版权",
@@ -189,17 +201,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-14）",
-          "url": "https://flash.jin10.com/detail/20260814181940361800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
         },
         {
           "title": "特朗普下令美海军弃用电磁弹射系统，改回蒸汽弹射",
@@ -334,11 +335,12 @@
           "url": "https://www.cls.cn/detail/2454642",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 19时36分]"
         },
         {
           "title": "“科技成长+周期修复”驱动，A股龙头公司半年报亮眼",
@@ -549,6 +551,18 @@
           "time_info": "[04时31分 ~ 05时35分]"
         },
         {
+          "title": "美股存储芯片股盘前走高，闪迪涨超6%，美光科技涨3%，西部数据涨近3%，希捷科技涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3149692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 19时36分]"
+        },
+        {
           "title": "美股标普收新高 闪迪涨逾13%",
           "url": "https://www.toutiao.com/trending/7673659542994947603/",
           "source": "今日头条",
@@ -569,17 +583,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
-        },
-        {
-          "title": "美股存储芯片股盘前走高，闪迪涨超6%，美光科技涨3%，西部数据涨近3%，希捷科技涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3149692",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
         },
         {
           "title": "周四（8月13日），美股行业ETF普遍收涨，房地产ETF涨1.42%，日常消费ETF涨1.07%，半导体ETF涨0.76%，金融精选ETF涨0.56%，太阳能ETF、可选消费ETF、地区银行、公用事业ETF涨0.42%-0.48%不等。医疗保健ETF则微跌0.04%。",
@@ -614,22 +617,12 @@
           "url": "https://wallstreetcn.com/livenews/3149712",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "名创优品：预计2026年上半年期内利润约人民币9.4亿元至人民币9.6亿元，同比增加约4%至6%",
-          "url": "https://flash.jin10.com/detail/20260814182915408800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 19时36分]"
         },
         {
           "title": "周四（8月13日）纽约尾盘（周五北京时间04:59），美元兑离岸人民币（CNH）报6.7444元，较周三纽约尾盘跌14点，日内整体交投于6.74793-6.74218元区间。",
@@ -644,6 +637,30 @@
           "time_info": "[05时35分 ~ 07时31分]"
         },
         {
+          "title": "名创优品：预计2026年上半年期内利润约人民币9.4亿元至人民币9.6亿元，同比增加约4%至6%",
+          "url": "https://flash.jin10.com/detail/20260814182915408800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 19时36分]"
+        },
+        {
+          "title": "中国人民银行上海总部：7月上海人民币存款增加4994亿元",
+          "url": "https://wallstreetcn.com/livenews/3149703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 19时36分]"
+        },
+        {
           "title": "人民币为什么走出独立行情",
           "url": "https://www.toutiao.com/trending/7672613591959765046/",
           "source": "今日头条",
@@ -653,17 +670,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时24分 ~ 13时25分]"
-        },
-        {
-          "title": "中国人民银行上海总部：7月上海人民币存款增加4994亿元",
-          "url": "https://wallstreetcn.com/livenews/3149703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7450元，较上一交易日夜盘收盘涨9个基点。",
@@ -683,7 +689,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -704,6 +710,17 @@
       "keyword_group": "chatgpt openai",
       "match_count": 8,
       "titles": [
+        {
+          "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划",
+          "url": "https://news.ifeng.com/c/8vaHkh2o1IS",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 19时36分]"
+        },
         {
           "title": "OpenAI：丹尼斯·德雷瑟将在过渡期后离开OpenAI，寻求其他发展机会。",
           "url": "https://flash.jin10.com/detail/20260814000639384800",
@@ -736,17 +753,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
-        },
-        {
-          "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划",
-          "url": "https://news.ifeng.com/c/8vaHkh2o1IS",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
         },
         {
           "title": "OpenAI在不到一年内任命新首席营收官",
@@ -788,7 +794,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         }
@@ -805,9 +811,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 19时36分]"
         },
         {
           "title": "酒吧多名女子穿近似海航空姐制服跳舞",
@@ -816,9 +822,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 19时36分]"
         },
         {
           "title": "商业航天行业迎招聘热潮 液体可回收火箭全链条人才供需矛盾突出",
@@ -849,7 +855,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         }
@@ -882,8 +888,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时24分 ~ 18时48分]"
+          "appearance_count": 5,
+          "time_info": "[13时24分 ~ 19时36分]"
         },
         {
           "title": "如何看待 10 年期、 30 年期美债中标利率都达到 2007 年全球金融危机以来最高水平？",
