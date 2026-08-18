@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T10:19:45.074334+08:00",
-  "total_titles_processed": 727,
+  "generated_at": "2026-08-18T15:29:52.515708+08:00",
+  "total_titles_processed": 931,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普要求伊朗举白旗投降",
@@ -32,6 +32,18 @@
           "time_info": "[00时15分 ~ 10时19分]"
         },
         {
+          "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
+          "url": "https://wallstreetcn.com/articles/3779635",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时35分 ~ 15时29分]"
+        },
+        {
           "title": "特朗普向朝韩发出强烈信号，信息量很大",
           "url": "https://news.ifeng.com/c/8vehnvg4TOJ",
           "source": "凤凰网",
@@ -43,16 +55,26 @@
           "time_info": "[00时15分 ~ 06时37分]"
         },
         {
-          "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
-          "url": "https://wallstreetcn.com/articles/3779635",
-          "source": "华尔街见闻",
+          "title": "特朗普最新支持率公布",
+          "url": "https://news.ifeng.com/c/8vgNsInzDsl",
+          "source": "凤凰网",
           "ranks": [
-            4,
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
+          "title": "国际黄金投资需求明显回归 伊朗不会让特朗普轻松脱身？| Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260818151730717800",
+          "source": "金十数据",
+          "ranks": [
             3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时35分 ~ 10时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         },
         {
           "title": "特朗普和加拿大总理卡尼周一就贸易问题通话。",
@@ -61,9 +83,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时19分"
+        },
+        {
+          "title": "阿曼正和伊朗斡旋，却收到特朗普的轰炸威胁，咋回事？",
+          "url": "https://news.ifeng.com/c/8vgfXfy9cpA",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         },
         {
           "title": "特朗普：伊朗“不会达成我认为必要的那种协议”",
@@ -100,6 +133,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时35分 ~ 10时19分]"
+        },
+        {
+          "title": "特朗普：金正恩已回应其对话请求",
+          "url": "https://news.ifeng.com/c/8vgIS66EJvG",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时19分 ~ 15时29分]"
         },
         {
           "title": "特朗普称金正恩已回应其对话请求",
@@ -157,6 +202,17 @@
           "time_info": "06时37分"
         },
         {
+          "title": "美国议员：特朗普把欺骗到底当美德",
+          "url": "https://www.toutiao.com/trending/7674814398469947401/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
           "title": "土耳其总统埃尔多安与美国总统特朗普通电话。双方讨论了土耳其与美国的双边关系以及地区和全球局势。",
           "url": "https://flash.jin10.com/detail/20260818053526620800",
           "source": "金十数据",
@@ -179,15 +235,15 @@
           "time_info": "06时37分"
         },
         {
-          "title": "特朗普：金正恩已回应其对话请求",
-          "url": "https://news.ifeng.com/c/8vgIS66EJvG",
-          "source": "凤凰网",
+          "title": "特朗普还对人民大会堂念念不忘",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%98%E5%AF%B9%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%E5%BF%B5%E5%BF%B5%E4%B8%8D%E5%BF%98%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时19分"
+          "time_info": "15时29分"
         },
         {
           "title": "伊朗战事拖累选情，特朗普被曝拨款支持共和党候选人",
@@ -292,7 +348,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股期指涨跌不一 芯片股盘前走高 国际油价上涨 | 今夜看点",
@@ -313,7 +369,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时19分"
         },
@@ -433,13 +489,24 @@
           "time_info": "00时15分"
         },
         {
+          "title": "美股期货走低，纳斯达克100指数期货跌超1%，标普500指数期货跌0.5%，道指期货跌0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3150885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
           "title": "贝达药业20CM跌停，EyePoint美股隔夜大跌67%，伏罗尼布wAMD三期临床失败，贝达药业拥有大中华区权益。",
           "url": "https://flash.jin10.com/detail/20260818093924026800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时19分"
         },
@@ -458,8 +525,20 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "一签赚55万，A股诞生新纪录",
+          "url": "https://www.cls.cn/detail/2456739",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时19分 ~ 15时29分]"
+        },
         {
           "title": "A股半导体板块早盘拉升，立昂微直线涨停，优迅股份、有研硅、西安奕材涨超10%，上海合晶、沪硅产业、有研新材跟涨。",
           "url": "https://wallstreetcn.com/livenews/3150784",
@@ -467,20 +546,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时19分"
         },
         {
-          "title": "一签赚55万，A股诞生新纪录",
-          "url": "https://www.cls.cn/detail/2456739",
-          "source": "财联社热门",
+          "title": "A股收盘：北证50指数涨2.67%，农业股集体爆发",
+          "url": "https://wallstreetcn.com/livenews/3150920",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时19分"
+          "time_info": "15时29分"
         },
         {
           "title": "A股房地产板块短线走低，深深房A跌超7%，京投发展、市北高新、华联控股、沙河股份等跟跌。",
@@ -489,7 +568,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时19分"
         },
@@ -500,7 +579,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时19分"
         },
@@ -511,7 +590,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时19分"
         },
@@ -527,13 +606,24 @@
           "time_info": "08时36分"
         },
         {
+          "title": "A股收评：创业板指收跌0.92% 粮食概念批量涨停",
+          "url": "https://flash.jin10.com/detail/20260818150416641800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
           "title": "A股印制电路板板块短线拉升，博敏电子涨停，金禄电子涨超15%，依顿电子、景旺电子、贤丰控股、骏亚科技、兴森科技等跟涨。",
           "url": "https://flash.jin10.com/detail/20260818094010249800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时19分"
         },
@@ -544,7 +634,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时19分"
         },
@@ -566,7 +656,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时19分"
         },
@@ -577,7 +667,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时19分"
         }
@@ -585,7 +675,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
@@ -606,8 +696,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时35分 ~ 10时19分]"
+          "appearance_count": 4,
+          "time_info": "[08时35分 ~ 15时29分]"
         },
         {
           "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
@@ -620,6 +710,41 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时35分 ~ 10时19分]"
+        },
+        {
+          "title": "分析师：美债收益率飙升或冲击亚洲AI驱动的股市涨势",
+          "url": "https://flash.jin10.com/detail/20260818151904226800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
+          "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
+          "url": "https://wallstreetcn.com/articles/3779638",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时19分 ~ 15时29分]"
+        },
+        {
+          "title": "美债抛售潮加剧！30年期美债收益率创2007年以来最高",
+          "url": "https://www.cls.cn/detail/2456636",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时19分 ~ 15时29分]"
         },
         {
           "title": "地产ETF、长端美债ETF收跌超0.8%，领跌美股大类资产类ETF",
@@ -658,17 +783,6 @@
           "time_info": "[05时37分 ~ 06时37分]"
         },
         {
-          "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
-          "url": "https://wallstreetcn.com/articles/3779638",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时19分"
-        },
-        {
           "title": "新闻交易员：美债收益率飙升，不只是债市发脾气",
           "url": "https://flash.jin10.com/detail/20260818080529885800",
           "source": "金十数据",
@@ -678,17 +792,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时36分"
-        },
-        {
-          "title": "美债抛售潮加剧！30年期美债收益率创2007年以来最高",
-          "url": "https://www.cls.cn/detail/2456636",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时19分"
         },
         {
           "title": "汇丰：美联储缩减持仓将使美债只能依赖价格敏感型买家",
@@ -725,7 +828,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时19分"
         },
@@ -740,6 +843,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时37分 ~ 06时37分]"
+        },
+        {
+          "title": "印度航空又有两名飞行员涉嫌“毒驾”",
+          "url": "https://news.ifeng.com/c/8vfhkZkglgH",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时19分 ~ 15时29分]"
         },
         {
           "title": "美国国家航空航天局（NASA）：蓝色起源、Firefly Aerospace、L3Harris在提供（航天）载荷处理服务（的合同竞标）中脱颖而出。",
@@ -764,17 +878,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时37分 ~ 06时37分]"
-        },
-        {
-          "title": "印度航空又有两名飞行员涉嫌“毒驾”",
-          "url": "https://news.ifeng.com/c/8vfhkZkglgH",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时19分"
         }
       ]
     },
@@ -801,7 +904,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时19分"
         },
@@ -812,9 +915,50 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "国际金价涨0.9%，白银涨1.7%",
+          "url": "https://wallstreetcn.com/livenews/3150688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时37分]"
+        },
+        {
+          "title": "金价回调半年抛压基本释放",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%9B%9E%E8%B0%83%E5%8D%8A%E5%B9%B4%E6%8A%9B%E5%8E%8B%E5%9F%BA%E6%9C%AC%E9%87%8A%E6%94%BE%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 06时37分]"
+        },
+        {
+          "title": "金十图示：2026年08月18日（周二）上海金午盘价为953.88元/克，较国际金价(954.04元/克)，低0.16元/克",
+          "url": "https://flash.jin10.com/detail/20260818150157930800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         }
       ]
     },
@@ -847,36 +991,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国际金价涨0.9%，白银涨1.7%",
-          "url": "https://wallstreetcn.com/livenews/3150688",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时37分 ~ 06时37分]"
-        },
-        {
-          "title": "金价回调半年抛压基本释放",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%9B%9E%E8%B0%83%E5%8D%8A%E5%B9%B4%E6%8A%9B%E5%8E%8B%E5%9F%BA%E6%9C%AC%E9%87%8A%E6%94%BE%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 06时37分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
@@ -888,8 +1002,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时35分 ~ 10时19分]"
+          "appearance_count": 4,
+          "time_info": "[08时35分 ~ 15时29分]"
         }
       ]
     },
