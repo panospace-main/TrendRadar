@@ -1,160 +1,199 @@
 {
-  "generated_at": "2026-08-19T08:53:17.939325+08:00",
+  "generated_at": "2026-08-20T16:25:00.393845+08:00",
   "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 8,
       "titles": [
         {
-          "title": "特朗普发布地图，将霍尔木兹海峡划为“美国新领土”",
-          "url": "https://news.ifeng.com/c/8vhHYZ5eOge",
+          "title": "特朗普称将于11月同金正恩会晤，外交部回应",
+          "url": "https://news.ifeng.com/c/8vkEJXjR9MI",
           "source": "凤凰网",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
         },
         {
-          "title": "罕见公开说“不”！内塔尼亚胡为何硬刚特朗普？",
-          "url": "https://news.ifeng.com/c/8vhArHdu44B",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "特朗普的“相扑手”，会走上白宫讲台吗？",
-          "url": "https://news.ifeng.com/c/8vhELdiMK92",
-          "source": "凤凰网",
+          "title": "中方回应“特朗普称将同金正恩会晤”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%90%8C%E9%87%91%E6%AD%A3%E6%81%A9%E4%BC%9A%E6%99%A4%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
         },
         {
-          "title": "特朗普声称目前和未来不会与伊朗会谈，秀地图标注霍尔木兹为“美国新领土”",
-          "url": "https://wallstreetcn.com/articles/3779720",
-          "source": "华尔街见闻",
+          "title": "特朗普：金正恩不喜欢奥巴马，不喜欢拜登，只喜欢我",
+          "url": "https://v.ifeng.com/c/8vjvzoGPbiN",
+          "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
         },
         {
-          "title": "特朗普反复要求CNN记者别吵：“假新闻，你闭嘴”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33803619",
+          "title": "华尔街怎么看美财政部意外出手？变种QT来了，又一次“特朗普看跌期权”，沃什控通胀麻烦了",
+          "url": "https://wallstreetcn.com/articles/3779827",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
+        },
+        {
+          "title": "特朗普宣布：对伊朗采取“史上最严厉经济行动”！",
+          "url": "https://www.cls.cn/detail/2458955",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
+        },
+        {
+          "title": "警报拉响！美国联邦政府债务首破40万亿美元 特朗普淡化担忧",
+          "url": "https://www.cls.cn/detail/2458963",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
+        },
+        {
+          "title": "特朗普宣布对伊朗采取“史上最严厉经济行动”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33815315",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
         },
         {
-          "title": "专家：特朗普示好朝鲜施压韩国",
-          "url": "https://www.toutiao.com/trending/7675308515237707819/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "特朗普要求谈判团队暂停与伊朗接触",
-          "url": "https://www.toutiao.com/trending/7675509930534637119/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "特朗普与万斯分歧藏不住了吗",
-          "url": "https://www.toutiao.com/trending/7675398229365624330/",
+          "title": "特朗普宣布对伊朗发起空前经济战",
+          "url": "https://www.toutiao.com/trending/7675885516922818089/",
           "source": "今日头条",
           "ranks": [
             28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 5,
+      "titles": [
         {
-          "title": "美官员：特朗普要求谈判团队暂停与伊朗接触",
-          "url": "https://wallstreetcn.com/livenews/3151364",
-          "source": "华尔街见闻-快讯",
+          "title": "长期美债收益率应声下跌！美财政部将长债回购上限提高至少一倍",
+          "url": "https://wallstreetcn.com/articles/3779819",
+          "source": "华尔街见闻",
           "ranks": [
-            30
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
+        },
+        {
+          "title": "以“索罗斯风格”来救美债！从汇率管到利率，贝森特能赢市场吗？",
+          "url": "https://wallstreetcn.com/articles/3779843",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
+        },
+        {
+          "title": "当“索罗斯门徒”铁了心稳美债：贝森特正化身美国首席债券交易员？",
+          "url": "https://www.cls.cn/detail/2459142",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
+        },
+        {
+          "title": "如何看待美国出手救美债",
+          "url": "https://www.toutiao.com/trending/7675981539355659785/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
+        },
+        {
+          "title": "破40万亿 狂飙美债对全球意味什么",
+          "url": "https://www.baidu.com/s?wd=%E7%A0%B440%E4%B8%87%E4%BA%BF+%E7%8B%82%E9%A3%99%E7%BE%8E%E5%80%BA%E5%AF%B9%E5%85%A8%E7%90%83%E6%84%8F%E5%91%B3%E4%BB%80%E4%B9%88",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
         {
-          "title": "债市风暴持续，美股指三连跌，泛欧股指五连跌，美芯片指数重挫5%，原油三连涨",
-          "url": "https://wallstreetcn.com/articles/3779677",
+          "title": "美国财政部出手救长债！美股终结三连跌，Moderna暴涨177%，黄金、加密货币大涨",
+          "url": "https://wallstreetcn.com/articles/3779750",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
         },
         {
-          "title": "【早报】美股存储、光通信板块大幅回落；原油上涨、黄金走低；宇树科技今日上市",
-          "url": "https://www.cls.cn/detail/2457709",
+          "title": "8月20日投资避雷针：美股存储、光通信板块继续下挫 闪迪跌3.5%",
+          "url": "https://www.cls.cn/detail/2458966",
           "source": "财联社热门",
           "ranks": [
-            1
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
         },
         {
-          "title": "美股收盘：AI牛股集体重挫 医药、红利、软件板块轮动走强",
-          "url": "https://www.cls.cn/detail/2457697",
-          "source": "财联社热门",
+          "title": "美股盘前，存储芯片股普涨，SK海力士涨约5%，闪迪涨约3%，西部数据涨约2%，美光科技涨约2%，希捷科技涨约2%。",
+          "url": "https://wallstreetcn.com/livenews/3152199",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "美股三大股指全线收跌",
-          "url": "https://www.douyin.com/hot/2614994",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
+          "time_info": "16时25分"
         }
       ]
     },
@@ -163,54 +202,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "日本6月核心机械订单环比 9.7%，预期 7.2%，前值 -12.4%。",
-          "url": "https://wallstreetcn.com/livenews/3151379",
-          "source": "华尔街见闻-快讯",
+          "title": "乌克兰农业部长：农民因出口困难，2027年收成将面临大面积不播种的重大风险。",
+          "url": "https://flash.jin10.com/detail/20260820161046910800",
+          "source": "金十数据",
           "ranks": [
-            15
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时53分"
+          "time_info": "16时25分"
         },
         {
-          "title": "日本6月核心机械订单同比 16.9%，预期 9.6%，前值 -1.9%。",
-          "url": "https://wallstreetcn.com/livenews/3151378",
-          "source": "华尔街见闻-快讯",
+          "title": "乌克兰农业部长：由于黑海地区供应短缺，全球小麦价格可能每吨上涨80美元。",
+          "url": "https://flash.jin10.com/detail/20260820160722066800",
+          "source": "金十数据",
           "ranks": [
-            16
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "25 年来最贵美债横空出世，美联储没加息，市场却完成一轮「被动加息」，有何影响？美债收益率为何飙升？",
-          "url": "https://www.zhihu.com/question/2072027645802452564",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "油价与通胀担忧推升美债收益率 美股三大期指集体走低 芯片股回调 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2457477",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
+          "time_info": "16时25分"
         }
       ]
     },
@@ -219,15 +230,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "资金加速涌向硬科技赛道，A股并购重组聚焦“补链强链”",
-          "url": "https://wallstreetcn.com/livenews/3151365",
-          "source": "华尔街见闻-快讯",
+          "title": "A股收盘：全市场近4100只个股上涨",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E5%85%A8%E5%B8%82%E5%9C%BA%E8%BF%914100%E5%8F%AA%E4%B8%AA%E8%82%A1%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
           "ranks": [
-            29
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
         }
       ]
     },
@@ -236,15 +247,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "朱雀三号成功回收，我国首次实现火箭陆地回收，这一突破对我国航天意味着什么？",
-          "url": "https://www.zhihu.com/question/2073315140213150893",
-          "source": "知乎",
+          "title": "火箭自己走回家,中国航天封神",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358754&amp;topic_name=%E7%81%AB%E7%AE%AD%E8%87%AA%E5%B7%B1%E8%B5%B0%E5%9B%9E%E5%AE%B6%2C%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%B0%81%E7%A5%9E",
+          "source": "贴吧",
           "ranks": [
-            2
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
         }
       ]
     }
